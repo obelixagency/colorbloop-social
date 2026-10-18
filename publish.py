@@ -217,7 +217,7 @@ def publish_youtube_short(path, caption):
     token = _yt_access_token()
     title = ((caption.splitlines()[0] if caption else "Colorbloop").strip()[:95] + " #Shorts")
     metadata = {
-        "snippet": {"title": title, "description": caption, "categoryId": "22"},
+        "snippet": {"title": title, "description": caption, "categoryId": "27", "tags": ["coloring book", "kids activities", "preschool", "Colorbloop"]},
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False},
     }
     boundary = "colorbloop_upload_boundary"

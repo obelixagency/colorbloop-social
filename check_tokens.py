@@ -13,5 +13,18 @@ ok &= i.get("username") == "color.bloop"
 d = requests.get(f"{G}/debug_token", params={"input_token": tok, "access_token": tok}).json().get("data", {})
 print("Type:", d.get("type"), "| expires_at:", d.get("expires_at"), "(0 = never) | scopes:", ",".join(d.get("scopes", [])))
 ok &= d.get("expires_at", 1) == 0
+if os.environ.get("YT_REFRESH_TOKEN"):
+    t = requests.post("https://oauth2.googleapis.com/token", data={"client_id": os.environ["YT_CLIENT_ID"],
+        "client_secret": os.environ["YT_CLIENT_SECRET"], "grant_type": "refresh_token",
+        "refresh_token": os.environ["YT_REFRESH_TOKEN"]}).json()
+    if "access_token" in t:
+        ch = requests.get("https://www.googleapis.com/youtube/v3/channels", params={"part": "snippet", "mine": "true"},
+                          headers={"Authorization": "Bearer " + t["access_token"]}).json().get("items", [{}])[0]
+        print("YouTube:", ch.get("snippet", {}).get("title"), ch.get("snippet", {}).get("customUrl"), ch.get("id"))
+        ok &= ch.get("id") == os.environ.get("YT_CHANNEL_ID")
+    else:
+        print("YouTube token error:", t); ok = False
+else:
+    print("YouTube: not connected yet")
 print("RESULT:", "ALL GOOD" if ok else "PROBLEM")
 sys.exit(0 if ok else 1)

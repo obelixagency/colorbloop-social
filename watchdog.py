@@ -21,7 +21,7 @@ PLAN_START = dt.date(2026, 10, 19)   # the date calendar.json was written agains
 PLATFORMS = {
     "post": ["instagram_post", "facebook_post"],
     "carousel": ["instagram_carousel", "facebook_carousel"],
-    "reel": ["instagram_reel", "facebook_reel", "instagram_story", "facebook_story"],
+    "reel": ["instagram_reel", "facebook_reel", "youtube_short", "instagram_story", "facebook_story"],
     "story": ["instagram_story", "facebook_story"],
 }
 ENABLED = set(os.environ.get("PLATFORMS", "instagram,facebook").split(","))
@@ -45,7 +45,7 @@ def caption_for(entry, links, platform):
     etsy = link_for(links, "etsy:" + c["link_key"].split(":", 1)[1]) if (c.get("link_key") or "").startswith("amazon:") else ""
     if c.get("link_key") and not url:
         cta = "Coming soon! Follow @color.bloop so you don't miss it."
-    elif platform.startswith("facebook") and url:
+    elif (platform.startswith("facebook") or platform.startswith("youtube")) and url:
         cta = f"📚 Get it here: {url}" + (f"\n🖨️ Printable PDF on Etsy: {etsy}" if etsy else "")
     elif url:
         cta = "📚 Tap the link in our bio to get it!"
