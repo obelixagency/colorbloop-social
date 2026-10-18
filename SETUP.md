@@ -26,7 +26,7 @@ Settings ← Secrets and variables ← Actions ← New repository secret:
 | Secret | القيمة |
 |---|---|
 | `FB_PAGE_ID` | `1418685554653190` (صفحة Colorbloop) |
-| `IG_USER_ID` | ID حساب @color.bloop، وبيطلع من Graph API Explorer بالاستعلام ده: `me/accounts?fields=name,instagram_business_account` |
+| `IG_USER_ID` | `17841473038668312` (@color.bloop) |
 | `FB_PAGE_TOKEN` | Page token دائم لصفحة Colorbloop، وبيتعمل بنفس خطوات Unshaken |
 
 ## 4) البايو (من غير موقع)
