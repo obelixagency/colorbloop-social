@@ -29,6 +29,9 @@ Settings ← Secrets and variables ← Actions ← New repository secret:
 | `IG_USER_ID` | `17841473038668312` (@color.bloop) |
 | `FB_PAGE_TOKEN` | Page token دائم لصفحة Colorbloop، وبيتعمل بنفس خطوات Unshaken |
 
+**يوتيوب (✅ متوصل):** مشروع Google Cloud اسمه `colorbloop-automation` (حالته Production)، وفيه 4 أسرار: `YT_CLIENT_ID` و`YT_CLIENT_SECRET` و`YT_REFRESH_TOKEN` و`YT_CHANNEL_ID` (`UC12ArjNzd_Jdbn5_I-_ZYVQ`). أي ريل بيتنشر بينزل كمان Short على @Colorbloopbooks.
+**فحص الاتصال:** من Actions ← Check Meta connection ← Run workflow. الفحص ده ما بينشرش أي حاجة.
+
 ## 4) البايو (من غير موقع)
 - مفيش موقع ومفيش أي لينك github.io قدام الناس. ريبو `colorbloop-media` بيشيل الصور بس، لأن API انستجرام محتاج لينك عام للصورة، والعنوان ده ما بيظهرش لحد.
 - **لينك البايو في انستجرام** = لينك أمازون لأول كتاب يتقبل. وبعد Author Central نغيّره لصفحة المؤلف على أمازون (`amazon.com/author/...`)، اللي فيها كل الكتب.
