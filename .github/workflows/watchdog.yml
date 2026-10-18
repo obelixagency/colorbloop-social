@@ -30,5 +30,5 @@ jobs:
         if: always()
         run: |
           git config user.name "colorbloop-bot"; git config user.email "bot@users.noreply.github.com"
-          [ -f publish_log.json ] && git add publish_log.json
+          if [ -f publish_log.json ]; then git add publish_log.json; fi
           if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "watchdog: $(date -u +%F\ %H:%M)" && git push; fi
