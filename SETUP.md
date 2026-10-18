@@ -18,18 +18,16 @@
 - خطوات الـ **Page Token** الدائم هي نفسها اللي عملناها في Unshaken: Graph API Explorer، وبعدها long-lived user token، وبعدها `/me/accounts` تاخد منه توكن الصفحة.
 - `IG_USER_ID` بتجيبه من: `GET /{page-id}?fields=instagram_business_account`
 
-## 2) الريبوهين (على obelixagency)
-1. `colorbloop-social`: **Private**، وده فيه الملفات دي كلها.
-2. `colorbloop-media`: **Public**، وفاضي. فعّل فيه **GitHub Pages** من Settings، ثم Pages، ثم Branch: `main` / root.
+## 2) الريبو (✅ اتعمل)
+`obelixagency/colorbloop-social` **Public**، و GitHub Pages شغال على `main`. الصور بتطلع من هنا، ومفيش أي سر محفوظ في الملفات.
 
-## 3) الـ Secrets في colorbloop-social
+## 3) الـ Secrets (المتبقي الوحيد)
 Settings ← Secrets and variables ← Actions ← New repository secret:
 | Secret | القيمة |
 |---|---|
-| `FB_PAGE_ID` | ID صفحة Colorbloop |
-| `FB_PAGE_TOKEN` | Page token الدائم |
-| `IG_USER_ID` | ID حساب انستجرام البيزنس |
-| `MEDIA_REPO_TOKEN` | Personal access token فيه صلاحية `contents:write` على `colorbloop-media`، وينفع تستخدم نفس توكن Unshaken لو بيغطي الريبو الجديد |
+| `FB_PAGE_ID` | `1418685554653190` (صفحة Colorbloop) |
+| `IG_USER_ID` | ID حساب @color.bloop، وبيطلع من Graph API Explorer بالاستعلام ده: `me/accounts?fields=name,instagram_business_account` |
+| `FB_PAGE_TOKEN` | Page token دائم لصفحة Colorbloop، وبيتعمل بنفس خطوات Unshaken |
 
 ## 4) البايو (من غير موقع)
 - مفيش موقع ومفيش أي لينك github.io قدام الناس. ريبو `colorbloop-media` بيشيل الصور بس، لأن API انستجرام محتاج لينك عام للصورة، والعنوان ده ما بيظهرش لحد.
