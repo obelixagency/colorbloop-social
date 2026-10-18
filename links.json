@@ -1,5 +1,5 @@
 {
-  "_note": "Paste each book's Amazon link once it is live. Nothing is posted until the FIRST Amazon link is added; that day becomes launch day and the 4-week calendar starts from it automatically. Instagram bio link = an Amazon link (later the Amazon author page).",
+  "_note": "Paste each book's Amazon link once it is live. Nothing is posted until the FIRST Amazon link is added (that day = launch day for the brand posts). Each book's own posts start from the day ITS link is added (per-book plan in calendar.json). Instagram bio link = an Amazon link (later the Amazon author page).",
   "amazon": {
     "xmas_activity": "",
     "abc": "",
@@ -7,7 +7,20 @@
     "thanksgiving": "",
     "numbers": "",
     "shapes": "",
-    "preschool": ""
+    "preschool": "",
+    "animals": "",
+    "kindergarten": "",
+    "dinosaurs": "",
+    "vehicles": "",
+    "unicorns": "",
+    "scissors": "",
+    "sightwords": "",
+    "handwriting": "",
+    "cursive": "",
+    "space": "",
+    "feelings": "",
+    "valentines": "",
+    "easter": ""
   },
   "etsy": {
     "xmas_activity": "",
@@ -17,6 +30,19 @@
     "numbers": "",
     "shapes": "",
     "preschool": "",
+    "animals": "",
+    "kindergarten": "",
+    "dinosaurs": "",
+    "vehicles": "",
+    "unicorns": "",
+    "scissors": "",
+    "sightwords": "",
+    "handwriting": "",
+    "cursive": "",
+    "space": "",
+    "feelings": "",
+    "valentines": "",
+    "easter": "",
     "shop": ""
   },
   "socials": {

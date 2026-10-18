@@ -39,29 +39,6 @@
   "requires_link": null
  },
  {
-  "id": "launch_xmas_activity_story",
-  "when_et": "2026-10-22 18:00",
-  "kind": "story",
-  "files": [
-   "story_xmas_activity.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:xmas_activity"
- },
- {
-  "id": "launch_xmas_activity_reel",
-  "when_et": "2026-10-22 19:30",
-  "kind": "reel",
-  "files": [
-   "reel_xmas_activity.mp4"
-  ],
-  "caption": {
-   "text": "NEW: Christmas Activity Book 🎄 34 fun pages for ages 3–6 — coloring, mazes, tracing, dot-to-dot, counting and more. A merry way to keep little hands busy all December!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
-   "link_key": "amazon:xmas_activity"
-  },
-  "requires_link": "amazon:xmas_activity"
- },
- {
   "id": "2026-10-23_1000_post",
   "when_et": "2026-10-23 10:00",
   "kind": "post",
@@ -75,168 +52,17 @@
   "requires_link": null
  },
  {
-  "id": "launch_abc_story",
-  "when_et": "2026-10-23 18:00",
-  "kind": "story",
-  "files": [
-   "story_abc.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:abc"
- },
- {
-  "id": "launch_abc_reel",
-  "when_et": "2026-10-23 19:30",
+  "id": "brand_tips_reel",
+  "when_et": "2026-10-27 19:30",
   "kind": "reel",
   "files": [
-   "reel_abc.mp4"
+   "reel_brand_tips.mp4"
   ],
   "caption": {
-   "text": "NEW: ABC Coloring & Tracing Book 🍎🐝🐱 26 big letter pages — color a friendly picture, then trace uppercase and lowercase letters. Perfect for preschool & pre-K!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
-   "link_key": "amazon:abc"
+   "text": "3 coloring tips for toddlers 🖍️\n1. Go big & simple: chunky crayons + big pictures\n2. Keep it short: 5–10 minutes is plenty\n3. Praise the effort, not the lines!\n\nSave this for your next coloring time 💛\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": null
   },
-  "requires_link": "amazon:abc"
- },
- {
-  "id": "launch_xmas_activity_carousel",
-  "when_et": "2026-10-24 10:00",
-  "kind": "carousel",
-  "files": [
-   "car_xmas_activity_1.jpg",
-   "car_xmas_activity_2.jpg",
-   "car_xmas_activity_3.jpg",
-   "car_xmas_activity_4.jpg",
-   "car_xmas_activity_5.jpg"
-  ],
-  "caption": {
-   "text": "NEW: Christmas Activity Book 🎄 34 fun pages for ages 3–6 — coloring, mazes, tracing, dot-to-dot, counting and more. A merry way to keep little hands busy all December!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
-   "link_key": "amazon:xmas_activity"
-  },
-  "requires_link": "amazon:xmas_activity"
- },
- {
-  "id": "xmas_activity_peek1",
-  "when_et": "2026-10-24 18:00",
-  "kind": "story",
-  "files": [
-   "story_xmas_activity_p1.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:xmas_activity"
- },
- {
-  "id": "launch_abc_carousel",
-  "when_et": "2026-10-25 10:00",
-  "kind": "carousel",
-  "files": [
-   "car_abc_1.jpg",
-   "car_abc_2.jpg",
-   "car_abc_3.jpg",
-   "car_abc_4.jpg",
-   "car_abc_5.jpg"
-  ],
-  "caption": {
-   "text": "NEW: ABC Coloring & Tracing Book 🍎🐝🐱 26 big letter pages — color a friendly picture, then trace uppercase and lowercase letters. Perfect for preschool & pre-K!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
-   "link_key": "amazon:abc"
-  },
-  "requires_link": "amazon:abc"
- },
- {
-  "id": "abc_peek1",
-  "when_et": "2026-10-25 18:00",
-  "kind": "story",
-  "files": [
-   "story_abc_p1.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:abc"
- },
- {
-  "id": "xmas_activity_peek2",
-  "when_et": "2026-10-26 18:00",
-  "kind": "story",
-  "files": [
-   "story_xmas_activity_p2.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:xmas_activity"
- },
- {
-  "id": "abc_peek2",
-  "when_et": "2026-10-27 18:00",
-  "kind": "story",
-  "files": [
-   "story_abc_p2.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:abc"
- },
- {
-  "id": "launch_xmas_coloring_carousel",
-  "when_et": "2026-10-28 10:00",
-  "kind": "carousel",
-  "files": [
-   "car_xmas_coloring_1.jpg",
-   "car_xmas_coloring_2.jpg",
-   "car_xmas_coloring_3.jpg",
-   "car_xmas_coloring_4.jpg",
-   "car_xmas_coloring_5.jpg"
-  ],
-  "caption": {
-   "text": "NEW: Big & Easy Christmas Coloring Book 🎅 32 simple holiday pictures with thick lines, made for toddlers ages 2–5. The perfect stocking stuffer!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
-   "link_key": "amazon:xmas_coloring"
-  },
-  "requires_link": "amazon:xmas_coloring"
- },
- {
-  "id": "launch_xmas_coloring_story",
-  "when_et": "2026-10-28 18:00",
-  "kind": "story",
-  "files": [
-   "story_xmas_coloring.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:xmas_coloring"
- },
- {
-  "id": "launch_thanksgiving_carousel",
-  "when_et": "2026-10-29 10:00",
-  "kind": "carousel",
-  "files": [
-   "car_thanksgiving_1.jpg",
-   "car_thanksgiving_2.jpg",
-   "car_thanksgiving_3.jpg",
-   "car_thanksgiving_4.jpg",
-   "car_thanksgiving_5.jpg"
-  ],
-  "caption": {
-   "text": "NEW: Thanksgiving Coloring Book 🦃 24 big fall pictures — turkeys, pumpkins, pies and cute autumn animals. Keep the kids' table happy this Thanksgiving!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #thanksgivingkids #fallactivities #thanksgivingcrafts",
-   "link_key": "amazon:thanksgiving"
-  },
-  "requires_link": "amazon:thanksgiving"
- },
- {
-  "id": "launch_thanksgiving_story",
-  "when_et": "2026-10-29 18:00",
-  "kind": "story",
-  "files": [
-   "story_thanksgiving.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:thanksgiving"
- },
- {
-  "id": "launch_xmas_coloring_reel",
-  "when_et": "2026-10-29 19:30",
-  "kind": "reel",
-  "files": [
-   "reel_xmas_coloring.mp4"
-  ],
-  "caption": {
-   "text": "NEW: Big & Easy Christmas Coloring Book 🎅 32 simple holiday pictures with thick lines, made for toddlers ages 2–5. The perfect stocking stuffer!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
-   "link_key": "amazon:xmas_coloring"
-  },
-  "requires_link": "amazon:xmas_coloring"
+  "requires_link": null
  },
  {
   "id": "2026-10-30_1000_post",
@@ -252,8 +78,354 @@
   "requires_link": null
  },
  {
+  "id": "brand_guess_reel",
+  "when_et": "2026-11-03 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_brand_guess.mp4"
+  ],
+  "caption": {
+   "text": "Guess who? 👀 Can your little one name all 3 shadows before the reveal? Tell us how many they got!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #animalcoloring #jumbocoloringbook #toddlercoloring",
+   "link_key": null
+  },
+  "requires_link": null
+ },
+ {
+  "id": "brand_beforeafter_reel",
+  "when_et": "2026-11-08 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_brand_beforeafter.mp4"
+  ],
+  "caption": {
+   "text": "Before & After 🎨 Line art to full color in seconds. Which one is your favorite: 1, 2, 3 or 4?\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool",
+   "link_key": null
+  },
+  "requires_link": null
+ },
+ {
+  "id": "brand_benefits_reel",
+  "when_et": "2026-11-13 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_brand_benefits.mp4"
+  ],
+  "caption": {
+   "text": "Why coloring is so good for kids ✏️ Pencil grip, focus, colors & shapes, calm, and a big dose of pride. Save & share with a parent friend!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": null
+  },
+  "requires_link": null
+ },
+ {
+  "id": "launch_xmas_activity_story",
+  "kind": "story",
+  "files": [
+   "story_xmas_activity.jpg"
+  ],
+  "caption": null,
+  "book": "xmas_activity",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_xmas_activity_reel",
+  "kind": "reel",
+  "files": [
+   "reel_xmas_activity.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Christmas Activity Book 🎄 34 fun pages for ages 3–6 — coloring, mazes, tracing, dot-to-dot, counting and more. A merry way to keep little hands busy all December!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_activity"
+  },
+  "book": "xmas_activity",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_xmas_activity_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_xmas_activity_1.jpg",
+   "car_xmas_activity_2.jpg",
+   "car_xmas_activity_3.jpg",
+   "car_xmas_activity_4.jpg",
+   "car_xmas_activity_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Christmas Activity Book 🎄 34 fun pages for ages 3–6 — coloring, mazes, tracing, dot-to-dot, counting and more. A merry way to keep little hands busy all December!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_activity"
+  },
+  "book": "xmas_activity",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "xmas_activity_peek1",
+  "kind": "story",
+  "files": [
+   "story_xmas_activity_p1.jpg"
+  ],
+  "caption": null,
+  "book": "xmas_activity",
+  "day": 2,
+  "time": "18:00"
+ },
+ {
+  "id": "xmas_activity_peek2",
+  "kind": "story",
+  "files": [
+   "story_xmas_activity_p2.jpg"
+  ],
+  "caption": null,
+  "book": "xmas_activity",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "xmas_activity_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_xmas_activity_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Christmas Activity Book 🎄 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_activity"
+  },
+  "book": "xmas_activity",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "xmas_activity_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_xmas_activity_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Christmas Activity Book 🎄. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_activity"
+  },
+  "book": "xmas_activity",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_abc_story",
+  "kind": "story",
+  "files": [
+   "story_abc.jpg"
+  ],
+  "caption": null,
+  "book": "abc",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_abc_reel",
+  "kind": "reel",
+  "files": [
+   "reel_abc.mp4"
+  ],
+  "caption": {
+   "text": "NEW: ABC Coloring & Tracing Book 🍎🐝🐱 26 big letter pages — color a friendly picture, then trace uppercase and lowercase letters. Perfect for preschool & pre-K!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:abc"
+  },
+  "book": "abc",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_abc_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_abc_1.jpg",
+   "car_abc_2.jpg",
+   "car_abc_3.jpg",
+   "car_abc_4.jpg",
+   "car_abc_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: ABC Coloring & Tracing Book 🍎🐝🐱 26 big letter pages — color a friendly picture, then trace uppercase and lowercase letters. Perfect for preschool & pre-K!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:abc"
+  },
+  "book": "abc",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "abc_peek1",
+  "kind": "story",
+  "files": [
+   "story_abc_p1.jpg"
+  ],
+  "caption": null,
+  "book": "abc",
+  "day": 2,
+  "time": "18:00"
+ },
+ {
+  "id": "abc_peek2",
+  "kind": "story",
+  "files": [
+   "story_abc_p2.jpg"
+  ],
+  "caption": null,
+  "book": "abc",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "abc_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_abc_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the ABC Coloring & Tracing Book 🍎 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:abc"
+  },
+  "book": "abc",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "abc_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_abc_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our ABC Coloring & Tracing Book 🍎. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:abc"
+  },
+  "book": "abc",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_xmas_coloring_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_xmas_coloring_1.jpg",
+   "car_xmas_coloring_2.jpg",
+   "car_xmas_coloring_3.jpg",
+   "car_xmas_coloring_4.jpg",
+   "car_xmas_coloring_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Big & Easy Christmas Coloring Book 🎅 32 simple holiday pictures with thick lines, made for toddlers ages 2–5. The perfect stocking stuffer!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_coloring"
+  },
+  "book": "xmas_coloring",
+  "day": 0,
+  "time": "10:00"
+ },
+ {
+  "id": "launch_xmas_coloring_story",
+  "kind": "story",
+  "files": [
+   "story_xmas_coloring.jpg"
+  ],
+  "caption": null,
+  "book": "xmas_coloring",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_xmas_coloring_reel",
+  "kind": "reel",
+  "files": [
+   "reel_xmas_coloring.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Big & Easy Christmas Coloring Book 🎅 32 simple holiday pictures with thick lines, made for toddlers ages 2–5. The perfect stocking stuffer!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_coloring"
+  },
+  "book": "xmas_coloring",
+  "day": 1,
+  "time": "19:30"
+ },
+ {
+  "id": "xmas_coloring_peek1",
+  "kind": "story",
+  "files": [
+   "story_xmas_coloring_p1.jpg"
+  ],
+  "caption": null,
+  "book": "xmas_coloring",
+  "day": 3,
+  "time": "18:00"
+ },
+ {
+  "id": "xmas_coloring_peek2",
+  "kind": "story",
+  "files": [
+   "story_xmas_coloring_p2.jpg"
+  ],
+  "caption": null,
+  "book": "xmas_coloring",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "xmas_coloring_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_xmas_coloring_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Big & Easy Christmas Coloring Book 🎅 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_coloring"
+  },
+  "book": "xmas_coloring",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "xmas_coloring_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_xmas_coloring_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Big & Easy Christmas Coloring Book 🎅. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #christmasactivities #christmascoloring #stockingstuffers #christmaskids",
+   "link_key": "amazon:xmas_coloring"
+  },
+  "book": "xmas_coloring",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_thanksgiving_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_thanksgiving_1.jpg",
+   "car_thanksgiving_2.jpg",
+   "car_thanksgiving_3.jpg",
+   "car_thanksgiving_4.jpg",
+   "car_thanksgiving_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Thanksgiving Coloring Book 🦃 24 big fall pictures — turkeys, pumpkins, pies and cute autumn animals. Keep the kids' table happy this Thanksgiving!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #thanksgivingkids #fallactivities #thanksgivingcrafts",
+   "link_key": "amazon:thanksgiving"
+  },
+  "book": "thanksgiving",
+  "day": 0,
+  "time": "10:00"
+ },
+ {
+  "id": "launch_thanksgiving_story",
+  "kind": "story",
+  "files": [
+   "story_thanksgiving.jpg"
+  ],
+  "caption": null,
+  "book": "thanksgiving",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
   "id": "launch_thanksgiving_reel",
-  "when_et": "2026-10-30 19:30",
   "kind": "reel",
   "files": [
    "reel_thanksgiving.mp4"
@@ -262,51 +434,62 @@
    "text": "NEW: Thanksgiving Coloring Book 🦃 24 big fall pictures — turkeys, pumpkins, pies and cute autumn animals. Keep the kids' table happy this Thanksgiving!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #thanksgivingkids #fallactivities #thanksgivingcrafts",
    "link_key": "amazon:thanksgiving"
   },
-  "requires_link": "amazon:thanksgiving"
- },
- {
-  "id": "xmas_coloring_peek1",
-  "when_et": "2026-10-31 18:00",
-  "kind": "story",
-  "files": [
-   "story_xmas_coloring_p1.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:xmas_coloring"
+  "book": "thanksgiving",
+  "day": 1,
+  "time": "19:30"
  },
  {
   "id": "thanksgiving_peek1",
-  "when_et": "2026-11-01 18:00",
   "kind": "story",
   "files": [
    "story_thanksgiving_p1.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:thanksgiving"
- },
- {
-  "id": "xmas_coloring_peek2",
-  "when_et": "2026-11-02 18:00",
-  "kind": "story",
-  "files": [
-   "story_xmas_coloring_p2.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:xmas_coloring"
+  "book": "thanksgiving",
+  "day": 3,
+  "time": "18:00"
  },
  {
   "id": "thanksgiving_peek2",
-  "when_et": "2026-11-03 18:00",
   "kind": "story",
   "files": [
    "story_thanksgiving_p2.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:thanksgiving"
+  "book": "thanksgiving",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "thanksgiving_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_thanksgiving_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Thanksgiving Coloring Book 🦃 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #thanksgivingkids #fallactivities #thanksgivingcrafts",
+   "link_key": "amazon:thanksgiving"
+  },
+  "book": "thanksgiving",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "thanksgiving_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_thanksgiving_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Thanksgiving Coloring Book 🦃. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #thanksgivingkids #fallactivities #thanksgivingcrafts",
+   "link_key": "amazon:thanksgiving"
+  },
+  "book": "thanksgiving",
+  "day": 16,
+  "time": "19:30"
  },
  {
   "id": "launch_numbers_carousel",
-  "when_et": "2026-11-04 10:00",
   "kind": "carousel",
   "files": [
    "car_numbers_1.jpg",
@@ -319,21 +502,87 @@
    "text": "NEW: Numbers 1–20 — Count, Color & Trace 🔢 Count the pictures, color them and trace each number. Practice pages, a number chart and a certificate included!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
    "link_key": "amazon:numbers"
   },
-  "requires_link": "amazon:numbers"
+  "book": "numbers",
+  "day": 0,
+  "time": "10:00"
  },
  {
   "id": "launch_numbers_story",
-  "when_et": "2026-11-04 18:00",
   "kind": "story",
   "files": [
    "story_numbers.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:numbers"
+  "book": "numbers",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_numbers_reel",
+  "kind": "reel",
+  "files": [
+   "reel_numbers.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Numbers 1–20 — Count, Color & Trace 🔢 Count the pictures, color them and trace each number. Practice pages, a number chart and a certificate included!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:numbers"
+  },
+  "book": "numbers",
+  "day": 1,
+  "time": "19:30"
+ },
+ {
+  "id": "numbers_peek1",
+  "kind": "story",
+  "files": [
+   "story_numbers_p1.jpg"
+  ],
+  "caption": null,
+  "book": "numbers",
+  "day": 3,
+  "time": "18:00"
+ },
+ {
+  "id": "numbers_peek2",
+  "kind": "story",
+  "files": [
+   "story_numbers_p2.jpg"
+  ],
+  "caption": null,
+  "book": "numbers",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "numbers_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_numbers_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Numbers 1–20: Count, Color & Trace 🔢 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:numbers"
+  },
+  "book": "numbers",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "numbers_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_numbers_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Numbers 1–20: Count, Color & Trace 🔢. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:numbers"
+  },
+  "book": "numbers",
+  "day": 16,
+  "time": "19:30"
  },
  {
   "id": "launch_shapes_carousel",
-  "when_et": "2026-11-05 10:00",
   "kind": "carousel",
   "files": [
    "car_shapes_1.jpg",
@@ -346,34 +595,23 @@
    "text": "NEW: Shapes & Colors Activity Book 🔺🟦 Trace 12 shapes, learn 11 colors and color cute pictures. Made for toddlers & preschoolers!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
    "link_key": "amazon:shapes"
   },
-  "requires_link": "amazon:shapes"
+  "book": "shapes",
+  "day": 0,
+  "time": "10:00"
  },
  {
   "id": "launch_shapes_story",
-  "when_et": "2026-11-05 18:00",
   "kind": "story",
   "files": [
    "story_shapes.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:shapes"
- },
- {
-  "id": "launch_numbers_reel",
-  "when_et": "2026-11-05 19:30",
-  "kind": "reel",
-  "files": [
-   "reel_numbers.mp4"
-  ],
-  "caption": {
-   "text": "NEW: Numbers 1–20 — Count, Color & Trace 🔢 Count the pictures, color them and trace each number. Practice pages, a number chart and a certificate included!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
-   "link_key": "amazon:numbers"
-  },
-  "requires_link": "amazon:numbers"
+  "book": "shapes",
+  "day": 0,
+  "time": "18:00"
  },
  {
   "id": "launch_shapes_reel",
-  "when_et": "2026-11-06 19:30",
   "kind": "reel",
   "files": [
    "reel_shapes.mp4"
@@ -382,51 +620,62 @@
    "text": "NEW: Shapes & Colors Activity Book 🔺🟦 Trace 12 shapes, learn 11 colors and color cute pictures. Made for toddlers & preschoolers!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
    "link_key": "amazon:shapes"
   },
-  "requires_link": "amazon:shapes"
- },
- {
-  "id": "numbers_peek1",
-  "when_et": "2026-11-07 18:00",
-  "kind": "story",
-  "files": [
-   "story_numbers_p1.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:numbers"
+  "book": "shapes",
+  "day": 1,
+  "time": "19:30"
  },
  {
   "id": "shapes_peek1",
-  "when_et": "2026-11-08 18:00",
   "kind": "story",
   "files": [
    "story_shapes_p1.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:shapes"
- },
- {
-  "id": "numbers_peek2",
-  "when_et": "2026-11-09 18:00",
-  "kind": "story",
-  "files": [
-   "story_numbers_p2.jpg"
-  ],
-  "caption": null,
-  "requires_link": "amazon:numbers"
+  "book": "shapes",
+  "day": 3,
+  "time": "18:00"
  },
  {
   "id": "shapes_peek2",
-  "when_et": "2026-11-10 18:00",
   "kind": "story",
   "files": [
    "story_shapes_p2.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:shapes"
+  "book": "shapes",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "shapes_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_shapes_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Shapes & Colors Activity Book 🔺 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:shapes"
+  },
+  "book": "shapes",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "shapes_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_shapes_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Shapes & Colors Activity Book 🔺. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:shapes"
+  },
+  "book": "shapes",
+  "day": 16,
+  "time": "19:30"
  },
  {
   "id": "launch_preschool_carousel",
-  "when_et": "2026-11-11 10:00",
   "kind": "carousel",
   "files": [
    "car_preschool_1.jpg",
@@ -439,21 +688,23 @@
    "text": "NEW: Preschool Workbook 3-in-1 📚 Letters, numbers, shapes & colors in one big 160+ page book. Everything for pre-K in one place!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
    "link_key": "amazon:preschool"
   },
-  "requires_link": "amazon:preschool"
+  "book": "preschool",
+  "day": 0,
+  "time": "10:00"
  },
  {
   "id": "launch_preschool_story",
-  "when_et": "2026-11-11 18:00",
   "kind": "story",
   "files": [
    "story_preschool.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:preschool"
+  "book": "preschool",
+  "day": 0,
+  "time": "18:00"
  },
  {
   "id": "launch_preschool_reel",
-  "when_et": "2026-11-12 19:30",
   "kind": "reel",
   "files": [
    "reel_preschool.mp4"
@@ -462,26 +713,1267 @@
    "text": "NEW: Preschool Workbook 3-in-1 📚 Letters, numbers, shapes & colors in one big 160+ page book. Everything for pre-K in one place!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
    "link_key": "amazon:preschool"
   },
-  "requires_link": "amazon:preschool"
+  "book": "preschool",
+  "day": 1,
+  "time": "19:30"
  },
  {
   "id": "preschool_peek1",
-  "when_et": "2026-11-14 18:00",
   "kind": "story",
   "files": [
    "story_preschool_p1.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:preschool"
+  "book": "preschool",
+  "day": 3,
+  "time": "18:00"
  },
  {
   "id": "preschool_peek2",
-  "when_et": "2026-11-16 18:00",
   "kind": "story",
   "files": [
    "story_preschool_p2.jpg"
   ],
   "caption": null,
-  "requires_link": "amazon:preschool"
+  "book": "preschool",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "preschool_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_preschool_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Preschool Workbook 3-in-1 📚 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:preschool"
+  },
+  "book": "preschool",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "preschool_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_preschool_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Preschool Workbook 3-in-1 📚. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:preschool"
+  },
+  "book": "preschool",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_animals_story",
+  "kind": "story",
+  "files": [
+   "story_animals.jpg"
+  ],
+  "caption": null,
+  "book": "animals",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_animals_reel",
+  "kind": "reel",
+  "files": [
+   "reel_animals.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Jumbo Animal Coloring Book 🦁🐮🐠 60 big, easy animals with thick lines — farm, safari, ocean, forest and pets. Made for toddlers ages 2–5!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #animalcoloring #jumbocoloringbook #toddlercoloring",
+   "link_key": "amazon:animals"
+  },
+  "book": "animals",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_animals_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_animals_1.jpg",
+   "car_animals_2.jpg",
+   "car_animals_3.jpg",
+   "car_animals_4.jpg",
+   "car_animals_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Jumbo Animal Coloring Book 🦁🐮🐠 60 big, easy animals with thick lines — farm, safari, ocean, forest and pets. Made for toddlers ages 2–5!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #animalcoloring #jumbocoloringbook #toddlercoloring",
+   "link_key": "amazon:animals"
+  },
+  "book": "animals",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "animals_peek1",
+  "kind": "story",
+  "files": [
+   "story_animals_p1.jpg"
+  ],
+  "caption": null,
+  "book": "animals",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "animals_peek2",
+  "kind": "story",
+  "files": [
+   "story_animals_p2.jpg"
+  ],
+  "caption": null,
+  "book": "animals",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "animals_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_animals_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Jumbo Animal Coloring Book 🦁 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #animalcoloring #jumbocoloringbook #toddlercoloring",
+   "link_key": "amazon:animals"
+  },
+  "book": "animals",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "animals_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_animals_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Jumbo Animal Coloring Book 🦁. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #animalcoloring #jumbocoloringbook #toddlercoloring",
+   "link_key": "amazon:animals"
+  },
+  "book": "animals",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_kindergarten_story",
+  "kind": "story",
+  "files": [
+   "story_kindergarten.jpg"
+  ],
+  "caption": null,
+  "book": "kindergarten",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_kindergarten_reel",
+  "kind": "reel",
+  "files": [
+   "reel_kindergarten.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Kindergarten Activity Book ✏️ 75 fun activities for ages 4–6 — mazes, dot-to-dot, tracing, counting, patterns and first sight words.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:kindergarten"
+  },
+  "book": "kindergarten",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_kindergarten_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_kindergarten_1.jpg",
+   "car_kindergarten_2.jpg",
+   "car_kindergarten_3.jpg",
+   "car_kindergarten_4.jpg",
+   "car_kindergarten_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Kindergarten Activity Book ✏️ 75 fun activities for ages 4–6 — mazes, dot-to-dot, tracing, counting, patterns and first sight words.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:kindergarten"
+  },
+  "book": "kindergarten",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "kindergarten_peek1",
+  "kind": "story",
+  "files": [
+   "story_kindergarten_p1.jpg"
+  ],
+  "caption": null,
+  "book": "kindergarten",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "kindergarten_peek2",
+  "kind": "story",
+  "files": [
+   "story_kindergarten_p2.jpg"
+  ],
+  "caption": null,
+  "book": "kindergarten",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "kindergarten_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_kindergarten_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Kindergarten Activity Book ✏️ with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:kindergarten"
+  },
+  "book": "kindergarten",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "kindergarten_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_kindergarten_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Kindergarten Activity Book ✏️. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:kindergarten"
+  },
+  "book": "kindergarten",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_dinosaurs_story",
+  "kind": "story",
+  "files": [
+   "story_dinosaurs.jpg"
+  ],
+  "caption": null,
+  "book": "dinosaurs",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_dinosaurs_reel",
+  "kind": "reel",
+  "files": [
+   "reel_dinosaurs.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Dinosaur Coloring Book 🦖 24 big, friendly dinos — T-Rex, triceratops, baby dinos hatching and even a dino astronaut. Ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #dinosaurcoloring #dinosaurlover #dinokids",
+   "link_key": "amazon:dinosaurs"
+  },
+  "book": "dinosaurs",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_dinosaurs_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_dinosaurs_1.jpg",
+   "car_dinosaurs_2.jpg",
+   "car_dinosaurs_3.jpg",
+   "car_dinosaurs_4.jpg",
+   "car_dinosaurs_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Dinosaur Coloring Book 🦖 24 big, friendly dinos — T-Rex, triceratops, baby dinos hatching and even a dino astronaut. Ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #dinosaurcoloring #dinosaurlover #dinokids",
+   "link_key": "amazon:dinosaurs"
+  },
+  "book": "dinosaurs",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "dinosaurs_peek1",
+  "kind": "story",
+  "files": [
+   "story_dinosaurs_p1.jpg"
+  ],
+  "caption": null,
+  "book": "dinosaurs",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "dinosaurs_peek2",
+  "kind": "story",
+  "files": [
+   "story_dinosaurs_p2.jpg"
+  ],
+  "caption": null,
+  "book": "dinosaurs",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "dinosaurs_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_dinosaurs_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Dinosaur Coloring Book 🦖 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #dinosaurcoloring #dinosaurlover #dinokids",
+   "link_key": "amazon:dinosaurs"
+  },
+  "book": "dinosaurs",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "dinosaurs_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_dinosaurs_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Dinosaur Coloring Book 🦖. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #dinosaurcoloring #dinosaurlover #dinokids",
+   "link_key": "amazon:dinosaurs"
+  },
+  "book": "dinosaurs",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_vehicles_story",
+  "kind": "story",
+  "files": [
+   "story_vehicles.jpg"
+  ],
+  "caption": null,
+  "book": "vehicles",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_vehicles_reel",
+  "kind": "reel",
+  "files": [
+   "reel_vehicles.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Trucks, Trains & Things That Go! 🚒🚂 24 big vehicles to color — fire truck, digger, school bus, steam train, rocket and more. Ages 2–5.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #truckcoloring #thingsthatgo #constructionkids",
+   "link_key": "amazon:vehicles"
+  },
+  "book": "vehicles",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_vehicles_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_vehicles_1.jpg",
+   "car_vehicles_2.jpg",
+   "car_vehicles_3.jpg",
+   "car_vehicles_4.jpg",
+   "car_vehicles_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Trucks, Trains & Things That Go! 🚒🚂 24 big vehicles to color — fire truck, digger, school bus, steam train, rocket and more. Ages 2–5.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #truckcoloring #thingsthatgo #constructionkids",
+   "link_key": "amazon:vehicles"
+  },
+  "book": "vehicles",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "vehicles_peek1",
+  "kind": "story",
+  "files": [
+   "story_vehicles_p1.jpg"
+  ],
+  "caption": null,
+  "book": "vehicles",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "vehicles_peek2",
+  "kind": "story",
+  "files": [
+   "story_vehicles_p2.jpg"
+  ],
+  "caption": null,
+  "book": "vehicles",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "vehicles_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_vehicles_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Trucks, Trains & Things That Go Coloring Book 🚒 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #truckcoloring #thingsthatgo #constructionkids",
+   "link_key": "amazon:vehicles"
+  },
+  "book": "vehicles",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "vehicles_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_vehicles_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Trucks, Trains & Things That Go Coloring Book 🚒. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #truckcoloring #thingsthatgo #constructionkids",
+   "link_key": "amazon:vehicles"
+  },
+  "book": "vehicles",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_unicorns_story",
+  "kind": "story",
+  "files": [
+   "story_unicorns.jpg"
+  ],
+  "caption": null,
+  "book": "unicorns",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_unicorns_reel",
+  "kind": "reel",
+  "files": [
+   "reel_unicorns.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Unicorns & Magical Friends Coloring Book 🦄 24 sweet pictures — unicorns, baby dragons, fairies, castles and rainbows. Ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #unicorncoloring #unicornlover #magicalkids",
+   "link_key": "amazon:unicorns"
+  },
+  "book": "unicorns",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_unicorns_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_unicorns_1.jpg",
+   "car_unicorns_2.jpg",
+   "car_unicorns_3.jpg",
+   "car_unicorns_4.jpg",
+   "car_unicorns_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Unicorns & Magical Friends Coloring Book 🦄 24 sweet pictures — unicorns, baby dragons, fairies, castles and rainbows. Ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #unicorncoloring #unicornlover #magicalkids",
+   "link_key": "amazon:unicorns"
+  },
+  "book": "unicorns",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "unicorns_peek1",
+  "kind": "story",
+  "files": [
+   "story_unicorns_p1.jpg"
+  ],
+  "caption": null,
+  "book": "unicorns",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "unicorns_peek2",
+  "kind": "story",
+  "files": [
+   "story_unicorns_p2.jpg"
+  ],
+  "caption": null,
+  "book": "unicorns",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "unicorns_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_unicorns_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Unicorns & Magical Friends Coloring Book 🦄 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #unicorncoloring #unicornlover #magicalkids",
+   "link_key": "amazon:unicorns"
+  },
+  "book": "unicorns",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "unicorns_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_unicorns_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Unicorns & Magical Friends Coloring Book 🦄. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #unicorncoloring #unicornlover #magicalkids",
+   "link_key": "amazon:unicorns"
+  },
+  "book": "unicorns",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_scissors_story",
+  "kind": "story",
+  "files": [
+   "story_scissors.jpg"
+  ],
+  "caption": null,
+  "book": "scissors",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_scissors_reel",
+  "kind": "reel",
+  "files": [
+   "reel_scissors.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Scissor Skills Activity Book ✂️ Cutting practice from straight lines to shapes, animals, puzzles and easy crafts. For ages 3–5 (with a grown-up!).\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #scissorskills #finemotorskills #cutandpaste",
+   "link_key": "amazon:scissors"
+  },
+  "book": "scissors",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_scissors_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_scissors_1.jpg",
+   "car_scissors_2.jpg",
+   "car_scissors_3.jpg",
+   "car_scissors_4.jpg",
+   "car_scissors_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Scissor Skills Activity Book ✂️ Cutting practice from straight lines to shapes, animals, puzzles and easy crafts. For ages 3–5 (with a grown-up!).\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #scissorskills #finemotorskills #cutandpaste",
+   "link_key": "amazon:scissors"
+  },
+  "book": "scissors",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "scissors_peek1",
+  "kind": "story",
+  "files": [
+   "story_scissors_p1.jpg"
+  ],
+  "caption": null,
+  "book": "scissors",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "scissors_peek2",
+  "kind": "story",
+  "files": [
+   "story_scissors_p2.jpg"
+  ],
+  "caption": null,
+  "book": "scissors",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "scissors_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_scissors_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Scissor Skills Activity Book ✂️ with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #scissorskills #finemotorskills #cutandpaste",
+   "link_key": "amazon:scissors"
+  },
+  "book": "scissors",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "scissors_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_scissors_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Scissor Skills Activity Book ✂️. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #scissorskills #finemotorskills #cutandpaste",
+   "link_key": "amazon:scissors"
+  },
+  "book": "scissors",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_sightwords_story",
+  "kind": "story",
+  "files": [
+   "story_sightwords.jpg"
+  ],
+  "caption": null,
+  "book": "sightwords",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_sightwords_reel",
+  "kind": "reel",
+  "files": [
+   "reel_sightwords.mp4"
+  ],
+  "caption": {
+   "text": "NEW: 100 Sight Words Workbook 📖 Learn, trace, write and find the 100 most common words, with word searches and read-it pages. Ages 4–6.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:sightwords"
+  },
+  "book": "sightwords",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_sightwords_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_sightwords_1.jpg",
+   "car_sightwords_2.jpg",
+   "car_sightwords_3.jpg",
+   "car_sightwords_4.jpg",
+   "car_sightwords_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: 100 Sight Words Workbook 📖 Learn, trace, write and find the 100 most common words, with word searches and read-it pages. Ages 4–6.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:sightwords"
+  },
+  "book": "sightwords",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "sightwords_peek1",
+  "kind": "story",
+  "files": [
+   "story_sightwords_p1.jpg"
+  ],
+  "caption": null,
+  "book": "sightwords",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "sightwords_peek2",
+  "kind": "story",
+  "files": [
+   "story_sightwords_p2.jpg"
+  ],
+  "caption": null,
+  "book": "sightwords",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "sightwords_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_sightwords_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the 100 Sight Words Workbook 📖 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:sightwords"
+  },
+  "book": "sightwords",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "sightwords_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_sightwords_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our 100 Sight Words Workbook 📖. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:sightwords"
+  },
+  "book": "sightwords",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_handwriting_story",
+  "kind": "story",
+  "files": [
+   "story_handwriting.jpg"
+  ],
+  "caption": null,
+  "book": "handwriting",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_handwriting_reel",
+  "kind": "reel",
+  "files": [
+   "reel_handwriting.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Letter Tracing Handwriting Workbook ✏️ Uppercase & lowercase A–Z with step-by-step stroke arrows, warm-ups and word tracing. Ages 3–5.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:handwriting"
+  },
+  "book": "handwriting",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_handwriting_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_handwriting_1.jpg",
+   "car_handwriting_2.jpg",
+   "car_handwriting_3.jpg",
+   "car_handwriting_4.jpg",
+   "car_handwriting_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Letter Tracing Handwriting Workbook ✏️ Uppercase & lowercase A–Z with step-by-step stroke arrows, warm-ups and word tracing. Ages 3–5.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:handwriting"
+  },
+  "book": "handwriting",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "handwriting_peek1",
+  "kind": "story",
+  "files": [
+   "story_handwriting_p1.jpg"
+  ],
+  "caption": null,
+  "book": "handwriting",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "handwriting_peek2",
+  "kind": "story",
+  "files": [
+   "story_handwriting_p2.jpg"
+  ],
+  "caption": null,
+  "book": "handwriting",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "handwriting_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_handwriting_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Letter Tracing Handwriting Workbook ✏️ with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:handwriting"
+  },
+  "book": "handwriting",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "handwriting_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_handwriting_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Letter Tracing Handwriting Workbook ✏️. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #handwritingpractice #lettertracing #kindergartenreading",
+   "link_key": "amazon:handwriting"
+  },
+  "book": "handwriting",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_cursive_story",
+  "kind": "story",
+  "files": [
+   "story_cursive.jpg"
+  ],
+  "caption": null,
+  "book": "cursive",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_cursive_reel",
+  "kind": "reel",
+  "files": [
+   "reel_cursive.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Cursive Handwriting Workbook ✍️ Letters, joins, words and positive sentences — cursive practice for ages 8–12 (grades 3–5).\n\n{cta}\n\n#handwritingpractice #lettertracing #kindergartenreading #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:cursive"
+  },
+  "book": "cursive",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_cursive_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_cursive_1.jpg",
+   "car_cursive_2.jpg",
+   "car_cursive_3.jpg",
+   "car_cursive_4.jpg",
+   "car_cursive_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Cursive Handwriting Workbook ✍️ Letters, joins, words and positive sentences — cursive practice for ages 8–12 (grades 3–5).\n\n{cta}\n\n#handwritingpractice #lettertracing #kindergartenreading #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:cursive"
+  },
+  "book": "cursive",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "cursive_peek1",
+  "kind": "story",
+  "files": [
+   "story_cursive_p1.jpg"
+  ],
+  "caption": null,
+  "book": "cursive",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "cursive_peek2",
+  "kind": "story",
+  "files": [
+   "story_cursive_p2.jpg"
+  ],
+  "caption": null,
+  "book": "cursive",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "cursive_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_cursive_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Cursive Handwriting Workbook ✍️ with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#handwritingpractice #lettertracing #kindergartenreading #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:cursive"
+  },
+  "book": "cursive",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "cursive_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_cursive_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Cursive Handwriting Workbook ✍️. Big, bold lines made for little hands.\n\n{cta}\n\n#handwritingpractice #lettertracing #kindergartenreading #prekactivities #learningthroughplay #kindergartenprep #earlylearning",
+   "link_key": "amazon:cursive"
+  },
+  "book": "cursive",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_space_story",
+  "kind": "story",
+  "files": [
+   "story_space.jpg"
+  ],
+  "caption": null,
+  "book": "space",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_space_reel",
+  "kind": "reel",
+  "files": [
+   "reel_space.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Space Coloring Book 🚀 30 big pictures — rockets, astronauts, aliens and all 8 planets with fun facts to read aloud. Ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #spacecoloring #spacekids #planetsforkids",
+   "link_key": "amazon:space"
+  },
+  "book": "space",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_space_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_space_1.jpg",
+   "car_space_2.jpg",
+   "car_space_3.jpg",
+   "car_space_4.jpg",
+   "car_space_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Space Coloring Book 🚀 30 big pictures — rockets, astronauts, aliens and all 8 planets with fun facts to read aloud. Ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #spacecoloring #spacekids #planetsforkids",
+   "link_key": "amazon:space"
+  },
+  "book": "space",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "space_peek1",
+  "kind": "story",
+  "files": [
+   "story_space_p1.jpg"
+  ],
+  "caption": null,
+  "book": "space",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "space_peek2",
+  "kind": "story",
+  "files": [
+   "story_space_p2.jpg"
+  ],
+  "caption": null,
+  "book": "space",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "space_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_space_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Space Coloring Book 🚀 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #spacecoloring #spacekids #planetsforkids",
+   "link_key": "amazon:space"
+  },
+  "book": "space",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "space_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_space_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Space Coloring Book 🚀. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #spacecoloring #spacekids #planetsforkids",
+   "link_key": "amazon:space"
+  },
+  "book": "space",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_feelings_story",
+  "kind": "story",
+  "files": [
+   "story_feelings.jpg"
+  ],
+  "caption": null,
+  "book": "feelings",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_feelings_reel",
+  "kind": "reel",
+  "files": [
+   "reel_feelings.mp4"
+  ],
+  "caption": {
+   "text": "NEW: My Feelings Activity Book 💛 Coloring and activities for emotions, kindness and calm — breathing exercises, matching and gratitude. Ages 3–6.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #socialemotionallearning #feelingsforkids #kindnessmatters",
+   "link_key": "amazon:feelings"
+  },
+  "book": "feelings",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_feelings_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_feelings_1.jpg",
+   "car_feelings_2.jpg",
+   "car_feelings_3.jpg",
+   "car_feelings_4.jpg",
+   "car_feelings_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: My Feelings Activity Book 💛 Coloring and activities for emotions, kindness and calm — breathing exercises, matching and gratitude. Ages 3–6.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #socialemotionallearning #feelingsforkids #kindnessmatters",
+   "link_key": "amazon:feelings"
+  },
+  "book": "feelings",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "feelings_peek1",
+  "kind": "story",
+  "files": [
+   "story_feelings_p1.jpg"
+  ],
+  "caption": null,
+  "book": "feelings",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "feelings_peek2",
+  "kind": "story",
+  "files": [
+   "story_feelings_p2.jpg"
+  ],
+  "caption": null,
+  "book": "feelings",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "feelings_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_feelings_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the My Feelings Activity Book 💛 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #socialemotionallearning #feelingsforkids #kindnessmatters",
+   "link_key": "amazon:feelings"
+  },
+  "book": "feelings",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "feelings_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_feelings_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our My Feelings Activity Book 💛. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #socialemotionallearning #feelingsforkids #kindnessmatters",
+   "link_key": "amazon:feelings"
+  },
+  "book": "feelings",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_valentines_story",
+  "kind": "story",
+  "files": [
+   "story_valentines.jpg"
+  ],
+  "caption": null,
+  "book": "valentines",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_valentines_reel",
+  "kind": "reel",
+  "files": [
+   "reel_valentines.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Valentine's Day Coloring Book 💕 28 big, easy pictures — teddy bears, love bugs, cupcakes — plus Valentine cards to color and cut out. Ages 2–5.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #valentinesdaykids #valentinecoloring #valentinesforkids",
+   "link_key": "amazon:valentines"
+  },
+  "book": "valentines",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_valentines_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_valentines_1.jpg",
+   "car_valentines_2.jpg",
+   "car_valentines_3.jpg",
+   "car_valentines_4.jpg",
+   "car_valentines_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Valentine's Day Coloring Book 💕 28 big, easy pictures — teddy bears, love bugs, cupcakes — plus Valentine cards to color and cut out. Ages 2–5.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #valentinesdaykids #valentinecoloring #valentinesforkids",
+   "link_key": "amazon:valentines"
+  },
+  "book": "valentines",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "valentines_peek1",
+  "kind": "story",
+  "files": [
+   "story_valentines_p1.jpg"
+  ],
+  "caption": null,
+  "book": "valentines",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "valentines_peek2",
+  "kind": "story",
+  "files": [
+   "story_valentines_p2.jpg"
+  ],
+  "caption": null,
+  "book": "valentines",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "valentines_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_valentines_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Valentine's Day Coloring Book 💕 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #valentinesdaykids #valentinecoloring #valentinesforkids",
+   "link_key": "amazon:valentines"
+  },
+  "book": "valentines",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "valentines_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_valentines_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Valentine's Day Coloring Book 💕. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #valentinesdaykids #valentinecoloring #valentinesforkids",
+   "link_key": "amazon:valentines"
+  },
+  "book": "valentines",
+  "day": 16,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_easter_story",
+  "kind": "story",
+  "files": [
+   "story_easter.jpg"
+  ],
+  "caption": null,
+  "book": "easter",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "launch_easter_reel",
+  "kind": "reel",
+  "files": [
+   "reel_easter.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Easter Activity Book 🐰 Coloring, mazes, dot-to-dot, counting and tracing — the perfect Easter basket stuffer for ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #easteractivities #easterbasketstuffers #easterkids",
+   "link_key": "amazon:easter"
+  },
+  "book": "easter",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "launch_easter_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_easter_1.jpg",
+   "car_easter_2.jpg",
+   "car_easter_3.jpg",
+   "car_easter_4.jpg",
+   "car_easter_5.jpg"
+  ],
+  "caption": {
+   "text": "NEW: Easter Activity Book 🐰 Coloring, mazes, dot-to-dot, counting and tracing — the perfect Easter basket stuffer for ages 3–6!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #easteractivities #easterbasketstuffers #easterkids",
+   "link_key": "amazon:easter"
+  },
+  "book": "easter",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "easter_peek1",
+  "kind": "story",
+  "files": [
+   "story_easter_p1.jpg"
+  ],
+  "caption": null,
+  "book": "easter",
+  "day": 4,
+  "time": "18:00"
+ },
+ {
+  "id": "easter_peek2",
+  "kind": "story",
+  "files": [
+   "story_easter_p2.jpg"
+  ],
+  "caption": null,
+  "book": "easter",
+  "day": 6,
+  "time": "18:00"
+ },
+ {
+  "id": "easter_flip_reel",
+  "kind": "reel",
+  "files": [
+   "reel_easter_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through the Easter Activity Book 🐰 with us! 📖 Which page would your little one color first? Tell us in the comments!\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #easteractivities #easterbasketstuffers #easterkids",
+   "link_key": "amazon:easter"
+  },
+  "book": "easter",
+  "day": 9,
+  "time": "19:30"
+ },
+ {
+  "id": "easter_color_reel",
+  "kind": "reel",
+  "files": [
+   "reel_easter_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this page come to life! 🖍️ From line art to full color — a page from our Easter Activity Book 🐰. Big, bold lines made for little hands.\n\n{cta}\n\n#coloringbook #kidsactivities #preschoolactivities #toddleractivities #coloringpages #homeschool #easteractivities #easterbasketstuffers #easterkids",
+   "link_key": "amazon:easter"
+  },
+  "book": "easter",
+  "day": 16,
+  "time": "19:30"
  }
 ]
