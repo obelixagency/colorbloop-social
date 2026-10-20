@@ -40,5 +40,27 @@
    },
    "last_attempt": "2026-10-20T16:15:02.464699+00:00"
   }
+ },
+ "launch_xmas_activity_story": {
+  "_due": "2026-10-20T18:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18438046300199073"
+   },
+   "last_attempt": "2026-10-20T23:17:06.288884+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "951674847588938"
+    }
+   },
+   "last_attempt": "2026-10-20T23:17:06.288884+00:00"
+  }
  }
 }
