@@ -92,7 +92,7 @@ def caption_for(entry, links, platform):
         elif platform.startswith("facebook") or platform.startswith("youtube"):
             cta = f"🖨️ Instant download on Etsy: {url}"
         else:
-            cta = "🛍️ Search 'Colorbloop' on Etsy or tap the link in our stories"
+            cta = "🛍️ Search 'Colorbloop' on Etsy to get it"
         return c["text"].replace("{cta}", cta)
     url = link_for(links, c.get("link_key"))
     etsy = link_for(links, "etsy:" + c["link_key"].split(":", 1)[1]) if (c.get("link_key") or "").startswith("amazon:") else ""
