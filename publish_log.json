@@ -1,7 +1,25 @@
 {
  "_launch": "2026-10-20",
  "_live_seq": [
-  "xmas_activity"
+  "xmas_activity",
+  "etsy:xmasparty",
+  "etsy:bundle_holiday",
+  "etsy:winter",
+  "etsy:busybook",
+  "etsy:bundle_preschool",
+  "etsy:routine",
+  "etsy:bundle_coloring",
+  "etsy:bundle_kinder",
+  "etsy:bundle_mega"
  ],
- "_live_xmas_activity": "2026-10-20"
+ "_live_xmas_activity": "2026-10-20",
+ "_live_etsy_xmasparty": "2026-10-20",
+ "_live_etsy_bundle_holiday": "2026-10-20",
+ "_live_etsy_winter": "2026-10-20",
+ "_live_etsy_busybook": "2026-10-20",
+ "_live_etsy_bundle_preschool": "2026-10-20",
+ "_live_etsy_routine": "2026-10-20",
+ "_live_etsy_bundle_coloring": "2026-10-20",
+ "_live_etsy_bundle_kinder": "2026-10-20",
+ "_live_etsy_bundle_mega": "2026-10-20"
 }
