@@ -21,5 +21,24 @@
  "_live_etsy_routine": "2026-10-20",
  "_live_etsy_bundle_coloring": "2026-10-20",
  "_live_etsy_bundle_kinder": "2026-10-20",
- "_live_etsy_bundle_mega": "2026-10-20"
+ "_live_etsy_bundle_mega": "2026-10-20",
+ "2026-10-19_1000_post": {
+  "_due": "2026-10-20T10:00:00-04:00",
+  "instagram_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18338286526272266"
+   },
+   "last_attempt": "2026-10-20T16:15:02.464699+00:00"
+  },
+  "facebook_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122096120229521705"
+   },
+   "last_attempt": "2026-10-20T16:15:02.464699+00:00"
+  }
+ }
 }
