@@ -1975,5 +1975,1371 @@
   "book": "easter",
   "day": 16,
   "time": "19:30"
+ },
+ {
+  "id": "etsy_xmasparty_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_xmasparty.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:xmasparty",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_xmasparty_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_xmasparty.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Christmas Party Games & Activities 🎄🎉 Picture bingo, a scavenger hunt, Would You Rather, charades, a letter to Santa and more: 32 printable pages even non-readers can play. Ages 4–10.\n\nPrint it tonight, play it at the party! ⛄\n\n{cta}\n\n#christmasgames #kidspartygames #christmasbingo #classroomparty #christmasactivities #printables #kidsactivities #familygamenight",
+   "link_key": "etsy:xmasparty"
+  },
+  "book": "etsy:xmasparty",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_xmasparty_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_xmasparty_1.jpg",
+   "car_etsy_xmasparty_2.jpg",
+   "car_etsy_xmasparty_3.jpg",
+   "car_etsy_xmasparty_4.jpg",
+   "car_etsy_xmasparty_5.jpg"
+  ],
+  "caption": {
+   "text": "Your Christmas party, sorted! 🎅 Swipe for a peek: Christmas Picture Bingo (8 different cards!), a scavenger hunt and Roll & Draw a Snowman.\n\nPrint at home as many times as you need ✨\n\n{cta}\n\n#christmasgames #kidspartygames #christmasbingo #classroomparty #christmasactivities #printables #kidsactivities #familygamenight",
+   "link_key": "etsy:xmasparty"
+  },
+  "book": "etsy:xmasparty",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_xmasparty_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_xmasparty_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:xmasparty",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_holiday_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_holiday.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_holiday",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_holiday_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_bundle_holiday.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Holiday & Winter Bundle 🎄❄️ 5 books in one: Christmas party games, Christmas activities, Christmas coloring, winter activities and Thanksgiving coloring. Fun from Thanksgiving to snow days!\n\n{cta}\n\n#christmasactivities #christmasgames #winteractivities #thanksgivingkids #printables #kidsactivities #holidayfun #classroomparty",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "book": "etsy:bundle_holiday",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_bundle_holiday_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_bundle_holiday_1.jpg",
+   "car_etsy_bundle_holiday_2.jpg",
+   "car_etsy_bundle_holiday_3.jpg",
+   "car_etsy_bundle_holiday_4.jpg",
+   "car_etsy_bundle_holiday_5.jpg"
+  ],
+  "caption": {
+   "text": "One download, the whole holiday season 🎅🦃⛄ Swipe to see all 5 books inside: party games, coloring, activities and snowy fun.\n\n{cta}\n\n#christmasactivities #christmasgames #winteractivities #thanksgivingkids #printables #kidsactivities #holidayfun #classroomparty",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "book": "etsy:bundle_holiday",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_bundle_holiday_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_holiday_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_holiday",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_winter_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_winter.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:winter",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_winter_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_winter.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Winter Activity Book ❄️ 43 snowy pages for ages 3–6: coloring, mazes, counting, tracing and a Build-a-Snowman cut & paste. No holidays inside, so it works all winter long!\n\n{cta}\n\n#winteractivities #preschoolactivities #snowdayfun #kidsactivities #printables #homeschool #toddleractivities #winterworksheets",
+   "link_key": "etsy:winter"
+  },
+  "book": "etsy:winter",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_winter_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_winter_1.jpg",
+   "car_etsy_winter_2.jpg",
+   "car_etsy_winter_3.jpg",
+   "car_etsy_winter_4.jpg",
+   "car_etsy_winter_5.jpg"
+  ],
+  "caption": {
+   "text": "Snow day? We've got you ☃️ Swipe for a peek: a happy snowman to color, a penguin maze and color-by-number.\n\nPrint at home whenever little hands need something to do 💙\n\n{cta}\n\n#winteractivities #preschoolactivities #snowdayfun #kidsactivities #printables #homeschool #toddleractivities #winterworksheets",
+   "link_key": "etsy:winter"
+  },
+  "book": "etsy:winter",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_winter_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_winter_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:winter",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_busybook_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_busybook.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:busybook",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_busybook_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_busybook.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Toddler Busy Book 🧸 15 hands-on activities for ages 2–4: color match, shapes, counting apples, ABC, feed the animals, dress the bear and more.\n\nPrint, laminate, add velcro dots... and enjoy a little quiet time ☕\n\n{cta}\n\n#busybook #toddleractivities #quietbook #learningbinder #montessoriathome #printables #screenfreeplay #toddlermom",
+   "link_key": "etsy:busybook"
+  },
+  "book": "etsy:busybook",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_busybook_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_busybook_1.jpg",
+   "car_etsy_busybook_2.jpg",
+   "car_etsy_busybook_3.jpg",
+   "car_etsy_busybook_4.jpg",
+   "car_etsy_busybook_5.jpg"
+  ],
+  "caption": {
+   "text": "Screen-free quiet time, made easy 💛 Swipe to see inside: color match, the weather board and Dress the Bear.\n\nPerfect for car rides, church or a calm afternoon at home.\n\n{cta}\n\n#busybook #toddleractivities #quietbook #learningbinder #montessoriathome #printables #screenfreeplay #toddlermom",
+   "link_key": "etsy:busybook"
+  },
+  "book": "etsy:busybook",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_busybook_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_busybook_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:busybook",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_preschool_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_preschool.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_preschool",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_preschool_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_bundle_preschool.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Preschool Learning Bundle 📚 6 Colorbloop books in one instant download: ABC tracing, numbers, shapes & colors, letter tracing, scissor skills and feelings. A whole year of pre-K fun for ages 3–5!\n\n{cta}\n\n#preschoolactivities #prekworksheets #homeschoolpreschool #printables #learningthroughplay #kindergartenprep #toddleractivities",
+   "link_key": "etsy:bundle_preschool"
+  },
+  "book": "etsy:bundle_preschool",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_bundle_preschool_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_bundle_preschool_1.jpg",
+   "car_etsy_bundle_preschool_2.jpg",
+   "car_etsy_bundle_preschool_3.jpg",
+   "car_etsy_bundle_preschool_4.jpg",
+   "car_etsy_bundle_preschool_5.jpg"
+  ],
+  "caption": {
+   "text": "Everything for pre-K in one download ✏️ Swipe to see all 6 books inside.\n\nPrint what you need, when you need it, at home or in the classroom 💛\n\n{cta}\n\n#preschoolactivities #prekworksheets #homeschoolpreschool #printables #learningthroughplay #kindergartenprep #toddleractivities",
+   "link_key": "etsy:bundle_preschool"
+  },
+  "book": "etsy:bundle_preschool",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_bundle_preschool_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_preschool_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_preschool",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_routine_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_routine.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:routine",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_routine_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_routine.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Daily Routine & Chore Charts ⭐ Morning, bedtime and after-school routines (with picture versions for non-readers!), chore charts, reward charts and 24 picture cards. Ages 3–8.\n\n{cta}\n\n#routinechart #chorechart #toddlerroutine #rewardchart #momhacks #printables #visualschedule #parentingtips",
+   "link_key": "etsy:routine"
+  },
+  "book": "etsy:routine",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_routine_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_routine_1.jpg",
+   "car_etsy_routine_2.jpg",
+   "car_etsy_routine_3.jpg",
+   "car_etsy_routine_4.jpg",
+   "car_etsy_routine_5.jpg"
+  ],
+  "caption": {
+   "text": "Smoother mornings start here ☀️ Swipe for a peek: picture routine charts, a reward chart and cut-out picture cards.\n\nLaminate once, use every day!\n\n{cta}\n\n#routinechart #chorechart #toddlerroutine #rewardchart #momhacks #printables #visualschedule #parentingtips",
+   "link_key": "etsy:routine"
+  },
+  "book": "etsy:routine",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_routine_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_routine_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:routine",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_coloring_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_coloring.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_coloring",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_coloring_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_bundle_coloring.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Big Coloring Bundle 🖍️ 5 coloring books in one: jumbo animals, dinosaurs, trucks & things that go, unicorns and space. Big, bold pictures for ages 2–6!\n\n{cta}\n\n#coloringbook #coloringpages #kidscoloring #printables #toddleractivities #dinosaurcoloring #unicorncoloring #rainydayactivities",
+   "link_key": "etsy:bundle_coloring"
+  },
+  "book": "etsy:bundle_coloring",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_bundle_coloring_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_bundle_coloring_1.jpg",
+   "car_etsy_bundle_coloring_2.jpg",
+   "car_etsy_bundle_coloring_3.jpg",
+   "car_etsy_bundle_coloring_4.jpg",
+   "car_etsy_bundle_coloring_5.jpg"
+  ],
+  "caption": {
+   "text": "Rainy day? Print a dino. Or a unicorn. Or a rocket 🚀 Swipe to see all 5 coloring books in this bundle!\n\n{cta}\n\n#coloringbook #coloringpages #kidscoloring #printables #toddleractivities #dinosaurcoloring #unicorncoloring #rainydayactivities",
+   "link_key": "etsy:bundle_coloring"
+  },
+  "book": "etsy:bundle_coloring",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_bundle_coloring_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_coloring_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_coloring",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_kinder_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_kinder.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_kinder",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_kinder_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_bundle_kinder.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Kindergarten Ready Bundle 🎒 5 books in one: kindergarten activities, 100 sight words, letter tracing, scissor skills and numbers. Ages 4–6.\n\n{cta}\n\n#kindergartenprep #sightwords #handwritingpractice #homeschool #printables #kindergartenactivities #earlylearning",
+   "link_key": "etsy:bundle_kinder"
+  },
+  "book": "etsy:bundle_kinder",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_bundle_kinder_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_bundle_kinder_1.jpg",
+   "car_etsy_bundle_kinder_2.jpg",
+   "car_etsy_bundle_kinder_3.jpg",
+   "car_etsy_bundle_kinder_4.jpg",
+   "car_etsy_bundle_kinder_5.jpg"
+  ],
+  "caption": {
+   "text": "Getting ready for kindergarten? 🍎 Swipe to see the 5 books inside: reading, writing, cutting and counting, one fun page at a time.\n\n{cta}\n\n#kindergartenprep #sightwords #handwritingpractice #homeschool #printables #kindergartenactivities #earlylearning",
+   "link_key": "etsy:bundle_kinder"
+  },
+  "book": "etsy:bundle_kinder",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_bundle_kinder_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_kinder_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_kinder",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_mega_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_mega.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_mega",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_bundle_mega_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_bundle_mega.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Mega Printables Bundle 🌈 15 Colorbloop books in one instant download: preschool, kindergarten, coloring, tracing, sight words, cursive and more. Ages 2–8.\n\n{cta}\n\n#homeschool #printables #preschoolactivities #kindergartenprep #coloringpages #kidsactivities #homeschoolcurriculum #learningthroughplay",
+   "link_key": "etsy:bundle_mega"
+  },
+  "book": "etsy:bundle_mega",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_bundle_mega_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_bundle_mega_1.jpg",
+   "car_etsy_bundle_mega_2.jpg",
+   "car_etsy_bundle_mega_3.jpg",
+   "car_etsy_bundle_mega_4.jpg",
+   "car_etsy_bundle_mega_5.jpg"
+  ],
+  "caption": {
+   "text": "Our biggest bundle yet 🤩 Swipe to see all 15 books inside. Print a page, color, learn, repeat!\n\n{cta}\n\n#homeschool #printables #preschoolactivities #kindergartenprep #coloringpages #kidsactivities #homeschoolcurriculum #learningthroughplay",
+   "link_key": "etsy:bundle_mega"
+  },
+  "book": "etsy:bundle_mega",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_bundle_mega_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_bundle_mega_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:bundle_mega",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "yt_001_dinosaurs_color",
+  "when_et": "2026-10-20 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_dinosaurs_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this birthday dinosaur get colored! 🦖🎂\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #dinosaur",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:dinosaurs",
+  "same_as": "dinosaurs_color_reel"
+ },
+ {
+  "id": "yt_002_abc_flip",
+  "when_et": "2026-10-21 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_abc_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our ABC Coloring & Tracing Book! 🍎📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #abc",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:abc",
+  "same_as": "abc_flip_reel"
+ },
+ {
+  "id": "yt_003_brand_guess",
+  "when_et": "2026-10-22 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_brand_guess.mp4"
+  ],
+  "caption": {
+   "text": "Guess who? Can your kid name all 3 shadows? 👀\nPause before each reveal! How many did your little one get? Tell us in the comments 👇\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #guessinggame",
+   "link_key": null
+  },
+  "requires_link": null,
+  "same_as": "brand_guess_reel"
+ },
+ {
+  "id": "yt_004_unicorns_color",
+  "when_et": "2026-10-23 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_unicorns_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this rainbow unicorn get colored! 🦄🌈\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #unicorn",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:unicorns",
+  "same_as": "unicorns_color_reel"
+ },
+ {
+  "id": "yt_005_animals_flip",
+  "when_et": "2026-10-24 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_animals_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Jumbo Animal Coloring Book! 🦁📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #animalcoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:animals",
+  "same_as": "animals_flip_reel"
+ },
+ {
+  "id": "yt_006_vehicles_color",
+  "when_et": "2026-10-25 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_vehicles_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this fire truck get colored! 🚒🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #firetruck",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:vehicles",
+  "same_as": "vehicles_color_reel"
+ },
+ {
+  "id": "yt_007_brand_tips",
+  "when_et": "2026-10-26 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_brand_tips.mp4"
+  ],
+  "caption": {
+   "text": "3 coloring tips for toddlers 🖍️\nGo big & simple, keep it short, praise the effort. Save this for your next coloring time 💛\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #parentingtips",
+   "link_key": null
+  },
+  "requires_link": null,
+  "same_as": "brand_tips_reel"
+ },
+ {
+  "id": "yt_008_thanksgiving_color",
+  "when_et": "2026-10-27 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_thanksgiving_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this happy turkey get colored! 🦃🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #thanksgivingkids",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:thanksgiving",
+  "same_as": "thanksgiving_color_reel"
+ },
+ {
+  "id": "yt_009_space_color",
+  "when_et": "2026-10-28 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_space_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this little astronaut get colored! 🚀🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #spacekids",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:space",
+  "same_as": "space_color_reel"
+ },
+ {
+  "id": "yt_010_numbers_flip",
+  "when_et": "2026-10-29 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_numbers_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Numbers 1–20 book! 🔢📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #counting",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:numbers",
+  "same_as": "numbers_flip_reel"
+ },
+ {
+  "id": "yt_011_animals_color16",
+  "when_et": "2026-10-30 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_animals_color16.mp4"
+  ],
+  "caption": {
+   "text": "Watch this tall giraffe get colored! 🦒🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #animalcoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:animals"
+ },
+ {
+  "id": "yt_012_dinosaurs_flip",
+  "when_et": "2026-10-31 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_dinosaurs_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Dinosaur Coloring Book! 🦖📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #dinosaur",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:dinosaurs",
+  "same_as": "dinosaurs_flip_reel"
+ },
+ {
+  "id": "yt_013_busybook_flip",
+  "when_et": "2026-11-01 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_busybook_flip.mp4"
+  ],
+  "caption": {
+   "text": "Peek inside our Toddler Busy Book! 🧸📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #busybook",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:busybook",
+  "same_as": "etsy_busybook_reel"
+ },
+ {
+  "id": "yt_014_kindergarten_color",
+  "when_et": "2026-11-02 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_kindergarten_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this butterfly get colored! 🦋🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #kindergarten",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:kindergarten",
+  "same_as": "kindergarten_color_reel"
+ },
+ {
+  "id": "yt_015_unicorns_flip",
+  "when_et": "2026-11-03 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_unicorns_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Unicorns & Magical Friends book! 🦄📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #unicorn",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:unicorns",
+  "same_as": "unicorns_flip_reel"
+ },
+ {
+  "id": "yt_016_thanksgiving_color4",
+  "when_et": "2026-11-04 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_thanksgiving_color4.mp4"
+  ],
+  "caption": {
+   "text": "Watch this big pumpkin get colored! 🎃🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #fallactivities",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:thanksgiving"
+ },
+ {
+  "id": "yt_017_animals_color",
+  "when_et": "2026-11-05 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_animals_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this parrot get colored! 🦜🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #animalcoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:animals",
+  "same_as": "animals_color_reel"
+ },
+ {
+  "id": "yt_018_shapes_flip",
+  "when_et": "2026-11-06 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_shapes_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Shapes & Colors book! 🔺📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #learncolors",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:shapes",
+  "same_as": "shapes_flip_reel"
+ },
+ {
+  "id": "yt_019_brand_beforeafter",
+  "when_et": "2026-11-07 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_brand_beforeafter.mp4"
+  ],
+  "caption": {
+   "text": "Before & After: line art to full color 🎨\nFour pages, four transformations. Which one is your favorite: 1, 2, 3 or 4?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #beforeandafter",
+   "link_key": null
+  },
+  "requires_link": null,
+  "same_as": "brand_beforeafter_reel"
+ },
+ {
+  "id": "yt_020_xmas_coloring_color",
+  "when_et": "2026-11-08 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_coloring_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this polar bear get colored! 🐻‍❄️🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_coloring",
+  "same_as": "xmas_coloring_color_reel"
+ },
+ {
+  "id": "yt_021_vehicles_color12",
+  "when_et": "2026-11-09 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_vehicles_color12.mp4"
+  ],
+  "caption": {
+   "text": "Watch this steam train get colored! 🚂🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #train",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:vehicles"
+ },
+ {
+  "id": "yt_022_preschool_flip",
+  "when_et": "2026-11-10 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_preschool_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Preschool Workbook 3-in-1! 📚\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #preschool",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:preschool",
+  "same_as": "preschool_flip_reel"
+ },
+ {
+  "id": "yt_023_thanksgiving_flip",
+  "when_et": "2026-11-11 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_thanksgiving_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Thanksgiving Coloring Book! 🦃📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #thanksgivingkids",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:thanksgiving",
+  "same_as": "thanksgiving_flip_reel"
+ },
+ {
+  "id": "yt_024_dinosaurs_color3",
+  "when_et": "2026-11-12 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_dinosaurs_color3.mp4"
+  ],
+  "caption": {
+   "text": "Watch this triceratops get colored! 🦕🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #dinosaur",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:dinosaurs"
+ },
+ {
+  "id": "yt_025_xmas_activity_color",
+  "when_et": "2026-11-13 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_activity_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this little reindeer get colored! 🦌🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_activity",
+  "same_as": "xmas_activity_color_reel"
+ },
+ {
+  "id": "yt_026_space_flip",
+  "when_et": "2026-11-14 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_space_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Space Coloring Book! 🚀📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #spacekids",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:space",
+  "same_as": "space_flip_reel"
+ },
+ {
+  "id": "yt_027_routine_flip",
+  "when_et": "2026-11-15 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_routine_flip.mp4"
+  ],
+  "caption": {
+   "text": "Peek inside our Routine & Chore Charts! ⭐📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #routinechart",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:routine",
+  "same_as": "etsy_routine_reel"
+ },
+ {
+  "id": "yt_028_winter_color6",
+  "when_et": "2026-11-16 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_winter_color6.mp4"
+  ],
+  "caption": {
+   "text": "Watch this little penguin get colored! 🐧🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #winteractivities",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:winter"
+ },
+ {
+  "id": "yt_029_unicorns_color8",
+  "when_et": "2026-11-17 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_unicorns_color8.mp4"
+  ],
+  "caption": {
+   "text": "Watch this friendly dragon get colored! 🐉🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #dragon",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:unicorns"
+ },
+ {
+  "id": "yt_030_vehicles_flip",
+  "when_et": "2026-11-18 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_vehicles_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Things That Go coloring book! 🚒📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #trucks",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:vehicles",
+  "same_as": "vehicles_flip_reel"
+ },
+ {
+  "id": "yt_031_xmas_coloring_flip",
+  "when_et": "2026-11-19 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_coloring_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Big & Easy Christmas Coloring Book! 🎅📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_coloring",
+  "same_as": "xmas_coloring_flip_reel"
+ },
+ {
+  "id": "yt_032_thanksgiving_color6",
+  "when_et": "2026-11-20 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_thanksgiving_color6.mp4"
+  ],
+  "caption": {
+   "text": "Coloring a yummy pumpkin pie! 🥧🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #thanksgivingkids",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:thanksgiving"
+ },
+ {
+  "id": "yt_033_feelings_color",
+  "when_et": "2026-11-21 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_feelings_color.mp4"
+  ],
+  "caption": {
+   "text": "Coloring 'I Feel Happy' 💛🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #feelings",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:feelings",
+  "same_as": "feelings_color_reel"
+ },
+ {
+  "id": "yt_034_xmas_activity_color2",
+  "when_et": "2026-11-22 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_activity_color2.mp4"
+  ],
+  "caption": {
+   "text": "Watch this jolly snowman get colored! ⛄🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_activity"
+ },
+ {
+  "id": "yt_035_kindergarten_flip",
+  "when_et": "2026-11-23 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_kindergarten_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Kindergarten Activity Book! ✏️📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #kindergarten",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:kindergarten",
+  "same_as": "kindergarten_flip_reel"
+ },
+ {
+  "id": "yt_036_xmasparty_flip",
+  "when_et": "2026-11-24 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmasparty_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Christmas Party Games pack! 🎄🎉\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmasgames",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:xmasparty",
+  "same_as": "etsy_xmasparty_reel"
+ },
+ {
+  "id": "yt_037_space_color16",
+  "when_et": "2026-11-25 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_space_color16.mp4"
+  ],
+  "caption": {
+   "text": "Watch this alien in a UFO get colored! 👽🛸\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #spacekids",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:space"
+ },
+ {
+  "id": "yt_038_brand_benefits",
+  "when_et": "2026-11-26 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_brand_benefits.mp4"
+  ],
+  "caption": {
+   "text": "Why coloring is SO good for kids ✏️\nPencil grip, focus, colors & shapes, calm, and a big dose of pride. Share with a parent friend!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #parentingtips",
+   "link_key": null
+  },
+  "requires_link": null,
+  "same_as": "brand_benefits_reel"
+ },
+ {
+  "id": "yt_039_xmas_coloring_color13",
+  "when_et": "2026-11-27 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_coloring_color13.mp4"
+  ],
+  "caption": {
+   "text": "Watch these Christmas lights get colored! 🎄✨\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_coloring"
+ },
+ {
+  "id": "yt_040_abc_color",
+  "when_et": "2026-11-28 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_abc_color.mp4"
+  ],
+  "caption": {
+   "text": "Coloring the letter L! 🔤🖍️ ABC fun for preschoolers\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #abc",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:abc",
+  "same_as": "abc_color_reel"
+ },
+ {
+  "id": "yt_041_winter_flip",
+  "when_et": "2026-11-29 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_winter_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Winter Activity Book! ❄️📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #winteractivities",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:winter",
+  "same_as": "etsy_winter_reel"
+ },
+ {
+  "id": "yt_042_scissors_flip",
+  "when_et": "2026-11-30 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_scissors_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Scissor Skills book! ✂️📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #scissorskills",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:scissors",
+  "same_as": "scissors_flip_reel"
+ },
+ {
+  "id": "yt_043_animals_color38",
+  "when_et": "2026-12-01 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_animals_color38.mp4"
+  ],
+  "caption": {
+   "text": "Watch this narwhal get colored! 🌊🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #oceananimals",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:animals"
+ },
+ {
+  "id": "yt_044_xmas_activity_color6",
+  "when_et": "2026-12-02 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_activity_color6.mp4"
+  ],
+  "caption": {
+   "text": "Watch this gingerbread man get colored! 🍪🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_activity"
+ },
+ {
+  "id": "yt_045_sightwords_flip",
+  "when_et": "2026-12-03 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_sightwords_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our 100 Sight Words Workbook! 📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #sightwords",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:sightwords",
+  "same_as": "sightwords_flip_reel"
+ },
+ {
+  "id": "yt_046_xmas_coloring_color20",
+  "when_et": "2026-12-04 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_coloring_color20.mp4"
+  ],
+  "caption": {
+   "text": "Coloring a cozy Christmas sweater! 🧶🎄\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_coloring"
+ },
+ {
+  "id": "yt_047_numbers_color",
+  "when_et": "2026-12-05 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_numbers_color.mp4"
+  ],
+  "caption": {
+   "text": "Coloring the number 4! 🔢🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #counting",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:numbers",
+  "same_as": "numbers_color_reel"
+ },
+ {
+  "id": "yt_048_handwriting_flip",
+  "when_et": "2026-12-06 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_handwriting_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Letter Tracing Workbook! ✏️📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #handwriting",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:handwriting",
+  "same_as": "handwriting_flip_reel"
+ },
+ {
+  "id": "yt_049_winter_color18",
+  "when_et": "2026-12-07 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_winter_color18.mp4"
+  ],
+  "caption": {
+   "text": "Watch this winter owl get colored! 🦉❄️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #winteractivities",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:winter"
+ },
+ {
+  "id": "yt_050_shapes_color",
+  "when_et": "2026-12-08 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_shapes_color.mp4"
+  ],
+  "caption": {
+   "text": "Coloring everything GREEN! 💚🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #learncolors",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:shapes",
+  "same_as": "shapes_color_reel"
+ },
+ {
+  "id": "yt_051_xmas_activity_flip",
+  "when_et": "2026-12-09 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_activity_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Christmas Activity Book! 🎄📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmasactivities",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_activity",
+  "same_as": "xmas_activity_flip_reel"
+ },
+ {
+  "id": "yt_052_feelings_flip",
+  "when_et": "2026-12-10 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_feelings_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our My Feelings Activity Book! 💛📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #feelings",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:feelings",
+  "same_as": "feelings_flip_reel"
+ },
+ {
+  "id": "yt_053_preschool_color",
+  "when_et": "2026-12-11 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_preschool_color.mp4"
+  ],
+  "caption": {
+   "text": "Coloring the letter R! 🔤🖍️ Preschool fun\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #preschool",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:preschool",
+  "same_as": "preschool_color_reel"
+ },
+ {
+  "id": "yt_054_xmas_coloring_color26",
+  "when_et": "2026-12-12 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_xmas_coloring_color26.mp4"
+  ],
+  "caption": {
+   "text": "Watch Santa's boots get colored! 🎅🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #christmascoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:xmas_coloring"
+ },
+ {
+  "id": "yt_055_cursive_flip",
+  "when_et": "2026-12-13 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_cursive_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through our Cursive Handwriting Workbook! ✍️📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #cursive",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:cursive",
+  "same_as": "cursive_flip_reel"
+ },
+ {
+  "id": "yt_056_scissors_color",
+  "when_et": "2026-12-14 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_scissors_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this butterfly craft get colored! 🦋✂️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #scissorskills",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:scissors",
+  "same_as": "scissors_color_reel"
+ },
+ {
+  "id": "yt_057_winter_color4",
+  "when_et": "2026-12-15 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_winter_color4.mp4"
+  ],
+  "caption": {
+   "text": "Watch this cozy polar bear get colored! ❄️🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #winteractivities",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:winter"
+ },
+ {
+  "id": "yt_058_sightwords_color",
+  "when_et": "2026-12-16 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_sightwords_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch a whole book cover get colored! 📖🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #sightwords",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:sightwords",
+  "same_as": "sightwords_color_reel"
+ },
+ {
+  "id": "yt_059_handwriting_color",
+  "when_et": "2026-12-17 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_handwriting_color.mp4"
+  ],
+  "caption": {
+   "text": "Watch this ABC cover get colored! ✏️🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #handwriting",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:handwriting",
+  "same_as": "handwriting_color_reel"
+ },
+ {
+  "id": "yt_060_cursive_color",
+  "when_et": "2026-12-18 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_cursive_color.mp4"
+  ],
+  "caption": {
+   "text": "A Cursive Champion award gets colored! ✍️🏆\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #cursive",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:cursive",
+  "same_as": "cursive_color_reel"
  }
 ]

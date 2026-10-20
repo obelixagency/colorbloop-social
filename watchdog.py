@@ -18,6 +18,14 @@ Runs every 30 min from .github/workflows/watchdog.yml. For every calendar.json e
   - at most one LATE (>2 h) entry per kind per run, so any backlog trickles out instead of flooding;
   - an entry still failing STALE_HOURS after its time -> exit 1 (GitHub emails the repo owner).
     Missing secrets ("not_connected", e.g. YouTube not set up) never escalate.
+  - ETSY-ONLY products use the same per-book plan with "book": "etsy:<key>": the first run that sees
+    links.etsy.<key> non-empty records "_live_etsy_<key>" (and "etsy:<key>" in "_live_seq"), same day-0 and
+    de-collision rules. Plain "book": "<key>" still means the Amazon link (unchanged).
+  - kind "yt" = YouTube-only daily Shorts (absolute dates, 12:00 ET). "related": "amazon:<key>" only picks the
+    CTA (Amazon link if live, else "Subscribe"), it never gates. "same_as": "<reel id>" names the reel whose
+    video it is a YouTube variant of: that reel then skips YouTube, so a video never lands on the channel twice.
+  - YouTube quota guard: at most YT_DAILY_MAX upload attempts per Pacific day (videos.insert = 1600 units of
+    the 10k/day quota); anything over waits for the next day (counter "_yt_quota" in publish_log.json).
 """
 import datetime as dt, json, os, sys
 from zoneinfo import ZoneInfo
@@ -36,7 +44,10 @@ PLATFORMS = {
     "carousel": ["instagram_carousel", "facebook_carousel"],
     "reel": ["instagram_reel", "facebook_reel", "youtube_short", "instagram_story", "facebook_story"],
     "story": ["instagram_story", "facebook_story"],
+    "yt": ["youtube_short"],
 }
+YT_DAILY_MAX = 2
+PT = ZoneInfo("America/Los_Angeles")    # YouTube quota resets at midnight Pacific
 ENABLED = set(os.environ.get("PLATFORMS", "instagram,facebook").split(","))
 
 
@@ -51,9 +62,38 @@ def link_for(links, key):
     return links.get(key, "")
 
 
+def gate_of(book):
+    """Calendar "book" value -> link key: "dinosaurs" -> "amazon:dinosaurs", "etsy:bundle_mega" stays."""
+    return book if ":" in book else f"amazon:{book}"
+
+
+def live_key(book):
+    """publish_log key of a book's go-live date: "_live_<key>" (Amazon, as before) / "_live_etsy_<key>"."""
+    shop, key = gate_of(book).split(":", 1)
+    return f"_live_{key}" if shop == "amazon" else f"_live_{shop}_{key}"
+
+
+def _shop_line(link_key, url):
+    return (f"🖨️ Instant download on Etsy: {url}" if link_key.startswith("etsy:") else f"📚 Get it here: {url}")
+
+
 def caption_for(entry, links, platform):
     c = entry.get("caption")
     if not c: return ""
+    if entry.get("kind") == "yt":                       # YouTube-only Short: related link (never a gate) + subscribe
+        rel = entry.get("related") or ""
+        url = link_for(links, rel)
+        cta = (_shop_line(rel, url) + "\n" if url else "") + "🔔 Subscribe for daily coloring videos!"
+        return c["text"].replace("{cta}", cta)
+    if (c.get("link_key") or "").startswith("etsy:"):    # Etsy-only product
+        url = link_for(links, c["link_key"])
+        if not url:
+            cta = "Coming soon! Follow @color.bloop so you don't miss it."
+        elif platform.startswith("facebook") or platform.startswith("youtube"):
+            cta = f"🖨️ Instant download on Etsy: {url}"
+        else:
+            cta = "🛍️ Search 'Colorbloop' on Etsy or tap the link in our stories"
+        return c["text"].replace("{cta}", cta)
     url = link_for(links, c.get("link_key"))
     etsy = link_for(links, "etsy:" + c["link_key"].split(":", 1)[1]) if (c.get("link_key") or "").startswith("amazon:") else ""
     if c.get("link_key") and not url:
@@ -80,19 +120,19 @@ def _slot(kind, when):
 
 
 def record_live(cal, links, log, now):
-    """First sighting of a book's Amazon link -> "_live_<key>" (ET date) + its place in "_live_seq"."""
+    """First sighting of a book's link -> "_live_<key>" / "_live_etsy_<key>" (ET date) + its place in "_live_seq"."""
     now_et = now.astimezone(ET)
     seq = log.setdefault("_live_seq", [])
     books = []
     for e in cal:
         if e.get("book") and e["book"] not in books: books.append(e["book"])
     for b in books:
-        if f"_live_{b}" in log or not link_for(links, f"amazon:{b}"): continue
+        if live_key(b) in log or not link_for(links, gate_of(b)): continue
         day0 = [e["time"] for e in cal if e.get("book") == b and int(e["day"]) == 0]
         live = now_et.date()
         if day0 and now_et >= _at(live, min(day0)):
             live += dt.timedelta(days=1)          # too late today for the day-0 posts -> start tomorrow
-        log[f"_live_{b}"] = live.isoformat()
+        log[live_key(b)] = live.isoformat()
         seq.append(b)
         print(f"BOOK LIVE: {b} -> plan day 0 = {live}")
 
@@ -121,7 +161,7 @@ def schedule(cal, log):
     seq = log.get("_live_seq", [])
     todo = []
     for b in seq:
-        live = dt.date.fromisoformat(log[f"_live_{b}"])
+        live = dt.date.fromisoformat(log[live_key(b)])
         for e in cal:
             if e.get("book") == b and e["id"] not in due:
                 todo.append((_tier(e), _at(live + dt.timedelta(days=int(e["day"])), e["time"]), seq.index(b), e))
@@ -130,6 +170,20 @@ def schedule(cal, log):
             when = _at(when.date() + dt.timedelta(days=1), e["time"])
         due[e["id"]] = when; taken.add(_slot(e["kind"], when))
     return due
+
+
+def platforms_for(e, yt_twins):
+    """Platforms of an entry; a reel whose video has a YouTube-only variant ("same_as") skips YouTube."""
+    return [p for p in PLATFORMS[e["kind"]] if not (p == "youtube_short" and e["id"] in yt_twins)]
+
+
+def yt_quota(log, now):
+    day = now.astimezone(PT).date().isoformat()
+    q = log.get("_yt_quota") or {}
+    if q.get("date") != day:
+        q = {"date": day, "n": 0}
+    log["_yt_quota"] = q
+    return q
 
 
 def run(now=None):
@@ -144,36 +198,45 @@ def run(now=None):
         print("LAUNCH day recorded:", log["_launch"])
     record_live(cal, links, log, now)
     due_at = schedule(cal, log)
+    yt_twins = {e["same_as"] for e in cal if e.get("kind") == "yt" and e.get("same_as")}
     escalate = []
     caught_up = set()      # at most one LATE entry per kind per run, so a backlog trickles out instead of flooding
     for e in sorted((e for e in cal if e["id"] in due_at), key=lambda e: due_at[e["id"]]):
         due = due_at[e["id"]].astimezone(dt.timezone.utc)
         if now < due: continue
-        gate = e.get("requires_link") or (f"amazon:{e['book']}" if e.get("book") else None)
+        gate = e.get("requires_link") or (gate_of(e["book"]) if e.get("book") else None)
         if gate and not link_for(links, gate):
             continue                                           # book not live (or link removed) -> wait
         row = log.setdefault(e["id"], {})
         row.setdefault("_due", due_at[e["id"]].isoformat())   # pin: this entry's slot never moves again
         late_h = (now - due).total_seconds() / 3600
-        done = all((row.get(p) or {}).get("status") == "ok" for p in PLATFORMS[e["kind"]] if p.split("_")[0] in ENABLED)
+        plats = platforms_for(e, yt_twins)
+        done = all((row.get(p) or {}).get("status") == "ok" for p in plats if p.split("_")[0] in ENABLED)
         if not done and late_h > 2:
             if e["kind"] in caught_up: continue
             caught_up.add(e["kind"])
         files = [os.path.join(HERE, "assets", f) for f in e["files"]]
-        for platform in PLATFORMS[e["kind"]]:
+        for platform in plats:
             if platform.split("_")[0] not in ENABLED: continue
             st = row.get(platform, {"status": "pending", "attempts": 0})
             if st["status"] == "ok": continue
             last = st.get("last_attempt")
             if last and (now - dt.datetime.fromisoformat(last)).total_seconds() < RETRY_COOLDOWN_MIN * 60: continue
+            if platform == "youtube_short":
+                q = yt_quota(log, now)
+                if q["n"] >= YT_DAILY_MAX:
+                    print(f'{e["id"]} {platform}: waiting (YouTube daily cap {YT_DAILY_MAX} reached)'); continue
             target = files if platform.endswith("carousel") else files[0]
             if platform.endswith("story") and e["kind"] == "story": cap = ""
             else: cap = caption_for(e, links, platform)
             ok, detail = PUB.publish(platform, target, cap)
+            if platform == "youtube_short" and detail.get("error") != "not_connected":
+                q["n"] += 1
             st.update(status="ok" if ok else "failed", detail=detail, attempts=st["attempts"] + 1, last_attempt=now.isoformat())
             row[platform] = st
             print(f'{e["id"]} {platform}: {st["status"]}' + ("" if ok else f' ({detail.get("message", "")[:120]})'))
-        bad = [p for p, s in row.items() if p != "_due" and s["status"] != "ok" and s.get("detail", {}).get("error") != "not_connected"]
+        bad = [p for p, s in row.items() if p != "_due" and s["status"] != "ok" and s.get("detail", {}).get("error") != "not_connected"
+               and s.get("attempts", 0) >= 2]      # one failure right after an outage isn't an alarm; a failed retry is
         if late_h >= STALE_HOURS and bad and not e.get("requires_link"):
             escalate.append((e["id"], round(late_h, 1), bad))
     json.dump(log, open(LOG, "w"), indent=1, ensure_ascii=False)

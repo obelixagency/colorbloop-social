@@ -208,6 +208,16 @@ def _yt_access_token():
     return data["access_token"]
 
 
+def yt_title(caption, limit=90):
+    """First caption line, <=90 chars (cut at a word, with an ellipsis), + " #Shorts" -> always <=100 chars,
+    YouTube's hard title limit. '<' and '>' are not allowed in YouTube titles."""
+    t = (caption.splitlines()[0] if caption else "").strip().replace("<", "").replace(">", "") or "Colorbloop"
+    if len(t) > limit:
+        cut = t[:limit - 1]
+        t = (cut.rsplit(" ", 1)[0] if " " in cut[20:] else cut).rstrip(" ,.;:—–-") + "…"
+    return t + " #Shorts"
+
+
 def publish_youtube_short(path, caption):
     """Uploads path as a public video on the authorized channel (YT_CHANNEL_ID is the account the
     refresh token already belongs to; the API has no separate "post as channel X" switch, so this
@@ -215,7 +225,7 @@ def publish_youtube_short(path, caption):
     #Shorts plus a vertical <=60s video is what gets it treated as a Short."""
     _need("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN", "YT_CHANNEL_ID")
     token = _yt_access_token()
-    title = ((caption.splitlines()[0] if caption else "Colorbloop").strip()[:95] + " #Shorts")
+    title = yt_title(caption)
     metadata = {
         "snippet": {"title": title, "description": caption, "categoryId": "27", "tags": ["coloring book", "kids activities", "preschool", "Colorbloop"]},
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False},

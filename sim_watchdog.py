@@ -40,6 +40,8 @@ def main():
     W.LOG = os.path.join(tmp, "publish_log.json"); W.LINKS = os.path.join(tmp, "links.json")
     W.ENABLED = {"instagram", "facebook", "youtube"}
     base = json.load(open(os.path.join(HERE, "links.json")))
+    for shop in ("amazon", "etsy"):          # start from a clean slate: links appear only when the sim says so
+        base[shop] = {k: "" for k in base.get(shop, {})}
     cal = json.load(open(W.CAL))
     rnd = random.Random(7)
     posted = collections.defaultdict(list)          # id -> [(tick, platform)]
@@ -97,7 +99,8 @@ def main():
     for h, i in late[-5:]: print("   %.1f h  %s" % (h, i))
     # everything that should have happened did
     end = START + dt.timedelta(days=DAYS)
-    missing = [i for i, w in due.items() if w < end - dt.timedelta(hours=6) and i not in started]
+    # (YouTube is "not connected" in this sim, so the YouTube-only "yt" Shorts can never post here; see sim_etsy_yt.py)
+    missing = [i for i, w in due.items() if w < end - dt.timedelta(hours=6) and i not in started and byid[i]["kind"] != "yt"]
     print("due but never posted:", missing or "none")
     print("\nper-book go-live -> plan day 0 and actual post days (ET):")
     for b in log.get("_live_seq", []):

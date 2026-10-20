@@ -69,3 +69,19 @@ Settings ← Secrets and variables ← Actions ← New repository secret:
 - الكتب: `xmas_activity, abc, xmas_coloring, thanksgiving, numbers, shapes, preschool, animals, kindergarten, dinosaurs, vehicles, unicorns, scissors, sightwords, handwriting, cursive, space, feelings, valentines, easter`
 
 ملحوظة: API انستجرام مش بيسمح بستيكر اللينك في الستوري، وده قيد من Meta نفسها. علشان كده الستوريز بتقول "Tap the link in our bio".
+
+## منتجات Etsy بس (جديد)
+فيه 9 منتجات على Etsy بس (مش على أمازون): `xmasparty, winter, busybook, routine` و5 باندلز `bundle_preschool, bundle_coloring, bundle_kinder, bundle_holiday, bundle_mega`.
+- أول ما المنتج يتنشر على Etsy، حط لينكه في `links.json` جوه `"etsy"` (مثلاً `"bundle_mega": "https://www.etsy.com/listing/..."`) واعمل Commit.
+- خطته بتبدأ لوحدها من يوم اللينك: يوم 0 ستوري 6:00 م وريل 7:30 م، يوم 2 كاروسيل 10:00 ص، يوم 5 ستوري Peek 6:00 م. وبيمشي على نفس قواعد منع الزحمة (ريل واحد وبوست واحد في اليوم)، وبيتسجل في اللوج `_live_etsy_<المنتج>`.
+- **فيسبوك ويوتيوب:** الكابشن فيه "🖨️ Instant download on Etsy" ومعاه اللينك. **انستجرام:** "Search 'Colorbloop' on Etsy". لينك البايو زي ما هو (أمازون).
+- لو حطيت كل اللينكات في نفس اليوم مفيش مشكلة، البوستات هتتوزع على كذا يوم. الأولوية لـ Christmas Party Games وبعدها Holiday Bundle.
+
+## يوتيوب: Short كل يوم (جديد)
+- فيه 60 Short ليوتيوب بس (نوع `yt` في `calendar.json`)، واحد كل يوم الساعة 12:00 الضهر ET، من 21 أكتوبر لـ 19 ديسمبر. في نوفمبر وديسمبر الأولوية لمواضيع الكريسماس والشتا وعيد الشكر.
+- الفيديوهات دي نسخ من ريلز التلوين والـ Flip، بس آخرها بيقول **"Subscribe @Colorbloopbooks"** بدل "Available on Amazon"، علشان مفيش ادعاء إن الكتاب متاح قبل ما ينزل. وفيه كمان 16 فيديو تلوين جداد.
+- الوصف: لو الكتاب نزل على أمازون (أو Etsy) بيتحط لينكه، ولو لسه ما نزلش بيبقى "Subscribe for daily coloring videos!".
+- **مفيش فيديو بيتكرر على القناة:** الريل اللي ليه نسخة `yt` مش بيترفع على يوتيوب تاني. ريلز الإطلاق بس هي اللي بتنزل على يوتيوب مع انستجرام وفيسبوك.
+- **حد أقصى رفعتين في اليوم** (كوتة يوتيوب 10,000 وحدة، وكل رفعة 1600). لو اتعدى الحد، الرفع بيستنى لليوم اللي بعده. العداد اسمه `_yt_quota` في `publish_log.json`.
+- عنوان يوتيوب بيتقص لحد 90 حرف + " #Shorts"، علشان ما يعديش حد الـ 100 حرف.
+- محاكاة جديدة: `python sim_etsy_yt.py` (75 يوم، Etsy + يوتيوب).
