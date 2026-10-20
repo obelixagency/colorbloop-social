@@ -1,7 +1,7 @@
 {
   "_note": "Paste each book's Amazon link once it is live. Nothing is posted until the FIRST Amazon link is added (that day = launch day for the brand posts). Each book's own posts start from the day ITS link is added (per-book plan in calendar.json). Instagram bio link = an Amazon link (later the Amazon author page).",
   "amazon": {
-    "xmas_activity": "",
+    "xmas_activity": "https://www.amazon.com/dp/B0HNLYHYLJ",
     "abc": "",
     "xmas_coloring": "",
     "thanksgiving": "",
