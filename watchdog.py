@@ -38,6 +38,7 @@ CAL = os.path.join(HERE, "calendar.json")
 LINKS = os.path.join(HERE, "links.json")
 STALE_HOURS = 2.5
 RETRY_COOLDOWN_MIN = 25
+MAX_ATTEMPTS = 8          # after this many failed tries a platform is left alone (no retry, no alarm e-mails)
 PLAN_START = dt.date(2026, 10, 19)   # the date calendar.json's absolute entries were written against
 PLATFORMS = {
     "post": ["instagram_post", "facebook_post"],
@@ -234,6 +235,7 @@ def run(now=None):
             if platform.split("_")[0] not in ENABLED: continue
             st = row.get(platform, {"status": "pending", "attempts": 0})
             if st["status"] == "ok": continue
+            if st.get("attempts", 0) >= MAX_ATTEMPTS: continue
             last = st.get("last_attempt")
             if last and (now - dt.datetime.fromisoformat(last)).total_seconds() < RETRY_COOLDOWN_MIN * 60: continue
             if platform == "youtube_short":
@@ -250,7 +252,7 @@ def run(now=None):
             row[platform] = st
             print(f'{e["id"]} {platform}: {st["status"]}' + ("" if ok else f' ({detail.get("message", "")[:120]})'))
         bad = [p for p, s in row.items() if p != "_due" and s["status"] != "ok" and s.get("detail", {}).get("error") != "not_connected"
-               and s.get("attempts", 0) >= 2]      # one failure right after an outage isn't an alarm; a failed retry is
+               and 2 <= s.get("attempts", 0) < MAX_ATTEMPTS]      # one failure right after an outage isn't an alarm; a failed retry is
         if late_h >= STALE_HOURS and bad and not e.get("requires_link"):
             escalate.append((e["id"], round(late_h, 1), bad))
     json.dump(log, open(LOG, "w"), indent=1, ensure_ascii=False)
