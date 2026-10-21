@@ -87,7 +87,7 @@ def _shop_line(link_key, url, links):
     return (f"🖨️ Instant download on Etsy: {etsy_shop(links)}" if link_key.startswith("etsy:") else f"📚 Get it here: {url}")
 
 
-def caption_for(entry, links, platform):
+def _caption_raw(entry, links, platform):
     c = entry.get("caption")
     if not c: return ""
     shop = etsy_shop(links)
@@ -120,6 +120,36 @@ def caption_for(entry, links, platform):
     else:
         cta = f"Follow @color.bloop for new books & coloring fun! 🖨️ Printables: {shop}" if (platform.startswith("facebook") or platform.startswith("youtube")) else "Follow @color.bloop for new books & coloring fun! 🖨️ Printables: link in bio"
     return c["text"].replace("{cta}", cta)
+
+
+HASHTAG_CAP = {"instagram": 5, "facebook": 3}   # Instagram allows max 5 hashtags; on Facebook 2-3 read best
+
+
+GENERIC_TAGS = {"#coloringbook", "#kidsactivities", "#preschoolactivities", "#toddleractivities", "#coloringpages",
+                "#homeschool", "#coloring", "#coloringforkids", "#satisfying", "#printables"}
+
+
+def _cap_hashtags(text, n):
+    """Keep at most n hashtags: topic-specific tags first (they rank posts in niche searches), then generic ones."""
+    import re
+    tags = []
+    for t in re.findall(r"#\w+", text):
+        if t.lower() not in [x.lower() for x in tags]: tags.append(t)
+    specific = [t for t in tags if t.lower() not in GENERIC_TAGS]
+    generic = [t for t in tags if t.lower() in GENERIC_TAGS]
+    keep = specific[:max(n - 2, 1)]
+    keep += generic[:n - len(keep)]
+    keep += [t for t in specific if t not in keep][:n - len(keep)]
+    body = re.sub(r"#\w+", "", text)
+    body = "\n".join(re.sub(r"[ \t]{2,}", " ", ln).rstrip() for ln in body.split("\n")).rstrip()
+    ordered = [t for t in tags if t in keep]
+    return body + ("\n\n" + " ".join(ordered) if ordered else "")
+
+
+def caption_for(entry, links, platform):
+    text = _caption_raw(entry, links, platform)
+    n = HASHTAG_CAP.get(platform.split("_")[0])
+    return _cap_hashtags(text, n) if (n and text) else text
 
 
 def _at(date, hhmm):

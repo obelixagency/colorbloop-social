@@ -62,10 +62,27 @@ def publish_facebook_post(path, caption):
     return _check(r)["id"]
 
 
+def _fb_rupload(endpoint, path, token, finish_params):
+    """3-phase upload used by /video_reels and /video_stories: start -> binary to rupload -> finish."""
+    page_id = endpoint.split("/")[0]
+    start = _check(requests.post(f"{GRAPH}/{endpoint}", data={"upload_phase": "start", "access_token": token}))
+    with open(path, "rb") as f:
+        up = requests.post(start["upload_url"], data=f.read(),
+                           headers={"Authorization": f"OAuth {token}", "offset": "0", "file_size": str(os.path.getsize(path))})
+    _check(up)
+    return _check(requests.post(f"{GRAPH}/{endpoint}",
+                                data={"upload_phase": "finish", "video_id": start["video_id"], "access_token": token, **finish_params}))
+
+
 def publish_facebook_reel(path, caption):
-    """Uploads as a standard Page video post. (Landing specifically in the Facebook Reels tray needs the
-    separate resumable Reels upload API; this still publishes the video to the Page's feed and video tab.)"""
+    """Publishes through the Reels API so the video lands in the Facebook Reels tray (far more reach than a
+    plain Page video). Falls back to a standard Page video if the Reels API refuses it."""
     page_id, token = _fb_page()
+    try:
+        r = _fb_rupload(f"{page_id}/video_reels", path, token, {"video_state": "PUBLISHED", "description": caption})
+        return r.get("post_id") or r.get("video_id") or r
+    except Exception as ex:
+        print(f"facebook_reel: Reels API failed ({str(ex)[:150]}), falling back to Page video")
     data = {"description": caption, "access_token": token}
     offset = _cover_offset_ms(path)
     if offset is not None: data["thumb_offset"] = offset
@@ -77,18 +94,8 @@ def publish_facebook_reel(path, caption):
 def publish_facebook_story(path, caption):
     page_id, token = _fb_page()
     if str(path).endswith(".mp4"):
-        # Video stories need the 3-phase upload (start -> binary to rupload -> finish);
-        # posting an existing video_id fails with "(#100) The parameter upload_phase is required".
-        start = _check(requests.post(f"{GRAPH}/{page_id}/video_stories",
-                                     data={"upload_phase": "start", "access_token": token}))
-        vid = start["video_id"]
-        size = os.path.getsize(path)
-        with open(path, "rb") as f:
-            up = requests.post(start["upload_url"], data=f.read(),
-                               headers={"Authorization": f"OAuth {token}", "offset": "0", "file_size": str(size)})
-        _check(up)
-        return _check(requests.post(f"{GRAPH}/{page_id}/video_stories",
-                                    data={"upload_phase": "finish", "video_id": vid, "access_token": token}))
+        # Video stories need the 3-phase upload; posting an existing video_id fails with "upload_phase is required".
+        return _fb_rupload(f"{page_id}/video_stories", path, token, {})
     with open(path, "rb") as f:
         r = requests.post(f"{GRAPH}/{page_id}/photos", data={"published": "false", "access_token": token},
                           files={"source": f})
@@ -97,9 +104,18 @@ def publish_facebook_story(path, caption):
 
 
 def publish_facebook_carousel(paths, caption):
-    """Facebook Pages have no native multi-image carousel post; publish each image as its own post,
-    same as a human page manager would."""
-    return [publish_facebook_post(p, caption if i == 0 else "") for i, p in enumerate(paths)]
+    """One native multi-photo Page post (photos uploaded unpublished, then attached to a single feed post),
+    instead of N separate posts that flood followers' feeds."""
+    page_id, token = _fb_page()
+    ids = []
+    for p in paths:
+        with open(p, "rb") as f:
+            r = requests.post(f"{GRAPH}/{page_id}/photos", data={"published": "false", "access_token": token}, files={"source": f})
+        ids.append(_check(r)["id"])
+    data = {"message": caption, "access_token": token}
+    for i, mid in enumerate(ids):
+        data[f"attached_media[{i}]"] = json.dumps({"media_fbid": mid})
+    return _check(requests.post(f"{GRAPH}/{page_id}/feed", data=data))["id"]
 
 
 # ---------------- Instagram (needs a public URL - see _public_url) ----------------
