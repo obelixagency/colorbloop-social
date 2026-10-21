@@ -2,7 +2,7 @@
   "_note": "Paste each book's Amazon link once it is live. Nothing is posted until the FIRST Amazon link is added (that day = launch day for the brand posts). Each book's own posts start from the day ITS link is added (per-book plan in calendar.json). Instagram bio link = https://colorbloop.etsy.com (Etsy Share & Save link). Every Etsy link in captions is etsy_share; listing URLs under \"etsy\" only switch each product's plan on. Etsy-only products (xmasparty, winter, busybook, routine, bundle_*): paste the Etsy listing link under \"etsy\" -> that product's own plan starts (calendar.json \"book\": \"etsy:<key>\").",
   "amazon": {
     "xmas_activity": "https://www.amazon.com/dp/B0HNLYHYLJ",
-    "abc": "",
+    "abc": "https://www.amazon.com/dp/B0HNPS6FQ5",
     "xmas_coloring": "",
     "thanksgiving": "",
     "numbers": "",
