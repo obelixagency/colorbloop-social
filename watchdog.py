@@ -21,6 +21,8 @@ Runs every 30 min from .github/workflows/watchdog.yml. For every calendar.json e
   - ETSY-ONLY products use the same per-book plan with "book": "etsy:<key>": the first run that sees
     links.etsy.<key> non-empty records "_live_etsy_<key>" (and "etsy:<key>" in "_live_seq"), same day-0 and
     de-collision rules. Plain "book": "<key>" still means the Amazon link (unchanged).
+  - "not_before": "YYYY-MM-DD" on a per-book entry starts that book's plan no earlier than that date (seasonal books
+    such as Valentine's / Easter / New Year go live early on the stores but are promoted close to their season);
   - kind "yt" = YouTube-only daily Shorts (absolute dates, 12:00 ET). "related": "amazon:<key>" only picks the
     CTA (Amazon link if live, else "Subscribe"), it never gates. "same_as": "<reel id>" names the reel whose
     video it is a YouTube variant of: that reel then skips YouTube, so a video never lands on the channel twice.
@@ -209,7 +211,8 @@ def schedule(cal, log):
         live = dt.date.fromisoformat(log[live_key(b)])
         for e in cal:
             if e.get("book") == b and e["id"] not in due:
-                todo.append((_tier(e), _at(live + dt.timedelta(days=int(e["day"])), e["time"]), seq.index(b), e))
+                start = max(live, dt.date.fromisoformat(e["not_before"])) if e.get("not_before") else live
+                todo.append((_tier(e), _at(start + dt.timedelta(days=int(e["day"])), e["time"]), seq.index(b), e))
     for _, when, _, e in sorted(todo, key=lambda x: x[:3]):
         while _slot(e["kind"], when) in taken:
             when = _at(when.date() + dt.timedelta(days=1), e["time"])

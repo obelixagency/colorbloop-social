@@ -1799,7 +1799,8 @@
   "caption": null,
   "book": "valentines",
   "day": 0,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2027-01-12"
  },
  {
   "id": "launch_valentines_reel",
@@ -1813,7 +1814,8 @@
   },
   "book": "valentines",
   "day": 0,
-  "time": "19:30"
+  "time": "19:30",
+  "not_before": "2027-01-12"
  },
  {
   "id": "launch_valentines_carousel",
@@ -1831,7 +1833,8 @@
   },
   "book": "valentines",
   "day": 2,
-  "time": "10:00"
+  "time": "10:00",
+  "not_before": "2027-01-12"
  },
  {
   "id": "valentines_peek1",
@@ -1842,7 +1845,8 @@
   "caption": null,
   "book": "valentines",
   "day": 4,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2027-01-12"
  },
  {
   "id": "valentines_peek2",
@@ -1853,7 +1857,8 @@
   "caption": null,
   "book": "valentines",
   "day": 6,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2027-01-12"
  },
  {
   "id": "valentines_flip_reel",
@@ -1867,7 +1872,8 @@
   },
   "book": "valentines",
   "day": 9,
-  "time": "19:30"
+  "time": "19:30",
+  "not_before": "2027-01-12"
  },
  {
   "id": "valentines_color_reel",
@@ -1881,7 +1887,8 @@
   },
   "book": "valentines",
   "day": 16,
-  "time": "19:30"
+  "time": "19:30",
+  "not_before": "2027-01-12"
  },
  {
   "id": "launch_easter_story",
@@ -1892,7 +1899,8 @@
   "caption": null,
   "book": "easter",
   "day": 0,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2027-02-25"
  },
  {
   "id": "launch_easter_reel",
@@ -1906,7 +1914,8 @@
   },
   "book": "easter",
   "day": 0,
-  "time": "19:30"
+  "time": "19:30",
+  "not_before": "2027-02-25"
  },
  {
   "id": "launch_easter_carousel",
@@ -1924,7 +1933,8 @@
   },
   "book": "easter",
   "day": 2,
-  "time": "10:00"
+  "time": "10:00",
+  "not_before": "2027-02-25"
  },
  {
   "id": "easter_peek1",
@@ -1935,7 +1945,8 @@
   "caption": null,
   "book": "easter",
   "day": 4,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2027-02-25"
  },
  {
   "id": "easter_peek2",
@@ -1946,7 +1957,8 @@
   "caption": null,
   "book": "easter",
   "day": 6,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2027-02-25"
  },
  {
   "id": "easter_flip_reel",
@@ -1960,7 +1972,8 @@
   },
   "book": "easter",
   "day": 9,
-  "time": "19:30"
+  "time": "19:30",
+  "not_before": "2027-02-25"
  },
  {
   "id": "easter_color_reel",
@@ -1974,7 +1987,8 @@
   },
   "book": "easter",
   "day": 16,
-  "time": "19:30"
+  "time": "19:30",
+  "not_before": "2027-02-25"
  },
  {
   "id": "etsy_xmasparty_story",
@@ -2525,7 +2539,8 @@
   "caption": null,
   "book": "etsy:myyear",
   "day": 0,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2026-12-08"
  },
  {
   "id": "etsy_myyear_reel",
@@ -2539,7 +2554,8 @@
   },
   "book": "etsy:myyear",
   "day": 0,
-  "time": "19:30"
+  "time": "19:30",
+  "not_before": "2026-12-08"
  },
  {
   "id": "etsy_myyear_carousel",
@@ -2557,7 +2573,8 @@
   },
   "book": "etsy:myyear",
   "day": 2,
-  "time": "10:00"
+  "time": "10:00",
+  "not_before": "2026-12-08"
  },
  {
   "id": "etsy_myyear_peek",
@@ -2568,7 +2585,8 @@
   "caption": null,
   "book": "etsy:myyear",
   "day": 5,
-  "time": "18:00"
+  "time": "18:00",
+  "not_before": "2026-12-08"
  },
  {
   "id": "yt_001_dinosaurs_color",
