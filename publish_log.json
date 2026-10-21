@@ -11,7 +11,9 @@
   "etsy:bundle_coloring",
   "etsy:bundle_kinder",
   "etsy:bundle_mega",
-  "abc"
+  "abc",
+  "etsy:countdown",
+  "etsy:myyear"
  ],
  "_live_xmas_activity": "2026-10-20",
  "_live_etsy_xmasparty": "2026-10-20",
@@ -167,5 +169,7 @@
    },
    "last_attempt": "2026-10-21T22:10:16.653996+00:00"
   }
- }
+ },
+ "_live_etsy_countdown": "2026-10-22",
+ "_live_etsy_myyear": "2026-10-22"
 }
