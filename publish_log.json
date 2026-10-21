@@ -171,5 +171,44 @@
   }
  },
  "_live_etsy_countdown": "2026-10-22",
- "_live_etsy_myyear": "2026-10-22"
+ "_live_etsy_myyear": "2026-10-22",
+ "etsy_xmasparty_reel": {
+  "_due": "2026-10-21T19:30:00-04:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18120361058058296"
+   },
+   "last_attempt": "2026-10-21T23:32:02.902002+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122097155715521705"
+   },
+   "last_attempt": "2026-10-21T23:32:02.902002+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18079768808402611"
+   },
+   "last_attempt": "2026-10-21T23:32:02.902002+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/page-stories-api.",
+     "post_id": "2191388598454359"
+    }
+   },
+   "last_attempt": "2026-10-21T23:32:02.902002+00:00"
+  }
+ }
 }
