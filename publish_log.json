@@ -99,16 +99,46 @@
   },
   "facebook_story": {
    "status": "failed",
-   "attempts": 2,
+   "attempts": 3,
    "detail": {
     "error": "publish_failed",
-    "message": "{'message': '(#100) The parameter upload_phase is required.', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'AtUIPwMLc5luf2vC5TIB9QR'}"
+    "message": "{'message': '(#100) The parameter upload_phase is required.', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'ANiSA0uzDAXsWPjtNYRSllI'}"
    },
-   "last_attempt": "2026-10-21T04:09:00.506986+00:00"
+   "last_attempt": "2026-10-21T16:30:17.159808+00:00"
   }
  },
  "_yt_quota": {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "n": 1
+ },
+ "2026-10-20_1000_post": {
+  "_due": "2026-10-21T10:00:00-04:00",
+  "instagram_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18128087719921909"
+   },
+   "last_attempt": "2026-10-21T16:30:17.159808+00:00"
+  },
+  "facebook_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122096862783521705"
+   },
+   "last_attempt": "2026-10-21T16:30:17.159808+00:00"
+  }
+ },
+ "yt_001_dinosaurs_color": {
+  "_due": "2026-10-21T12:00:00-04:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "LxIJHF5SBtQ"
+   },
+   "last_attempt": "2026-10-21T16:30:17.159808+00:00"
+  }
  }
 }
