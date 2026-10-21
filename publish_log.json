@@ -99,13 +99,16 @@
    "last_attempt": "2026-10-21T01:49:09.857078+00:00"
   },
   "facebook_story": {
-   "status": "failed",
-   "attempts": 5,
+   "status": "ok",
+   "attempts": 6,
    "detail": {
-    "error": "publish_failed",
-    "message": "{'message': '(#100) The parameter upload_phase is required.', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'A9EV5DP_J5QpFp_WeElWFee'}"
+    "platform_ref": {
+     "success": true,
+     "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/page-stories-api.",
+     "post_id": "1466364845351581"
+    }
    },
-   "last_attempt": "2026-10-21T22:10:16.653996+00:00"
+   "last_attempt": "2026-10-21T22:55:20.624654+00:00"
   }
  },
  "_yt_quota": {
