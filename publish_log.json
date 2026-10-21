@@ -99,12 +99,12 @@
   },
   "facebook_story": {
    "status": "failed",
-   "attempts": 3,
+   "attempts": 4,
    "detail": {
     "error": "publish_failed",
-    "message": "{'message': '(#100) The parameter upload_phase is required.', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'ANiSA0uzDAXsWPjtNYRSllI'}"
+    "message": "{'message': '(#100) The parameter upload_phase is required.', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'AHwRj-MXNzSyTaGG2r_pl1n'}"
    },
-   "last_attempt": "2026-10-21T16:30:17.159808+00:00"
+   "last_attempt": "2026-10-21T20:19:51.385969+00:00"
   }
  },
  "_yt_quota": {
