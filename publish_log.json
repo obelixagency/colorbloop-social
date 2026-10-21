@@ -10,7 +10,8 @@
   "etsy:routine",
   "etsy:bundle_coloring",
   "etsy:bundle_kinder",
-  "etsy:bundle_mega"
+  "etsy:bundle_mega",
+  "abc"
  ],
  "_live_xmas_activity": "2026-10-20",
  "_live_etsy_xmasparty": "2026-10-20",
@@ -99,12 +100,12 @@
   },
   "facebook_story": {
    "status": "failed",
-   "attempts": 4,
+   "attempts": 5,
    "detail": {
     "error": "publish_failed",
-    "message": "{'message': '(#100) The parameter upload_phase is required.', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'AHwRj-MXNzSyTaGG2r_pl1n'}"
+    "message": "{'message': '(#100) The parameter upload_phase is required.', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'A9EV5DP_J5QpFp_WeElWFee'}"
    },
-   "last_attempt": "2026-10-21T20:19:51.385969+00:00"
+   "last_attempt": "2026-10-21T22:10:16.653996+00:00"
   }
  },
  "_yt_quota": {
@@ -139,6 +140,29 @@
     "platform_ref": "LxIJHF5SBtQ"
    },
    "last_attempt": "2026-10-21T16:30:17.159808+00:00"
+  }
+ },
+ "_live_abc": "2026-10-22",
+ "etsy_xmasparty_story": {
+  "_due": "2026-10-21T18:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18130460749763347"
+   },
+   "last_attempt": "2026-10-21T22:10:16.653996+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1122596023517423"
+    }
+   },
+   "last_attempt": "2026-10-21T22:10:16.653996+00:00"
   }
  }
 }
