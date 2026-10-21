@@ -73,37 +73,51 @@ def live_key(book):
     return f"_live_{key}" if shop == "amazon" else f"_live_{shop}_{key}"
 
 
-def _shop_line(link_key, url):
-    return (f"🖨️ Instant download on Etsy: {url}" if link_key.startswith("etsy:") else f"📚 Get it here: {url}")
+ETSY_SHOP_DEFAULT = "https://colorbloop.etsy.com"   # the shop's Share & Save link (Etsy refunds part of the fee on sales from it)
+
+
+def etsy_shop(links):
+    """Every Etsy link we post is the shop's Share & Save link, never a single listing URL.
+    Listing URLs in links.etsy.<key> are only the go-live gates for each product's plan."""
+    return (links.get("etsy_share") or ETSY_SHOP_DEFAULT).strip()
+
+
+def _shop_line(link_key, url, links):
+    return (f"🖨️ Instant download on Etsy: {etsy_shop(links)}" if link_key.startswith("etsy:") else f"📚 Get it here: {url}")
 
 
 def caption_for(entry, links, platform):
     c = entry.get("caption")
     if not c: return ""
-    if entry.get("kind") == "yt":                       # YouTube-only Short: related link (never a gate) + subscribe
+    shop = etsy_shop(links)
+    if entry.get("kind") == "yt":                       # YouTube-only Short: related link (never a gate) + Etsy shop + subscribe
         rel = entry.get("related") or ""
         url = link_for(links, rel)
-        cta = (_shop_line(rel, url) + "\n" if url else "") + "🔔 Subscribe for daily coloring videos!"
+        cta = (_shop_line(rel, url, links) + "\n" if url else "")
+        if not rel.startswith("etsy:"):
+            cta += f"🖨️ Printable PDFs on Etsy: {shop}\n"
+        cta += "🔔 Subscribe for daily coloring videos!"
         return c["text"].replace("{cta}", cta)
     if (c.get("link_key") or "").startswith("etsy:"):    # Etsy-only product
         url = link_for(links, c["link_key"])
         if not url:
             cta = "Coming soon! Follow @color.bloop so you don't miss it."
         elif platform.startswith("facebook") or platform.startswith("youtube"):
-            cta = f"🖨️ Instant download on Etsy: {url}"
+            cta = f"🖨️ Instant download on Etsy: {shop}"
         else:
-            cta = "🛍️ Search 'Colorbloop' on Etsy to get it"
+            cta = "🛍️ Instant download: tap the link in our bio (colorbloop.etsy.com)"
         return c["text"].replace("{cta}", cta)
     url = link_for(links, c.get("link_key"))
-    etsy = link_for(links, "etsy:" + c["link_key"].split(":", 1)[1]) if (c.get("link_key") or "").startswith("amazon:") else ""
+    on_etsy = (c.get("link_key") or "").startswith("amazon:") and bool(link_for(links, "etsy:" + c["link_key"].split(":", 1)[1]))
     if c.get("link_key") and not url:
         cta = "Coming soon! Follow @color.bloop so you don't miss it."
     elif (platform.startswith("facebook") or platform.startswith("youtube")) and url:
-        cta = f"📚 Get it here: {url}" + (f"\n🖨️ Printable PDF on Etsy: {etsy}" if etsy else "")
+        cta = f"📚 Paperback on Amazon: {url}" + (f"\n🖨️ Printable PDF on Etsy: {shop}" if on_etsy else "")
     elif url:
-        cta = "📚 Tap the link in our bio to get it!"
+        cta = ("🖨️ Printable PDF: tap the link in our bio\n📚 Paperback: search 'Colorbloop' on Amazon" if on_etsy
+               else "📚 Search 'Colorbloop' on Amazon to get it!")
     else:
-        cta = "Follow @color.bloop for new books & coloring fun!"
+        cta = f"Follow @color.bloop for new books & coloring fun! 🖨️ Printables: {shop}" if (platform.startswith("facebook") or platform.startswith("youtube")) else "Follow @color.bloop for new books & coloring fun! 🖨️ Printables: link in bio"
     return c["text"].replace("{cta}", cta)
 
 

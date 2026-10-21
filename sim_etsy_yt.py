@@ -107,7 +107,8 @@ def main():
     old = old_watchdog()
     a, _, _, _ = simulate(old, GO_LIVE, None, {"instagram", "facebook"}, False)
     b, ex_b, _, _ = simulate(W, GO_LIVE, None, {"instagram", "facebook"}, False)
-    same = a == b
+    strip = lambda cs: [(t, p, f, g) for t, p, f, _c, g in cs]   # captions changed on purpose (Etsy shop link); timing/files must not
+    same = strip(a) == strip(b)
     print(f"[equivalence] old watchdog {len(a)} calls, new {len(b)} calls -> {'IDENTICAL' if same else 'DIFFERENT'}")
     ok &= same
 
@@ -157,14 +158,15 @@ def main():
     for t, p, i, c in oks:
         e = byid[i]; lk = (e.get("caption") or {}).get("link_key") or ""
         if lk.startswith("etsy:"):
-            if p.startswith(("facebook", "youtube")) and "🖨️ Instant download on Etsy: https://www.etsy.com/" not in c and c: cta_bad.append((i, p))
-            if p.startswith("instagram") and c and ("http" in c or "Search 'Colorbloop' on Etsy" not in c): cta_bad.append((i, p))
+            if p.startswith(("facebook", "youtube")) and "🖨️ Instant download on Etsy: https://colorbloop.etsy.com" not in c and c: cta_bad.append((i, p))
+            if p.startswith("instagram") and c and ("http" in c or "link in our bio" not in c): cta_bad.append((i, p))
+        if c and ("etsy.com/listing" in c or "etsy.com/shop/" in c): cta_bad.append((i, "listing-link"))
         if e["kind"] == "yt":
             rel = e.get("related", "")
             live = rel.startswith("amazon:") and rel.split(":")[1] in GO_LIVE and et(GO_LIVE[rel.split(":")[1]]) <= t
-            live |= rel.startswith("etsy:") and et(ETSY_LIVE) <= t
             if "Subscribe for daily coloring videos!" not in c: cta_bad.append((i, "no-subscribe"))
-            if live != ("https://" in c): cta_bad.append((i, "link-mismatch"))
+            if "https://colorbloop.etsy.com" not in c: cta_bad.append((i, "no-etsy-shop"))
+            if live != ("amazon.com" in c): cta_bad.append((i, "amazon-link-mismatch"))
     print("CTA problems:", cta_bad or "none")
     ok &= not cta_bad
     # everything due got done
