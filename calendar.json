@@ -4100,7 +4100,7 @@
    "story_etsy_sampler.jpg"
   ],
   "caption": null,
-  "requires_link": null
+  "requires_link": "etsy:sampler"
  },
  {
   "id": "push_sampler_reel",
@@ -4113,7 +4113,7 @@
    "text": "NEW: Christmas Coloring & Activity Sampler 🎄✏️ Not sure which Christmas book to pick? Try 6 real pages from our Christmas books first: a little elf to color, a penguin maze, a dot-to-dot tree, Christmas I Spy and more. Ages 3–8.\n\n{cta}\n\n#christmascoloring #christmasactivities #kidsactivities #coloringpages #printables #preschoolactivities #christmasprintables #homeschool",
    "link_key": "etsy:sampler"
   },
-  "requires_link": null
+  "requires_link": "etsy:sampler"
  },
  {
   "id": "push_sampler_carousel",
@@ -4130,7 +4130,7 @@
    "text": "A little taste of our Christmas books 🎅 Swipe for a peek: Little Elf coloring, Day 2 of our Christmas Countdown (a cocoa maze!) and Christmas I Spy.\n\nPrint it tonight, and if your little one loves it, the full books are waiting ✨\n\n{cta}\n\n#christmascoloring #christmasactivities #kidsactivities #coloringpages #printables #preschoolactivities #christmasprintables #homeschool",
    "link_key": "etsy:sampler"
   },
-  "requires_link": null
+  "requires_link": "etsy:sampler"
  },
  {
   "id": "push_sampler_peek",
@@ -4140,7 +4140,7 @@
    "story_etsy_sampler_peek.jpg"
   ],
   "caption": null,
-  "requires_link": null
+  "requires_link": "etsy:sampler"
  },
  {
   "id": "push_cyber_post",

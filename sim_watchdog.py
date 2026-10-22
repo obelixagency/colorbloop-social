@@ -100,7 +100,9 @@ def main():
     # everything that should have happened did
     end = START + dt.timedelta(days=DAYS)
     # (YouTube is "not connected" in this sim, so the YouTube-only "yt" Shorts can never post here; see sim_etsy_yt.py)
-    missing = [i for i, w in due.items() if w < end - dt.timedelta(hours=6) and i not in started and byid[i]["kind"] != "yt"]
+    # (Etsy links never appear in this Amazon-only sim, so entries gated on an Etsy link can't post here either; see sim_etsy_yt.py)
+    missing = [i for i, w in due.items() if w < end - dt.timedelta(hours=6) and i not in started and byid[i]["kind"] != "yt"
+               and not (byid[i].get("requires_link") or "").startswith("etsy:")]
     print("due but never posted:", missing or "none")
     print("\nper-book go-live -> plan day 0 and actual post days (ET):")
     for b in log.get("_live_seq", []):
