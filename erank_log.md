@@ -57,4 +57,4 @@ Audits (5/5) + changes (all published):
 Audit notes for all 5: attributes missing (no attribute fields offered for digital coloring books besides width/height), main-image alt text missing.
 
 Audit rotation (next up): numbers, shapes, preschool, animals, kindergarten, then the rest of links.json["etsy"] in order
-(skip valcards 4600588895 + ramadan 4600589623 until January; abc already done? no -> abc goes after kindergarten).
+(abc, dinosaurs, vehicles... follow; skip valcards 4600588895 + ramadan 4600589623 until January).
