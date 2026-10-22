@@ -117,7 +117,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -216,5 +216,35 @@
  },
  "_live_etsy_valcards": "2026-10-22",
  "_live_etsy_ramadan": "2026-10-22",
- "_live_etsy_sampler": "2026-10-22"
+ "_live_etsy_sampler": "2026-10-22",
+ "launch_xmas_activity_carousel": {
+  "_due": "2026-10-22T10:00:00-04:00",
+  "instagram_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18127329925784073"
+   },
+   "last_attempt": "2026-10-22T16:30:58.561679+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122097679599521705"
+   },
+   "last_attempt": "2026-10-22T16:30:58.561679+00:00"
+  }
+ },
+ "yt_002_abc_flip": {
+  "_due": "2026-10-22T12:00:00-04:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "KmxKUd1zMmM"
+   },
+   "last_attempt": "2026-10-22T16:30:58.561679+00:00"
+  }
+ }
 }
