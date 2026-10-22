@@ -2167,7 +2167,7 @@
    "reel_etsy_bundle_holiday.mp4"
   ],
   "caption": {
-   "text": "NEW: Holiday & Winter Bundle 🎄❄️ 5 books in one: Christmas party games, Christmas activities, Christmas coloring, winter activities and Thanksgiving coloring. Fun from Thanksgiving to snow days!\n\n{cta}\n\n#christmasactivities #christmasgames #winteractivities #thanksgivingkids #printables #kidsactivities #holidayfun #classroomparty",
+   "text": "NEW: Holiday & Winter Bundle 🎄❄️ 7 books in one: Christmas Countdown, Christmas party games, Christmas activities, Christmas coloring, winter activities, Thanksgiving coloring and All About My Year. Fun from Thanksgiving to New Year's!\n\n{cta}\n\n#christmasactivities #christmasgames #winteractivities #thanksgivingkids #printables #kidsactivities #holidayfun #classroomparty",
    "link_key": "etsy:bundle_holiday"
   },
   "book": "etsy:bundle_holiday",
@@ -2185,7 +2185,7 @@
    "car_etsy_bundle_holiday_5.jpg"
   ],
   "caption": {
-   "text": "One download, the whole holiday season 🎅🦃⛄ Swipe to see all 5 books inside: party games, coloring, activities and snowy fun.\n\n{cta}\n\n#christmasactivities #christmasgames #winteractivities #thanksgivingkids #printables #kidsactivities #holidayfun #classroomparty",
+   "text": "One download, the whole holiday season 🎅🦃⛄ Swipe to see all 7 books inside: the Christmas countdown, party games, coloring, activities, snowy fun and a New Year memory book.\n\n{cta}\n\n#christmasactivities #christmasgames #winteractivities #thanksgivingkids #printables #kidsactivities #holidayfun #classroomparty",
    "link_key": "etsy:bundle_holiday"
   },
   "book": "etsy:bundle_holiday",
@@ -2808,6 +2808,60 @@
   "day": 5,
   "time": "18:00",
   "not_before": "2027-01-18"
+ },
+ {
+  "id": "etsy_sampler_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:sampler",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_sampler_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_sampler.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Christmas Coloring & Activity Sampler 🎄✏️ Not sure which Christmas book to pick? Try 6 real pages from our Christmas books first: a little elf to color, a penguin maze, a dot-to-dot tree, Christmas I Spy and more. Ages 3–8.\n\n{cta}\n\n#christmascoloring #christmasactivities #kidsactivities #coloringpages #printables #preschoolactivities #christmasprintables #homeschool",
+   "link_key": "etsy:sampler"
+  },
+  "book": "etsy:sampler",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_sampler_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_sampler_1.jpg",
+   "car_etsy_sampler_2.jpg",
+   "car_etsy_sampler_3.jpg",
+   "car_etsy_sampler_4.jpg",
+   "car_etsy_sampler_5.jpg"
+  ],
+  "caption": {
+   "text": "A little taste of our Christmas books 🎅 Swipe for a peek: Little Elf coloring, Day 2 of our Christmas Countdown (a cocoa maze!) and Christmas I Spy.\n\nPrint it tonight, and if your little one loves it, the full books are waiting ✨\n\n{cta}\n\n#christmascoloring #christmasactivities #kidsactivities #coloringpages #printables #preschoolactivities #christmasprintables #homeschool",
+   "link_key": "etsy:sampler"
+  },
+  "book": "etsy:sampler",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_sampler_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:sampler",
+  "day": 5,
+  "time": "18:00"
  },
  {
   "id": "yt_001_dinosaurs_color",
