@@ -26,7 +26,8 @@ GO_LIVE = {
     "space": "2026-12-01 09:00", "dinosaurs": "2026-12-02 15:00",
     "vehicles": "2026-12-15 10:00", "unicorns": "2026-12-20 10:00",
 }
-ETSY_KEYS = sorted({e["book"].split(":", 1)[1] for e in json.load(open(W.CAL)) if str(e.get("book", "")).startswith("etsy:")})
+ETSY_KEYS = sorted({(e.get("book") or e.get("requires_link") or "").split(":", 1)[1] for e in json.load(open(W.CAL))
+                    if str(e.get("book") or e.get("requires_link") or "").startswith("etsy:")})
 ETSY_LIVE = "2026-10-22 14:00"        # day 3: all 9 Etsy listings go live at once
 OUTAGE = (dt.datetime(2026, 11, 5, 14, 0, tzinfo=UTC), dt.datetime(2026, 11, 5, 22, 0, tzinfo=UTC))
 
