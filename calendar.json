@@ -4293,6 +4293,56 @@
   "requires_link": "etsy:sampler_kinder"
  },
  {
+  "id": "push_bingo_story",
+  "when_et": "2026-10-28 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_bingo.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:bingo"
+ },
+ {
+  "id": "push_bingo_reel",
+  "when_et": "2026-10-29 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_bingo.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Christmas Picture Bingo 🎄🎉 8 different bingo cards with a FREE star center, 30 calling cards and a caller board. It's all pictures, so even little ones who can't read yet can play! Ages 3–10.\n\nPrint it, grab some buttons or candies and shout BINGO! ⛄\n\n{cta}\n\n#christmasbingo #christmasgames #classroomparty #kidsactivities #christmasprintables #familygamenight #preschoolactivities #printables",
+   "link_key": "etsy:bingo"
+  },
+  "requires_link": "etsy:bingo"
+ },
+ {
+  "id": "push_bingo_carousel",
+  "when_et": "2026-11-01 10:00",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_bingo_1.jpg",
+   "car_etsy_bingo_2.jpg",
+   "car_etsy_bingo_3.jpg",
+   "car_etsy_bingo_4.jpg",
+   "car_etsy_bingo_5.jpg"
+  ],
+  "caption": {
+   "text": "Christmas game night, sorted! 🎅 Swipe for a peek: the How to Play page, a bingo card and the caller board.\n\nPerfect for classroom parties and family nights. Print it as many times as you need ✨\n\n{cta}\n\n#christmasbingo #christmasgames #classroomparty #kidsactivities #christmasprintables #familygamenight #preschoolactivities #printables",
+   "link_key": "etsy:bingo"
+  },
+  "requires_link": "etsy:bingo"
+ },
+ {
+  "id": "push_bingo_peek",
+  "when_et": "2026-11-06 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_bingo_peek.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:bingo"
+ },
+ {
   "id": "push_sampler_story",
   "when_et": "2026-10-21 21:00",
   "kind": "story",
