@@ -15,7 +15,8 @@
   "etsy:countdown",
   "etsy:myyear",
   "etsy:valcards",
-  "etsy:ramadan"
+  "etsy:ramadan",
+  "etsy:sampler"
  ],
  "_live_xmas_activity": "2026-10-20",
  "_live_etsy_xmasparty": "2026-10-20",
@@ -214,5 +215,6 @@
   }
  },
  "_live_etsy_valcards": "2026-10-22",
- "_live_etsy_ramadan": "2026-10-22"
+ "_live_etsy_ramadan": "2026-10-22",
+ "_live_etsy_sampler": "2026-10-22"
 }
