@@ -4093,6 +4093,206 @@
   "same_as": "etsy_ramadan_reel"
  },
  {
+  "id": "push_sampler_fall_story",
+  "when_et": "2026-10-23 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_fall.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_fall"
+ },
+ {
+  "id": "push_sampler_fall_reel",
+  "when_et": "2026-10-25 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_sampler_fall.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Thanksgiving & Winter Sampler 🦃❄️ 6 real pages from our full seasonal books: a happy turkey, a big pumpkin, a squirrel, My Thankful Jar, a little fox and hot cocoa. Ages 3–7.\n\n{cta}\n\n#thanksgivingkids #thanksgivingcrafts #fallactivities #kidsactivities #coloringpages #printables #preschoolactivities #winteractivities",
+   "link_key": "etsy:sampler_fall"
+  },
+  "requires_link": "etsy:sampler_fall"
+ },
+ {
+  "id": "push_sampler_fall_carousel",
+  "when_et": "2026-10-26 10:00",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_sampler_fall_1.jpg",
+   "car_etsy_sampler_fall_2.jpg",
+   "car_etsy_sampler_fall_3.jpg",
+   "car_etsy_sampler_fall_4.jpg",
+   "car_etsy_sampler_fall_5.jpg"
+  ],
+  "caption": {
+   "text": "Cozy pages from Thanksgiving to snow days 🍂☕ Swipe for a peek: Happy Turkey, Big Pumpkin and My Thankful Jar.\n\nThis sampler is a taste of our full books. Perfect for the kids' table on Thanksgiving! 🧡\n\n{cta}\n\n#thanksgivingkids #thanksgivingcrafts #fallactivities #kidsactivities #coloringpages #printables #preschoolactivities #winteractivities",
+   "link_key": "etsy:sampler_fall"
+  },
+  "requires_link": "etsy:sampler_fall"
+ },
+ {
+  "id": "push_sampler_fall_peek",
+  "when_et": "2026-11-01 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_fall_peek.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_fall"
+ },
+ {
+  "id": "push_sampler_coloring_story",
+  "when_et": "2026-10-24 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_coloring.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_coloring"
+ },
+ {
+  "id": "push_sampler_coloring_reel",
+  "when_et": "2026-10-26 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_sampler_coloring.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Big & Easy Coloring Sampler 🖍️ 6 real pages from our full coloring books: a brave lion, a friendly T-Rex, a fire truck, a rainbow unicorn, a rocket and a happy crab. Big, bold lines for ages 2–6!\n\n{cta}\n\n#coloringpages #kidscoloring #toddleractivities #dinosaurcoloring #unicorncoloring #printables #rainydayactivities #kidsactivities",
+   "link_key": "etsy:sampler_coloring"
+  },
+  "requires_link": "etsy:sampler_coloring"
+ },
+ {
+  "id": "push_sampler_coloring_carousel",
+  "when_et": "2026-10-28 10:00",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_sampler_coloring_1.jpg",
+   "car_etsy_sampler_coloring_2.jpg",
+   "car_etsy_sampler_coloring_3.jpg",
+   "car_etsy_sampler_coloring_4.jpg",
+   "car_etsy_sampler_coloring_5.jpg"
+  ],
+  "caption": {
+   "text": "Dino fan or unicorn fan? 🦖🦄 Swipe for a peek: Brave Lion, Friendly T-Rex and Rainbow Unicorn.\n\nThis sampler is a taste of our full coloring books. Print it tonight and find out which one your kid loves most 🧡\n\n{cta}\n\n#coloringpages #kidscoloring #toddleractivities #dinosaurcoloring #unicorncoloring #printables #rainydayactivities #kidsactivities",
+   "link_key": "etsy:sampler_coloring"
+  },
+  "requires_link": "etsy:sampler_coloring"
+ },
+ {
+  "id": "push_sampler_coloring_peek",
+  "when_et": "2026-11-02 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_coloring_peek.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_coloring"
+ },
+ {
+  "id": "push_sampler_preschool_story",
+  "when_et": "2026-10-25 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_preschool.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_preschool"
+ },
+ {
+  "id": "push_sampler_preschool_reel",
+  "when_et": "2026-10-28 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_sampler_preschool.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Preschool Learning Sampler 🍎✏️ Try 6 real pages from our full preschool books before you pick one: A is for Apple, count 3 pigs, trace the stars, letter D tracing, cut out the bunny and I Feel Happy. Ages 3–5.\n\n{cta}\n\n#preschoolactivities #prekworksheets #homeschoolpreschool #lettertracing #printables #learningthroughplay #toddleractivities #kidsactivities",
+   "link_key": "etsy:sampler_preschool"
+  },
+  "requires_link": "etsy:sampler_preschool"
+ },
+ {
+  "id": "push_sampler_preschool_carousel",
+  "when_et": "2026-10-29 10:00",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_sampler_preschool_1.jpg",
+   "car_etsy_sampler_preschool_2.jpg",
+   "car_etsy_sampler_preschool_3.jpg",
+   "car_etsy_sampler_preschool_4.jpg",
+   "car_etsy_sampler_preschool_5.jpg"
+  ],
+  "caption": {
+   "text": "A little taste of our preschool books 📚 Swipe for a peek: A is for Apple, Count 3 Pigs and Cut Out the Bunny.\n\nThis sampler has one page from each of 6 full books, so you can see what your little one loves most 💙\n\n{cta}\n\n#preschoolactivities #prekworksheets #homeschoolpreschool #lettertracing #printables #learningthroughplay #toddleractivities #kidsactivities",
+   "link_key": "etsy:sampler_preschool"
+  },
+  "requires_link": "etsy:sampler_preschool"
+ },
+ {
+  "id": "push_sampler_preschool_peek",
+  "when_et": "2026-11-04 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_preschool_peek.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_preschool"
+ },
+ {
+  "id": "push_sampler_kinder_story",
+  "when_et": "2026-10-27 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_kinder.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_kinder"
+ },
+ {
+  "id": "push_sampler_kinder_reel",
+  "when_et": "2026-10-30 19:30",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_sampler_kinder.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Kindergarten Readiness Sampler 🎒 Try 6 real pages from our full kindergarten books: a dot-to-dot apple, sight words, write the word, count to ten, a lion puzzle to cut and a morning routine chart. Ages 4–6.\n\n{cta}\n\n#kindergartenprep #sightwords #handwritingpractice #kindergartenactivities #homeschool #printables #earlylearning #kidsactivities",
+   "link_key": "etsy:sampler_kinder"
+  },
+  "requires_link": "etsy:sampler_kinder"
+ },
+ {
+  "id": "push_sampler_kinder_carousel",
+  "when_et": "2026-10-31 10:00",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_sampler_kinder_1.jpg",
+   "car_etsy_sampler_kinder_2.jpg",
+   "car_etsy_sampler_kinder_3.jpg",
+   "car_etsy_sampler_kinder_4.jpg",
+   "car_etsy_sampler_kinder_5.jpg"
+  ],
+  "caption": {
+   "text": "Getting ready for kindergarten? 🍎 Swipe for a peek: Dot-to-Dot Apple, Sight Words and the Morning Routine chart.\n\nEvery page comes from one of our full books, so it's an easy way to try them first 💚\n\n{cta}\n\n#kindergartenprep #sightwords #handwritingpractice #kindergartenactivities #homeschool #printables #earlylearning #kidsactivities",
+   "link_key": "etsy:sampler_kinder"
+  },
+  "requires_link": "etsy:sampler_kinder"
+ },
+ {
+  "id": "push_sampler_kinder_peek",
+  "when_et": "2026-11-05 21:00",
+  "kind": "story",
+  "files": [
+   "story_etsy_sampler_kinder_peek.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:sampler_kinder"
+ },
+ {
   "id": "push_sampler_story",
   "when_et": "2026-10-21 21:00",
   "kind": "story",

@@ -287,7 +287,7 @@ def run(now=None):
             print(f'{e["id"]} {platform}: {st["status"]}' + ("" if ok else f' ({detail.get("message", "")[:120]})'))
         bad = [p for p, s in row.items() if p != "_due" and s["status"] != "ok" and s.get("detail", {}).get("error") != "not_connected"
                and (e["id"], p) not in capped
-               and 2 <= s.get("attempts", 0) < MAX_ATTEMPTS]      # one failure right after an outage isn't an alarm; a failed retry is
+               and (3 if p == "youtube_short" else 2) <= s.get("attempts", 0) < MAX_ATTEMPTS]   # YT often waits hours for quota first      # one failure right after an outage isn't an alarm; a failed retry is
         if late_h >= STALE_HOURS and bad and not e.get("requires_link"):
             escalate.append((e["id"], round(late_h, 1), bad))
     json.dump(log, open(LOG, "w"), indent=1, ensure_ascii=False)
