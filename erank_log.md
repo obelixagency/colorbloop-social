@@ -65,3 +65,11 @@ Audit rotation (next up): numbers, shapes, preschool, animals, kindergarten, the
 - Main-image alt text written by hand (describes the actual cover + sample pages, ages, page count) and published on ALL 37 active listings.
   ~12 of them had only Etsy's auto "May include: ..." text, the rest were empty. Inactive valcards/ramadan untouched.
 - Note for Mohamed: xmas_activity (4599336007) cover image says 34 pages, description says 38 pages; check which is right.
+
+## 2026-10-22 (run 4, Mohamed: check page counts from the real files + alt text on ALL photos)
+- Downloaded each listing's US Letter PDF (to Mohamed's Downloads) and counted pages with pdfinfo/pdftotext.
+  - xmas_activity 4599336007: PDF = 38 pages = 34 activity pages + cover, grown-ups note, answer key, thank-you. Cover "34 FUN PAGES" and old desc "38 pages" were both right; desc now explains the split.
+  - "WHAT'S INSIDE (N pages)" line rewritten to "N-page PDF: X pages + cover, grown-ups note, thank-you..." on: xmas_activity, thanksgiving (29=26+3), ABC (31), numbers (29), shapes (29), preschool (84), animals (70), kindergarten (78), dinosaurs (29), vehicles (29), unicorns (29), scissors (55), sight words (77), letter tracing (70), cursive (77), space (35), feelings (43), valentines (34), easter (43). All totals matched the PDFs; only the wording was unclear.
+  - Noted, not changed: Big Easy Christmas Coloring cover says "32 designs", PDF has 34 coloring pages (desc says 37 = total, OK).
+  - countdown (31), myyear (33-page/30), winter (46 PDF vs desc "43 pages" ~ activity pages 41+key+cert=43 OK), busy book (37), routine (23), party games (35 PDF; 32 party pages), bingo (14): already OK.
+- Alt text written by hand for EVERY photo (not only main) on all 37 active listings: what's inside grid, sample pages, close-up, how it works, extra feature images. Published each.
