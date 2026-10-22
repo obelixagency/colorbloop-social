@@ -58,3 +58,10 @@ Audit notes for all 5: attributes missing (no attribute fields offered for digit
 
 Audit rotation (next up): numbers, shapes, preschool, animals, kindergarten, then the rest of links.json["etsy"] in order
 (abc, dinosaurs, vehicles... follow; skip valcards 4600588895 + ramadan 4600589623 until January).
+
+## 2026-10-22 (run 3, Mohamed asked: do the suggestions + fix alt text)
+- Fall sampler idea: already exists (sampler_fall 4600700353, $1.49), so no new listing was created. Retagged it instead:
+  -kids table activity, -kids coloring pdf, -autumn worksheets; +kids coloring pages, +thanksgiving art, +thanksgiving fun.
+- Main-image alt text written by hand (describes the actual cover + sample pages, ages, page count) and published on ALL 37 active listings.
+  ~12 of them had only Etsy's auto "May include: ..." text, the rest were empty. Inactive valcards/ramadan untouched.
+- Note for Mohamed: xmas_activity (4599336007) cover image says 34 pages, description says 38 pages; check which is right.
