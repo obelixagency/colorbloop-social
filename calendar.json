@@ -2694,6 +2694,122 @@
   "not_before": "2026-12-08"
  },
  {
+  "id": "etsy_valcards_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_valcards.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:valcards",
+  "day": 0,
+  "time": "18:00",
+  "not_before": "2027-01-08"
+ },
+ {
+  "id": "etsy_valcards_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_valcards.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Valentine's Cards for Kids 💌 24 funny pun cards for the class exchange (You're Dino-mite! Taco 'bout a great friend!) in color AND black & white to color, plus gift tags and bookmarks. Print, cut, share!\n\n{cta}\n\n#valentinesday #classroomvalentines #kidsvalentines #valentinecards #printables #teacherideas #kidsactivities #valentinecrafts",
+   "link_key": "etsy:valcards"
+  },
+  "book": "etsy:valcards",
+  "day": 0,
+  "time": "19:30",
+  "not_before": "2027-01-08"
+ },
+ {
+  "id": "etsy_valcards_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_valcards_1.jpg",
+   "car_etsy_valcards_2.jpg",
+   "car_etsy_valcards_3.jpg",
+   "car_etsy_valcards_4.jpg",
+   "car_etsy_valcards_5.jpg"
+  ],
+  "caption": {
+   "text": "Class Valentine exchange, sorted 💕 Swipe for a peek: color cards, color-your-own cards and lollipop tags.\n\n8 cards per page, just print on cardstock and cut ✂️\n\n{cta}\n\n#valentinesday #classroomvalentines #kidsvalentines #valentinecards #printables #teacherideas #kidsactivities #valentinecrafts",
+   "link_key": "etsy:valcards"
+  },
+  "book": "etsy:valcards",
+  "day": 2,
+  "time": "10:00",
+  "not_before": "2027-01-08"
+ },
+ {
+  "id": "etsy_valcards_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_valcards_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:valcards",
+  "day": 5,
+  "time": "18:00",
+  "not_before": "2027-01-08"
+ },
+ {
+  "id": "etsy_ramadan_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_ramadan.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:ramadan",
+  "day": 0,
+  "time": "18:00",
+  "not_before": "2027-01-18"
+ },
+ {
+  "id": "etsy_ramadan_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_ramadan.mp4"
+  ],
+  "caption": {
+   "text": "NEW: My Ramadan Activity Book 🌙✨ 33 pages in English + Arabic for ages 4–9: a 30-day lantern calendar, good deeds tracker, Arabic letter tracing, coloring, puzzles, Eid cards and more. Ramadan Kareem!\n\n{cta}\n\n#ramadanforkids #ramadanactivities #ramadan2027 #eidmubarak #muslimkids #islamickids #printables #ramadankareem",
+   "link_key": "etsy:ramadan"
+  },
+  "book": "etsy:ramadan",
+  "day": 0,
+  "time": "19:30",
+  "not_before": "2027-01-18"
+ },
+ {
+  "id": "etsy_ramadan_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_ramadan_1.jpg",
+   "car_etsy_ramadan_2.jpg",
+   "car_etsy_ramadan_3.jpg",
+   "car_etsy_ramadan_4.jpg",
+   "car_etsy_ramadan_5.jpg"
+  ],
+  "caption": {
+   "text": "Ramadan Kareem 🌙 Swipe for a peek: the 30-day calendar, the lanterns coloring page and Arabic letter tracing.\n\nPrint at home and enjoy a page a day with your little ones 💛\n\n{cta}\n\n#ramadanforkids #ramadanactivities #ramadan2027 #eidmubarak #muslimkids #islamickids #printables #ramadankareem",
+   "link_key": "etsy:ramadan"
+  },
+  "book": "etsy:ramadan",
+  "day": 2,
+  "time": "10:00",
+  "not_before": "2027-01-18"
+ },
+ {
+  "id": "etsy_ramadan_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_ramadan_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:ramadan",
+  "day": 5,
+  "time": "18:00",
+  "not_before": "2027-01-18"
+ },
+ {
   "id": "yt_001_dinosaurs_color",
   "when_et": "2026-10-20 12:00",
   "kind": "yt",
@@ -3954,18 +4070,19 @@
   "related": "amazon:unicorns"
  },
  {
-  "id": "yt_088_vehicles_color20",
+  "id": "yt_088_valcards_flip",
   "when_et": "2027-01-15 12:00",
   "kind": "yt",
   "files": [
-   "yt_vehicles_color20.mp4"
+   "yt_valcards_flip.mp4"
   ],
   "caption": {
-   "text": "Watch this tugboat get colored! 🚤🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #boats",
+   "text": "24 funny Valentine cards for the class exchange! 💌✂️\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #valentinesday",
    "link_key": null
   },
   "requires_link": null,
-  "related": "amazon:vehicles"
+  "related": "etsy:valcards",
+  "same_as": "etsy_valcards_reel"
  },
  {
   "id": "yt_089_valentines_color8",
@@ -3982,8 +4099,22 @@
   "related": "amazon:valentines"
  },
  {
-  "id": "yt_090_space_color26",
+  "id": "yt_090_vehicles_color20",
   "when_et": "2027-01-17 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_vehicles_color20.mp4"
+  ],
+  "caption": {
+   "text": "Watch this tugboat get colored! 🚤🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #boats",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:vehicles"
+ },
+ {
+  "id": "yt_091_space_color26",
+  "when_et": "2027-01-18 12:00",
   "kind": "yt",
   "files": [
    "yt_space_color26.mp4"
@@ -3996,8 +4127,8 @@
   "related": "amazon:space"
  },
  {
-  "id": "yt_091_animals_color12",
-  "when_et": "2027-01-18 12:00",
+  "id": "yt_092_animals_color12",
+  "when_et": "2027-01-19 12:00",
   "kind": "yt",
   "files": [
    "yt_animals_color12.mp4"
@@ -4010,28 +4141,14 @@
   "related": "amazon:animals"
  },
  {
-  "id": "yt_092_animals_color24",
-  "when_et": "2027-01-19 12:00",
+  "id": "yt_093_animals_color24",
+  "when_et": "2027-01-20 12:00",
   "kind": "yt",
   "files": [
    "yt_animals_color24.mp4"
   ],
   "caption": {
    "text": "Watch this crocodile get colored! 🐊🖍️\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #animalcoloring",
-   "link_key": null
-  },
-  "requires_link": null,
-  "related": "amazon:animals"
- },
- {
-  "id": "yt_093_animals_color42",
-  "when_et": "2027-01-20 12:00",
-  "kind": "yt",
-  "files": [
-   "yt_animals_color42.mp4"
-  ],
-  "caption": {
-   "text": "Watch these forest friends get colored! 🦊🌲\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #animalcoloring",
    "link_key": null
   },
   "requires_link": null,
@@ -4050,5 +4167,34 @@
   },
   "requires_link": null,
   "related": "amazon:valentines"
+ },
+ {
+  "id": "yt_095_animals_color42",
+  "when_et": "2027-01-22 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_animals_color42.mp4"
+  ],
+  "caption": {
+   "text": "Watch these forest friends get colored! 🦊🌲\nFrom line art to full color! 🎨 Big, bold pages made for little hands (ages 2–6). Which color would YOUR kid pick?\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #animalcoloring",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "amazon:animals"
+ },
+ {
+  "id": "yt_096_ramadan_flip",
+  "when_et": "2027-01-23 12:00",
+  "kind": "yt",
+  "files": [
+   "yt_ramadan_flip.mp4"
+  ],
+  "caption": {
+   "text": "Flip through My Ramadan Activity Book! 🌙📖\nA quick peek at the pages inside 📖 Which one would your little one do first? Tell us in the comments!\n\n{cta}\n\n#coloring #coloringforkids #kidsactivities #satisfying #shorts #ramadanforkids",
+   "link_key": null
+  },
+  "requires_link": null,
+  "related": "etsy:ramadan",
+  "same_as": "etsy_ramadan_reel"
  }
 ]
