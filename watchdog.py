@@ -247,7 +247,7 @@ def run(now=None):
     record_live(cal, links, log, now)
     due_at = schedule(cal, log)
     yt_twins = {e["same_as"] for e in cal if e.get("kind") == "yt" and e.get("same_as")}
-    escalate = []
+    escalate, capped = [], set()
     caught_up = set()      # at most one LATE entry per kind per run, so a backlog trickles out instead of flooding
     for e in sorted((e for e in cal if e["id"] in due_at), key=lambda e: due_at[e["id"]]):
         due = due_at[e["id"]].astimezone(dt.timezone.utc)
@@ -274,6 +274,7 @@ def run(now=None):
             if platform == "youtube_short":
                 q = yt_quota(log, now)
                 if q["n"] >= YT_DAILY_MAX:
+                    capped.add((e["id"], platform))     # waiting for quota is not a failure: never escalate it
                     print(f'{e["id"]} {platform}: waiting (YouTube daily cap {YT_DAILY_MAX} reached)'); continue
             target = files if platform.endswith("carousel") else files[0]
             if platform.endswith("story") and e["kind"] == "story": cap = ""
@@ -285,6 +286,7 @@ def run(now=None):
             row[platform] = st
             print(f'{e["id"]} {platform}: {st["status"]}' + ("" if ok else f' ({detail.get("message", "")[:120]})'))
         bad = [p for p, s in row.items() if p != "_due" and s["status"] != "ok" and s.get("detail", {}).get("error") != "not_connected"
+               and (e["id"], p) not in capped
                and 2 <= s.get("attempts", 0) < MAX_ATTEMPTS]      # one failure right after an outage isn't an alarm; a failed retry is
         if late_h >= STALE_HOURS and bad and not e.get("requires_link"):
             escalate.append((e["id"], round(late_h, 1), bad))
