@@ -118,7 +118,7 @@
  },
  "_yt_quota": {
   "date": "2026-10-22",
-  "n": 1
+  "n": 2
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -267,6 +267,76 @@
     }
    },
    "last_attempt": "2026-10-22T23:29:41.947858+00:00"
+  }
+ },
+ "etsy_bundle_holiday_reel": {
+  "_due": "2026-10-22T19:30:00-04:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18100919378534506"
+   },
+   "last_attempt": "2026-10-23T01:49:05.532760+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122097989727521705"
+   },
+   "last_attempt": "2026-10-23T01:49:05.532760+00:00"
+  },
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "tTQTf-_EI3I"
+   },
+   "last_attempt": "2026-10-23T01:49:05.532760+00:00"
+  },
+  "instagram_story": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Instagram container 17897198487434623 never finished processing"
+   },
+   "last_attempt": "2026-10-23T01:49:05.532760+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "message": "Video is Processing. To check the status of the video, please follow the instructions listed at https://developers.facebook.com/docs/page-stories-api.",
+     "post_id": "4383380971973575"
+    }
+   },
+   "last_attempt": "2026-10-23T01:49:05.532760+00:00"
+  }
+ },
+ "push_sampler_story": {
+  "_due": "2026-10-22T21:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18081747641356312"
+   },
+   "last_attempt": "2026-10-23T01:49:05.532760+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2186706892253106"
+    }
+   },
+   "last_attempt": "2026-10-23T01:49:05.532760+00:00"
   }
  }
 }
