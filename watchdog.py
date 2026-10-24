@@ -234,6 +234,12 @@ def yt_quota(log, now):
     return q
 
 
+def _auth_dead(detail):
+    """True when Meta rejected the token itself (expired / password changed / session invalidated)."""
+    m = str((detail or {}).get("message", ""))
+    return "OAuthException" in m and ("'code': 190" in m or '"code": 190' in m)
+
+
 def run(now=None):
     now = now or dt.datetime.now(dt.timezone.utc)
     cal = json.load(open(CAL))
@@ -248,6 +254,7 @@ def run(now=None):
     due_at = schedule(cal, log)
     yt_twins = {e["same_as"] for e in cal if e.get("kind") == "yt" and e.get("same_as")}
     escalate, capped = [], set()
+    meta_auth_bad = False  # Meta token invalid (OAuth code 190): stop trying Meta this run, don't burn attempts
     caught_up = set()      # at most one LATE entry per kind per run, so a backlog trickles out instead of flooding
     for e in sorted((e for e in cal if e["id"] in due_at), key=lambda e: due_at[e["id"]]):
         due = due_at[e["id"]].astimezone(dt.timezone.utc)
@@ -266,6 +273,7 @@ def run(now=None):
         files = [os.path.join(HERE, "assets", f) for f in e["files"]]
         for platform in plats:
             if platform.split("_")[0] not in ENABLED: continue
+            if meta_auth_bad and platform.split("_")[0] in ("instagram", "facebook"): continue
             st = row.get(platform, {"status": "pending", "attempts": 0})
             if st["status"] == "ok": continue
             if st.get("attempts", 0) >= MAX_ATTEMPTS: continue
@@ -282,6 +290,10 @@ def run(now=None):
             ok, detail = PUB.publish(platform, target, cap)
             if platform == "youtube_short" and detail.get("error") != "not_connected":
                 q["n"] += 1
+            if not ok and _auth_dead(detail):
+                meta_auth_bad = True   # token problem, not a post problem: keep the attempt count, retry once the token is fixed
+                st.update(status="failed", detail=detail, last_attempt=now.isoformat()); row[platform] = st
+                print(f'{e["id"]} {platform}: META TOKEN INVALID, skipping Meta this run'); continue
             st.update(status="ok" if ok else "failed", detail=detail, attempts=st["attempts"] + 1, last_attempt=now.isoformat())
             row[platform] = st
             print(f'{e["id"]} {platform}: {st["status"]}' + ("" if ok else f' ({detail.get("message", "")[:120]})'))
@@ -291,6 +303,8 @@ def run(now=None):
         if late_h >= STALE_HOURS and bad and not e.get("requires_link"):
             escalate.append((e["id"], round(late_h, 1), bad))
     json.dump(log, open(LOG, "w"), indent=1, ensure_ascii=False)
+    if meta_auth_bad:
+        print("ESCALATE: Meta page token is invalid (OAuth code 190) -> renew FB_PAGE_TOKEN in the repo secrets"); return 1
     if escalate:
         print("ESCALATE:", escalate); return 1
     return 0
