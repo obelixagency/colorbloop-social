@@ -74,6 +74,43 @@ Audit rotation (next up): numbers, shapes, preschool, animals, kindergarten, the
   - countdown (31), myyear (33-page/30), winter (46 PDF vs desc "43 pages" ~ activity pages 41+key+cert=43 OK), busy book (37), routine (23), party games (35 PDF; 32 party pages), bingo (14): already OK.
 - Alt text written by hand for EVERY photo (not only main) on all 37 active listings: what's inside grid, sample pages, close-up, how it works, extra feature images. Published each.
 
-## 2026-10-24 (scheduled run, SKIPPED)
-- Chrome extension not connected (no browser reachable), so no eRank lookups/audits/AI helper today. No PENDING proposals carried over.
-- Next up in rotation (unchanged): numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493, kindergarten 4599372316.
+## 2026-10-24 (scheduled run; Chrome was offline at first, ran after Mohamed reconnected it)
+Keyword lookups (5/5, Etsy US, Sep-2026 data):
+| keyword | searches | clicks | CTR | competition |
+|---|---|---|---|---|
+| preschool worksheets | 1,200 | 1,245 | 104% | 66,040 | <- big, not in any tag yet
+| kindergarten worksheets | 221 | 195 | 88% | 41,640 | (23 chars: title only, too long for a tag)
+| tracing worksheets | 128 | 183 | 143% | 29,273 | <- low comp, high CTR
+| animal coloring pages | 22 | <20 | 91% | 64,573 |
+| preschool activities | <20 | <20 | - | 144,367 | (dead)
+From audits: preschool curriculum 1,283 (comp 15,459), kids coloring book 707 (147,364), toddler worksheets 107, preschool printable 108, farm animals 171, sight words 40, kindergarten math 24.
+Long-tails seen (no volume yet): christmas tracing worksheets, shape tracing worksheets, preschool tracing worksheets, farm animal coloring pages.
+
+Audits (5/5): all grade A, 0 sales, ~4-5 views each, attributes missing on all.
+AI Listing Helper (1/1): used on shapes (weakest tags: 12/13 tags ~0 searches). Its ideas: toddler worksheets, preschool shapes; rejected "educational toys" (not accurate for a PDF).
+
+PENDING proposals (not applied, waiting for Mohamed's approval):
+P1 numbers 4599341653
+  title "Numbers 1-20 Tracing Worksheets, Count, Color & Trace Math Book (PDF)"
+  -> "Number Tracing Worksheets 1-20, Preschool Worksheets Printable, Count Color and Trace Math Book Ages 3-5, Kindergarten Math PDF" (127)
+  tags: -numbers 1 20, -trace numbers; +preschool worksheets, +tracing worksheets
+P2 shapes 4599342777
+  title "Preschool Shapes and Colors Activity Book, Trace and Color Learning (PDF Download)"
+  -> "Shapes and Colors Worksheets for Toddlers and Preschool, Tracing Worksheets Ages 2-5, Learn 12 Shapes and 11 Colors Printable PDF" (129)
+  tags: -colors worksheets, -shape tracing, -shapes coloring, -2 year old activity; +toddler worksheets, +tracing worksheets, +preschool worksheets, +preschool shapes
+P3 preschool 4599368748
+  title "Preschool Workbook Printable, Letters Numbers Shapes Colors (PDF Download)"
+  -> "Preschool Worksheets Printable, Preschool Workbook 3-in-1 Ages 3-5, Letters Numbers Shapes Colors Tracing, Pre K Curriculum PDF" (127)
+  tags: -busy book pages, -learning binder; +preschool worksheets, +tracing worksheets
+P4 animals 4599346493
+  title "Jumbo Animal Coloring Book for Toddlers, 60 Big & Easy Pages (PDF Download)"
+  -> "Kids Coloring Book Animals, Jumbo Animal Coloring Pages for Toddlers Ages 2-5, 60 Big Easy Farm Safari Ocean Forest Pets PDF" (124)
+  tags: -coloring pages kids; +kids coloring pages
+P5 kindergarten 4599372316
+  title "Kindergarten Activity Book Printable, 75 Worksheets, Mazes, Tracing, Counting (PDF)"
+  -> "Kindergarten Worksheets Printable, Kindergarten Activity Book Ages 4-6, 75 Pages Mazes Tracing Counting Sight Words PDF" (119)
+  tags: -kinder printable, -homeschool kinder, -summer workbook; +tracing worksheets, +kindergarten math, +preschool worksheets
+P6 all 5: fill any attributes Etsy offers in the editor (eRank flags "attributes missing").
+Idea: $2.99 "Christmas Preschool Worksheets" mini pack (tracing + counting, Christmas theme) for preschool worksheets 1,200 + preschool christmas 191.
+
+Audit rotation (next up): abc 4599362140, dinosaurs, vehicles, unicorns, scissors.
