@@ -345,9 +345,9 @@
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AtF0Q8XCPSsVlyxOVeT6W2o'}"
+    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'An6Zm6RvIaOwUu8bPqQsaTo'}"
    },
-   "last_attempt": "2026-10-24T21:02:01.984361+00:00"
+   "last_attempt": "2026-10-24T23:30:12.688738+00:00"
   },
   "facebook_post": {
    "status": "failed",
@@ -451,5 +451,11 @@
    },
    "last_attempt": "2026-10-24T18:17:09.075129+00:00"
   }
+ },
+ "etsy_busybook_story": {
+  "_due": "2026-10-24T18:00:00-04:00"
+ },
+ "etsy_winter_reel": {
+  "_due": "2026-10-24T19:30:00-04:00"
  }
 }
