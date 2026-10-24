@@ -89,7 +89,7 @@ Long-tails seen (no volume yet): christmas tracing worksheets, shape tracing wor
 Audits (5/5): all grade A, 0 sales, ~4-5 views each, attributes missing on all.
 AI Listing Helper (1/1): used on shapes (weakest tags: 12/13 tags ~0 searches). Its ideas: toddler worksheets, preschool shapes; rejected "educational toys" (not accurate for a PDF).
 
-PENDING proposals (not applied, waiting for Mohamed's approval):
+Proposals P1-P6: APPROVED+APPLIED 2026-10-24 (Mohamed: "موافق على الكل"), published in Shop Manager and re-checked in the editor:
 P1 numbers 4599341653
   title "Numbers 1-20 Tracing Worksheets, Count, Color & Trace Math Book (PDF)"
   -> "Number Tracing Worksheets 1-20, Preschool Worksheets Printable, Count Color and Trace Math Book Ages 3-5, Kindergarten Math PDF" (127)
@@ -111,6 +111,8 @@ P5 kindergarten 4599372316
   -> "Kindergarten Worksheets Printable, Kindergarten Activity Book Ages 4-6, 75 Pages Mazes Tracing Counting Sight Words PDF" (119)
   tags: -kinder printable, -homeschool kinder, -summer workbook; +tracing worksheets, +kindergarten math, +preschool worksheets
 P6 all 5: fill any attributes Etsy offers in the editor (eRank flags "attributes missing").
+  Applied: only Occasion + Holiday are offered. Occasion = "Back to school" set on numbers, shapes, preschool, kindergarten. Animals: no accurate option, left empty. Holiday left empty on all (not holiday products).
+No PENDING proposals left.
 Idea: $2.99 "Christmas Preschool Worksheets" mini pack (tracing + counting, Christmas theme) for preschool worksheets 1,200 + preschool christmas 191.
 
 Audit rotation (next up): abc 4599362140, dinosaurs, vehicles, unicorns, scissors.
