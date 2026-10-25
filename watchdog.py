@@ -236,6 +236,8 @@ def yt_quota(log, now):
 
 def _auth_dead(detail):
     """True when Meta rejected the token itself (expired / password changed / session invalidated)."""
+    if (detail or {}).get("api_code") == 190:
+        return True
     m = str((detail or {}).get("message", ""))
     return "OAuthException" in m and ("'code': 190" in m or '"code": 190' in m)
 
@@ -312,3 +314,4 @@ def run(now=None):
 
 if __name__ == "__main__":
     sys.exit(run())
+
