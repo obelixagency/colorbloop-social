@@ -132,7 +132,7 @@ dragon coloring 21 (129%); unicorn birthday 105 (not used: buyers want party dec
 Audits (5/5): abc, dinosaurs, vehicles, unicorns, scissors. All 0 sales, 4-5 views, attributes missing.
 AI Listing Helper (1/1): vehicles (weakest: 11/13 tags ~0 searches). Used: coloring book pdf, fire truck coloring, easy coloring book. Its titles ignored (colon style, weaker lead keyword).
 
-PENDING proposals (sent to Mohamed 2026-10-25):
+Proposals P1-P6: APPROVED+APPLIED 2026-10-25 (Mohamed: approved all), published in Shop Manager; titles re-checked live on etsy.com, tags re-checked in editor (13/13 each):
 P1 abc 4599362140
   title "ABC Coloring & Tracing Book for Kids, Letter A-Z Worksheets (PDF Download)"
   -> "ABC Coloring Pages for Kids, Alphabet Worksheets Printable, Letter Tracing A-Z Ages 3-5, Preschool Coloring Book PDF" (116)
