@@ -116,3 +116,44 @@ No PENDING proposals left.
 Idea: $2.99 "Christmas Preschool Worksheets" mini pack (tracing + counting, Christmas theme) for preschool worksheets 1,200 + preschool christmas 191.
 
 Audit rotation (next up): abc 4599362140, dinosaurs, vehicles, unicorns, scissors.
+
+## 2026-10-25 (scheduled run)
+Keyword lookups (5/5, Etsy US, Sep-2026 data) - all weak on Etsy right now:
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| christmas worksheets | <20 | - | 9,977 | trend shows Nov-Dec spike; long-tails: preschool/kindergarten christmas worksheets |
+| alphabet tracing | <20 | <20% | 18,580 | Google 4,400/mo |
+| dinosaur coloring pages | <20 | <20% | 5,742 | Google 40,500/mo (23 chars, title only) |
+| unicorn coloring pages | <20 | - | 5,956 | |
+| scissor skills | <20 | - | 3,248 | long-tails: christmas/winter scissor skills |
+From audits / AI helper: abc coloring pages 100 (comp 9,900, 93% CTR) <- best find; alphabet worksheets 28 (118%); fine motor skills 45 (142%);
+dragon coloring 21 (129%); unicorn birthday 105 (not used: buyers want party decor); coloring sheets 197; coloring book pdf 21 (95%); fire truck coloring comp only 171.
+
+Audits (5/5): abc, dinosaurs, vehicles, unicorns, scissors. All 0 sales, 4-5 views, attributes missing.
+AI Listing Helper (1/1): vehicles (weakest: 11/13 tags ~0 searches). Used: coloring book pdf, fire truck coloring, easy coloring book. Its titles ignored (colon style, weaker lead keyword).
+
+PENDING proposals (sent to Mohamed 2026-10-25):
+P1 abc 4599362140
+  title "ABC Coloring & Tracing Book for Kids, Letter A-Z Worksheets (PDF Download)"
+  -> "ABC Coloring Pages for Kids, Alphabet Worksheets Printable, Letter Tracing A-Z Ages 3-5, Preschool Coloring Book PDF" (116)
+  tags: -kindergarten prep, -homeschool alphabet, -learn to write, -busy book pages; +preschool worksheets, +tracing worksheets, +kids coloring pages, +coloring sheets
+P2 dinosaurs 4599373502
+  title "Dinosaur Coloring Book for Kids, 24 Big Friendly Dinosaurs (PDF Download)"
+  -> "Dinosaur Coloring Pages for Kids, Dinosaur Coloring Book Printable, 24 Big Easy Dinos, T-Rex Triceratops Ages 3-6 PDF" (117)
+  tags: -dino printable, -boys coloring; +coloring book pdf, +easy coloring book
+P3 vehicles 4599374544
+  title "Trucks Trains Planes Coloring Book for Toddlers (PDF Download)"
+  -> "Truck Coloring Pages for Toddlers, Vehicle Coloring Book Printable, 24 Big Easy Trucks Trains Planes Fire Truck Ages 2-5 PDF" (124)
+  tags: -boys coloring, -digger coloring, -construction party; +coloring book pdf, +fire truck coloring, +easy coloring book
+P4 unicorns 4599351423
+  title "Unicorns & Magical Friends Coloring Book, Dragons, Fairies, Castles (PDF Download)"
+  -> "Unicorn Coloring Pages for Kids, Unicorn Coloring Book Printable, 24 Magical Pages Dragons Fairies Castles Rainbows Ages 3-6 PDF" (128)
+  tags: -girls coloring, -magical coloring; +coloring book pdf, +easy coloring book
+P5 scissors 4599352519
+  title "Scissor Skills Activity Book, Cut & Paste for Toddlers (Ages 3-5) (PDF)"
+  -> "Scissor Skills Worksheets for Preschool, Cutting Practice Activity Book Ages 3-5, Cut and Paste Fine Motor Skills Printable PDF" (127)
+  tags: -ot activities (eRank flags typo), -homeschool preschool; +preschool worksheets, +toddler worksheets
+P6 all 5: Occasion attribute (only option Etsy offers): "Back to school" on abc + scissors; leave dinosaurs/vehicles/unicorns empty (no accurate option).
+Idea: $1.99-2.99 "Christmas Scissor Skills" mini pack (cutting lines + Christmas shapes) - eRank shows christmas/winter scissor skills long-tails, comp only 3,248.
+
+Audit rotation (next up): sightwords 4599377768, handwriting, cursive, space, feelings.
