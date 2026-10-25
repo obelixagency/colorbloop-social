@@ -452,5 +452,137 @@
  },
  "push_sampler_fall_story": {
   "_due": "2026-11-01T21:00:00-05:00"
+ },
+ "etsy_bundle_preschool_story": {
+  "_due": "2026-10-25T18:00:00-04:00"
+ },
+ "etsy_routine_story": {
+  "_due": "2026-10-26T18:00:00-04:00"
+ },
+ "etsy_bundle_coloring_story": {
+  "_due": "2026-10-27T18:00:00-04:00"
+ },
+ "etsy_bundle_kinder_story": {
+  "_due": "2026-10-28T18:00:00-04:00"
+ },
+ "etsy_bundle_mega_story": {
+  "_due": "2026-10-29T18:00:00-04:00"
+ },
+ "etsy_busybook_reel": {
+  "_due": "2026-10-25T19:30:00-04:00"
+ },
+ "etsy_bundle_preschool_reel": {
+  "_due": "2026-11-01T19:30:00-05:00"
+ },
+ "etsy_routine_reel": {
+  "_due": "2026-11-02T19:30:00-05:00"
+ },
+ "etsy_bundle_coloring_reel": {
+  "_due": "2026-11-03T19:30:00-05:00"
+ },
+ "etsy_bundle_kinder_reel": {
+  "_due": "2026-11-05T19:30:00-05:00"
+ },
+ "etsy_bundle_mega_reel": {
+  "_due": "2026-11-06T19:30:00-05:00"
+ },
+ "etsy_xmasparty_carousel": {
+  "_due": "2026-10-26T10:00:00-04:00"
+ },
+ "etsy_bundle_holiday_carousel": {
+  "_due": "2026-10-28T10:00:00-04:00"
+ },
+ "etsy_winter_carousel": {
+  "_due": "2026-11-03T10:00:00-05:00"
+ },
+ "etsy_busybook_carousel": {
+  "_due": "2026-11-04T10:00:00-05:00"
+ },
+ "etsy_bundle_preschool_carousel": {
+  "_due": "2026-11-05T10:00:00-05:00"
+ },
+ "etsy_routine_carousel": {
+  "_due": "2026-11-06T10:00:00-05:00"
+ },
+ "xmas_activity_peek1": {
+  "_due": "2026-10-30T18:00:00-04:00"
+ },
+ "launch_abc_story": {
+  "_due": "2026-10-31T18:00:00-04:00"
+ },
+ "etsy_countdown_story": {
+  "_due": "2026-11-01T18:00:00-05:00"
+ },
+ "launch_abc_reel": {
+  "_due": "2026-11-07T19:30:00-05:00"
+ },
+ "etsy_countdown_reel": {
+  "_due": "2026-11-08T19:30:00-05:00"
+ },
+ "abc_peek1": {
+  "_due": "2026-11-02T18:00:00-05:00"
+ },
+ "xmas_activity_peek2": {
+  "_due": "2026-11-03T18:00:00-05:00"
+ },
+ "etsy_xmasparty_peek": {
+  "_due": "2026-11-04T18:00:00-05:00"
+ },
+ "etsy_bundle_holiday_peek": {
+  "_due": "2026-11-05T18:00:00-05:00"
+ },
+ "etsy_winter_peek": {
+  "_due": "2026-11-06T18:00:00-05:00"
+ },
+ "etsy_busybook_peek": {
+  "_due": "2026-11-07T18:00:00-05:00"
+ },
+ "etsy_bundle_preschool_peek": {
+  "_due": "2026-11-08T18:00:00-05:00"
+ },
+ "etsy_routine_peek": {
+  "_due": "2026-11-09T18:00:00-05:00"
+ },
+ "etsy_bundle_coloring_peek": {
+  "_due": "2026-11-10T18:00:00-05:00"
+ },
+ "etsy_bundle_kinder_peek": {
+  "_due": "2026-11-11T18:00:00-05:00"
+ },
+ "etsy_bundle_mega_peek": {
+  "_due": "2026-11-12T18:00:00-05:00"
+ },
+ "abc_peek2": {
+  "_due": "2026-11-13T18:00:00-05:00"
+ },
+ "etsy_countdown_peek": {
+  "_due": "2026-11-14T18:00:00-05:00"
+ },
+ "xmas_activity_flip_reel": {
+  "_due": "2026-11-10T19:30:00-05:00"
+ },
+ "abc_flip_reel": {
+  "_due": "2026-11-11T19:30:00-05:00"
+ },
+ "xmas_activity_color_reel": {
+  "_due": "2026-11-12T19:30:00-05:00"
+ },
+ "abc_color_reel": {
+  "_due": "2026-11-13T19:30:00-05:00"
+ },
+ "etsy_bundle_coloring_carousel": {
+  "_due": "2026-11-07T10:00:00-05:00"
+ },
+ "etsy_bundle_kinder_carousel": {
+  "_due": "2026-11-08T10:00:00-05:00"
+ },
+ "etsy_bundle_mega_carousel": {
+  "_due": "2026-11-09T10:00:00-05:00"
+ },
+ "launch_abc_carousel": {
+  "_due": "2026-11-10T10:00:00-05:00"
+ },
+ "etsy_countdown_carousel": {
+  "_due": "2026-11-11T10:00:00-05:00"
  }
 }
