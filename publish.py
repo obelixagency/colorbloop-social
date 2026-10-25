@@ -40,14 +40,43 @@ def _ig():
     return os.environ["IG_USER_ID"], os.environ["FB_PAGE_TOKEN"]
 
 
+class APIError(RuntimeError):
+    """Only numeric diagnostic fields may cross the persistence/log boundary."""
+    def __init__(self, status=None, code=None):
+        self.status = status if type(status) is int else None
+        self.code = code if type(code) is int else None
+        super().__init__("API request failed")
+
+
+def _api_error(resp, data=None):
+    error = data.get("error", {}) if isinstance(data, dict) else {}
+    return APIError(getattr(resp, "status_code", None),
+                    error.get("code") if isinstance(error, dict) else None)
+
+
 def _check(resp):
     try:
         data = resp.json()
     except ValueError:
-        resp.raise_for_status(); raise RuntimeError(f"non-JSON response: {resp.text[:200]}")
+        raise _api_error(resp) from None
     if resp.status_code >= 400 or "error" in data:
-        raise RuntimeError(data.get("error", data))
+        raise _api_error(resp, data) from None
     return data
+
+
+def _safe_ref(ref):
+    # API responses can include credentials, upload URLs or private notification topics.
+    if isinstance(ref, dict):
+        return {k: _safe_ref(v) for k, v in ref.items()
+                if k in {"id", "post_id", "video_id", "publish_id", "success"}}
+    if type(ref) is bool:
+        return ref
+    if isinstance(ref, (str, int)):
+        value = str(ref)
+        import re
+        if re.fullmatch(r"[A-Za-z0-9_-]{1,64}", value):
+            return value
+    return None
 
 
 def _public_url(path):
@@ -82,7 +111,7 @@ def publish_facebook_reel(path, caption):
         r = _fb_rupload(f"{page_id}/video_reels", path, token, {"video_state": "PUBLISHED", "description": caption})
         return r.get("post_id") or r.get("video_id") or r
     except Exception as ex:
-        print(f"facebook_reel: Reels API failed ({str(ex)[:150]}), falling back to Page video")
+        print("facebook_reel: Reels API failed, falling back to Page video")
     data = {"description": caption, "access_token": token}
     offset = _cover_offset_ms(path)
     if offset is not None: data["thumb_offset"] = offset
@@ -177,7 +206,7 @@ def _tiktok_access_token():
         "refresh_token": os.environ["TIKTOK_REFRESH_TOKEN"],
     }, headers={"Content-Type": "application/x-www-form-urlencoded"})
     data = r.json()
-    if "access_token" not in data: raise RuntimeError(data)
+    if "access_token" not in data: raise _api_error(r, data) from None
     return data["access_token"]
 
 
@@ -191,7 +220,7 @@ def _publish_tiktok_real(path, caption):
                        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json; charset=UTF-8"},
                        json={"source_info": {"source": "PULL_FROM_URL", "video_url": _public_url(path)}})
     data = r.json()
-    if data.get("error", {}).get("code") not in (None, "ok"): raise RuntimeError(data)
+    if data.get("error", {}).get("code") not in (None, "ok"): raise _api_error(r, data) from None
     return data.get("data", {}).get("publish_id")
 
 
@@ -206,7 +235,7 @@ def _notify_ntfy_tiktok(path, caption):
         "Click": url, "Attach": url, "Tags": "tiktok,memo",
     })
     r.raise_for_status()
-    return {"ntfy_topic": topic, "media_url": url}
+    return {"success": True}
 
 
 def publish_tiktok(path, caption):
@@ -227,7 +256,7 @@ def _yt_access_token():
         "refresh_token": os.environ["YT_REFRESH_TOKEN"],
     })
     data = r.json()
-    if "access_token" not in data: raise RuntimeError(data)
+    if "access_token" not in data: raise _api_error(r, data) from None
     return data["access_token"]
 
 
@@ -279,8 +308,12 @@ def publish(platform, path_or_paths, caption):
     Returns (ok, detail)."""
     try:
         ref = DISPATCH[platform](path_or_paths, caption)
-        return True, {"platform_ref": ref}
+        return True, {"platform_ref": _safe_ref(ref)}
     except NotConnected as e:
-        return False, {"error": "not_connected", "message": str(e)}
-    except Exception as e:
-        return False, {"error": "publish_failed", "message": str(e)}
+        return False, {"error": "not_connected", "message": "Required connection is missing"}
+    except APIError as e:
+        return False, {"error": "publish_failed", "message": "API request failed",
+                       "api_code": e.code, "http_status": e.status}
+    except Exception:
+        return False, {"error": "publish_failed", "message": "Publishing request failed"}
+
