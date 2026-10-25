@@ -339,15 +339,14 @@
   }
  },
  "2026-10-22_1000_post": {
-  "_due": "2026-10-23T10:00:00-04:00",
+  "_due": "2026-10-28T14:00:00-04:00",
   "instagram_post": {
    "status": "failed",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AqjJrblWukhW2tJqRu6L5UV'}"
-   },
-   "last_attempt": "2026-10-25T09:26:05.079289+00:00"
+   }
   },
   "facebook_post": {
    "status": "failed",
@@ -355,8 +354,7 @@
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'A9xKkO4wtnEpOT6iuwFAB5v'}"
-   },
-   "last_attempt": "2026-10-24T04:04:51.318178+00:00"
+   }
   }
  },
  "yt_003_brand_guess": {
@@ -371,15 +369,14 @@
   }
  },
  "etsy_winter_story": {
-  "_due": "2026-10-23T18:00:00-04:00",
+  "_due": "2026-10-30T21:00:00-04:00",
   "instagram_story": {
    "status": "failed",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AVFsT92JeKEu22VhtZhvrcg'}"
-   },
-   "last_attempt": "2026-10-24T04:04:51.318178+00:00"
+   }
   },
   "facebook_story": {
    "status": "failed",
@@ -387,20 +384,18 @@
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'ARSVCPXmtBgtSUphO05QrfK'}"
-   },
-   "last_attempt": "2026-10-24T04:04:51.318178+00:00"
+   }
   }
  },
  "push_sampler_reel": {
-  "_due": "2026-10-23T19:30:00-04:00",
+  "_due": "2026-10-26T13:00:00-04:00",
   "instagram_reel": {
    "status": "failed",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AqK8VRfbvkEKQR8BhYwo0Ua'}"
-   },
-   "last_attempt": "2026-10-24T04:04:51.318178+00:00"
+   }
   },
   "facebook_reel": {
    "status": "failed",
@@ -408,8 +403,7 @@
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'A67ngeGhNP8yNTDymP6NxZV'}"
-   },
-   "last_attempt": "2026-10-24T04:04:51.318178+00:00"
+   }
   },
   "youtube_short": {
    "status": "ok",
@@ -425,8 +419,7 @@
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'Au89fIl-ohOU4rU4fV5aX32'}"
-   },
-   "last_attempt": "2026-10-24T04:04:51.318178+00:00"
+   }
   },
   "facebook_story": {
    "status": "failed",
@@ -434,12 +427,11 @@
    "detail": {
     "error": "publish_failed",
     "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AxyueiM7HHyGppc52molMv1'}"
-   },
-   "last_attempt": "2026-10-24T04:04:51.318178+00:00"
+   }
   }
  },
  "2026-10-23_1000_post": {
-  "_due": "2026-10-24T10:00:00-04:00"
+  "_due": "2026-11-06T14:00:00-05:00"
  },
  "yt_004_unicorns_color": {
   "_due": "2026-10-24T12:00:00-04:00",
@@ -453,12 +445,12 @@
   }
  },
  "etsy_busybook_story": {
-  "_due": "2026-10-24T18:00:00-04:00"
+  "_due": "2026-10-31T21:00:00-04:00"
  },
  "etsy_winter_reel": {
-  "_due": "2026-10-24T19:30:00-04:00"
+  "_due": "2026-11-04T13:00:00-05:00"
  },
  "push_sampler_fall_story": {
-  "_due": "2026-10-24T21:00:00-04:00"
+  "_due": "2026-11-01T21:00:00-05:00"
  }
 }
