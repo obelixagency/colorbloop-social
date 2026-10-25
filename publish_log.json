@@ -345,9 +345,9 @@
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'A50SpHUZOs5gWwdCpyBTV3y'}"
+    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AqjJrblWukhW2tJqRu6L5UV'}"
    },
-   "last_attempt": "2026-10-25T04:06:21.880104+00:00"
+   "last_attempt": "2026-10-25T09:26:05.079289+00:00"
   },
   "facebook_post": {
    "status": "failed",
