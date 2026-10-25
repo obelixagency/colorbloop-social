@@ -584,5 +584,24 @@
  },
  "etsy_countdown_carousel": {
   "_due": "2026-11-11T10:00:00-05:00"
+ },
+ "push_sampler_carousel": {
+  "_due": "2026-10-25T10:00:00-04:00",
+  "instagram_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18129967645694190"
+   },
+   "last_attempt": "2026-10-25T14:47:00.489987+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122100313641521705"
+   },
+   "last_attempt": "2026-10-25T14:47:00.489987+00:00"
+  }
  }
 }
