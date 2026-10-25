@@ -157,3 +157,13 @@ P6 all 5: Occasion attribute (only option Etsy offers): "Back to school" on abc 
 Idea: $1.99-2.99 "Christmas Scissor Skills" mini pack (cutting lines + Christmas shapes) - eRank shows christmas/winter scissor skills long-tails, comp only 3,248.
 
 Audit rotation (next up): sightwords 4599377768, handwriting, cursive, space, feelings.
+
+## 2026-10-25 (follow-up, Mohamed: "we don't show in search at all" + check Pinterest)
+Etsy stats, last 30 days (shop live since Oct 20): 58 visits (29, 22, 5, 2, 0, 0 per day), 55 listing views, 0 favorites, 0 orders.
+Traffic: Etsy Search 1, Etsy app/pages 2, Etsy marketing/SEO 6, direct/referral 22, Facebook 5, Instagram 1, Pinterest 0, other 21, Etsy Ads 0.
+Search visibility page: no problems ("Your shop is set up for success"; listings = high quality). The shop is indexed: own listings show for long
+specific queries (e.g. christmas countdown activity book printable #1) but not for broad ones. Checked while logged in as the seller (personalized, so only a rough check).
+Diagnosis: new shop (5 days), 0 sales/favorites/reviews -> Etsy ranks it low for broad keywords; Christmas demand only starts in Nov; almost all visits so far came from launch-day social posts.
+Pinterest (posted by ChatGPT): account Colorbloop, 0 followers, 3 boards; about 21 pins incl. 7 scheduled; destination links checked = correct Etsy/Amazon listings.
+  Last 30d: 179 impressions, 7 engagements, 1 outbound click, 0 saves. Top pin = ABC coloring (16 impr). Normal for a 5-day-old account.
+  Pinterest Trends US: Halloween peaking now; "thanksgiving crafts for kids" +400% monthly; Christmas comes next.
