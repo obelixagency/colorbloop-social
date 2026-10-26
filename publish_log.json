@@ -16,7 +16,9 @@
   "etsy:myyear",
   "etsy:valcards",
   "etsy:ramadan",
-  "etsy:sampler"
+  "etsy:sampler",
+  "xmas_coloring",
+  "thanksgiving"
  ],
  "_live_xmas_activity": "2026-10-20",
  "_live_etsy_xmasparty": "2026-10-20",
@@ -690,5 +692,7 @@
    },
    "last_attempt": "2026-10-26T01:27:29.788374+00:00"
   }
- }
+ },
+ "_live_xmas_coloring": "2026-10-26",
+ "_live_thanksgiving": "2026-10-26"
 }
