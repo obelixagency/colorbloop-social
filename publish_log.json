@@ -490,13 +490,12 @@
  "etsy_busybook_reel": {
   "_due": "2026-10-25T19:30:00-04:00",
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18445131430131483"
    },
-   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
+   "last_attempt": "2026-10-26T04:10:31.947295+00:00"
   },
   "facebook_reel": {
    "status": "ok",
@@ -507,13 +506,12 @@
    "last_attempt": "2026-10-26T01:27:29.788374+00:00"
   },
   "instagram_story": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18065400698537222"
    },
-   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
+   "last_attempt": "2026-10-26T04:10:31.947295+00:00"
   },
   "facebook_story": {
    "status": "ok",
