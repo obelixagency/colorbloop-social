@@ -173,3 +173,37 @@ Pinterest (posted by ChatGPT): account Colorbloop, 0 followers, 3 boards; about 
 - Pinterest: created boards "Thanksgiving Coloring Pages for Kids", "Christmas Coloring Pages for Kids", "Christmas Party Games for Kids";
   saved own pins (Thanksgiving sampler, Christmas coloring sampler, Christmas bingo) to them. Brief for ChatGPT in growth_plan.md.
 - Facebook group post drafts for Mohamed in growth_plan.md.
+
+## 2026-10-26 (daily run, done early in chat at Mohamed's request)
+Keyword lookups (5/5, Etsy US, Sep-2026 data):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| christmas coloring book | 222 | 106% | 26,115 | already in xmas_coloring title (23 chars, title only) |
+| feelings chart | 102 | 91% | 6,621 | not used: our book has feelings cards, not a chart |
+| handwriting practice | 93 | 138% | 16,662 | |
+| sight word worksheets | <20 | - | 1,578 | |
+| cursive workbook | <20 | - | 645 | |
+From audits / AI helper: kids handwriting 702 (100% CTR, comp 19,624) <- best find; solar system 894 (comp 25,131); school counselor 535;
+name tracing 204 (comp 3,742; not used, we have no name tracing product); calm down corner 101; handwriting workbook 21 (comp 3,005); cursive sentences comp 76.
+Audits (5/5): sightwords, handwriting, cursive, space, feelings. All 0 sales, 4-6 views. AI Listing Helper (1/1): cursive (weakest: 11/13 tags ~0).
+
+PENDING proposals (sent to Mohamed 2026-10-26):
+P1 sightwords 4599377768
+  title -> "Sight Words Worksheets Kindergarten, 100 Sight Words Workbook Ages 4-6, Trace Write Find Word Search, Reading Practice Printable PDF" (132)
+  tags: -sight word sheets, -dolch sight words; +tracing worksheets, +kids handwriting
+P2 handwriting 4599378794
+  title -> "Handwriting Practice Worksheets for Kids, Letter Tracing Workbook Ages 3-5, Uppercase Lowercase A-Z Alphabet, Preschool Printable PDF" (133)
+  tags: -learn to write, -writing printable, -kinder writing, -letter formation; +kids handwriting, +tracing worksheets, +preschool worksheets, +handwriting workbook
+P3 cursive 4599356115
+  title -> "Cursive Handwriting Workbook for Kids Ages 8-12, Cursive Practice Worksheets, Kids Handwriting Letters Words Sentences Printable PDF" (132)
+  tags: -penmanship, -3rd grade printable, -4th grade, -cursive tracing; +kids handwriting, +handwriting workbook, +cursive sentences, +printable workbook
+P4 space 4599381050
+  title -> "Space Coloring Pages for Kids, Solar System Coloring Book Ages 3-6, 30 Planets Rockets Astronauts Aliens Printable PDF" (115)
+  tags: -planet coloring, -rocket coloring; +coloring book pdf, +easy coloring book
+P5 feelings 4599358725
+  title -> "Feelings Worksheets for Kids, Emotions Activity Book Ages 3-6, Calm Down Corner, Feelings Cards, Kindness, School Counselor Printable PDF" (137)
+  tags: -sel activities, -homeschool sel; +kids coloring pages, +preschool worksheets
+P6 Occasion "Back to school" on sightwords, handwriting, cursive (space/feelings: no accurate option).
+Idea: $2.99 editable name tracing worksheets (type the child's name, PDF prints traced) - name tracing 204 searches, comp only 3,742.
+
+Audit rotation (next up): valentines 4599383654 (active, coloring book), easter 4599384698, xmasparty 4599374187, winter 4599375315, busybook 4599376639.
