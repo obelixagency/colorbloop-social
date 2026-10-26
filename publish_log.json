@@ -488,7 +488,44 @@
   "_due": "2026-10-29T18:00:00-04:00"
  },
  "etsy_busybook_reel": {
-  "_due": "2026-10-25T19:30:00-04:00"
+  "_due": "2026-10-25T19:30:00-04:00",
+  "instagram_reel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122100746247521705"
+   },
+   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
+  },
+  "instagram_story": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1161316199797234"
+    }
+   },
+   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
+  }
  },
  "etsy_bundle_preschool_reel": {
   "_due": "2026-11-01T19:30:00-05:00"
@@ -632,6 +669,28 @@
     "platform_ref": "xFr8yT4XlH4"
    },
    "last_attempt": "2026-10-25T18:31:32.615442+00:00"
+  }
+ },
+ "push_sampler_coloring_story": {
+  "_due": "2026-10-25T21:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18336505951276748"
+   },
+   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1776144701180917"
+    }
+   },
+   "last_attempt": "2026-10-26T01:27:29.788374+00:00"
   }
  }
 }
