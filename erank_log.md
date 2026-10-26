@@ -187,7 +187,7 @@ From audits / AI helper: kids handwriting 702 (100% CTR, comp 19,624) <- best fi
 name tracing 204 (comp 3,742; not used, we have no name tracing product); calm down corner 101; handwriting workbook 21 (comp 3,005); cursive sentences comp 76.
 Audits (5/5): sightwords, handwriting, cursive, space, feelings. All 0 sales, 4-6 views. AI Listing Helper (1/1): cursive (weakest: 11/13 tags ~0).
 
-PENDING proposals (sent to Mohamed 2026-10-26):
+Proposals P1-P6 (sent 2026-10-26): APPROVED+APPLIED 2026-10-26 (Mohamed: approved all), published in Shop Manager; re-opened editor after save: titles, 13/13 tags, Occasion verified:
 P1 sightwords 4599377768
   title -> "Sight Words Worksheets Kindergarten, 100 Sight Words Workbook Ages 4-6, Trace Write Find Word Search, Reading Practice Printable PDF" (132)
   tags: -sight word sheets, -dolch sight words; +tracing worksheets, +kids handwriting
@@ -209,4 +209,4 @@ Idea: $2.99 editable name tracing worksheets (type the child's name, PDF prints 
 Audit rotation (next up): valentines 4599383654 (active, coloring book), easter 4599384698, xmasparty 4599374187, winter 4599375315, busybook 4599376639.
 
 ## 2026-10-26 07:35 UTC (scheduled run)
-eRank quota already used today (Keyword Tool 0/5 left) by the early in-chat run above; no new research. P1-P6 from 2026-10-26 still PENDING (already sent to Mohamed today). Next run: re-send pending + audit valentines, easter, xmasparty, winter, busybook.
+eRank quota already used today (Keyword Tool 0/5 left) by the early in-chat run above; no new research. P1-P6 later APPROVED+APPLIED same day. Nothing PENDING. Next run: audit valentines, easter, xmasparty, winter, busybook.
