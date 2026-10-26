@@ -224,3 +224,11 @@ APPROVAL (Mohamed, in chat 2026-10-26): if tomorrow's research shows demand, BUI
 (dot marker worksheets, letter to santa kit, christmas color by number, reward chart, christmas i spy/scavenger hunt), LIST them on Etsy
 (new listings only, same settings as existing: digital, US Letter + A4, AI disclosure "With an AI generator", no trademarks) and add their social posts to calendar.json.
 Products with weak demand: skip and tell him why. The build is done in the chat session (follow-up scheduled ~09:00 UTC 2026-10-27).
+
+## Amazon (2026-10-26, Mohamed: "approve all, do what you see fit")
+- Author Central Book Recommendations (Books I've written): 4 submitted (in review ≤3 business days): most talked about = Christmas Activity; wish more knew = ABC; start with = Big & Easy Xmas Coloring; know about = Thanksgiving.
+- links.json: added Amazon ASINs xmas_coloring B0HP81NSF4, thanksgiving B0HP7LKC7J (sims PASS).
+- A+ Content: Thanksgiving (APPROVED) + Big & Easy Xmas Coloring (Submitted), duplicated from the Xmas Activity A+ layout (header + 4 images); images in products/aplus.
+- KDP drafts Countdown (P75S2BJFB6H) + Party Games (0DNDY96BE87): fully set up; publish blocked by weekly title limit -> scheduled publish Sun Nov 1 00:15 UTC (Kettlebrook Cozy Christmas moves to Nov 8 week).
+- Amazon Ads: NOT set up - no advertising account. Mohamed must register (KDP > Marketing > Amazon Ads > Amazon.com) + add payment; then Claude creates auto campaigns $3/day each for Christmas Activity + Big & Easy Xmas Coloring (approved).
+- KDP sales this month: 0 orders.
