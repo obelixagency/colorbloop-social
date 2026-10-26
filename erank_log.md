@@ -217,6 +217,6 @@ NEW listing nametracing 4603338038 published (copy of handwriting listing; $2.99
   tags: name tracing, editable worksheets, name practice, preschool worksheets, tracing worksheets, kids handwriting, name writing, toddler worksheets, kindergarten prep, learn my name, editable pdf, pre k worksheets, custom name tracing
   files: Name_Tracing_Editable_US_Letter.pdf + _A4.pdf (products/name_tracing). Description + page 1 warn: fill in Adobe Acrobat Reader; iPhone Files/Books/browser previews may not show dots. Not yet hand-tested in Adobe Reader / iPhone.
 
-## NOTE for next run (Mohamed, 2026-10-26): exploring print-on-demand (Printify) apparel for kids in THIS shop
-Use today's 5 keyword lookups on: color your own shirt, kids christmas shirt, personalized kids christmas shirt, preschool teacher shirt, teacher christmas sweatshirt
-(then continue audit rotation as planned). Report volume/competition; no listing without Mohamed's approval; he must create the Printify account himself.
+## NOTE for next run (Mohamed, 2026-10-26): he wants NEW simple DIGITAL products (no POD, no editable-field risk) that fit the shop
+Use today's 5 keyword lookups on: dot marker worksheets, letter to santa, christmas color by number, reward chart, christmas i spy
+(then continue audit rotation as planned). Report volume/competition/CTR + long-tails and recommend which to build first. No new listing without Mohamed's approval.
