@@ -119,7 +119,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -393,19 +393,20 @@
   "_due": "2026-10-26T13:00:00-04:00",
   "instagram_reel": {
    "status": "failed",
-   "attempts": 0,
+   "attempts": 1,
    "detail": {
     "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AqK8VRfbvkEKQR8BhYwo0Ua'}"
-   }
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-10-26T18:07:44.346667+00:00"
   },
   "facebook_reel": {
-   "status": "failed",
-   "attempts": 0,
+   "status": "ok",
+   "attempts": 1,
    "detail": {
-    "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'A67ngeGhNP8yNTDymP6NxZV'}"
-   }
+    "platform_ref": "122101333527521705"
+   },
+   "last_attempt": "2026-10-26T18:07:44.346667+00:00"
   },
   "youtube_short": {
    "status": "ok",
@@ -417,19 +418,23 @@
   },
   "instagram_story": {
    "status": "failed",
-   "attempts": 0,
+   "attempts": 1,
    "detail": {
     "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'Au89fIl-ohOU4rU4fV5aX32'}"
-   }
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-10-26T18:07:44.346667+00:00"
   },
   "facebook_story": {
-   "status": "failed",
-   "attempts": 0,
+   "status": "ok",
+   "attempts": 1,
    "detail": {
-    "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AxyueiM7HHyGppc52molMv1'}"
-   }
+    "platform_ref": {
+     "success": true,
+     "post_id": "1159173803433935"
+    }
+   },
+   "last_attempt": "2026-10-26T18:07:44.346667+00:00"
   }
  },
  "2026-10-23_1000_post": {
@@ -543,7 +548,23 @@
   "_due": "2026-11-06T19:30:00-05:00"
  },
  "etsy_xmasparty_carousel": {
-  "_due": "2026-10-26T10:00:00-04:00"
+  "_due": "2026-10-26T10:00:00-04:00",
+  "instagram_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18169123564472131"
+   },
+   "last_attempt": "2026-10-26T18:07:44.346667+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122101332807521705"
+   },
+   "last_attempt": "2026-10-26T18:07:44.346667+00:00"
+  }
  },
  "etsy_bundle_holiday_carousel": {
   "_due": "2026-10-28T10:00:00-04:00"
@@ -694,5 +715,16 @@
   }
  },
  "_live_xmas_coloring": "2026-10-26",
- "_live_thanksgiving": "2026-10-26"
+ "_live_thanksgiving": "2026-10-26",
+ "yt_006_vehicles_color": {
+  "_due": "2026-10-26T12:00:00-04:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "JiGb1PksX0M"
+   },
+   "last_attempt": "2026-10-26T18:07:44.346667+00:00"
+  }
+ }
 }
