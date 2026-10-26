@@ -220,3 +220,7 @@ NEW listing nametracing 4603338038 published (copy of handwriting listing; $2.99
 ## NOTE for next run (Mohamed, 2026-10-26): he wants NEW simple DIGITAL products (no POD, no editable-field risk) that fit the shop
 Use today's 5 keyword lookups on: dot marker worksheets, letter to santa, christmas color by number, reward chart, christmas i spy
 (then continue audit rotation as planned). Report volume/competition/CTR + long-tails and recommend which to build first. No new listing without Mohamed's approval.
+APPROVAL (Mohamed, in chat 2026-10-26): if tomorrow's research shows demand, BUILD all 5 new digital products
+(dot marker worksheets, letter to santa kit, christmas color by number, reward chart, christmas i spy/scavenger hunt), LIST them on Etsy
+(new listings only, same settings as existing: digital, US Letter + A4, AI disclosure "With an AI generator", no trademarks) and add their social posts to calendar.json.
+Products with weak demand: skip and tell him why. The build is done in the chat session (follow-up scheduled ~09:00 UTC 2026-10-27).
