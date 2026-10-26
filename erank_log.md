@@ -229,6 +229,6 @@ Products with weak demand: skip and tell him why. The build is done in the chat 
 - Author Central Book Recommendations (Books I've written): 4 submitted (in review ≤3 business days): most talked about = Christmas Activity; wish more knew = ABC; start with = Big & Easy Xmas Coloring; know about = Thanksgiving.
 - links.json: added Amazon ASINs xmas_coloring B0HP81NSF4, thanksgiving B0HP7LKC7J (sims PASS).
 - A+ Content: Thanksgiving (APPROVED) + Big & Easy Xmas Coloring (Submitted), duplicated from the Xmas Activity A+ layout (header + 4 images); images in products/aplus.
-- KDP drafts Countdown (P75S2BJFB6H) + Party Games (0DNDY96BE87): fully set up; publish blocked by weekly title limit -> scheduled publish Sun Nov 1 00:15 UTC (Kettlebrook Cozy Christmas moves to Nov 8 week).
+- KDP drafts Countdown (P75S2BJFB6H) + Party Games (0DNDY96BE87): fully set up; publish blocked by weekly title limit -> scheduled publish Sun Nov 1 00:15 UTC (Kettlebrook PAUSED by Mohamed 2026-10-26: no Kettlebrook books at all; Colorbloop only).
 - Amazon Ads: NOT set up - no advertising account. Mohamed must register (KDP > Marketing > Amazon Ads > Amazon.com) + add payment; then Claude creates auto campaigns $3/day each for Christmas Activity + Big & Easy Xmas Coloring (approved).
 - KDP sales this month: 0 orders.
