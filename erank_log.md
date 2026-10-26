@@ -210,3 +210,9 @@ Audit rotation (next up): valentines 4599383654 (active, coloring book), easter 
 
 ## 2026-10-26 07:35 UTC (scheduled run)
 eRank quota already used today (Keyword Tool 0/5 left) by the early in-chat run above; no new research. P1-P6 later APPROVED+APPLIED same day. Nothing PENDING. Next run: audit valentines, easter, xmasparty, winter, busybook.
+
+## 2026-10-26 (Mohamed approved: new product)
+NEW listing nametracing 4603338038 published (copy of handwriting listing; $2.99; AI disclosure "With an AI generator"; section Handwriting & Tracing; Occasion Back to school).
+  title "Editable Name Tracing Worksheets for Kids, Type Name Once, Name Writing Practice Preschool Kindergarten, Custom Name Printable PDF" (130)
+  tags: name tracing, editable worksheets, name practice, preschool worksheets, tracing worksheets, kids handwriting, name writing, toddler worksheets, kindergarten prep, learn my name, editable pdf, pre k worksheets, custom name tracing
+  files: Name_Tracing_Editable_US_Letter.pdf + _A4.pdf (products/name_tracing). Description + page 1 warn: fill in Adobe Acrobat Reader; iPhone Files/Books/browser previews may not show dots. Not yet hand-tested in Adobe Reader / iPhone.

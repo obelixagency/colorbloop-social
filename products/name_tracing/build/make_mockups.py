@@ -115,8 +115,8 @@ im.save(f'{OUTD}/name_4.jpg', quality=92)
 # 5 details
 im, dr = base()
 ctext(dr, 70, 'What you get', FB(120), PURPLE, 6, INK)
-items = ['1 editable PDF, 6 pages', 'US Letter size (prints fine on A4)', 'Dotted tracing letters + coloring letters',
-         'Reuse for siblings, classes & daycare', 'Instant digital download - nothing shipped', 'Works best in free Adobe Acrobat Reader',
+items = ['Editable PDF, 6 pages', 'US Letter + A4 sizes included', 'Dotted tracing letters + coloring letters',
+         'Reuse for siblings, classes & daycare', 'Instant digital download - nothing shipped', 'Fill in free Adobe Acrobat Reader',
          'Names up to about 12 letters']
 y = 270
 for i, t in enumerate(items):

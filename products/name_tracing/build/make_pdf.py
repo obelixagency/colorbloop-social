@@ -4,7 +4,9 @@ If sample_name is given, field values are pre-filled (for listing previews) with
 """
 import sys, json
 from reportlab.pdfgen import canvas
-from reportlab.lib.pagesizes import letter
+from reportlab.lib.pagesizes import letter, A4
+import os
+PAGE = A4 if os.environ.get('PAGESIZE') == 'A4' else letter
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont as RLTT
 from reportlab.lib.colors import HexColor, white
@@ -13,7 +15,7 @@ from fontTools.ttLib import TTFont
 
 DL, FD, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
 SAMPLE = sys.argv[4] if len(sys.argv) > 4 else ''
-W, H = letter
+W, H = PAGE
 M = 36
 pdfmetrics.registerFont(RLTT('FB', f'{DL}/Fredoka-Bold.ttf'))
 pdfmetrics.registerFont(RLTT('FM', f'{DL}/Fredoka-Medium.ttf'))
@@ -85,7 +87,7 @@ def star(c, x, y, r, color):
     p.close(); c.setFillColor(HexColor(color)); c.drawPath(p, stroke=0, fill=1)
 
 
-c = canvas.Canvas(OUT + '.base.pdf', pagesize=letter)
+c = canvas.Canvas(OUT + '.base.pdf', pagesize=PAGE)
 c.setTitle('My Name Tracing Worksheets - Colorbloop'); c.setAuthor('Colorbloop')
 
 # ---- Page 1: start here
@@ -106,11 +108,11 @@ c.setFillColor(HexColor('#F3EFFF')); c.roundRect(M + 20, 250, W - 2 * M - 40, 14
 c.setFillColor(PURPLE); c.setFont('FB', 15); c.drawString(M + 40, 360, 'Good to know')
 c.setFillColor(INK); c.setFont('FM', 11.5)
 tips = [
-    '•  Open the PDF in the free Adobe Acrobat Reader (computer, iPhone/iPad or Android).',
-    '    Some browser and phone previewers do not show the special tracing letters.',
-    '•  Works best for names up to about 12 letters. Use a capital first letter: Emma',
-    '•  Want a new name? Just type over it and print again. Great for siblings & classes.',
-    '•  Tip: slide a page into a sheet protector and use a dry-erase marker.',
+    '\u2022  Easiest on a computer: open it in the free Adobe Acrobat Reader and type the name.',
+    '\u2022  iPhone / iPad / Android: use the free Adobe Acrobat Reader app. Apple Files, Books',
+    '    and most browser previews may show plain letters instead of the tracing dots.',
+    '\u2022  Works best for names up to about 12 letters. Use a capital first letter: Emma',
+    '\u2022  New name? Type over it and print again. Great for siblings & classes.',
 ]
 y = 336
 for t in tips: c.drawString(M + 40, y, t); y -= 19
