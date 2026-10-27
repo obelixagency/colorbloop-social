@@ -120,7 +120,7 @@
  },
  "_yt_quota": {
   "date": "2026-10-26",
-  "n": 1
+  "n": 2
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -745,7 +745,51 @@
   }
  },
  "push_sampler_fall_reel": {
-  "_due": "2026-10-26T19:30:00-04:00"
+  "_due": "2026-10-26T19:30:00-04:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18129873907882457"
+   },
+   "last_attempt": "2026-10-27T04:29:46.267165+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122101690773521705"
+   },
+   "last_attempt": "2026-10-27T04:29:46.267165+00:00"
+  },
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "joWv-x2XgVg"
+   },
+   "last_attempt": "2026-10-27T04:29:46.267165+00:00"
+  },
+  "instagram_story": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-10-27T04:29:46.267165+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2517164748694715"
+    }
+   },
+   "last_attempt": "2026-10-27T04:29:46.267165+00:00"
+  }
  },
  "push_sampler_preschool_story": {
   "_due": "2026-10-26T21:00:00-04:00",
