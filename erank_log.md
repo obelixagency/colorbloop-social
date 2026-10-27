@@ -232,3 +232,39 @@ Products with weak demand: skip and tell him why. The build is done in the chat 
 - KDP drafts Countdown (P75S2BJFB6H) + Party Games (0DNDY96BE87): fully set up; publish blocked by weekly title limit -> scheduled publish Sun Nov 1 00:15 UTC (Kettlebrook PAUSED by Mohamed 2026-10-26: no Kettlebrook books at all; Colorbloop only).
 - Amazon Ads: NOT set up - no advertising account. Mohamed must register (KDP > Marketing > Amazon Ads > Amazon.com) + add payment; then Claude creates auto campaigns $3/day each for Christmas Activity + Big & Easy Xmas Coloring (approved).
 - KDP sales this month: 0 orders.
+
+## 2026-10-27 (scheduled run 07:23 UTC)
+Keyword lookups (5/5, Etsy US, 12-mo avg; Sep-2026 data) - new-product research Mohamed asked for:
+| keyword | searches | CTR | competition | verdict |
+|---|---|---|---|---|
+| christmas color by number | 98 | 98% | 2,370 | BUILD #1: low comp, 72% US, Dec peak ~1,200/mo |
+| letter to santa | 441 | 101% | 32,356 | BUILD #2: Dec peak ~3,000/mo; long-tails: letter to santa printable/template/kit, christmas letter to santa |
+| reward chart | 253 | 111% | 22,771 | BUILD #3: year-round (Sep 470); long-tails: kids/behavior/classroom reward chart, reward chart printable |
+| dot marker worksheets | <20 | - | 1,393 | SKIP: almost no searches (chart max ~10/mo) |
+| christmas i spy | <20 | - | 1,319 | SKIP standalone: no US demand (57% Germany); already inside xmasparty pack |
+Audits (5/5): valentines, easter, xmasparty (grade B), winter, busybook. All 0 sales, 4-9 total views.
+Useful numbers: christmas games 2,448 (100%); scavenger hunt 1,011; would you rather 635 (comp only 4,696); holiday party games 298;
+busy book 1,574; quiet book 1,336; toddler busy book 1,147; montessori toddler 407; color by number 1,058 (comp 25,689);
+classroom valentine 203; preschool valentine 102; kids valentines 244; valentine printable 205; easter printable 213; easter activities 133.
+AI Listing Helper (1/1): winter (weakest: 10/13 tags <20 searches). Its titles not used (weaker); used winter activity book (comp 3,336), snowman coloring (comp 3,809).
+
+Proposals P1-P6 (sent 2026-10-27): PENDING
+P1 valentines 4599383654
+  title -> "Valentines Coloring Pages for Kids, Preschool Valentine Coloring Book Ages 2-5, Classroom Valentine Activity, Hearts Printable PDF"
+  tags: -february printable, -love bug coloring; +kids coloring pages, +coloring book pdf
+P2 easter 4599384698
+  title -> "Easter Activity Book for Kids Ages 3-6, Easter Coloring Pages, Mazes, Counting, Preschool Easter Worksheets, Spring Printable PDF" (129)
+  tags: -spring printable, -toddler activities; +preschool worksheets, +kids activity book
+P3 xmasparty 4599374187
+  title -> "Christmas Games for Kids Printable, Christmas Bingo, Scavenger Hunt, Would You Rather, Classroom Holiday Party Games Pack PDF" (125)
+  tags: -kids party games, -classroom party, -holiday activities, -xmas word search, -picture bingo, -kids christmas pdf;
+        +christmas activities, +letter to santa, +christmas countdown, +preschool christmas, +christmas activity, +kids activity book
+P4 winter 4599375315
+  title -> "Winter Activity Book for Kids Ages 3-6, Snowman Coloring Pages, Mazes, Counting, Color by Number, Preschool Winter Worksheets PDF" (129)
+  tags: -homeschool january, -penguin coloring, -kindergarten pdf; +preschool worksheets, +winter activity book, +snowman coloring
+P5 busybook 4599376639
+  title -> "Toddler Busy Book Printable, Montessori Quiet Book Ages 2-4, Busy Binder Learning Activities, Preschool Toddler Worksheets PDF Download" (135)
+  tags: -laminate activity, -travel activities; +preschool worksheets, +kids activity book
+P6 Attributes (eRank: missing on all 5): Holiday/Occasion = Valentine's Day (valentines), Easter (easter), Christmas (xmasparty) - only if Etsy offers that option; winter/busybook: leave empty unless an accurate option exists.
+
+Audit rotation (next up): routine 4599377969, bundle_preschool 4599363319, bundle_coloring 4599388238, bundle_kinder 4599389520, bundle_holiday 4599391756.
