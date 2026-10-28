@@ -119,8 +119,8 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-10-27",
-  "n": 2
+  "date": "2026-10-28",
+  "n": 1
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -603,7 +603,23 @@
   }
  },
  "etsy_bundle_holiday_carousel": {
-  "_due": "2026-10-28T10:00:00-04:00"
+  "_due": "2026-10-28T10:00:00-04:00",
+  "instagram_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18110544476183357"
+   },
+   "last_attempt": "2026-10-28T17:52:21.557754+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122103351327521705"
+   },
+   "last_attempt": "2026-10-28T17:52:21.557754+00:00"
+  }
  },
  "etsy_winter_carousel": {
   "_due": "2026-11-03T10:00:00-05:00"
@@ -927,6 +943,17 @@
     }
    },
    "last_attempt": "2026-10-28T05:00:36.106239+00:00"
+  }
+ },
+ "yt_008_thanksgiving_color": {
+  "_due": "2026-10-28T12:00:00-04:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "r7NefZ0_xQQ"
+   },
+   "last_attempt": "2026-10-28T17:52:21.557754+00:00"
   }
  }
 }
