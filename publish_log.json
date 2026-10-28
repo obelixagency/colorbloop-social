@@ -120,7 +120,7 @@
  },
  "_yt_quota": {
   "date": "2026-10-27",
-  "n": 1
+  "n": 2
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -503,7 +503,26 @@
   }
  },
  "etsy_bundle_coloring_story": {
-  "_due": "2026-10-27T18:00:00-04:00"
+  "_due": "2026-10-27T18:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18447213100121508"
+   },
+   "last_attempt": "2026-10-28T00:39:07.752128+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1110219315125204"
+    }
+   },
+   "last_attempt": "2026-10-28T00:39:07.752128+00:00"
+  }
  },
  "etsy_bundle_kinder_story": {
   "_due": "2026-10-28T18:00:00-04:00"
@@ -840,6 +859,52 @@
     "platform_ref": "RxjqNAHb8KQ"
    },
    "last_attempt": "2026-10-27T17:20:11.019675+00:00"
+  }
+ },
+ "push_sampler_coloring_reel": {
+  "_due": "2026-10-27T19:30:00-04:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17954043879282655"
+   },
+   "last_attempt": "2026-10-28T00:39:07.752128+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122102530911521705"
+   },
+   "last_attempt": "2026-10-28T00:39:07.752128+00:00"
+  },
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "2_HRLiOhLK0"
+   },
+   "last_attempt": "2026-10-28T00:39:07.752128+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18121512541985868"
+   },
+   "last_attempt": "2026-10-28T00:39:07.752128+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "28764904553158834"
+    }
+   },
+   "last_attempt": "2026-10-28T00:39:07.752128+00:00"
   }
  }
 }
