@@ -343,20 +343,20 @@
  "2026-10-22_1000_post": {
   "_due": "2026-10-28T14:00:00-04:00",
   "instagram_post": {
-   "status": "failed",
-   "attempts": 0,
+   "status": "ok",
+   "attempts": 1,
    "detail": {
-    "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AqjJrblWukhW2tJqRu6L5UV'}"
-   }
+    "platform_ref": "18097694348448111"
+   },
+   "last_attempt": "2026-10-28T22:07:03.144514+00:00"
   },
   "facebook_post": {
-   "status": "failed",
-   "attempts": 0,
+   "status": "ok",
+   "attempts": 1,
    "detail": {
-    "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'A9xKkO4wtnEpOT6iuwFAB5v'}"
-   }
+    "platform_ref": "122103533775521705"
+   },
+   "last_attempt": "2026-10-28T22:07:03.144514+00:00"
   }
  },
  "yt_003_brand_guess": {
@@ -525,7 +525,26 @@
   }
  },
  "etsy_bundle_kinder_story": {
-  "_due": "2026-10-28T18:00:00-04:00"
+  "_due": "2026-10-28T18:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17912941380508488"
+   },
+   "last_attempt": "2026-10-28T22:07:03.144514+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "28881237098234331"
+    }
+   },
+   "last_attempt": "2026-10-28T22:07:03.144514+00:00"
+  }
  },
  "etsy_bundle_mega_story": {
   "_due": "2026-10-29T18:00:00-04:00"
