@@ -906,5 +906,27 @@
    },
    "last_attempt": "2026-10-28T00:39:07.752128+00:00"
   }
+ },
+ "push_sampler_peek": {
+  "_due": "2026-10-27T21:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18640348150055368"
+   },
+   "last_attempt": "2026-10-28T05:00:36.106239+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1128529846805669"
+    }
+   },
+   "last_attempt": "2026-10-28T05:00:36.106239+00:00"
+  }
  }
 }
