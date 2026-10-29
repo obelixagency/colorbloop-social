@@ -974,5 +974,66 @@
    },
    "last_attempt": "2026-10-28T17:52:21.557754+00:00"
   }
+ },
+ "brand_tips_reel": {
+  "_due": "2026-10-28T19:30:00-04:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18121378694070923"
+   },
+   "last_attempt": "2026-10-29T01:53:57.207091+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122103657843521705"
+   },
+   "last_attempt": "2026-10-29T01:53:57.207091+00:00"
+  },
+  "instagram_story": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-10-29T01:53:57.207091+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2316714135778579"
+    }
+   },
+   "last_attempt": "2026-10-29T01:53:57.207091+00:00"
+  }
+ },
+ "push_sampler_kinder_story": {
+  "_due": "2026-10-28T21:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18126543976928041"
+   },
+   "last_attempt": "2026-10-29T01:53:57.207091+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1767524327870913"
+    }
+   },
+   "last_attempt": "2026-10-29T01:53:57.207091+00:00"
+  }
  }
 }
