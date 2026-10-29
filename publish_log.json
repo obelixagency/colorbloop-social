@@ -994,13 +994,12 @@
    "last_attempt": "2026-10-29T01:53:57.207091+00:00"
   },
   "instagram_story": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18108770558615314"
    },
-   "last_attempt": "2026-10-29T01:53:57.207091+00:00"
+   "last_attempt": "2026-10-29T05:14:11.468423+00:00"
   },
   "facebook_story": {
    "status": "ok",
