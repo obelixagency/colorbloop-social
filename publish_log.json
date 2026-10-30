@@ -119,8 +119,8 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-10-29",
-  "n": 2
+  "date": "2026-10-30",
+  "n": 1
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -1150,6 +1150,36 @@
     }
    },
    "last_attempt": "2026-10-30T02:05:21.054268+00:00"
+  }
+ },
+ "push_sampler_preschool_carousel": {
+  "_due": "2026-10-30T10:00:00-04:00",
+  "instagram_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17870282796660110"
+   },
+   "last_attempt": "2026-10-30T17:38:52.924059+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122105258499521705"
+   },
+   "last_attempt": "2026-10-30T17:38:52.924059+00:00"
+  }
+ },
+ "yt_010_numbers_flip": {
+  "_due": "2026-10-30T12:00:00-04:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "NfaPYu1gY9Q"
+   },
+   "last_attempt": "2026-10-30T17:38:52.924059+00:00"
   }
  }
 }
