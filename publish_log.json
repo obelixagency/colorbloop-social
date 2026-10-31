@@ -119,8 +119,8 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-10-30",
-  "n": 2
+  "date": "2026-10-31",
+  "n": 1
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -1248,6 +1248,36 @@
     }
    },
    "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+  }
+ },
+ "2026-10-30_1000_post": {
+  "_due": "2026-10-31T10:00:00-04:00",
+  "instagram_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18083192474707170"
+   },
+   "last_attempt": "2026-10-31T16:42:54.286460+00:00"
+  },
+  "facebook_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122105734653521705"
+   },
+   "last_attempt": "2026-10-31T16:42:54.286460+00:00"
+  }
+ },
+ "yt_011_animals_color16": {
+  "_due": "2026-10-31T12:00:00-04:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "Lv1YAnjBNNs"
+   },
+   "last_attempt": "2026-10-31T16:42:54.286460+00:00"
   }
  }
 }
