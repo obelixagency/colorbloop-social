@@ -1207,13 +1207,12 @@
  "push_bingo_reel": {
   "_due": "2026-10-30T19:30:00-04:00",
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18026732681868682"
    },
-   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+   "last_attempt": "2026-10-31T04:57:28.601749+00:00"
   },
   "facebook_reel": {
    "status": "ok",
