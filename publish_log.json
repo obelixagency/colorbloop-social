@@ -120,7 +120,7 @@
  },
  "_yt_quota": {
   "date": "2026-10-30",
-  "n": 1
+  "n": 2
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -373,20 +373,23 @@
  "etsy_winter_story": {
   "_due": "2026-10-30T21:00:00-04:00",
   "instagram_story": {
-   "status": "failed",
-   "attempts": 0,
+   "status": "ok",
+   "attempts": 1,
    "detail": {
-    "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'AVFsT92JeKEu22VhtZhvrcg'}"
-   }
+    "platform_ref": "18224936488337541"
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
   },
   "facebook_story": {
-   "status": "failed",
-   "attempts": 0,
+   "status": "ok",
+   "attempts": 1,
    "detail": {
-    "error": "publish_failed",
-    "message": "{'message': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 460, 'fbtrace_id': 'ARSVCPXmtBgtSUphO05QrfK'}"
-   }
+    "platform_ref": {
+     "success": true,
+     "post_id": "2199582560591514"
+    }
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
   }
  },
  "push_sampler_reel": {
@@ -672,7 +675,26 @@
   "_due": "2026-11-06T10:00:00-05:00"
  },
  "xmas_activity_peek1": {
-  "_due": "2026-10-30T18:00:00-04:00"
+  "_due": "2026-10-30T18:00:00-04:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18159833230443046"
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1090326597242827"
+    }
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+  }
  },
  "launch_abc_story": {
   "_due": "2026-10-31T18:00:00-04:00"
@@ -1180,6 +1202,53 @@
     "platform_ref": "NfaPYu1gY9Q"
    },
    "last_attempt": "2026-10-30T17:38:52.924059+00:00"
+  }
+ },
+ "push_bingo_reel": {
+  "_due": "2026-10-30T19:30:00-04:00",
+  "instagram_reel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122105420931521705"
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+  },
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "hI1plm24qf8"
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18002270118038936"
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1062898510131641"
+    }
+   },
+   "last_attempt": "2026-10-31T01:23:12.888892+00:00"
   }
  }
 }
