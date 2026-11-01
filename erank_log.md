@@ -248,7 +248,7 @@ busy book 1,574; quiet book 1,336; toddler busy book 1,147; montessori toddler 4
 classroom valentine 203; preschool valentine 102; kids valentines 244; valentine printable 205; easter printable 213; easter activities 133.
 AI Listing Helper (1/1): winter (weakest: 10/13 tags <20 searches). Its titles not used (weaker); used winter activity book (comp 3,336), snowman coloring (comp 3,809).
 
-Proposals P1-P6 (sent 2026-10-27): PENDING
+Proposals P1-P6 (sent 2026-10-27): APPROVED+APPLIED 2026-11-01
 P1 valentines 4599383654
   title -> "Valentines Coloring Pages for Kids, Preschool Valentine Coloring Book Ages 2-5, Classroom Valentine Activity, Hearts Printable PDF"
   tags: -february printable, -love bug coloring; +kids coloring pages, +coloring book pdf
@@ -284,7 +284,7 @@ stocking stuffer 5,770 (irrelevant for digital), christmas bingo 828, christmas 
 handwriting practice 92 (139%), sight words 41. AI Listing Helper (1/1): bundle_kinder (weakest). Useful: handwriting workbook (comp 3,005, 90% CTR),
 sight words bundle (comp 409), sight words workbook (369), pre-k curriculum (4,096). Its titles used as base for P4.
 
-Proposals P1-P5 (sent 2026-11-01): PENDING
+Proposals P1-P5 (sent 2026-11-01): APPROVED+APPLIED 2026-11-01
 P1 routine 4599377969
   title -> "Visual Schedule for Kids, Daily Routine Chart, Chore Chart Kids, Behavior Chart, Responsibility Chart, Toddler Reward System Printable PDF" (138)
   tags: -kids reward chart, -morning routine, -family rules; +reward chart, +daily routine chart, +kids routine chart
@@ -304,3 +304,9 @@ Still PENDING from 2026-10-27: P1-P6 (valentines, easter, xmasparty, winter, bus
 Idea: $2.99 "Visual Schedule Cards for Toddlers" (pages from the routine pack) - visual schedule 236 searches, comp only 7,562, Jan peak ~1,300.
 
 Audit rotation (next up): xmas_activity 4599336007, abc 4599362140, xmas_coloring 4599339201, thanksgiving 4599340187, numbers 4599341653 (new cycle) + nametracing 4603338038.
+
+## 2026-11-01 (Mohamed in chat: "approve everything you said")
+APPLIED + verified ("successfully updated", 13 tags, exact title) on all 10 listings: routine, bundle_preschool, bundle_coloring, bundle_kinder, bundle_holiday,
+valentines, easter, xmasparty, winter, busybook. Holiday attribute set: valentines=Valentine's Day, easter=Easter, xmasparty=Christmas (winter/busybook: none).
+Note: xmasparty title had been "Christmas Bingo for Kids Printable, ..." before; now "Christmas Games for Kids Printable, ..." (description confirms letter to santa + 25-day countdown inside).
+Nothing PENDING. Idea "Visual Schedule Cards for Toddlers" $2.99 APPROVED by Mohamed - NOT built yet (build from routine pack pages; new listing, same settings, AI disclosure "With an AI generator").
