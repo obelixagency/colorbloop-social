@@ -268,3 +268,39 @@ P5 busybook 4599376639
 P6 Attributes (eRank: missing on all 5): Holiday/Occasion = Valentine's Day (valentines), Easter (easter), Christmas (xmasparty) - only if Etsy offers that option; winter/busybook: leave empty unless an accurate option exists.
 
 Audit rotation (next up): routine 4599377969, bundle_preschool 4599363319, bundle_coloring 4599388238, bundle_kinder 4599389520, bundle_holiday 4599391756.
+
+## 2026-11-01 (scheduled run, done 21:00-21:30 UTC; Oct 28-31 had no runs)
+Keyword lookups (5/5, Etsy US, 12-mo avg):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| kindergarten curriculum | 1,132 | 103% | 7,466 | BEST FIND: high demand, low comp. Long-tails: homeschool kindergarten curriculum, kindergarten curriculum printable/bundle |
+| christmas printables | 624 | 123% | 701,379 | huge comp; use as secondary |
+| visual schedule | 236 | 116% | 7,562 | Jan peak ~1,300; long-tails: visual schedule kids/toddler/cards/autism |
+| routine chart | 29 | 114% | 24,138 | weak; long-tails: kids/daily/morning/bedtime routine chart |
+| preschool bundle | <20 | - | 20,531 | weak: buyers don't search "bundle" |
+Audits (5/5): routine (8 views), bundle_preschool (12), bundle_coloring (6), bundle_kinder (6), bundle_holiday (9). All 0 sales, attributes missing.
+Audit numbers: behavior chart 893 (comp 15,173), responsibility chart 393, chore chart kids 390, preschool curriculum 1,283 (15,459), kids coloring pages 494,
+stocking stuffer 5,770 (irrelevant for digital), christmas bingo 828, christmas printable 659, christmas bundle 338, christmas countdown 323, christmas coloring 230,
+handwriting practice 92 (139%), sight words 41. AI Listing Helper (1/1): bundle_kinder (weakest). Useful: handwriting workbook (comp 3,005, 90% CTR),
+sight words bundle (comp 409), sight words workbook (369), pre-k curriculum (4,096). Its titles used as base for P4.
+
+Proposals P1-P5 (sent 2026-11-01): PENDING
+P1 routine 4599377969
+  title -> "Visual Schedule for Kids, Daily Routine Chart, Chore Chart Kids, Behavior Chart, Responsibility Chart, Toddler Reward System Printable PDF" (138)
+  tags: -kids reward chart, -morning routine, -family rules; +reward chart, +daily routine chart, +kids routine chart
+P2 bundle_preschool 4599363319
+  title -> "Preschool Curriculum Bundle Printable, Pre K Worksheets, ABC, Numbers, Shapes, Handwriting, Scissor Skills, Feelings Activity Books PDF" (135)
+  tags: -preschool bundle, -homeschool preschool, -shapes and colors, -learning binder; +preschool worksheets, +kids handwriting, +tracing worksheets, +preschool activities
+P3 bundle_coloring 4599388238
+  title -> "Kids Coloring Pages Bundle, 192+ Coloring Pages for Toddlers and Kids, Animals, Dinosaurs, Trucks, Unicorns, Space Coloring Book PDF" (132)
+  tags: -truck coloring, -rainy day activity; +kids coloring book, +coloring book bundle
+P4 bundle_kinder 4599389520
+  title -> "Kindergarten Curriculum Bundle Printable, 5 Kindergarten Workbooks, Sight Words, Letter Tracing, Scissor Skills, Numbers 1-20 PDF" (129)
+  tags: -kinder worksheets, -homeschool kinder, -kids printable, -summer workbook, -first grade prep; +sight words bundle, +handwriting workbook, +kindergarten skills, +kinder curriculum, +kindergarten pdf
+P5 bundle_holiday 4599391756
+  title -> "Christmas Printables for Kids Bundle, Christmas Countdown Book, Bingo, Party Games, Coloring Pages, Winter, Thanksgiving, New Year PDF" (134)
+  tags: -winter worksheets, -winter break pack, -homeschool christmas; +christmas games, +advent calendar kids, +christmas worksheets
+Still PENDING from 2026-10-27: P1-P6 (valentines, easter, xmasparty, winter, busybook, Holiday attributes) -> re-sent today as P6-P11.
+Idea: $2.99 "Visual Schedule Cards for Toddlers" (pages from the routine pack) - visual schedule 236 searches, comp only 7,562, Jan peak ~1,300.
+
+Audit rotation (next up): xmas_activity 4599336007, abc 4599362140, xmas_coloring 4599339201, thanksgiving 4599340187, numbers 4599341653 (new cycle) + nametracing 4603338038.
