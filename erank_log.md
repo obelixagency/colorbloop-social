@@ -321,3 +321,37 @@ APPROVED plan (to build once account exists): 4 Sponsored Products AUTO campaign
   LAUNCHED (will deliver once card works): "CB Big Easy Xmas Coloring B0HP81NSF4 - Auto" (bid 0.30), "CB Christmas Party Games - Auto" (bid 0.35).
   Both: Standard ad, Auto targeting, Dynamic bids down only, $1.50/day, Nov 2 - Dec 20 2026, negative phrase: free, pdf, printable, adult, kindle.
   DRAFTS (launch after card fixed): Christmas Countdown (A0228543N2EXPFM2GAVC, full settings), Christmas Activity (A005539726HZTP8LGTA6T) + an older incomplete Activity draft (A1019226IUTJXYJNEJLX) - re-check settings before launch.
+
+## 2026-11-02 (scheduled run, ~09:20-09:50 UTC)
+Keyword lookups (5/5, Etsy US, 12-mo avg):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| name tracing | 204 | 96% | 3,742 | BEST FIND: Nov-Dec peak ~1,200/mo, very low comp (only 33% US searchers) |
+| thanksgiving activities | 198 | 99% | 27,608 | Oct ~1,160; 23 chars -> title only |
+| christmas activity book | 128 | 147% | 16,817 | much lower comp than "christmas activities" (94,489); 23 chars -> title only |
+| alphabet worksheets | 28 | 118% | 24,063 | weak (already in abc title) |
+| number tracing | <20 | - | 7,088 | weak |
+Audits (5/5): xmas_activity (8 views), abc (6), xmas_coloring (5), thanksgiving (4; 8/13 tags no data), nametracing (3). All 0 sales. Attributes missing: xmas_activity, xmas_coloring, thanksgiving.
+numbers NOT audited (quota) -> first in next rotation.
+AI Listing Helper (1/1): nametracing. Useful: handwriting practice 92 (139%), kids name tracing (comp 1,555). Its titles not used (dash style, weaker).
+Other numbers: kids coloring book 707, kids activity book 281, kids coloring pages 494, coloring sheets 222, stocking stuffer 5,770 (irrelevant: digital).
+
+Proposals P1-P6 (sent 2026-11-02): PENDING
+P1 xmas_activity 4599336007
+  title -> "Christmas Activity Book for Kids Ages 3-6, Christmas Activities, Coloring Pages, Mazes, Tracing Worksheets, Preschool Christmas PDF" (131)
+  tags: -stocking stuffer +kids coloring pages; -toddler christmas +christmas worksheets
+P2 abc 4599362140 (title unchanged)
+  tags: -abc printable +kids activity book; -letter recognition +handwriting practice
+P3 xmas_coloring 4599339201
+  title -> "Christmas Coloring Pages for Kids and Toddlers, Big Easy Christmas Coloring Book Ages 2-5, Santa Snowman Reindeer, Preschool Printable PDF" (138)
+  tags: -stocking stuffer +kids coloring book; -toddler christmas +kids coloring pages; -big easy coloring +coloring sheets
+P4 thanksgiving 4599340187
+  title -> "Thanksgiving Coloring Pages for Kids, Thanksgiving Activities for Toddlers and Preschool, Turkey Pumpkin Fall Coloring Book Ages 2-5 PDF" (136)
+  tags: -thanksgiving pages +kids coloring pages; -thanksgiving pumpkin +kids coloring book; -kids table activity +coloring sheets
+P5 nametracing 4603338038
+  title -> "Name Tracing Worksheets Editable, Preschool Name Writing Practice Ages 3-6, Kids Handwriting, Tracing Worksheets, Kindergarten Prep PDF" (135)
+  tags: -editable pdf +handwriting practice; -learn my name +kids name tracing
+P6 Holiday attribute: Christmas on xmas_activity + xmas_coloring, Thanksgiving on thanksgiving (only if Etsy offers it).
+Idea: $2.99 "Editable Christmas Name Tracing Worksheets" (same editable tech, Christmas theme) - name tracing peaks Nov-Dec ~1,200/mo, comp 3,742.
+
+Audit rotation (next up): numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493, kindergarten 4599372316.
