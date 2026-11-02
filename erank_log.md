@@ -317,3 +317,7 @@ APPROVED plan (to build once account exists): 4 Sponsored Products AUTO campaign
   Christmas Activity B0HNLYHYLJ, Big & Easy Xmas Coloring B0HP81NSF4, Christmas Countdown B0HQ1HD3PZ, Christmas Party Games B0HQ1J6L5G.
   Run until ~Dec 20. Review after 14 days: pause any book with spend > 2x royalties and 0 sales; raise budget on ones that sell.
   Not advertised: Thanksgiving B0HP7LKC7J (season too short), ABC B0HNPS6FQ5 (not seasonal).
+2026-11-02 ~08:45 UTC: Mohamed registered Amazon Ads account "Colorbloop" (KDP books visible). Card pre-authorization FAILS (US) -> status "Payment failure", Launch button mostly disabled.
+  LAUNCHED (will deliver once card works): "CB Big Easy Xmas Coloring B0HP81NSF4 - Auto" (bid 0.30), "CB Christmas Party Games - Auto" (bid 0.35).
+  Both: Standard ad, Auto targeting, Dynamic bids down only, $1.50/day, Nov 2 - Dec 20 2026, negative phrase: free, pdf, printable, adult, kindle.
+  DRAFTS (launch after card fixed): Christmas Countdown (A0228543N2EXPFM2GAVC, full settings), Christmas Activity (A005539726HZTP8LGTA6T) + an older incomplete Activity draft (A1019226IUTJXYJNEJLX) - re-check settings before launch.
