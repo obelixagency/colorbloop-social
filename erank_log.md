@@ -361,3 +361,5 @@ APPLIED + verified ("successfully updated", re-opened editor: exact title, 13 ta
 Holiday attribute set: xmas_activity=Christmas, xmas_coloring=Christmas, thanksgiving=Thanksgiving. Nothing PENDING.
 Idea "Editable Christmas Name Tracing" $2.99: proposed only, not approved yet.
 Etsy Ads check: Etsy Ads (pay-per-click) locked for new shops, unlocks in 1 day (Nov 3). Offsite Ads (fee only on sale): ON (not opted out), last 30 days 0 orders, $0 fees, ~1 click.
+Etsy Ads APPROVED by Mohamed 2026-11-02 ("ايوة اعمل ده"): $2/day max, only Christmas listings (xmas_activity 4599336007, xmas_coloring 4599339201, xmasparty 4599374187, bundle_holiday 4599391756, countdown 4600569765) + nametracing 4603338038.
+Scheduled for setup 2026-11-03 12:00 UTC (ads unlock that day). No card/billing entry by Claude.
