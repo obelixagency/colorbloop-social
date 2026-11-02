@@ -310,3 +310,10 @@ APPLIED + verified ("successfully updated", 13 tags, exact title) on all 10 list
 valentines, easter, xmasparty, winter, busybook. Holiday attribute set: valentines=Valentine's Day, easter=Easter, xmasparty=Christmas (winter/busybook: none).
 Note: xmasparty title had been "Christmas Bingo for Kids Printable, ..." before; now "Christmas Games for Kids Printable, ..." (description confirms letter to santa + 25-day countdown inside).
 Nothing PENDING. Idea "Visual Schedule Cards for Toddlers" $2.99 APPROVED by Mohamed - NOT built yet (build from routine pack pages; new listing, same settings, AI disclosure "With an AI generator").
+
+## Amazon Ads (2026-11-02, Mohamed: "go make the ads")
+No Amazon Ads account yet (advertising.amazon.com redirects to /register). Claude can't create accounts or enter card -> Mohamed must register (Create an advertiser account, same Amazon login as KDP, United States) + add payment.
+APPROVED plan (to build once account exists): 4 Sponsored Products AUTO campaigns, $1.50/day each (~$180/mo max), "Dynamic bids - down only", default bid ~$0.35:
+  Christmas Activity B0HNLYHYLJ, Big & Easy Xmas Coloring B0HP81NSF4, Christmas Countdown B0HQ1HD3PZ, Christmas Party Games B0HQ1J6L5G.
+  Run until ~Dec 20. Review after 14 days: pause any book with spend > 2x royalties and 0 sales; raise budget on ones that sell.
+  Not advertised: Thanksgiving B0HP7LKC7J (season too short), ABC B0HNPS6FQ5 (not seasonal).
