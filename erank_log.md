@@ -336,7 +336,7 @@ numbers NOT audited (quota) -> first in next rotation.
 AI Listing Helper (1/1): nametracing. Useful: handwriting practice 92 (139%), kids name tracing (comp 1,555). Its titles not used (dash style, weaker).
 Other numbers: kids coloring book 707, kids activity book 281, kids coloring pages 494, coloring sheets 222, stocking stuffer 5,770 (irrelevant: digital).
 
-Proposals P1-P6 (sent 2026-11-02): PENDING
+Proposals P1-P6 (sent 2026-11-02): APPROVED+APPLIED 2026-11-02 (Mohamed: "اعتمد")
 P1 xmas_activity 4599336007
   title -> "Christmas Activity Book for Kids Ages 3-6, Christmas Activities, Coloring Pages, Mazes, Tracing Worksheets, Preschool Christmas PDF" (131)
   tags: -stocking stuffer +kids coloring pages; -toddler christmas +christmas worksheets
@@ -355,3 +355,9 @@ P6 Holiday attribute: Christmas on xmas_activity + xmas_coloring, Thanksgiving o
 Idea: $2.99 "Editable Christmas Name Tracing Worksheets" (same editable tech, Christmas theme) - name tracing peaks Nov-Dec ~1,200/mo, comp 3,742.
 
 Audit rotation (next up): numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493, kindergarten 4599372316.
+
+## 2026-11-02 (Mohamed in chat: "اعتمد")
+APPLIED + verified ("successfully updated", re-opened editor: exact title, 13 tags) on xmas_activity, abc, xmas_coloring, thanksgiving, nametracing.
+Holiday attribute set: xmas_activity=Christmas, xmas_coloring=Christmas, thanksgiving=Thanksgiving. Nothing PENDING.
+Idea "Editable Christmas Name Tracing" $2.99: proposed only, not approved yet.
+Etsy Ads check: Etsy Ads (pay-per-click) locked for new shops, unlocks in 1 day (Nov 3). Offsite Ads (fee only on sale): ON (not opted out), last 30 days 0 orders, $0 fees, ~1 click.
