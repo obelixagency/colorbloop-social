@@ -402,3 +402,15 @@ Etsy Ads check: campaign live, 6 listings advertised (Christmas x5 + nametracing
 2026-11-03 13:27 UTC: re-checked Etsy Ads (the 12:00 attempt couldn't reach Chrome; campaign had already been set up earlier today). Live: $2/day, efficient spending, 6 listings advertised (bundle_holiday, nametracing, xmas_activity, xmas_coloring, xmasparty, countdown). Day 1: 3 views, 1 click (xmas_activity), $0.19 spent, 0 orders. Retry task at 15:01 UTC still scheduled (delete not permitted) - it should only verify, no changes needed. Review ~Nov 10 / after 30 days per Etsy.
 2026-11-03 ~13:40 UTC: Mohamed approved ("يلا بينا ضيفه") adding thanksgiving 4599340187 to Etsy Ads, budget unchanged $2/day. Ad turned ON (Etsy: 'Advertising is now on for this listing'). Now 7 listings advertised. Turn OFF scheduled 2026-11-23 10:00 UTC.
 2026-11-03 15:02 UTC: old retry task fired - no action (campaign already live; Thanksgiving ad kept ON per Mohamed's later approval).
+
+## 2026-11-03 ~22:30 UTC: 2 new products LISTED (Mohamed: "اعمل دول ... وانشر علي اتسي بالسيو"; no eRank quota used)
+- Visual Schedule Cards 4609322846 ($2.99, section Routines & Feelings): 13-page PDF (US Letter + A4), 72 picture cards (6 sheets) + 12 blank, My Morning/Day/Bedtime boards, First/Then board. 5 images.
+  title "Visual Schedule Cards for Toddlers and Kids, 72 Picture Cards, Morning and Bedtime Routine Chart, First Then Board Printable PDF" (128)
+  tags: visual schedule, visual schedule kids, toddler schedule, daily routine chart, kids routine chart, routine cards, picture cards, first then board, morning routine, bedtime routine, toddler printable, preschool printable, homeschool printable
+- Christmas Name Tracing (editable) 4609299081 ($2.99, section Handwriting & Tracing, Holiday=Christmas): 7 pages, type name once (21 fields), letter to Santa, 6 name gift tags. 5 images.
+  title "Christmas Name Tracing Worksheets Editable, Letter to Santa, Name Gift Tags, Preschool Christmas Writing Practice Ages 3-6 PDF" (126)
+  tags: name tracing, christmas worksheets, preschool christmas, kids name tracing, letter to santa, christmas printable, handwriting practice, christmas activity, tracing worksheets, christmas tracing, name writing, kindergarten prep, christmas gift tags
+- Both made by copying existing listings (same settings, "How it's made" = With an AI generator), then new photos/files/title/description/tags. Verified in editor: 2 PDFs, 13 tags, 5 images each. Listing fee $0.20 each.
+- Pictures = Noto Emoji (Apache 2.0, credited in PDF + description). Build files in products/visual_schedule, products/xmas_name_tracing.
+- NOT in Etsy Ads yet (campaign stays 7 listings) - ask Mohamed. Social posts not scheduled yet - ask Mohamed.
+- KDP plan (after Amazon card is fixed): editable name tracing can't work in print (name is typed in the PDF). Print-friendly versions to propose: (1) "Christmas Handwriting & Tracing Workbook" paperback (generic words, no name field), (2) "My First Routine & Feelings Picture Book" is weak for KDP (cards need cutting) -> skip. Christmas window for KDP is short (publish review ~72h + ads), so decide by ~Nov 10.
