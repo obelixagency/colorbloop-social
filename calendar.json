@@ -4496,5 +4496,113 @@
   ],
   "caption": null,
   "requires_link": null
+ },
+ {
+  "id": "etsy_xmas_nametracing_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_xmas_nametracing.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:xmas_nametracing",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_xmas_nametracing_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_xmas_nametracing.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Christmas Name Tracing 🎄✏️ Type your child's name ONCE and it fills in on all 7 Christmas pages: trace my name, a letter to Santa, color my name and 6 name gift tags to cut out. Ages 3–6.\n\n{cta}\n\n#nametracing #christmasactivities #preschoolchristmas #lettertosanta #printables #kidsactivities #handwritingpractice",
+   "link_key": "etsy:xmas_nametracing"
+  },
+  "book": "etsy:xmas_nametracing",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_xmas_nametracing_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_xmas_nametracing_1.jpg",
+   "car_etsy_xmas_nametracing_2.jpg",
+   "car_etsy_xmas_nametracing_3.jpg",
+   "car_etsy_xmas_nametracing_4.jpg",
+   "car_etsy_xmas_nametracing_5.jpg"
+  ],
+  "caption": {
+   "text": "Their name, on every page 🎅 Swipe for a peek: dotted tracing, Dear Santa letter, bubble letters to color and \"From: Emma\" gift tags.\n\nOne file works for every child in the family or class!\n\n{cta}\n\n#nametracing #christmasactivities #preschoolchristmas #lettertosanta #printables #kidsactivities #handwritingpractice",
+   "link_key": "etsy:xmas_nametracing"
+  },
+  "book": "etsy:xmas_nametracing",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_xmas_nametracing_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_xmas_nametracing_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:xmas_nametracing",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_visual_schedule_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_visual_schedule.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:visual_schedule",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_visual_schedule_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_visual_schedule.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Visual Schedule Cards ⭐ 72 picture cards plus My Morning, My Day and My Bedtime charts and a First / Then board. Little ones can SEE what comes next! Ages 2–8.\n\n{cta}\n\n#visualschedule #toddlerroutine #routinechart #firstthen #printables #momhacks #preschoolathome",
+   "link_key": "etsy:visual_schedule"
+  },
+  "book": "etsy:visual_schedule",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_visual_schedule_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_visual_schedule_1.jpg",
+   "car_etsy_visual_schedule_2.jpg",
+   "car_etsy_visual_schedule_3.jpg",
+   "car_etsy_visual_schedule_4.jpg",
+   "car_etsy_visual_schedule_5.jpg"
+  ],
+  "caption": {
+   "text": "Mornings, made simple ☀️ Swipe for a peek: 72 picture cards in 6 themes, routine charts and a First / Then board.\n\nPrint, laminate, add velcro and use every day!\n\n{cta}\n\n#visualschedule #toddlerroutine #routinechart #firstthen #printables #momhacks #preschoolathome",
+   "link_key": "etsy:visual_schedule"
+  },
+  "book": "etsy:visual_schedule",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_visual_schedule_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_visual_schedule_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:visual_schedule",
+  "day": 5,
+  "time": "18:00"
  }
 ]
