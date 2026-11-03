@@ -694,7 +694,42 @@
   }
  },
  "etsy_routine_reel": {
-  "_due": "2026-11-02T19:30:00-05:00"
+  "_due": "2026-11-02T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17900214804397352"
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122106741525521705"
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17893937973617898"
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "29182094938076651"
+    }
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
+  }
  },
  "etsy_bundle_coloring_reel": {
   "_due": "2026-11-03T19:30:00-05:00"
@@ -828,7 +863,26 @@
   "_due": "2026-11-08T19:30:00-05:00"
  },
  "abc_peek1": {
-  "_due": "2026-11-02T18:00:00-05:00"
+  "_due": "2026-11-02T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18115484261037530"
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1888222929001203"
+    }
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
+  }
  },
  "xmas_activity_peek2": {
   "_due": "2026-11-03T18:00:00-05:00"
@@ -1503,6 +1557,28 @@
     "platform_ref": "MrbmEIaqPmk"
    },
    "last_attempt": "2026-11-02T21:19:05.872840+00:00"
+  }
+ },
+ "push_sampler_fall_peek": {
+  "_due": "2026-11-02T21:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18096730088157766"
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "4466479606897408"
+    }
+   },
+   "last_attempt": "2026-11-03T02:59:44.050153+00:00"
   }
  }
 }
