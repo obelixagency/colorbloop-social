@@ -374,7 +374,7 @@ Audits (5/5): numbers (5 views), shapes (4), preschool (5), animals (4), kinderg
   kids coloring book 719, kids coloring pages 494, kids worksheets 284, tracing worksheets 128, toddler worksheets 107, printable activities 130, preschool activities 108.
 AI Listing Helper (1/1): shapes (weakest: 11/13 tags <20). Its titles weaker (pipe style); used its keywords printable activities / preschool activities.
 
-Proposals P1-P5 (sent 2026-11-03): PENDING
+Proposals P1-P5 (sent 2026-11-03): APPROVED+APPLIED 2026-11-03 (Mohamed: "موافق علي كله")
 P1 numbers 4599341653
   title -> "Preschool Worksheets Printable, Number Tracing Worksheets 1-20, Counting and Coloring Math Book Ages 3-5, Kindergarten Math PDF" (127)
   tags: -homeschool math, -pre k printable, -number coloring, -math printable; +kids worksheets, +printable activities, +preschool activities, +kids activity book
@@ -392,6 +392,10 @@ Audit rotation (next up): dinosaurs 4599373502, vehicles 4599374544, unicorns 45
 
 ## 2026-11-03 (scheduled run, 09:32 UTC)
 eRank daily quota already used today in Mohamed's chat run (~09:10-09:30 UTC: 5 lookups, 5 audits, 1 AI helper) -> no new research (would repeat work / exceed free limits).
-Re-sent PENDING P1-P5 (numbers, shapes, preschool, animals, kindergarten) to Mohamed for approval. Still PENDING.
+Re-sent P1-P5 to Mohamed -> he approved all ("موافق علي كله").
 Idea re-raised: build the APPROVED "Visual Schedule Cards for Toddlers" $2.99 listing (not built yet).
 Next run: audits dinosaurs 4599373502, vehicles 4599374544, unicorns 4599351423, scissors 4599352519, mega bundle 4599370749.
+
+## 2026-11-03 (Mohamed in chat ~10:00 UTC: "موافق علي كله")
+APPLIED + verified (Etsy "successfully updated", re-opened editor: new titles on numbers/shapes, 13 tags each) on numbers, shapes, preschool, animals, kindergarten. Nothing PENDING.
+Etsy Ads check: campaign live, 6 listings advertised (Christmas x5 + nametracing), $2/day, no stats yet (0 views/clicks/spend on day 1). Review Nov 10.
