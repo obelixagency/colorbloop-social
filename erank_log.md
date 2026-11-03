@@ -363,3 +363,29 @@ Idea "Editable Christmas Name Tracing" $2.99: proposed only, not approved yet.
 Etsy Ads check: Etsy Ads (pay-per-click) locked for new shops, unlocks in 1 day (Nov 3). Offsite Ads (fee only on sale): ON (not opted out), last 30 days 0 orders, $0 fees, ~1 click.
 Etsy Ads APPROVED by Mohamed 2026-11-02 ("ايوة اعمل ده"): $2/day max, only Christmas listings (xmas_activity 4599336007, xmas_coloring 4599339201, xmasparty 4599374187, bundle_holiday 4599391756, countdown 4600569765) + nametracing 4603338038.
 Scheduled for setup 2026-11-03 12:00 UTC (ads unlock that day). No card/billing entry by Claude.
+
+## 2026-11-03 (Mohamed in chat ~09:10 UTC: "set up Etsy ads + do the reviews")
+ETSY ADS DONE (2026-11-03 ~09:20 UTC): campaign started, budget USD 2/day ("efficient spending" default strategy, budget < $25).
+  Ads ON only for: xmas_activity 4599336007, xmas_coloring 4599339201, xmasparty 4599374187, bundle_holiday 4599391756, countdown 4600569765, nametracing 4603338038. All other listings OFF (verified after reload: Advertised filter = 6).
+  -> the 12:00 UTC scheduled Etsy Ads setup has nothing left to do. Review after 7 days (Nov 10): keep listings with clicks, swap 0-click ones.
+Keyword lookups (5/5): homeschool curriculum 313 (98% CTR, comp 16,932; tag too long, title only); preschool workbook 34 (comp 11,181);
+  toddler coloring book <20; shapes worksheets <20; christmas name tracing: no data, comp 174 -> "Editable Christmas Name Tracing" idea has no proven demand, drop it.
+Audits (5/5): numbers (5 views), shapes (4), preschool (5), animals (4), kindergarten (4). All 0 sales. Strong numbers seen: preschool worksheets 1,101 (comp 66,040),
+  kids coloring book 719, kids coloring pages 494, kids worksheets 284, tracing worksheets 128, toddler worksheets 107, printable activities 130, preschool activities 108.
+AI Listing Helper (1/1): shapes (weakest: 11/13 tags <20). Its titles weaker (pipe style); used its keywords printable activities / preschool activities.
+
+Proposals P1-P5 (sent 2026-11-03): PENDING
+P1 numbers 4599341653
+  title -> "Preschool Worksheets Printable, Number Tracing Worksheets 1-20, Counting and Coloring Math Book Ages 3-5, Kindergarten Math PDF" (127)
+  tags: -homeschool math, -pre k printable, -number coloring, -math printable; +kids worksheets, +printable activities, +preschool activities, +kids activity book
+P2 shapes 4599342777
+  title -> "Preschool Worksheets Printable, Shapes and Colors Worksheets for Toddlers Ages 2-5, Tracing Worksheets, Learn 12 Shapes and 11 Colors PDF" (137)
+  tags: -toddler printable, -homeschool toddler, -pre k printable, -busy book pages, -color recognition, -learning colors; +preschool activities, +printable activities, +kids worksheets, +kids activity book, +kids coloring pages, +coloring sheets
+P3 preschool 4599368748 (title unchanged, already leads with "Preschool Worksheets Printable")
+  tags: -pre k worksheets, -homeschool preschool, -preschool bundle, -shapes and colors; +preschool activities, +printable activities, +kids worksheets, +kids activity book
+P4 animals 4599346493 (title unchanged)
+  tags: -rainy day activity, -safari coloring, -bold coloring pages, -zoo animals; +coloring sheets, +coloring book pdf, +easy coloring book, +kids activity book
+P5 kindergarten 4599372316 (title unchanged; not adding "curriculum" - single 75-page book)
+  tags: -kinder worksheets, -busy book pages, -kids printable, -pre k activities, -learning activities; +printable activities, +kids activity book, +handwriting practice, +kindergarten prep, +kindergarten skills
+
+Audit rotation (next up): dinosaurs 4599373502, vehicles 4599374544, unicorns 4599351423, scissors 4599352519, mega bundle 4599370749.
