@@ -399,3 +399,4 @@ Next run: audits dinosaurs 4599373502, vehicles 4599374544, unicorns 4599351423,
 ## 2026-11-03 (Mohamed in chat ~10:00 UTC: "موافق علي كله")
 APPLIED + verified (Etsy "successfully updated", re-opened editor: new titles on numbers/shapes, 13 tags each) on numbers, shapes, preschool, animals, kindergarten. Nothing PENDING.
 Etsy Ads check: campaign live, 6 listings advertised (Christmas x5 + nametracing), $2/day, no stats yet (0 views/clicks/spend on day 1). Review Nov 10.
+2026-11-03 12:00 UTC: Etsy Ads setup attempt FAILED - Chrome extension not reachable (computer off/asleep). Retry scheduled ~15:00 UTC. Campaign NOT created yet.
