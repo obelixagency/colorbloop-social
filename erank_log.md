@@ -414,3 +414,7 @@ Etsy Ads check: campaign live, 6 listings advertised (Christmas x5 + nametracing
 - Pictures = Noto Emoji (Apache 2.0, credited in PDF + description). Build files in products/visual_schedule, products/xmas_name_tracing.
 - NOT in Etsy Ads yet (campaign stays 7 listings) - ask Mohamed. Social posts not scheduled yet - ask Mohamed.
 - KDP plan (after Amazon card is fixed): editable name tracing can't work in print (name is typed in the PDF). Print-friendly versions to propose: (1) "Christmas Handwriting & Tracing Workbook" paperback (generic words, no name field), (2) "My First Routine & Feelings Picture Book" is weak for KDP (cards need cutting) -> skip. Christmas window for KDP is short (publish review ~72h + ads), so decide by ~Nov 10.
+2026-11-03 ~22:45 UTC (Mohamed: "يلا اعمل الاتنين فورا"):
+- Social: calendar.json per-product plans added for etsy:xmas_nametracing + etsy:visual_schedule (story day0 18:00 ET, reel day0 19:30, carousel day2 10:00, peek story day5 18:00; IG + FB via watchdog). Assets in assets/*_etsy_<key>*. 
+- Etsy Ads: new listing 4609299081 not in the Ads listings table yet (Etsy needs time) -> follow-up scheduled 2026-11-04 12:30 UTC to toggle it ON (budget stays $2/day).
+- Mohamed asked about paid social ads (Meta) to Etsy/Amazon: advised NOT now (price $2.99, 0 reviews, ~6 visits/week -> cost per sale likely far above price). Keep Etsy Ads $2/day + Amazon Ads (after card fix); revisit Meta test after first sales/reviews, with a bundle ($10+).
