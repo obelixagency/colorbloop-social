@@ -449,3 +449,4 @@ Idea: "Christmas Break Activity Pack" $2.99 (100% US searchers, comp only 1,986)
 
 Audit rotation (next up): sightwords 4599377768, handwriting 4599378794, cursive 4599356115, space 4599381050, feelings 4599358725 (+ xmas_nametracing / visual_schedule once eRank syncs).
 2026-11-04: APPLIED + verified (Etsy "successfully updated", re-opened editor: exact new titles, 13/13 tags) on dinosaurs, vehicles, unicorns, scissors, mega bundle. Prices/photos/files/AI disclosure untouched. Nothing PENDING.
+2026-11-04 12:31 UTC: Etsy Ads check - Christmas Name Tracing 4609299081 already ADVERTISED (toggle ON, Etsy auto-added the new listing; 1 view so far). No change made. Now 8 listings advertised, $2/day. Visual Schedule 4609322846 NOT advertised (not requested). 30-day totals: 32 views, 1 click, $0.19, 0 orders.
