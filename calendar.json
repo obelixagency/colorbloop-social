@@ -4093,6 +4093,114 @@
   "same_as": "etsy_ramadan_reel"
  },
  {
+  "id": "etsy_xmas_nametracing_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_xmas_nametracing.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:xmas_nametracing",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_xmas_nametracing_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_xmas_nametracing.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Christmas Name Tracing 🎄✏️ Type your child's name ONCE and it fills in on all 7 Christmas pages: trace my name, a letter to Santa, color my name and 6 name gift tags to cut out. Ages 3–6.\n\n{cta}\n\n#nametracing #christmasactivities #preschoolchristmas #lettertosanta #printables #kidsactivities #handwritingpractice",
+   "link_key": "etsy:xmas_nametracing"
+  },
+  "book": "etsy:xmas_nametracing",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_xmas_nametracing_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_xmas_nametracing_1.jpg",
+   "car_etsy_xmas_nametracing_2.jpg",
+   "car_etsy_xmas_nametracing_3.jpg",
+   "car_etsy_xmas_nametracing_4.jpg",
+   "car_etsy_xmas_nametracing_5.jpg"
+  ],
+  "caption": {
+   "text": "Their name, on every page 🎅 Swipe for a peek: dotted tracing, Dear Santa letter, bubble letters to color and \"From: Emma\" gift tags.\n\nOne file works for every child in the family or class!\n\n{cta}\n\n#nametracing #christmasactivities #preschoolchristmas #lettertosanta #printables #kidsactivities #handwritingpractice",
+   "link_key": "etsy:xmas_nametracing"
+  },
+  "book": "etsy:xmas_nametracing",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_xmas_nametracing_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_xmas_nametracing_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:xmas_nametracing",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_visual_schedule_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_visual_schedule.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:visual_schedule",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_visual_schedule_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_visual_schedule.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Visual Schedule Cards ⭐ 72 picture cards plus My Morning, My Day and My Bedtime charts and a First / Then board. Little ones can SEE what comes next! Ages 2–8.\n\n{cta}\n\n#visualschedule #toddlerroutine #routinechart #firstthen #printables #momhacks #preschoolathome",
+   "link_key": "etsy:visual_schedule"
+  },
+  "book": "etsy:visual_schedule",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_visual_schedule_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_visual_schedule_1.jpg",
+   "car_etsy_visual_schedule_2.jpg",
+   "car_etsy_visual_schedule_3.jpg",
+   "car_etsy_visual_schedule_4.jpg",
+   "car_etsy_visual_schedule_5.jpg"
+  ],
+  "caption": {
+   "text": "Mornings, made simple ☀️ Swipe for a peek: 72 picture cards in 6 themes, routine charts and a First / Then board.\n\nPrint, laminate, add velcro and use every day!\n\n{cta}\n\n#visualschedule #toddlerroutine #routinechart #firstthen #printables #momhacks #preschoolathome",
+   "link_key": "etsy:visual_schedule"
+  },
+  "book": "etsy:visual_schedule",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_visual_schedule_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_visual_schedule_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:visual_schedule",
+  "day": 5,
+  "time": "18:00"
+ },
+ {
   "id": "push_sampler_fall_story",
   "when_et": "2026-10-23 21:00",
   "kind": "story",
@@ -4343,6 +4451,305 @@
   "requires_link": "etsy:bingo"
  },
  {
+  "id": "push_xr_train_reel",
+  "when_et": "2026-11-23 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_train.mp4"
+  ],
+  "caption": {
+   "text": "Choo choo! 🚂🎄 Watch this Christmas toy train get colored. It's one of the pages in our Holiday & Winter Bundle: 7 printable books for the whole season, from Thanksgiving to New Year's.\n\n{cta}\n\n#christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_polarbear_reel",
+  "when_et": "2026-11-24 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_polarbear.mp4"
+  ],
+  "caption": {
+   "text": "Cozy polar bear time 🐻‍❄️❄️ Our Winter Activity Book has no holidays inside, so it keeps little ones busy all the way from December to February.\n\n{cta}\n\n#winteractivities #kidsactivities #preschoolactivities #printables",
+   "link_key": "etsy:winter"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_gbhouse_reel",
+  "when_et": "2026-11-26 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_gbhouse.mp4"
+  ],
+  "caption": {
+   "text": "Black Friday coloring break 🍪🏠 Watch this gingerbread house get colored! Cyber Week sale is on at our Etsy shop: instant download, print at home tonight.\n\n{cta}\n\n#blackfriday #cyberweek #christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_penguin_reel",
+  "when_et": "2026-11-28 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_penguin.mp4"
+  ],
+  "caption": {
+   "text": "Little penguin, big winter fun 🐧❄️ Coloring, mazes, counting and cut & paste for ages 3–6. Print it as many times as you need!\n\n{cta}\n\n#winteractivities #kidsactivities #preschoolactivities #printables",
+   "link_key": "etsy:winter"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_elf_reel",
+  "when_et": "2026-11-29 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_elf.mp4"
+  ],
+  "caption": {
+   "text": "Cyber Monday! 🧝‍♂️🎄 Watch this little elf get colored. Grab the whole Holiday & Winter Bundle while the Cyber Week sale is on.\n\n{cta}\n\n#cybermonday #cyberweek #christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_cozypenguin_reel",
+  "when_et": "2026-11-30 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_cozypenguin.mp4"
+  ],
+  "caption": {
+   "text": "December is here! 🎅🐧 One cozy coloring page a day keeps the holiday excitement happy and calm. Which color would your little one pick for this penguin's hat?\n\n{cta}\n\n#christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_snowbunny_reel",
+  "when_et": "2026-12-01 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_snowbunny.mp4"
+  ],
+  "caption": {
+   "text": "Snow bunny with fluffy earmuffs 🐰❄️ A sweet winter page from our Winter Activity Book, made for little hands with big, thick lines.\n\n{cta}\n\n#winteractivities #kidsactivities #preschoolactivities #printables",
+   "link_key": "etsy:winter"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_cookies_reel",
+  "when_et": "2026-12-02 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_cookies.mp4"
+  ],
+  "caption": {
+   "text": "Cookies for Santa! 🍪🥛 Watch this page come to life. More than 100 Christmas and winter pages are in our Holiday & Winter Bundle, instant download.\n\n{cta}\n\n#christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_cd13_reel",
+  "when_et": "2026-12-03 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_cd13.mp4"
+  ],
+  "caption": {
+   "text": "Not too late to start the countdown! 🎄 Day 13 of our Christmas Countdown Activity Book: color a cozy house. Start today and do two pages a day to catch up.\n\n{cta}\n\n#christmascountdown #adventcalendar #kidsactivities #printables",
+   "link_key": "etsy:countdown"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_owl_reel",
+  "when_et": "2026-12-04 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_owl.mp4"
+  ],
+  "caption": {
+   "text": "A sleepy winter owl 🦉❄️ Perfect for a quiet winter afternoon: print, color and talk about the snow together.\n\n{cta}\n\n#winteractivities #kidsactivities #preschoolactivities #printables",
+   "link_key": "etsy:winter"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_gbgirl_reel",
+  "when_et": "2026-12-05 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_gbgirl.mp4"
+  ],
+  "caption": {
+   "text": "Gingerbread girl coloring 🍪🎀 Holiday fun you can print in minutes: no shipping, no waiting.\n\n{cta}\n\n#christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_santa_reel",
+  "when_et": "2026-12-06 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_santa.mp4"
+  ],
+  "caption": {
+   "text": "Ho ho ho! 🎅 Watch Santa get colored. Our Christmas activities mix coloring, mazes, tracing and counting, so learning feels like play.\n\n{cta}\n\n#christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_cd17_reel",
+  "when_et": "2026-12-08 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_cd17.mp4"
+  ],
+  "caption": {
+   "text": "Day 17 of the Christmas Countdown: design your own stocking! 🧦✨ Every page has a small 'Today I can' kindness task too.\n\n{cta}\n\n#christmascountdown #adventcalendar #kidsactivities #printables",
+   "link_key": "etsy:countdown"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_fox_reel",
+  "when_et": "2026-12-10 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_fox.mp4"
+  ],
+  "caption": {
+   "text": "Little fox in a warm scarf 🦊🧣 Winter coloring for ages 3–6, ready to print at home or in the classroom.\n\n{cta}\n\n#winteractivities #kidsactivities #preschoolactivities #printables",
+   "link_key": "etsy:winter"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_morning_reel",
+  "when_et": "2026-12-12 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_morning.mp4"
+  ],
+  "caption": {
+   "text": "Christmas morning by the fireplace 🎁🔥 Ten days to go! Print a few pages for the countdown to the big day.\n\n{cta}\n\n#christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_tree_reel",
+  "when_et": "2026-12-14 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_tree.mp4"
+  ],
+  "caption": {
+   "text": "Decorate the tree! 🎄 Coloring pages and activities to keep kids happy through the last school days before Christmas break.\n\n{cta}\n\n#christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_seal_reel",
+  "when_et": "2026-12-16 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_seal.mp4"
+  ],
+  "caption": {
+   "text": "Winter break is almost here ❄️🦭 Have a stack of printables ready for snow days and long afternoons at home.\n\n{cta}\n\n#winteractivities #kidsactivities #preschoolactivities #printables",
+   "link_key": "etsy:winter"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_xr_teddy_reel",
+  "when_et": "2026-12-17 19:30",
+  "kind": "reel",
+  "files": [
+   "push_xr_teddy.mp4"
+  ],
+  "caption": {
+   "text": "Last-minute Christmas fun 🧸🎄 Instant download: print tonight, color tomorrow. No shipping needed!\n\n{cta}\n\n#lastminutegifts #christmasactivities #christmascoloring #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_gp_thanksgiving",
+  "when_et": "2026-11-17 14:00",
+  "kind": "post",
+  "files": [
+   "push_gp_thanksgiving.jpg"
+  ],
+  "caption": {
+   "text": "Keep little ones happy at the Thanksgiving table 🦃🥧 Our Big & Easy Thanksgiving Coloring Book has 24 turkeys, pumpkins, pies and fall friends with thick lines for ages 2–5. Order the paperback this week so it arrives in time, or print the PDF tonight!\n\n{cta}\n\n#thanksgiving #thanksgivingkids #coloringbook #kidsactivities",
+   "link_key": "amazon:thanksgiving"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_gp_stocking",
+  "when_et": "2026-12-01 10:00",
+  "kind": "post",
+  "files": [
+   "push_gp_stocking.jpg"
+  ],
+  "caption": {
+   "text": "Stocking stuffers under $10 🎄🧦 Our Christmas paperbacks: the Christmas Activity Book, the Christmas Countdown, Christmas Party Games and Big & Easy Christmas Coloring. Order early so they arrive before Christmas!\n\n{cta}\n\n#stockingstuffers #christmasgifts #christmasactivities #kidsactivities #printables",
+   "link_key": "amazon:countdown"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_gp_party",
+  "when_et": "2026-12-04 10:00",
+  "kind": "post",
+  "files": [
+   "push_gp_party.jpg"
+  ],
+  "caption": {
+   "text": "Christmas class party, sorted! 🎉 Picture bingo for up to 8 players, scavenger hunt, Would You Rather and more. Picture-based, so even non-readers can play. Print as many copies as you need.\n\n{cta}\n\n#classroomparty #christmasgames #christmasgifts #christmasactivities #kidsactivities #printables",
+   "link_key": "etsy:xmasparty"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_gp_bundle",
+  "when_et": "2026-12-08 10:00",
+  "kind": "post",
+  "files": [
+   "push_gp_bundle.jpg"
+  ],
+  "caption": {
+   "text": "One bundle for the whole season ❄️🎄 7 printable books: Christmas activities, coloring, the countdown, party games, winter fun, Thanksgiving and New Year's. Instant download, print at home.\n\n{cta}\n\n#christmasbundle #christmasgifts #christmasactivities #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
+  "id": "push_gp_break",
+  "when_et": "2026-12-13 10:00",
+  "kind": "post",
+  "files": [
+   "push_gp_break.jpg"
+  ],
+  "caption": {
+   "text": "Is your Christmas break survival kit ready? ⛄📚 Print tonight, color tomorrow: no shipping and no waiting. Winter activities, the Christmas countdown, busy book pages and more.\n\n{cta}\n\n#christmasbreak #winteractivities #kidsactivities #printables",
+   "link_key": "etsy:bundle_holiday"
+  },
+  "requires_link": null
+ },
+ {
   "id": "push_sampler_story",
   "when_et": "2026-10-21 21:00",
   "kind": "story",
@@ -4496,113 +4903,5 @@
   ],
   "caption": null,
   "requires_link": null
- },
- {
-  "id": "etsy_xmas_nametracing_story",
-  "kind": "story",
-  "files": [
-   "story_etsy_xmas_nametracing.jpg"
-  ],
-  "caption": null,
-  "book": "etsy:xmas_nametracing",
-  "day": 0,
-  "time": "18:00"
- },
- {
-  "id": "etsy_xmas_nametracing_reel",
-  "kind": "reel",
-  "files": [
-   "reel_etsy_xmas_nametracing.mp4"
-  ],
-  "caption": {
-   "text": "NEW: Christmas Name Tracing 🎄✏️ Type your child's name ONCE and it fills in on all 7 Christmas pages: trace my name, a letter to Santa, color my name and 6 name gift tags to cut out. Ages 3–6.\n\n{cta}\n\n#nametracing #christmasactivities #preschoolchristmas #lettertosanta #printables #kidsactivities #handwritingpractice",
-   "link_key": "etsy:xmas_nametracing"
-  },
-  "book": "etsy:xmas_nametracing",
-  "day": 0,
-  "time": "19:30"
- },
- {
-  "id": "etsy_xmas_nametracing_carousel",
-  "kind": "carousel",
-  "files": [
-   "car_etsy_xmas_nametracing_1.jpg",
-   "car_etsy_xmas_nametracing_2.jpg",
-   "car_etsy_xmas_nametracing_3.jpg",
-   "car_etsy_xmas_nametracing_4.jpg",
-   "car_etsy_xmas_nametracing_5.jpg"
-  ],
-  "caption": {
-   "text": "Their name, on every page 🎅 Swipe for a peek: dotted tracing, Dear Santa letter, bubble letters to color and \"From: Emma\" gift tags.\n\nOne file works for every child in the family or class!\n\n{cta}\n\n#nametracing #christmasactivities #preschoolchristmas #lettertosanta #printables #kidsactivities #handwritingpractice",
-   "link_key": "etsy:xmas_nametracing"
-  },
-  "book": "etsy:xmas_nametracing",
-  "day": 2,
-  "time": "10:00"
- },
- {
-  "id": "etsy_xmas_nametracing_peek",
-  "kind": "story",
-  "files": [
-   "story_etsy_xmas_nametracing_peek.jpg"
-  ],
-  "caption": null,
-  "book": "etsy:xmas_nametracing",
-  "day": 5,
-  "time": "18:00"
- },
- {
-  "id": "etsy_visual_schedule_story",
-  "kind": "story",
-  "files": [
-   "story_etsy_visual_schedule.jpg"
-  ],
-  "caption": null,
-  "book": "etsy:visual_schedule",
-  "day": 0,
-  "time": "18:00"
- },
- {
-  "id": "etsy_visual_schedule_reel",
-  "kind": "reel",
-  "files": [
-   "reel_etsy_visual_schedule.mp4"
-  ],
-  "caption": {
-   "text": "NEW: Visual Schedule Cards ⭐ 72 picture cards plus My Morning, My Day and My Bedtime charts and a First / Then board. Little ones can SEE what comes next! Ages 2–8.\n\n{cta}\n\n#visualschedule #toddlerroutine #routinechart #firstthen #printables #momhacks #preschoolathome",
-   "link_key": "etsy:visual_schedule"
-  },
-  "book": "etsy:visual_schedule",
-  "day": 0,
-  "time": "19:30"
- },
- {
-  "id": "etsy_visual_schedule_carousel",
-  "kind": "carousel",
-  "files": [
-   "car_etsy_visual_schedule_1.jpg",
-   "car_etsy_visual_schedule_2.jpg",
-   "car_etsy_visual_schedule_3.jpg",
-   "car_etsy_visual_schedule_4.jpg",
-   "car_etsy_visual_schedule_5.jpg"
-  ],
-  "caption": {
-   "text": "Mornings, made simple ☀️ Swipe for a peek: 72 picture cards in 6 themes, routine charts and a First / Then board.\n\nPrint, laminate, add velcro and use every day!\n\n{cta}\n\n#visualschedule #toddlerroutine #routinechart #firstthen #printables #momhacks #preschoolathome",
-   "link_key": "etsy:visual_schedule"
-  },
-  "book": "etsy:visual_schedule",
-  "day": 2,
-  "time": "10:00"
- },
- {
-  "id": "etsy_visual_schedule_peek",
-  "kind": "story",
-  "files": [
-   "story_etsy_visual_schedule_peek.jpg"
-  ],
-  "caption": null,
-  "book": "etsy:visual_schedule",
-  "day": 5,
-  "time": "18:00"
  }
 ]
