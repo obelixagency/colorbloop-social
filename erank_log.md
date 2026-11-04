@@ -428,7 +428,7 @@ Audits (5/5): dinosaurs (6 views), vehicles (6), unicorns (6), scissors (5), meg
   Tried auditing xmas_nametracing 4609299081 / sightwords: redirected to dashboard (quota used / new listing not synced - eRank synced 13 days ago).
 AI Listing Helper (1/1): mega bundle. Titles weaker (colon/dash style). Useful: kids worksheets 284 (Google 520), printable activities 130, preschool activities 108, tracing worksheets 128; mega bundle pdf comp 1,683 (no volume).
 
-Proposals P1-P5: PENDING (sent 2026-11-04)
+Proposals P1-P5 (sent 2026-11-04): APPROVED+APPLIED 2026-11-04 (Mohamed: "موافق علي الكل")
 P1 dinosaurs 4599373502
   title -> "Dinosaur Coloring Pages for Kids, Kids Coloring Book Printable, 24 Big Easy Dinosaurs T-Rex Triceratops, Toddler Preschool Ages 3-6 PDF" (135)
   tags: -dinosaur party, -dino birthday, -printable coloring, -preschool coloring; +kids coloring book, +kids activity book, +printable activities, +preschool activities
@@ -448,3 +448,4 @@ P5 mega bundle 4599370749
 Idea: "Christmas Break Activity Pack" $2.99 (100% US searchers, comp only 1,986) - low volume, so only as a cheap sampler from existing pages.
 
 Audit rotation (next up): sightwords 4599377768, handwriting 4599378794, cursive 4599356115, space 4599381050, feelings 4599358725 (+ xmas_nametracing / visual_schedule once eRank syncs).
+2026-11-04: APPLIED + verified (Etsy "successfully updated", re-opened editor: exact new titles, 13/13 tags) on dinosaurs, vehicles, unicorns, scissors, mega bundle. Prices/photos/files/AI disclosure untouched. Nothing PENDING.
