@@ -918,7 +918,7 @@
   }
  },
  "launch_abc_reel": {
-  "_due": "2026-11-07T19:30:00-05:00"
+  "_due": "2026-11-16T19:30:00-05:00"
  },
  "etsy_countdown_reel": {
   "_due": "2026-11-08T19:30:00-05:00"
@@ -1004,7 +1004,7 @@
   "_due": "2026-11-10T19:30:00-05:00"
  },
  "abc_flip_reel": {
-  "_due": "2026-11-11T19:30:00-05:00"
+  "_due": "2026-11-20T19:30:00-05:00"
  },
  "xmas_activity_color_reel": {
   "_due": "2026-11-12T19:30:00-05:00"
@@ -1019,7 +1019,7 @@
   "_due": "2026-11-08T10:00:00-05:00"
  },
  "etsy_bundle_mega_carousel": {
-  "_due": "2026-11-09T10:00:00-05:00"
+  "_due": "2026-11-13T10:00:00-05:00"
  },
  "launch_abc_carousel": {
   "_due": "2026-11-10T10:00:00-05:00"
@@ -1695,5 +1695,398 @@
    },
    "last_attempt": "2026-11-04T05:43:52.661212+00:00"
   }
+ },
+ "launch_thanksgiving_reel": {
+  "_due": "2026-11-07T19:30:00-05:00"
+ },
+ "launch_thanksgiving_carousel": {
+  "_due": "2026-11-09T10:00:00-05:00"
+ },
+ "thanksgiving_flip_reel": {
+  "_due": "2026-11-11T19:30:00-05:00"
+ },
+ "thanksgiving_color_reel": {
+  "_due": "2026-11-14T19:30:00-05:00"
+ },
+ "brand_benefits_reel": {
+  "_due": "2026-11-22T19:30:00-05:00"
+ },
+ "brand_guess_reel": {
+  "_due": "2026-11-04T19:30:00-05:00"
+ },
+ "brand_beforeafter_reel": {
+  "_due": "2026-11-09T19:30:00-05:00"
+ },
+ "yt_015_kindergarten_color": {
+  "_due": "2026-11-04T12:00:00-05:00"
+ },
+ "yt_016_thanksgiving_color4": {
+  "_due": "2026-11-05T12:00:00-05:00"
+ },
+ "yt_017_unicorns_flip": {
+  "_due": "2026-11-06T12:00:00-05:00"
+ },
+ "yt_018_animals_color": {
+  "_due": "2026-11-07T12:00:00-05:00"
+ },
+ "yt_019_shapes_flip": {
+  "_due": "2026-11-08T12:00:00-05:00"
+ },
+ "yt_020_xmas_coloring_color": {
+  "_due": "2026-11-09T12:00:00-05:00"
+ },
+ "yt_021_brand_beforeafter": {
+  "_due": "2026-11-10T12:00:00-05:00"
+ },
+ "yt_022_vehicles_color12": {
+  "_due": "2026-11-11T12:00:00-05:00"
+ },
+ "yt_023_thanksgiving_flip": {
+  "_due": "2026-11-12T12:00:00-05:00"
+ },
+ "yt_024_preschool_flip": {
+  "_due": "2026-11-13T12:00:00-05:00"
+ },
+ "yt_025_xmas_activity_color": {
+  "_due": "2026-11-14T12:00:00-05:00"
+ },
+ "yt_026_dinosaurs_color3": {
+  "_due": "2026-11-15T12:00:00-05:00"
+ },
+ "yt_027_space_flip": {
+  "_due": "2026-11-16T12:00:00-05:00"
+ },
+ "yt_028_winter_color6": {
+  "_due": "2026-11-17T12:00:00-05:00"
+ },
+ "yt_029_routine_flip": {
+  "_due": "2026-11-18T12:00:00-05:00"
+ },
+ "yt_030_unicorns_color8": {
+  "_due": "2026-11-19T12:00:00-05:00"
+ },
+ "yt_031_xmas_coloring_flip": {
+  "_due": "2026-11-20T12:00:00-05:00"
+ },
+ "yt_032_thanksgiving_color6": {
+  "_due": "2026-11-21T12:00:00-05:00"
+ },
+ "yt_033_vehicles_flip": {
+  "_due": "2026-11-22T12:00:00-05:00"
+ },
+ "yt_034_xmas_activity_color2": {
+  "_due": "2026-11-23T12:00:00-05:00"
+ },
+ "yt_035_countdown_color15": {
+  "_due": "2026-11-24T12:00:00-05:00"
+ },
+ "yt_036_xmasparty_flip": {
+  "_due": "2026-11-25T12:00:00-05:00"
+ },
+ "yt_037_feelings_color": {
+  "_due": "2026-11-26T12:00:00-05:00"
+ },
+ "yt_038_kindergarten_flip": {
+  "_due": "2026-11-27T12:00:00-05:00"
+ },
+ "yt_039_xmas_coloring_color13": {
+  "_due": "2026-11-28T12:00:00-05:00"
+ },
+ "yt_040_xmas_coloring_color5": {
+  "_due": "2026-11-29T12:00:00-05:00"
+ },
+ "yt_041_winter_flip": {
+  "_due": "2026-11-30T12:00:00-05:00"
+ },
+ "yt_042_space_color16": {
+  "_due": "2026-12-01T12:00:00-05:00"
+ },
+ "yt_043_brand_benefits": {
+  "_due": "2026-12-02T12:00:00-05:00"
+ },
+ "yt_044_xmas_activity_color6": {
+  "_due": "2026-12-03T12:00:00-05:00"
+ },
+ "yt_045_abc_color": {
+  "_due": "2026-12-04T12:00:00-05:00"
+ },
+ "yt_046_xmas_coloring_color20": {
+  "_due": "2026-12-05T12:00:00-05:00"
+ },
+ "yt_047_scissors_flip": {
+  "_due": "2026-12-06T12:00:00-05:00"
+ },
+ "yt_048_xmas_coloring_color29": {
+  "_due": "2026-12-07T12:00:00-05:00"
+ },
+ "yt_049_winter_color18": {
+  "_due": "2026-12-08T12:00:00-05:00"
+ },
+ "yt_050_animals_color38": {
+  "_due": "2026-12-09T12:00:00-05:00"
+ },
+ "yt_051_xmas_activity_flip": {
+  "_due": "2026-12-10T12:00:00-05:00"
+ },
+ "yt_052_sightwords_flip": {
+  "_due": "2026-12-11T12:00:00-05:00"
+ },
+ "yt_053_numbers_color": {
+  "_due": "2026-12-12T12:00:00-05:00"
+ },
+ "yt_054_xmas_coloring_color26": {
+  "_due": "2026-12-13T12:00:00-05:00"
+ },
+ "yt_055_xmas_coloring_color17": {
+  "_due": "2026-12-14T12:00:00-05:00"
+ },
+ "yt_056_handwriting_flip": {
+  "_due": "2026-12-15T12:00:00-05:00"
+ },
+ "yt_057_winter_color4": {
+  "_due": "2026-12-16T12:00:00-05:00"
+ },
+ "yt_058_xmas_coloring_color23": {
+  "_due": "2026-12-17T12:00:00-05:00"
+ },
+ "yt_059_shapes_color": {
+  "_due": "2026-12-18T12:00:00-05:00"
+ },
+ "yt_060_feelings_flip": {
+  "_due": "2026-12-19T12:00:00-05:00"
+ },
+ "yt_061_myyear_flip": {
+  "_due": "2026-12-20T12:00:00-05:00"
+ },
+ "yt_062_preschool_color": {
+  "_due": "2026-12-21T12:00:00-05:00"
+ },
+ "yt_063_cursive_flip": {
+  "_due": "2026-12-22T12:00:00-05:00"
+ },
+ "yt_064_scissors_color": {
+  "_due": "2026-12-23T12:00:00-05:00"
+ },
+ "yt_065_sightwords_color": {
+  "_due": "2026-12-24T12:00:00-05:00"
+ },
+ "yt_066_handwriting_color": {
+  "_due": "2026-12-25T12:00:00-05:00"
+ },
+ "yt_067_cursive_color": {
+  "_due": "2026-12-26T12:00:00-05:00"
+ },
+ "yt_068_animals_color4": {
+  "_due": "2026-12-27T12:00:00-05:00"
+ },
+ "yt_069_dinosaurs_color6": {
+  "_due": "2026-12-28T12:00:00-05:00"
+ },
+ "yt_070_unicorns_color4": {
+  "_due": "2026-12-29T12:00:00-05:00"
+ },
+ "yt_071_vehicles_color8": {
+  "_due": "2026-12-30T12:00:00-05:00"
+ },
+ "yt_072_myyear_color21": {
+  "_due": "2026-12-31T12:00:00-05:00"
+ },
+ "yt_073_space_color4": {
+  "_due": "2027-01-01T12:00:00-05:00"
+ },
+ "yt_074_animals_color20": {
+  "_due": "2027-01-02T12:00:00-05:00"
+ },
+ "yt_075_dinosaurs_color10": {
+  "_due": "2027-01-03T12:00:00-05:00"
+ },
+ "yt_076_unicorns_color12": {
+  "_due": "2027-01-04T12:00:00-05:00"
+ },
+ "yt_077_vehicles_color4": {
+  "_due": "2027-01-05T12:00:00-05:00"
+ },
+ "yt_078_space_color8": {
+  "_due": "2027-01-06T12:00:00-05:00"
+ },
+ "yt_079_animals_color33": {
+  "_due": "2027-01-07T12:00:00-05:00"
+ },
+ "yt_080_dinosaurs_color18": {
+  "_due": "2027-01-08T12:00:00-05:00"
+ },
+ "yt_081_unicorns_color16": {
+  "_due": "2027-01-09T12:00:00-05:00"
+ },
+ "yt_082_vehicles_color16": {
+  "_due": "2027-01-10T12:00:00-05:00"
+ },
+ "yt_083_space_color20": {
+  "_due": "2027-01-11T12:00:00-05:00"
+ },
+ "yt_084_animals_color8": {
+  "_due": "2027-01-12T12:00:00-05:00"
+ },
+ "yt_085_valentines_color4": {
+  "_due": "2027-01-13T12:00:00-05:00"
+ },
+ "yt_086_dinosaurs_color22": {
+  "_due": "2027-01-14T12:00:00-05:00"
+ },
+ "yt_087_unicorns_color20": {
+  "_due": "2027-01-15T12:00:00-05:00"
+ },
+ "yt_088_valcards_flip": {
+  "_due": "2027-01-16T12:00:00-05:00"
+ },
+ "yt_089_valentines_color8": {
+  "_due": "2027-01-17T12:00:00-05:00"
+ },
+ "yt_090_vehicles_color20": {
+  "_due": "2027-01-18T12:00:00-05:00"
+ },
+ "yt_091_space_color26": {
+  "_due": "2027-01-19T12:00:00-05:00"
+ },
+ "yt_092_animals_color12": {
+  "_due": "2027-01-20T12:00:00-05:00"
+ },
+ "yt_093_animals_color24": {
+  "_due": "2027-01-21T12:00:00-05:00"
+ },
+ "yt_094_valentines_color12": {
+  "_due": "2027-01-22T12:00:00-05:00"
+ },
+ "yt_095_animals_color42": {
+  "_due": "2027-01-23T12:00:00-05:00"
+ },
+ "yt_096_ramadan_flip": {
+  "_due": "2027-01-24T12:00:00-05:00"
+ },
+ "push_sampler_preschool_peek": {
+  "_due": "2026-11-05T21:00:00-05:00"
+ },
+ "push_sampler_kinder_peek": {
+  "_due": "2026-11-06T21:00:00-05:00"
+ },
+ "push_bingo_peek": {
+  "_due": "2026-11-07T21:00:00-05:00"
+ },
+ "push_cyber_post": {
+  "_due": "2026-11-23T10:00:00-05:00"
+ },
+ "push_cyber_story_bf": {
+  "_due": "2026-11-27T18:00:00-05:00"
+ },
+ "push_countdown_day1_reel": {
+  "_due": "2026-11-28T19:30:00-05:00"
+ },
+ "push_cyber_story_last": {
+  "_due": "2026-12-01T09:00:00-05:00"
+ },
+ "push_countdown_story_dec1": {
+  "_due": "2026-12-01T18:00:00-05:00"
+ },
+ "push_countdown_day24_reel": {
+  "_due": "2026-12-12T19:30:00-05:00"
+ },
+ "push_holiday_lastminute_reel": {
+  "_due": "2026-12-19T19:30:00-05:00"
+ },
+ "push_myyear_midnight_reel": {
+  "_due": "2026-12-28T19:30:00-05:00"
+ },
+ "push_myyear_story_nye": {
+  "_due": "2026-12-31T18:00:00-05:00"
+ },
+ "launch_xmas_coloring_carousel": {
+  "_due": "2026-11-12T10:00:00-05:00"
+ },
+ "launch_xmas_coloring_story": {
+  "_due": "2026-11-15T18:00:00-05:00"
+ },
+ "launch_thanksgiving_story": {
+  "_due": "2026-11-16T18:00:00-05:00"
+ },
+ "launch_xmas_coloring_reel": {
+  "_due": "2026-11-15T19:30:00-05:00"
+ },
+ "etsy_xmas_nametracing_story": {
+  "_due": "2026-11-17T18:00:00-05:00"
+ },
+ "etsy_visual_schedule_story": {
+  "_due": "2026-11-18T18:00:00-05:00"
+ },
+ "etsy_xmas_nametracing_reel": {
+  "_due": "2026-11-17T19:30:00-05:00"
+ },
+ "etsy_visual_schedule_reel": {
+  "_due": "2026-11-18T19:30:00-05:00"
+ },
+ "etsy_xmas_nametracing_carousel": {
+  "_due": "2026-11-14T10:00:00-05:00"
+ },
+ "etsy_visual_schedule_carousel": {
+  "_due": "2026-11-15T10:00:00-05:00"
+ },
+ "etsy_myyear_story": {
+  "_due": "2026-12-08T18:00:00-05:00"
+ },
+ "etsy_myyear_reel": {
+  "_due": "2026-12-08T19:30:00-05:00"
+ },
+ "etsy_myyear_carousel": {
+  "_due": "2026-12-10T10:00:00-05:00"
+ },
+ "etsy_valcards_story": {
+  "_due": "2027-01-08T18:00:00-05:00"
+ },
+ "etsy_valcards_reel": {
+  "_due": "2027-01-08T19:30:00-05:00"
+ },
+ "etsy_valcards_carousel": {
+  "_due": "2027-01-10T10:00:00-05:00"
+ },
+ "etsy_ramadan_story": {
+  "_due": "2027-01-18T18:00:00-05:00"
+ },
+ "etsy_ramadan_reel": {
+  "_due": "2027-01-18T19:30:00-05:00"
+ },
+ "etsy_ramadan_carousel": {
+  "_due": "2027-01-20T10:00:00-05:00"
+ },
+ "xmas_coloring_peek1": {
+  "_due": "2026-11-19T18:00:00-05:00"
+ },
+ "thanksgiving_peek1": {
+  "_due": "2026-11-20T18:00:00-05:00"
+ },
+ "xmas_coloring_peek2": {
+  "_due": "2026-11-21T18:00:00-05:00"
+ },
+ "thanksgiving_peek2": {
+  "_due": "2026-11-22T18:00:00-05:00"
+ },
+ "etsy_xmas_nametracing_peek": {
+  "_due": "2026-11-23T18:00:00-05:00"
+ },
+ "etsy_visual_schedule_peek": {
+  "_due": "2026-11-24T18:00:00-05:00"
+ },
+ "etsy_myyear_peek": {
+  "_due": "2026-12-13T18:00:00-05:00"
+ },
+ "etsy_valcards_peek": {
+  "_due": "2027-01-13T18:00:00-05:00"
+ },
+ "etsy_ramadan_peek": {
+  "_due": "2027-01-23T18:00:00-05:00"
+ },
+ "xmas_coloring_flip_reel": {
+  "_due": "2026-11-19T19:30:00-05:00"
+ },
+ "xmas_coloring_color_reel": {
+  "_due": "2026-11-21T19:30:00-05:00"
  }
 }
