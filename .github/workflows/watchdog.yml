@@ -8,17 +8,19 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write      # lets the loop re-dispatch itself (watchdog_loop.py)
 concurrency: { group: watchdog, cancel-in-progress: false }
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: pip install requests
 
-      - name: Post everything that is due (images served by this repo's GitHub Pages)
+      - name: Post everything that is due, every half hour for ~5h40m, then hand over to a fresh run
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
@@ -28,11 +30,12 @@ jobs:
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           YT_CHANNEL_ID: ${{ secrets.YT_CHANNEL_ID }}
           PLATFORMS: instagram,facebook,youtube
-        run: python watchdog.py
-
-      - name: Commit the publish log
-        if: always()
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "colorbloop-bot"; git config user.email "bot@users.noreply.github.com"
-          if [ -f publish_log.json ]; then git add publish_log.json; fi
-          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "watchdog: $(date -u +%F\ %H:%M)" && git push; fi
+          python watchdog_loop.py
+
+      - name: Re-dispatch if the loop itself failed (keeps the chain alive)
+        if: failure()
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: gh workflow run watchdog.yml --ref main || true
