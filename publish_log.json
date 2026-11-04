@@ -1019,7 +1019,26 @@
   }
  },
  "etsy_xmasparty_peek": {
-  "_due": "2026-11-04T18:00:00-05:00"
+  "_due": "2026-11-04T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18115951591842991"
+   },
+   "last_attempt": "2026-11-04T23:02:00.269837+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2195949934639787"
+    }
+   },
+   "last_attempt": "2026-11-04T23:02:00.269837+00:00"
+  }
  },
  "etsy_bundle_holiday_peek": {
   "_due": "2026-11-05T18:00:00-05:00"
