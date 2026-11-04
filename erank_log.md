@@ -455,3 +455,8 @@ Audit rotation (next up): sightwords 4599377768, handwriting 4599378794, cursive
 - Etsy Ads (2 days): 32 views, 1 click (xmas_activity), $0.19. Per listing views: bundle_holiday 9, xmas_activity 9, nametracing 5, countdown 5, others 1.
 - FOUND: calendar post push_cyber_post (Nov 22) announces "25% OFF Nov 23 - Dec 1" but NO such Etsy sale exists (only CART15 / FAVE10 / THANKYOU15 offers).
 - PENDING proposals sent: (1) create Etsy sale 25% Nov 23-Dec 1, (2) add Christmas sampler to Etsy Ads, (3) budget $4/day Nov 15-Dec 15 then back to $2, (4) weekly ad review: pause ~25 clicks/0 sales.
+2026-11-04 ~12:40 UTC (Mohamed: "شوف الصح و اعمله يلا" = approve the 4 proposals):
+- (1) CORRECTION: Cyber sale already exists - shop is opted in to Etsy "Cyber Specials" (CYBER26): 25% off ALL listings, Nov 23 00:00 ET - Dec 1 23:59 ET. The Nov 22 post is accurate. No new sale created (a manual one would overlap).
+- (2) Christmas Activity Sampler (4600685185) ad turned ON. Now 9 listings advertised, budget still $2/day.
+- (3) Scheduled: budget $4/day on Nov 15 13:00 UTC, back to $2 on Dec 15 13:00 UTC.
+- (4) Scheduled weekly ad reviews Nov 11, 18, 25, Dec 2, 9 (13:00 UTC): turn off any ad with >=25 clicks & 0 orders.
