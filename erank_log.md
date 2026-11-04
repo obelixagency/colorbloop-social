@@ -418,3 +418,33 @@ Etsy Ads check: campaign live, 6 listings advertised (Christmas x5 + nametracing
 - Social: calendar.json per-product plans added for etsy:xmas_nametracing + etsy:visual_schedule (story day0 18:00 ET, reel day0 19:30, carousel day2 10:00, peek story day5 18:00; IG + FB via watchdog). Assets in assets/*_etsy_<key>*. 
 - Etsy Ads: new listing 4609299081 not in the Ads listings table yet (Etsy needs time) -> follow-up scheduled 2026-11-04 12:30 UTC to toggle it ON (budget stays $2/day).
 - Mohamed asked about paid social ads (Meta) to Etsy/Amazon: advised NOT now (price $2.99, 0 reviews, ~6 visits/week -> cost per sale likely far above price). Keep Etsy Ads $2/day + Amazon Ads (after card fix); revisit Meta test after first sales/reviews, with a bundle ($10+).
+
+## 2026-11-04 (scheduled run, ~08:30-09:10 UTC)
+Keyword lookups (5/5, Etsy US) - all weak (<20 searches): cutting practice (comp 2,585, 89% Mexico); dinosaur coloring book (comp 4,236);
+  homeschool printables (comp 182,117, only 9% US); christmas break activities (comp 1,986, 100% US, no volume yet); unicorn coloring (108% CTR, comp 8,009).
+  Lesson: niche/theme keywords have no Etsy volume -> keep leading with proven broad terms (kids coloring book 707, preschool worksheets 1,101, kids worksheets 284, kids activity book 281).
+Audits (5/5): dinosaurs (6 views), vehicles (6), unicorns (6), scissors (5), mega bundle (10). All 0 sales, grade A. Attributes missing: dinosaurs, vehicles, unicorns, mega (only Occasion/Holiday offered; none accurate -> leave).
+  eRank flags: dinosaurs "Dinos" possible typo; party/birthday tags (dinosaur party 93k comp, unicorn party 92k, <20% CTR) attract party-decor buyers.
+  Tried auditing xmas_nametracing 4609299081 / sightwords: redirected to dashboard (quota used / new listing not synced - eRank synced 13 days ago).
+AI Listing Helper (1/1): mega bundle. Titles weaker (colon/dash style). Useful: kids worksheets 284 (Google 520), printable activities 130, preschool activities 108, tracing worksheets 128; mega bundle pdf comp 1,683 (no volume).
+
+Proposals P1-P5: PENDING (sent 2026-11-04)
+P1 dinosaurs 4599373502
+  title -> "Dinosaur Coloring Pages for Kids, Kids Coloring Book Printable, 24 Big Easy Dinosaurs T-Rex Triceratops, Toddler Preschool Ages 3-6 PDF" (135)
+  tags: -dinosaur party, -dino birthday, -printable coloring, -preschool coloring; +kids coloring book, +kids activity book, +printable activities, +preschool activities
+P2 vehicles 4599374544
+  title -> "Truck Coloring Pages for Toddlers, Kids Coloring Book Printable, 24 Big Easy Vehicles Cars Trains Planes Fire Truck Ages 2-5 PDF" (128)
+  tags: -printable coloring, -preschool coloring, -things that go; +kids coloring book, +coloring sheets, +kids activity book
+P3 unicorns 4599351423
+  title -> "Unicorn Coloring Pages for Kids, Kids Coloring Book Printable, 24 Magical Pages Unicorns Dragons Fairies Castles Rainbows Ages 3-6 PDF" (134)
+  tags: -unicorn party, -printable coloring, -preschool coloring; +kids coloring book, +kids activity book, +printable activities
+P4 scissors 4599352519
+  title -> "Preschool Worksheets Printable, Scissor Skills Cutting Practice Activity Book Ages 3-5, Cut and Paste Fine Motor Skills PDF" (123)
+  tags: -toddler activities, -busy book pages, -pre k worksheets, -motor skills kids; +kids worksheets, +printable activities, +preschool activities, +kids activity book
+P5 mega bundle 4599370749
+  title -> "Preschool Worksheets Printable Bundle, 15 Kids Activity Books 765 Pages, Kindergarten Worksheets, Tracing, Sight Words, Coloring Books PDF" (138)
+  tags (all 13): preschool worksheets, kids worksheets, tracing worksheets, printable activities, preschool activities, kids activity book, kids coloring book,
+    preschool curriculum, sight words, handwriting practice, toddler worksheets, kids coloring pages, kindergarten prep
+Idea: "Christmas Break Activity Pack" $2.99 (100% US searchers, comp only 1,986) - low volume, so only as a cheap sampler from existing pages.
+
+Audit rotation (next up): sightwords 4599377768, handwriting 4599378794, cursive 4599356115, space 4599381050, feelings 4599358725 (+ xmas_nametracing / visual_schedule once eRank syncs).
