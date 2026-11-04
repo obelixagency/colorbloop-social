@@ -450,3 +450,8 @@ Idea: "Christmas Break Activity Pack" $2.99 (100% US searchers, comp only 1,986)
 Audit rotation (next up): sightwords 4599377768, handwriting 4599378794, cursive 4599356115, space 4599381050, feelings 4599358725 (+ xmas_nametracing / visual_schedule once eRank syncs).
 2026-11-04: APPLIED + verified (Etsy "successfully updated", re-opened editor: exact new titles, 13/13 tags) on dinosaurs, vehicles, unicorns, scissors, mega bundle. Prices/photos/files/AI disclosure untouched. Nothing PENDING.
 2026-11-04 12:31 UTC: Etsy Ads check - Christmas Name Tracing 4609299081 already ADVERTISED (toggle ON, Etsy auto-added the new listing; 1 view so far). No change made. Now 8 listings advertised, $2/day. Visual Schedule 4609322846 NOT advertised (not requested). 30-day totals: 32 views, 1 click, $0.19, 0 orders.
+2026-11-04 ~12:45 UTC ads review (Mohamed: "عايزين الاعلانات تظبط و تجيب مبيعات"):
+- Shop 30d: 72 visits (Etsy Search 3, Etsy marketing/SEO 8, direct 27, social 7 [FB 6, IG 1], other 25, Pinterest 0), 0 orders, 0 favorites.
+- Etsy Ads (2 days): 32 views, 1 click (xmas_activity), $0.19. Per listing views: bundle_holiday 9, xmas_activity 9, nametracing 5, countdown 5, others 1.
+- FOUND: calendar post push_cyber_post (Nov 22) announces "25% OFF Nov 23 - Dec 1" but NO such Etsy sale exists (only CART15 / FAVE10 / THANKYOU15 offers).
+- PENDING proposals sent: (1) create Etsy sale 25% Nov 23-Dec 1, (2) add Christmas sampler to Etsy Ads, (3) budget $4/day Nov 15-Dec 15 then back to $2, (4) weekly ad review: pause ~25 clicks/0 sales.
