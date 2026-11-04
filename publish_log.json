@@ -736,13 +736,12 @@
  "etsy_bundle_coloring_reel": {
   "_due": "2026-11-03T19:30:00-05:00",
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18152140459553433"
    },
-   "last_attempt": "2026-11-04T05:43:52.661212+00:00"
+   "last_attempt": "2026-11-04T14:19:31.911774+00:00"
   },
   "facebook_reel": {
    "status": "ok",
