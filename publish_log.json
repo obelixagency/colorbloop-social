@@ -121,7 +121,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -900,14 +900,14 @@
   "_due": "2026-11-05T10:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 4,
+   "attempts": 5,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
    },
-   "last_attempt": "2026-11-05T16:32:00.240475+00:00"
+   "last_attempt": "2026-11-05T17:02:00.218647+00:00"
   },
   "facebook_carousel": {
    "status": "ok",
@@ -1853,7 +1853,15 @@
   }
  },
  "yt_016_thanksgiving_color4": {
-  "_due": "2026-11-05T12:00:00-05:00"
+  "_due": "2026-11-05T12:00:00-05:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "2I9DD1JDEx0"
+   },
+   "last_attempt": "2026-11-05T17:02:00.218647+00:00"
+  }
  },
  "yt_017_unicorns_flip": {
   "_due": "2026-11-06T12:00:00-05:00"
