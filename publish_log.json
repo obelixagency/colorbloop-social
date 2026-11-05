@@ -900,14 +900,14 @@
   "_due": "2026-11-05T10:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 5,
+   "attempts": 6,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
    },
-   "last_attempt": "2026-11-05T17:02:00.218647+00:00"
+   "last_attempt": "2026-11-05T17:32:00.202131+00:00"
   },
   "facebook_carousel": {
    "status": "ok",
