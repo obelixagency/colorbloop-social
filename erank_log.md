@@ -475,7 +475,7 @@ Audit numbers: solar system 990 (102%, comp 25,131), kids handwriting 603, schoo
 AI Listing Helper (1/1): feelings (weakest, grade B). Titles weaker (colon/& style) -> not used. Useful: kids activity book 281 (146%), calm down corner 101; emotional support 26 rejected (means support animals).
 Not audited: xmas_nametracing / visual_schedule (eRank not synced, "Synced 14 days ago").
 
-Proposals P1-P5 (sent 2026-11-05): PENDING
+Proposals P1-P5 (sent 2026-11-05): APPROVED+APPLIED 2026-11-05 (Mohamed: "اعتمد يلا")
 P1 sightwords 4599377768 (title unchanged)
   tags: -reading printable, -kinder worksheets, -literacy center, -first grade reading; +kids worksheets, +printable activities, +kids activity book, +handwriting practice
 P2 handwriting 4599378794 (title unchanged)
@@ -490,3 +490,4 @@ P5 feelings 4599358725 (title unchanged)
   tags: -feelings chart (no chart in the book), -therapy printable (not a therapy product), -preschool feelings, -emotions printable; +kids activity book, +kids worksheets, +printable activities, +preschool activities
 Idea: $2.99 "Calm Down Corner Printable" kit (calm down corner 101 searches, comp only 6,240, Nov peak ~1,100) from existing feelings pages (breathing cards, feelings cards, poster).
 Audit rotation (next up): bingo 4600735910, countdown 4600569765, myyear 4600570711, sampler 4600685185, sampler_preschool 4600698287 (+ xmas_nametracing / visual_schedule once eRank syncs).
+2026-11-05: APPLIED + verified (Publish changes -> listings page; re-opened editor: exact new titles on cursive/space, 13/13 tags on all 5) on sightwords, handwriting, cursive, space, feelings. Prices/photos/files/AI disclosure untouched. Nothing PENDING. Calm Down Corner idea not approved as a build yet.
