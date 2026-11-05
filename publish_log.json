@@ -1782,7 +1782,43 @@
   "_due": "2026-11-22T19:30:00-05:00"
  },
  "brand_guess_reel": {
-  "_due": "2026-11-04T19:30:00-05:00"
+  "_due": "2026-11-04T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-11-05T00:32:00.244832+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122107503753521705"
+   },
+   "last_attempt": "2026-11-05T00:32:00.244832+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18026024894870536"
+   },
+   "last_attempt": "2026-11-05T00:32:00.244832+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "970711935652965"
+    }
+   },
+   "last_attempt": "2026-11-05T00:32:00.244832+00:00"
+  }
  },
  "brand_beforeafter_reel": {
   "_due": "2026-11-09T19:30:00-05:00"
