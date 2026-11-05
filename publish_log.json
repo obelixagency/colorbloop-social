@@ -1784,13 +1784,12 @@
  "brand_guess_reel": {
   "_due": "2026-11-04T19:30:00-05:00",
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "17901533160674513"
    },
-   "last_attempt": "2026-11-05T00:32:00.244832+00:00"
+   "last_attempt": "2026-11-05T01:02:00.239461+00:00"
   },
   "facebook_reel": {
    "status": "ok",
