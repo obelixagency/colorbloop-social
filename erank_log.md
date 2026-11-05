@@ -460,3 +460,33 @@ Audit rotation (next up): sightwords 4599377768, handwriting 4599378794, cursive
 - (2) Christmas Activity Sampler (4600685185) ad turned ON. Now 9 listings advertised, budget still $2/day.
 - (3) Scheduled: budget $4/day on Nov 15 13:00 UTC, back to $2 on Dec 15 13:00 UTC.
 - (4) Scheduled weekly ad reviews Nov 11, 18, 25, Dec 2, 9 (13:00 UTC): turn off any ad with >=25 clicks & 0 orders.
+
+## 2026-11-05 (scheduled run, ~10:05-10:40 UTC)
+Keyword lookups (5/5, Etsy US, 12-mo avg):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| sight words | 41 | 120% | 5,592 | Google 49,500; only 8.7% US searchers |
+| cursive practice | 43 | - | 2,023 | 60% US, low comp -> lead the cursive title with it |
+| emotion cards | 28 | 50% | 7,563 | weak, mostly non-US |
+| christmas writing | <20 | - | 33,614 | long-tails: christmas writing paper/prompts/kindergarten (no volume yet) |
+| space coloring pages | <20 | - | 4,196 | dead (3% US) -> don't lead space title with it |
+Audits (5/5): sightwords (8 views, A), handwriting (8, A), cursive (7, A), space (7, A; attributes missing), feelings (9, B: title kws not in tags, attributes missing). All 0 sales.
+Audit numbers: solar system 990 (102%, comp 25,131), kids handwriting 603, school counselor 535, calm down corner 101 (Sep/Nov peaks ~1,100/mo), feelings chart 102, tracing worksheets 128, name tracing 204.
+AI Listing Helper (1/1): feelings (weakest, grade B). Titles weaker (colon/& style) -> not used. Useful: kids activity book 281 (146%), calm down corner 101; emotional support 26 rejected (means support animals).
+Not audited: xmas_nametracing / visual_schedule (eRank not synced, "Synced 14 days ago").
+
+Proposals P1-P5 (sent 2026-11-05): PENDING
+P1 sightwords 4599377768 (title unchanged)
+  tags: -reading printable, -kinder worksheets, -literacy center, -first grade reading; +kids worksheets, +printable activities, +kids activity book, +handwriting practice
+P2 handwriting 4599378794 (title unchanged)
+  tags: -name tracing (dedicated name tracing listings now), -homeschool writing, -preschool writing, -pre k worksheets; +kids worksheets, +printable activities, +preschool activities, +kids activity book
+P3 cursive 4599356115
+  title -> "Cursive Practice Worksheets for Kids Ages 8-12, Cursive Handwriting Workbook, Kids Handwriting Letters Words Sentences Printable PDF" (132)
+  tags: -homeschool writing, -writing printable, -cursive sentences; +kids worksheets, +printable activities, +kids activity book
+P4 space 4599381050
+  title -> "Solar System Coloring Pages for Kids, Kids Coloring Book Printable, 30 Space Planets Rockets Astronauts Aliens, Ages 3-6 PDF" (124)
+  tags: -space party, -space birthday, -printable coloring, -preschool coloring; +kids coloring book, +kids activity book, +printable activities, +preschool activities
+P5 feelings 4599358725 (title unchanged)
+  tags: -feelings chart (no chart in the book), -therapy printable (not a therapy product), -preschool feelings, -emotions printable; +kids activity book, +kids worksheets, +printable activities, +preschool activities
+Idea: $2.99 "Calm Down Corner Printable" kit (calm down corner 101 searches, comp only 6,240, Nov peak ~1,100) from existing feelings pages (breathing cards, feelings cards, poster).
+Audit rotation (next up): bingo 4600735910, countdown 4600569765, myyear 4600570711, sampler 4600685185, sampler_preschool 4600698287 (+ xmas_nametracing / visual_schedule once eRank syncs).
