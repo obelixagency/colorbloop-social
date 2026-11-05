@@ -897,7 +897,26 @@
   }
  },
  "etsy_bundle_preschool_carousel": {
-  "_due": "2026-11-05T10:00:00-05:00"
+  "_due": "2026-11-05T10:00:00-05:00",
+  "instagram_carousel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "API request failed",
+    "api_code": 4,
+    "http_status": 403
+   },
+   "last_attempt": "2026-11-05T15:02:00.219736+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122107708557521705"
+   },
+   "last_attempt": "2026-11-05T15:02:00.219736+00:00"
+  }
  },
  "etsy_routine_carousel": {
   "_due": "2026-11-06T10:00:00-05:00"
