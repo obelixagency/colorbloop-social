@@ -965,14 +965,14 @@
   "_due": "2026-11-06T10:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 1,
+   "attempts": 2,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
    },
-   "last_attempt": "2026-11-06T15:02:00.330284+00:00"
+   "last_attempt": "2026-11-06T15:32:00.315924+00:00"
   },
   "facebook_carousel": {
    "status": "ok",
