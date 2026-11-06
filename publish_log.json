@@ -441,7 +441,26 @@
   }
  },
  "2026-10-23_1000_post": {
-  "_due": "2026-11-06T14:00:00-05:00"
+  "_due": "2026-11-06T14:00:00-05:00",
+  "instagram_post": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "API request failed",
+    "api_code": 4,
+    "http_status": 403
+   },
+   "last_attempt": "2026-11-06T19:02:00.292061+00:00"
+  },
+  "facebook_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122108162577521705"
+   },
+   "last_attempt": "2026-11-06T19:02:00.292061+00:00"
+  }
  },
  "yt_004_unicorns_color": {
   "_due": "2026-10-24T12:00:00-04:00",
