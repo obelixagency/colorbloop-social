@@ -444,14 +444,14 @@
   "_due": "2026-11-06T14:00:00-05:00",
   "instagram_post": {
    "status": "failed",
-   "attempts": 6,
+   "attempts": 7,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
    },
-   "last_attempt": "2026-11-06T21:32:00.306774+00:00"
+   "last_attempt": "2026-11-06T22:02:00.403447+00:00"
   },
   "facebook_post": {
    "status": "ok",
