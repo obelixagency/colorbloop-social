@@ -55,8 +55,8 @@ def main():
     rc = 0
     while True:
         git("pull", "--rebase", "--autostash", check=False)          # pick up new pins / calendar / links
-        import importlib, watchdog as W
-        importlib.reload(W)
+        import importlib, publish, watchdog as W
+        importlib.reload(publish); importlib.reload(W)   # pick up code pushed while the loop runs
         base = json.load(open(LOG)) if os.path.exists(LOG) else {}
         try:
             rc = W.run()

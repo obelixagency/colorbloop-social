@@ -441,17 +441,16 @@
   }
  },
  "2026-10-23_1000_post": {
-  "_due": "2026-11-06T14:00:00-05:00",
+  "_due": "2026-11-08T13:00:00-05:00",
   "instagram_post": {
    "status": "failed",
-   "attempts": 8,
+   "attempts": 0,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
-   },
-   "last_attempt": "2026-11-06T22:32:00.338639+00:00"
+   }
   },
   "facebook_post": {
    "status": "ok",
@@ -1002,17 +1001,16 @@
   }
  },
  "etsy_bundle_preschool_carousel": {
-  "_due": "2026-11-05T10:00:00-05:00",
+  "_due": "2026-11-10T13:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 8,
+   "attempts": 0,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
-   },
-   "last_attempt": "2026-11-05T18:32:00.344866+00:00"
+   }
   },
   "facebook_carousel": {
    "status": "ok",
@@ -1024,17 +1022,16 @@
   }
  },
  "etsy_routine_carousel": {
-  "_due": "2026-11-06T10:00:00-05:00",
+  "_due": "2026-11-12T13:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 4,
+   "attempts": 0,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
-   },
-   "last_attempt": "2026-11-06T16:32:00.260061+00:00"
+   }
   },
   "facebook_carousel": {
    "status": "ok",
@@ -1264,17 +1261,16 @@
   "_due": "2026-11-13T19:30:00-05:00"
  },
  "etsy_bundle_coloring_carousel": {
-  "_due": "2026-11-07T10:00:00-05:00",
+  "_due": "2026-11-13T13:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 4,
+   "attempts": 0,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
     "http_status": 403
-   },
-   "last_attempt": "2026-11-07T16:32:00.342153+00:00"
+   }
   },
   "facebook_carousel": {
    "status": "ok",

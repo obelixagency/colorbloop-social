@@ -42,16 +42,39 @@ def _ig():
 
 class APIError(RuntimeError):
     """Only numeric diagnostic fields may cross the persistence/log boundary."""
-    def __init__(self, status=None, code=None):
+    def __init__(self, status=None, code=None, subcode=None, usage=None):
         self.status = status if type(status) is int else None
         self.code = code if type(code) is int else None
+        self.subcode = subcode if type(subcode) is int else None
+        self.usage = usage or None
         super().__init__("API request failed")
+
+
+def _usage(resp):
+    """Meta rate-limit headers, numbers only (call_count / total_time / cputime %, estimated minutes to regain)."""
+    out = {}
+    headers = getattr(resp, "headers", None) or {}
+    for h in ("x-app-usage", "x-business-use-case-usage", "x-ad-account-usage"):
+        raw = headers.get(h)
+        if not raw:
+            continue
+        try:
+            d = json.loads(raw)
+        except ValueError:
+            continue
+        rows = [d] if isinstance(d, dict) and not any(isinstance(v, list) for v in d.values()) else \
+            [r for v in (d.values() if isinstance(d, dict) else []) for r in (v if isinstance(v, list) else [])]
+        for r in rows:
+            for k, v in r.items():
+                if type(v) in (int, float):
+                    out[f"{h[2:].split('-')[0]}_{k}"] = max(out.get(f"{h[2:].split('-')[0]}_{k}", 0), v)
+    return out
 
 
 def _api_error(resp, data=None):
     error = data.get("error", {}) if isinstance(data, dict) else {}
-    return APIError(getattr(resp, "status_code", None),
-                    error.get("code") if isinstance(error, dict) else None)
+    error = error if isinstance(error, dict) else {}
+    return APIError(getattr(resp, "status_code", None), error.get("code"), error.get("error_subcode"), _usage(resp))
 
 
 def _check(resp):
@@ -312,8 +335,10 @@ def publish(platform, path_or_paths, caption):
     except NotConnected as e:
         return False, {"error": "not_connected", "message": "Required connection is missing"}
     except APIError as e:
-        return False, {"error": "publish_failed", "message": "API request failed",
-                       "api_code": e.code, "http_status": e.status}
+        out = {"error": "publish_failed", "message": "API request failed", "api_code": e.code, "http_status": e.status}
+        if e.subcode is not None: out["api_subcode"] = e.subcode
+        if e.usage: out["usage"] = e.usage
+        return False, out
     except Exception:
         return False, {"error": "publish_failed", "message": "Publishing request failed"}
 

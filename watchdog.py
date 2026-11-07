@@ -242,6 +242,14 @@ def _auth_dead(detail):
     return "OAuthException" in m and ("'code': 190" in m or '"code": 190' in m)
 
 
+THROTTLE_CODES = {4, 17, 32, 613, 80001, 80002}   # Meta app / user / page / business-use-case rate limits
+
+
+def _throttled(detail):
+    """Meta rate limit: transient, the post itself is fine -> retry later without burning an attempt."""
+    return (detail or {}).get("api_code") in THROTTLE_CODES
+
+
 def run(now=None):
     now = now or dt.datetime.now(dt.timezone.utc)
     cal = json.load(open(CAL))
@@ -257,6 +265,7 @@ def run(now=None):
     yt_twins = {e["same_as"] for e in cal if e.get("kind") == "yt" and e.get("same_as")}
     escalate, capped = [], set()
     meta_auth_bad = False  # Meta token invalid (OAuth code 190): stop trying Meta this run, don't burn attempts
+    throttled = set()      # platforms (instagram / facebook) that hit a Meta rate limit this run
     caught_up = set()      # at most one LATE entry per kind per run, so a backlog trickles out instead of flooding
     for e in sorted((e for e in cal if e["id"] in due_at), key=lambda e: due_at[e["id"]]):
         due = due_at[e["id"]].astimezone(dt.timezone.utc)
@@ -276,6 +285,7 @@ def run(now=None):
         for platform in plats:
             if platform.split("_")[0] not in ENABLED: continue
             if meta_auth_bad and platform.split("_")[0] in ("instagram", "facebook"): continue
+            if platform.split("_")[0] in throttled: continue
             st = row.get(platform, {"status": "pending", "attempts": 0})
             if st["status"] == "ok": continue
             if st.get("attempts", 0) >= MAX_ATTEMPTS: continue
@@ -296,6 +306,11 @@ def run(now=None):
                 meta_auth_bad = True   # token problem, not a post problem: keep the attempt count, retry once the token is fixed
                 st.update(status="failed", detail=detail, last_attempt=now.isoformat()); row[platform] = st
                 print(f'{e["id"]} {platform}: META TOKEN INVALID, skipping Meta this run'); continue
+            if not ok and _throttled(detail) and late_h < 48:
+                throttled.add(platform.split("_")[0])   # rate limited: keep the attempt count, try again next pass
+                st.update(status="failed", detail=detail, last_attempt=now.isoformat(), throttled=st.get("throttled", 0) + 1)
+                row[platform] = st
+                print(f'{e["id"]} {platform}: Meta rate limit (code {detail.get("api_code")}), retrying next pass'); continue
             st.update(status="ok" if ok else "failed", detail=detail, attempts=st["attempts"] + 1, last_attempt=now.isoformat())
             row[platform] = st
             print(f'{e["id"]} {platform}: {st["status"]}' + ("" if ok else f' ({detail.get("message", "")[:120]})'))
