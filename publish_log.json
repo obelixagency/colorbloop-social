@@ -1225,7 +1225,26 @@
   }
  },
  "etsy_busybook_peek": {
-  "_due": "2026-11-07T18:00:00-05:00"
+  "_due": "2026-11-07T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18185436391423823"
+   },
+   "last_attempt": "2026-11-07T23:02:00.460122+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1976965027059607"
+    }
+   },
+   "last_attempt": "2026-11-07T23:02:00.460122+00:00"
+  }
  },
  "etsy_bundle_preschool_peek": {
   "_due": "2026-11-08T18:00:00-05:00"
