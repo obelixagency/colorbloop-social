@@ -506,7 +506,7 @@ Audit numbers: christmas bingo 828 (Oct 2,670), bingo cards 1,099, holiday bingo
   christmas coloring 230, christmas printable 659, preschool christmas 190, toddler worksheets 107, preschool printable 108, stocking stuffer 5,770 (wrong intent for a PDF).
 AI Listing Helper (1/1): bingo. Titles weaker (| style) -> not used. Useful: christmas bingo game 214 (comp 6,558), holiday bingo cards 97 (4,946), christmas party game 203, bingo game cards 41, bingo cards for kids 39.
 
-Proposals P1-P6 (sent 2026-11-07): PENDING
+Proposals P1-P6 (sent 2026-11-07): APPROVED+APPLIED 2026-11-07 (Mohamed: "موافق علي الكل")
 P1 bingo 4600735910
   title -> "Christmas Bingo for Kids Printable, Christmas Bingo Cards, Picture Bingo Game, 8 Cards + 30 Calling Cards, Classroom Party, Ages 3-10" (133)
   tags: -picture bingo, -classroom party, -printable bingo, -xmas party game, -preschool bingo, -school party game, -non reader game;
@@ -525,3 +525,9 @@ P5 sampler_preschool 4600698287 (title unchanged)
 P6 attributes: Holiday = Christmas on bingo, countdown, sampler; Holiday = New Year's on myyear (only if Etsy offers it).
 Idea: "Office / Family Christmas Party Games" printable pack $2.99 (christmas party games 624, Oct trend 2,210 for "...printable", "office christmas party games" 1,140) - reuse party-game formats (bingo, would you rather, scavenger hunt) with adult/family wording.
 Audit rotation (next up): sampler_coloring 4600699035, sampler_kinder 4600699669, sampler_fall 4600700353, nametracing 4603338038, xmas_activity 4599336007 (+ xmas_nametracing / visual_schedule once eRank syncs - still "Synced 16 days ago").
+2026-11-07 ~15:30 UTC: APPLIED + verified (Publish changes -> "successfully updated"; re-opened editor: exact titles on bingo/countdown/myyear, 13/13 tags on all 5, Holiday=Christmas on bingo/countdown/sampler, Holiday=New Year's on myyear). Prices/photos/files/AI disclosure untouched. Nothing PENDING.
+Status check (Mohamed: "شوف الاعلانات و الدنيا امازون و اتسي"):
+- Etsy 30d: 74 visits (Etsy Search 3, Etsy SEO/marketing 9, direct 28, social 7, other 25), 0 orders/favorites/reviews. Visits mostly Oct 20-21 launch; ~1/day since.
+- Etsy Ads 30d: 136 views, 2 clicks, $1.13 spent (budget $2/day, Etsy underspends), 0 orders. Bundle_holiday 79 views/1 click, xmas_activity 16/1. Christmas Bingo NOT advertised.
+- Amazon KDP: 0 orders, $0 this month. Amazon Ads now DELIVERING (payment fixed): 5 auto campaigns $3/day (Thanksgiving ends Nov 23, others Dec 20). Nov 1-7: 7,190 impressions, 6 clicks (all Christmas Countdown), $1.35, 0 sales. Other 4 campaigns: 0 clicks.
+- PENDING proposals sent: (A) turn ON Etsy Ad for Christmas Bingo 4600735910 (budget unchanged); (B) raise bids on the 4 Amazon auto campaigns with 0 clicks (daily budgets unchanged $3).
