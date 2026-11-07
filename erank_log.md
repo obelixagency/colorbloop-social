@@ -491,3 +491,37 @@ P5 feelings 4599358725 (title unchanged)
 Idea: $2.99 "Calm Down Corner Printable" kit (calm down corner 101 searches, comp only 6,240, Nov peak ~1,100) from existing feelings pages (breathing cards, feelings cards, poster).
 Audit rotation (next up): bingo 4600735910, countdown 4600569765, myyear 4600570711, sampler 4600685185, sampler_preschool 4600698287 (+ xmas_nametracing / visual_schedule once eRank syncs).
 2026-11-05: APPLIED + verified (Publish changes -> listings page; re-opened editor: exact new titles on cursive/space, 13/13 tags on all 5) on sightwords, handwriting, cursive, space, feelings. Prices/photos/files/AI disclosure untouched. Nothing PENDING. Calm Down Corner idea not approved as a build yet.
+
+## 2026-11-07 (scheduled run, ~14:15-14:45 UTC)
+Keyword lookups (5/5, Etsy US, 12-mo avg):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| christmas countdown | 323 | 139% | 22,413 | Oct trend 110; long-tails (calendar/printable/kids) no volume yet |
+| christmas bingo cards | 103 | 98% | 4,543 | 71% US, low comp; 21 chars -> title only |
+| all about me book | <20 | - | 641 | but "all about me" = 406 (99%), comp 7,670 |
+| printable advent calendar | 45 | <20% | 11,284 | weak; "advent calendar kids" 210 better |
+| christmas party games | 624 | 100% | 99,885 | Oct: "christmas party games printable" 2,210, "office christmas party games" 1,140 |
+Audits (5/5): bingo 4600735910 (1 view, B), countdown 4600569765 (4 views), myyear 4600570711 (0 views), sampler 4600685185 (3 views, B), sampler_preschool 4600698287 (0 views). All 0 sales, attributes missing on all.
+Audit numbers: christmas bingo 828 (Oct 2,670), bingo cards 1,099, holiday bingo 218, family game night 213, kids christmas game 100, advent calendar kids 210 (Oct 1,320),
+  christmas coloring 230, christmas printable 659, preschool christmas 190, toddler worksheets 107, preschool printable 108, stocking stuffer 5,770 (wrong intent for a PDF).
+AI Listing Helper (1/1): bingo. Titles weaker (| style) -> not used. Useful: christmas bingo game 214 (comp 6,558), holiday bingo cards 97 (4,946), christmas party game 203, bingo game cards 41, bingo cards for kids 39.
+
+Proposals P1-P6 (sent 2026-11-07): PENDING
+P1 bingo 4600735910
+  title -> "Christmas Bingo for Kids Printable, Christmas Bingo Cards, Picture Bingo Game, 8 Cards + 30 Calling Cards, Classroom Party, Ages 3-10" (133)
+  tags: -picture bingo, -classroom party, -printable bingo, -xmas party game, -preschool bingo, -school party game, -non reader game;
+        +christmas bingo game, +holiday bingo cards, +christmas party game, +christmas games, +bingo cards for kids, +christmas activities, +bingo game cards
+P2 countdown 4600569765
+  title -> "Christmas Countdown Activity Book for Kids 3-7, Kids Advent Calendar Printable, 24 Days of Christmas Activities, Mazes, Coloring PDF" (132)
+  tags: -24 days of christmas, -christmas mazes, -homeschool christmas; +christmas activity, +printable activities, +preschool activities
+P3 myyear 4600570711
+  title -> "All About Me Book for Kids, All About My Year 2026 Memory Book, New Years Eve Activity, 2027 Goals Printable, Year in Review PDF" (128)
+  tags: -2027 goals kids, -kids journal pdf, -january classroom; +kids activity book, +printable activities, +kids worksheets
+P4 sampler 4600685185 (title unchanged)
+  tags: -stocking stuffer, -christmas maze, -kids christmas pdf, -christmas busy book; +christmas activities, +kids coloring pages, +christmas worksheets, +printable activities
+P5 sampler_preschool 4600698287 (title unchanged)
+  tags: -preschool sampler, -try before you buy, -kids activity pdf, -feelings activity, -shapes worksheet, -homeschool preschool;
+        +preschool worksheets, +kids worksheets, +printable activities, +preschool activities, +tracing worksheets, +kids activity book
+P6 attributes: Holiday = Christmas on bingo, countdown, sampler; Holiday = New Year's on myyear (only if Etsy offers it).
+Idea: "Office / Family Christmas Party Games" printable pack $2.99 (christmas party games 624, Oct trend 2,210 for "...printable", "office christmas party games" 1,140) - reuse party-game formats (bingo, would you rather, scavenger hunt) with adult/family wording.
+Audit rotation (next up): sampler_coloring 4600699035, sampler_kinder 4600699669, sampler_fall 4600700353, nametracing 4603338038, xmas_activity 4599336007 (+ xmas_nametracing / visual_schedule once eRank syncs - still "Synced 16 days ago").
