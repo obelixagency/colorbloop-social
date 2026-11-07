@@ -535,3 +535,8 @@ Status check (Mohamed: "شوف الاعلانات و الدنيا امازون �
 - (A) Etsy Ads: Christmas Bingo 4600735910 turned ON ("Advertising is now on for this listing"). Now 10 listings advertised, budget still $2/day (-> $4 on Nov 15 as scheduled).
 - (B) Amazon Ads default bids (budgets unchanged $3/day): Party Games $0.35->$0.50 (no suggested bid shown), Big Easy Xmas Coloring $0.30->$0.50 (suggested $0.41, $0.27-0.53), Thanksgiving $0.40->$0.55 (suggested $0.48, $0.36-0.59; ends Nov 23). Verified Thanksgiving targeting groups now show $0.55.
   Christmas Activity Book left at $0.50 (already above suggested $0.28-0.41; 222 impressions) - its low reach is not a bid problem. Countdown unchanged at $0.50 (6,938 impressions, 6 clicks).
+2026-11-07 ~17:00 UTC (Mohamed: "ظبط الكليكات علي اقتراحات امازون") - Amazon suggested bids APPLIED per targeting group (budgets unchanged $3/day):
+- Christmas Activity Book: close 0.41 / complements 0.28 / loose 0.36 / substitutes 0.38 (history confirms).
+- Big Easy Xmas Coloring: 0.41 / 0.28 / 0.36 / 0.38 (buttons show "Applied").
+- Thanksgiving: close 0.39 / complements 0.26 / loose 0.34 / substitutes 0.48 (history confirms).
+- Countdown + Party Games: Amazon shows "No current data" / no suggestion -> left at $0.50.
