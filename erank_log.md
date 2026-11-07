@@ -531,3 +531,7 @@ Status check (Mohamed: "شوف الاعلانات و الدنيا امازون �
 - Etsy Ads 30d: 136 views, 2 clicks, $1.13 spent (budget $2/day, Etsy underspends), 0 orders. Bundle_holiday 79 views/1 click, xmas_activity 16/1. Christmas Bingo NOT advertised.
 - Amazon KDP: 0 orders, $0 this month. Amazon Ads now DELIVERING (payment fixed): 5 auto campaigns $3/day (Thanksgiving ends Nov 23, others Dec 20). Nov 1-7: 7,190 impressions, 6 clicks (all Christmas Countdown), $1.35, 0 sales. Other 4 campaigns: 0 clicks.
 - PENDING proposals sent: (A) turn ON Etsy Ad for Christmas Bingo 4600735910 (budget unchanged); (B) raise bids on the 4 Amazon auto campaigns with 0 clicks (daily budgets unchanged $3).
+2026-11-07 ~16:30 UTC (Mohamed: "اعمل الاقتراحات كلها يلا") - (A)+(B) APPROVED+APPLIED:
+- (A) Etsy Ads: Christmas Bingo 4600735910 turned ON ("Advertising is now on for this listing"). Now 10 listings advertised, budget still $2/day (-> $4 on Nov 15 as scheduled).
+- (B) Amazon Ads default bids (budgets unchanged $3/day): Party Games $0.35->$0.50 (no suggested bid shown), Big Easy Xmas Coloring $0.30->$0.50 (suggested $0.41, $0.27-0.53), Thanksgiving $0.40->$0.55 (suggested $0.48, $0.36-0.59; ends Nov 23). Verified Thanksgiving targeting groups now show $0.55.
+  Christmas Activity Book left at $0.50 (already above suggested $0.28-0.41; 222 impressions) - its low reach is not a bid problem. Countdown unchanged at $0.50 (6,938 impressions, 6 clicks).
