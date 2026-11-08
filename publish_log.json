@@ -1247,7 +1247,18 @@
   }
  },
  "etsy_bundle_preschool_peek": {
-  "_due": "2026-11-08T18:00:00-05:00"
+  "_due": "2026-11-08T18:00:00-05:00",
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "3310589822664851"
+    }
+   },
+   "last_attempt": "2026-11-08T23:02:00.248422+00:00"
+  }
  },
  "etsy_routine_peek": {
   "_due": "2026-11-09T18:00:00-05:00"
@@ -1318,8 +1329,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-08T22:32:00.264042+00:00",
-   "throttled": 16
+   "last_attempt": "2026-11-08T23:02:00.248422+00:00",
+   "throttled": 17
   },
   "facebook_carousel": {
    "status": "ok",
