@@ -2009,12 +2009,12 @@
   },
   "instagram_story": {
    "status": "failed",
-   "attempts": 1,
+   "attempts": 2,
    "detail": {
     "error": "publish_failed",
     "message": "Publishing request failed"
    },
-   "last_attempt": "2026-11-08T00:32:00.339756+00:00"
+   "last_attempt": "2026-11-08T01:02:00.326300+00:00"
   },
   "facebook_story": {
    "status": "ok",
