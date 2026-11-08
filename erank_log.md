@@ -556,7 +556,7 @@ Audit numbers: preschool worksheets 1,101 (comp 66,040), kids handwriting 603, k
   Dead tags (no data / <20): sampler_fall: thanksgiving kids, november activity, fall kids activity, thanksgiving class; sampler_kinder: count to ten, homeschool kinder, kids activity pdf, kinder worksheets; sampler_coloring: truck coloring, space coloring, rainy day activity; nametracing: editable worksheets, pre k worksheets; xmas_activity: christmas mazes.
 AI Listing Helper (1/1): sampler_fall. Titles weaker (& / colon style) -> not used. Useful: thanksgiving print 103 (97%), fall coloring sheet 44, kids coloring pages 494. Rejected: thanksgiving craft 133 (not a craft product).
 
-Proposals P1-P6 (sent 2026-11-08): PENDING
+Proposals P1-P5 (sent 2026-11-08): APPROVED+APPLIED 2026-11-08 (Mohamed: "موافق على الكل")
 P1 sampler_fall 4600700353 (title unchanged; already leads with "Thanksgiving Coloring Pages")
   tags: -thanksgiving kids, -november activity, -fall kids activity, -thanksgiving class; +kids coloring pages, +thanksgiving print, +fall coloring sheet, +printable activities
   attribute: Holiday = Thanksgiving (if offered)
@@ -572,3 +572,5 @@ P5 xmas_activity 4599336007
 (Before applying: check current tags in Etsy editor; eRank shows "Synced 17 days ago".)
 Idea: $1.49 "Christmas Coloring Pages Sampler" (6 pages from xmas_coloring 4599339201), same as the other samplers - christmas coloring pages 304/mo, Dec peak ~2,400, Google 135,000.
 Audit rotation (next up): abc 4599362140, xmas_coloring 4599339201, thanksgiving 4599340187, numbers 4599341653, shapes 4599342777 (new cycle) (+ xmas_nametracing / visual_schedule once eRank syncs).
+2026-11-08: APPLIED + verified (Publish changes -> "successfully updated" on each; re-opened editor: exact new title on xmas_activity (140), 13/13 tags exactly as proposed on all 5, Holiday=Thanksgiving on sampler_fall). Prices/photos/files/AI disclosure untouched. Nothing PENDING. Christmas Coloring Sampler idea not approved as a build yet.
+Note: Etsy tag input drops/garbles chars if tags are typed back-to-back; wait ~1s after each Return. On this Mac use JS setSelectionRange to replace the title (ctrl+a doesn't select).
