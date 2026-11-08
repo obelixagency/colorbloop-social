@@ -2403,7 +2403,26 @@
   }
  },
  "push_bingo_peek": {
-  "_due": "2026-11-07T21:00:00-05:00"
+  "_due": "2026-11-07T21:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17879199825650759"
+   },
+   "last_attempt": "2026-11-08T02:02:00.270689+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2603923626752607"
+    }
+   },
+   "last_attempt": "2026-11-08T02:02:00.270689+00:00"
+  }
  },
  "push_cyber_post": {
   "_due": "2026-11-23T10:00:00-05:00"
