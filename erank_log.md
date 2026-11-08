@@ -541,6 +541,34 @@ Status check (Mohamed: "شوف الاعلانات و الدنيا امازون �
 - Thanksgiving: close 0.39 / complements 0.26 / loose 0.34 / substitutes 0.48 (history confirms).
 - Countdown + Party Games: Amazon shows "No current data" / no suggestion -> left at $0.50.
 
-## 2026-11-08 (scheduled run) - NOT RUN
-Blocked: two Chrome browsers connected ("Browser 1" and "Browser 2", both macOS) and none selected for this session; the run can't pick one itself. No eRank lookups/audits used today. Nothing PENDING.
-Audit rotation (still next up): sampler_coloring 4600699035, sampler_kinder 4600699669, sampler_fall 4600700353, nametracing 4603338038, xmas_activity 4599336007.
+## 2026-11-08 (scheduled run; first blocked on browser choice, resumed after Mohamed: "يلا شغل و شوف الدنيا")
+Browser: deviceId 0e0bf9c1-d05b-4130-b197-3fa23c03b8b1 is the logged-in one (eRank + Etsy). The other (1e6e2a9f...) is logged out of both.
+Keyword lookups (5/5, Etsy US, 12-mo avg):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| christmas coloring pages | 304 | 99% | 38,828 | Google 135,000; Dec peak ~2,400; 24 chars -> title only |
+| thanksgiving coloring pages | 114 | 97% | 9,121 | low comp; Thanksgiving Nov 26 |
+| christmas activities for kids | 225 | 103% | 70,434 | 63% US; Oct trend 320; 29 chars -> title only |
+| editable name tracing | <20 | - | 451 | tiny, already in nametracing title |
+| fall coloring pages | 104 | 96% | 16,692 | already a tag on sampler_fall |
+Audits (5/5): sampler_coloring 4600699035 (0 views, B), sampler_kinder 4600699669 (0 views, B), sampler_fall 4600700353 (2 views, B), nametracing 4603338038 (5 views, B), xmas_activity 4599336007 (9 views, B). All 0 sales. Attributes missing on the 3 samplers.
+Audit numbers: preschool worksheets 1,101 (comp 66,040), kids handwriting 603, kids coloring pages 494, kids activity book 281, christmas printable 659, christmas coloring 230, preschool christmas 190, preschool printable 108, handwriting practice 92, thanksgiving art 121, thanksgiving fun 96, fall printable 51.
+  Dead tags (no data / <20): sampler_fall: thanksgiving kids, november activity, fall kids activity, thanksgiving class; sampler_kinder: count to ten, homeschool kinder, kids activity pdf, kinder worksheets; sampler_coloring: truck coloring, space coloring, rainy day activity; nametracing: editable worksheets, pre k worksheets; xmas_activity: christmas mazes.
+AI Listing Helper (1/1): sampler_fall. Titles weaker (& / colon style) -> not used. Useful: thanksgiving print 103 (97%), fall coloring sheet 44, kids coloring pages 494. Rejected: thanksgiving craft 133 (not a craft product).
+
+Proposals P1-P6 (sent 2026-11-08): PENDING
+P1 sampler_fall 4600700353 (title unchanged; already leads with "Thanksgiving Coloring Pages")
+  tags: -thanksgiving kids, -november activity, -fall kids activity, -thanksgiving class; +kids coloring pages, +thanksgiving print, +fall coloring sheet, +printable activities
+  attribute: Holiday = Thanksgiving (if offered)
+P2 sampler_kinder 4600699669 (title unchanged)
+  tags: -count to ten, -homeschool kinder, -kids activity pdf, -kinder worksheets; +preschool worksheets, +kids handwriting, +kids worksheets, +printable activities
+P3 sampler_coloring 4600699035 (title unchanged)
+  tags: -truck coloring, -space coloring, -rainy day activity; +kids coloring book, +printable activities, +preschool activities
+P4 nametracing 4603338038 (title unchanged)
+  tags: -editable worksheets, -pre k worksheets; +kids worksheets, +preschool activities
+P5 xmas_activity 4599336007
+  title -> "Christmas Activity Book for Kids Ages 3-6, Christmas Activities for Kids, Coloring Pages, Mazes, Tracing Worksheets, Preschool Christmas PDF" (140)
+  tags: -christmas mazes; +preschool printable
+(Before applying: check current tags in Etsy editor; eRank shows "Synced 17 days ago".)
+Idea: $1.49 "Christmas Coloring Pages Sampler" (6 pages from xmas_coloring 4599339201), same as the other samplers - christmas coloring pages 304/mo, Dec peak ~2,400, Google 135,000.
+Audit rotation (next up): abc 4599362140, xmas_coloring 4599339201, thanksgiving 4599340187, numbers 4599341653, shapes 4599342777 (new cycle) (+ xmas_nametracing / visual_schedule once eRank syncs).
