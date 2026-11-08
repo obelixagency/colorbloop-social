@@ -449,8 +449,17 @@
     "error": "publish_failed",
     "message": "API request failed",
     "api_code": 4,
-    "http_status": 403
-   }
+    "http_status": 403,
+    "api_subcode": 2207051,
+    "usage": {
+     "business_call_count": 1,
+     "business_total_cputime": 1,
+     "business_total_time": 1,
+     "business_estimated_time_to_regain_access": 0
+    }
+   },
+   "last_attempt": "2026-11-08T23:02:49.012236+00:00",
+   "throttled": 1
   },
   "facebook_post": {
    "status": "ok",
