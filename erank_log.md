@@ -540,3 +540,7 @@ Status check (Mohamed: "شوف الاعلانات و الدنيا امازون �
 - Big Easy Xmas Coloring: 0.41 / 0.28 / 0.36 / 0.38 (buttons show "Applied").
 - Thanksgiving: close 0.39 / complements 0.26 / loose 0.34 / substitutes 0.48 (history confirms).
 - Countdown + Party Games: Amazon shows "No current data" / no suggestion -> left at $0.50.
+
+## 2026-11-08 (scheduled run) - NOT RUN
+Blocked: two Chrome browsers connected ("Browser 1" and "Browser 2", both macOS) and none selected for this session; the run can't pick one itself. No eRank lookups/audits used today. Nothing PENDING.
+Audit rotation (still next up): sampler_coloring 4600699035, sampler_kinder 4600699669, sampler_fall 4600700353, nametracing 4603338038, xmas_activity 4599336007.
