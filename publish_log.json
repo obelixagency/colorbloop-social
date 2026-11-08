@@ -2008,13 +2008,12 @@
    "last_attempt": "2026-11-08T00:32:00.339756+00:00"
   },
   "instagram_story": {
-   "status": "failed",
-   "attempts": 2,
+   "status": "ok",
+   "attempts": 3,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18025456406713066"
    },
-   "last_attempt": "2026-11-08T01:02:00.326300+00:00"
+   "last_attempt": "2026-11-08T01:32:00.220981+00:00"
   },
   "facebook_story": {
    "status": "ok",
