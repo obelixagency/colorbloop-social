@@ -1121,7 +1121,26 @@
   "_due": "2026-11-16T19:30:00-05:00"
  },
  "etsy_countdown_reel": {
-  "_due": "2026-11-08T19:30:00-05:00"
+  "_due": "2026-11-08T19:30:00-05:00",
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122108862249521705"
+   },
+   "last_attempt": "2026-11-09T00:32:00.223514+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2218335885756641"
+    }
+   },
+   "last_attempt": "2026-11-09T00:32:00.223514+00:00"
+  }
  },
  "abc_peek1": {
   "_due": "2026-11-02T18:00:00-05:00",
@@ -1338,8 +1357,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-09T00:02:00.241861+00:00",
-   "throttled": 19
+   "last_attempt": "2026-11-09T00:32:00.223514+00:00",
+   "throttled": 20
   },
   "facebook_carousel": {
    "status": "ok",
