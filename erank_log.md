@@ -592,7 +592,7 @@ Audit numbers: preschool activities 108 (Oct trend 1,210), printable activities 
   abc: letter tracing, pre k worksheets, alphabet coloring; numbers: counting worksheets, learn to count, busy book pages; shapes: preschool activity, toddler learning (+ "worksheets" 3x in title).
 AI Listing Helper (1/1): thanksgiving. Titles weaker (colon style) -> not used. Useful: thanksgiving crafts 273 (comp 238,101; not our product type), preschool activities 108, printable activities 130, holiday coloring 27.
 
-Proposals P1-P5 (sent 2026-11-09): PENDING
+Proposals P1-P5 (sent 2026-11-09): APPROVED+APPLIED 2026-11-09 (Mohamed: "موافق علي كله انطلق")
 P1 thanksgiving 4599340187 (title unchanged)
   tags: -turkey coloring, -pumpkin coloring, -classroom fall, -preschool fall, -toddler thanksgiving, -pre k thanksgiving, -toddler coloring;
         +thanksgiving print, +preschool activities, +printable activities, +fall coloring sheet, +holiday coloring, +preschool printable, +kids coloring book
@@ -609,3 +609,6 @@ P5 shapes 4599342777
 (Before applying: check current tags in Etsy editor; eRank "Synced 18 days ago".)
 Idea: $1.99 "Thankful Turkey" cut-color-paste craft printable (thanksgiving crafts 273/mo; Thanksgiving Nov 26 -> must list by ~Nov 12). No craft product in the shop yet.
 Audit rotation (next up): preschool 4599368748, animals 4599346493, kindergarten 4599372316, dinosaurs 4599373502, vehicles 4599374544 (+ xmas_nametracing / visual_schedule once eRank syncs).
+2026-11-09: APPLIED + verified (Publish changes -> "successfully updated" on each; re-opened editor: 13/13 tags exactly as proposed, new Shapes title (126)).
+  Exception P1 thanksgiving: "kids coloring book" was ALREADY a tag (my mistake - proposal listed it as an add), so "toddler coloring" was kept instead of removed -> 13 tags, no unapproved tag added.
+  Prices/photos/files/AI disclosure untouched. Nothing PENDING. Thankful Turkey craft idea: not built yet (needs a separate go-ahead as a new product).
