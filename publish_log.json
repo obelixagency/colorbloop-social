@@ -121,7 +121,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -1357,8 +1357,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-09T16:32:00.447751+00:00",
-   "throttled": 52
+   "last_attempt": "2026-11-09T17:02:00.681007+00:00",
+   "throttled": 53
   },
   "facebook_carousel": {
    "status": "ok",
@@ -2210,7 +2210,15 @@
   }
  },
  "yt_020_xmas_coloring_color": {
-  "_due": "2026-11-09T12:00:00-05:00"
+  "_due": "2026-11-09T12:00:00-05:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "cSiJ8GuMK6Y"
+   },
+   "last_attempt": "2026-11-09T17:02:00.681007+00:00"
+  }
  },
  "yt_021_brand_beforeafter": {
   "_due": "2026-11-10T12:00:00-05:00"
