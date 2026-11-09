@@ -575,3 +575,37 @@ Audit rotation (next up): abc 4599362140, xmas_coloring 4599339201, thanksgiving
 2026-11-08: APPLIED + verified (Publish changes -> "successfully updated" on each; re-opened editor: exact new title on xmas_activity (140), 13/13 tags exactly as proposed on all 5, Holiday=Thanksgiving on sampler_fall). Prices/photos/files/AI disclosure untouched. Nothing PENDING. Christmas Coloring Sampler idea not approved as a build yet.
 Note: Etsy tag input drops/garbles chars if tags are typed back-to-back; wait ~1s after each Return. On this Mac use JS setSelectionRange to replace the title (ctrl+a doesn't select).
 2026-11-08 (Mohamed: "يلا اعمل الصح و انشر" re Christmas Coloring Sampler idea): NOT built. Checked first: sampler 4600685185 is already "Christmas Coloring Pages for Kids, Printable Christmas Activity Sampler..." ($1.49, 6 pages incl. 3 coloring pages from the Christmas books, Holiday=Christmas, Etsy Ads ON). A second near-identical sampler would compete with it -> idea dropped (my mistake: didn't check existing samplers before proposing). Nothing published.
+
+## 2026-11-09 (scheduled run)
+Keyword lookups (5/5, Etsy US, 12-mo avg):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| thanksgiving worksheets | <20 | - | 3,470 | dead |
+| letter tracing | <20 | <20% | 12,488 | dead (39% India) -> drop from abc tags |
+| christmas coloring sheets | <20 | - | 10,617 | dead (42% Mexico) |
+| winter coloring pages | <20 | - | 13,553 | dead |
+| thanksgiving activity | 99 | 98% | 27,368 | 21 chars -> title only; abc/thanksgiving title already has "Thanksgiving Activities" |
+Lesson: generic "<topic> worksheets/sheets" variants are dead; buyers search "preschool activities", "printable activities", "kids worksheets", "<holiday> coloring".
+Audits (5/5): abc 4599362140 (6 views), xmas_coloring 4599339201 (7), thanksgiving 4599340187 (6), numbers 4599341653 (5), shapes 4599342777 (4). All 0 sales. Attributes OK on all (Holiday / Occasion set).
+Audit numbers: preschool activities 108 (Oct trend 1,210), printable activities 130 (145%), kids worksheets 284, kids coloring book 719 (50% CTR), preschool printable 108, christmas coloring Oct 1,520, holiday coloring 27 (144%).
+  Dead tags: thanksgiving: turkey coloring, pumpkin coloring, classroom fall, preschool fall, toddler thanksgiving, pre k thanksgiving, toddler coloring; xmas_coloring: toddler coloring, easy coloring pages, santa coloring;
+  abc: letter tracing, pre k worksheets, alphabet coloring; numbers: counting worksheets, learn to count, busy book pages; shapes: preschool activity, toddler learning (+ "worksheets" 3x in title).
+AI Listing Helper (1/1): thanksgiving. Titles weaker (colon style) -> not used. Useful: thanksgiving crafts 273 (comp 238,101; not our product type), preschool activities 108, printable activities 130, holiday coloring 27.
+
+Proposals P1-P5 (sent 2026-11-09): PENDING
+P1 thanksgiving 4599340187 (title unchanged)
+  tags: -turkey coloring, -pumpkin coloring, -classroom fall, -preschool fall, -toddler thanksgiving, -pre k thanksgiving, -toddler coloring;
+        +thanksgiving print, +preschool activities, +printable activities, +fall coloring sheet, +holiday coloring, +preschool printable, +kids coloring book
+P2 xmas_coloring 4599339201 (title unchanged)
+  tags: -toddler coloring, -easy coloring pages, -santa coloring; +preschool activities, +printable activities, +preschool printable
+P3 abc 4599362140 (title unchanged)
+  tags: -letter tracing, -pre k worksheets, -alphabet coloring; +preschool activities, +printable activities, +kids worksheets
+P4 numbers 4599341653 (title unchanged)
+  tags: -counting worksheets, -learn to count, -busy book pages; +preschool printable, +kids coloring pages, +kids handwriting
+P5 shapes 4599342777
+  title "Preschool Worksheets Printable, Shapes and Colors Worksheets for Toddlers Ages 2-5, Tracing Worksheets, Learn 12 Shapes and 11 Colors PDF"
+     -> "Preschool Worksheets Printable, Shapes and Colors for Toddlers Ages 2-5, Tracing Worksheets, Learn 12 Shapes and 11 Colors PDF" (126)
+  tags: -preschool activity, -toddler learning; +preschool printable, +kids coloring book
+(Before applying: check current tags in Etsy editor; eRank "Synced 18 days ago".)
+Idea: $1.99 "Thankful Turkey" cut-color-paste craft printable (thanksgiving crafts 273/mo; Thanksgiving Nov 26 -> must list by ~Nov 12). No craft product in the shop yet.
+Audit rotation (next up): preschool 4599368748, animals 4599346493, kindergarten 4599372316, dinosaurs 4599373502, vehicles 4599374544 (+ xmas_nametracing / visual_schedule once eRank syncs).
