@@ -612,3 +612,41 @@ Audit rotation (next up): preschool 4599368748, animals 4599346493, kindergarten
 2026-11-09: APPLIED + verified (Publish changes -> "successfully updated" on each; re-opened editor: 13/13 tags exactly as proposed, new Shapes title (126)).
   Exception P1 thanksgiving: "kids coloring book" was ALREADY a tag (my mistake - proposal listed it as an add), so "toddler coloring" was kept instead of removed -> 13 tags, no unapproved tag added.
   Prices/photos/files/AI disclosure untouched. Nothing PENDING. Thankful Turkey craft idea: not built yet (needs a separate go-ahead as a new product).
+
+## 2026-11-10 (Mohamed in chat: "اعمل مراجعتك و تعديلاتك اليومية ... وشوف المبيعات والاعلانات")
+Keyword lookups (5/5, Etsy US):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| dinosaur coloring book | <20 | <20% | 4,236 | dead |
+| truck coloring pages | <20 | - | 2,733 | dead (already vehicles title lead - keep, low comp) |
+| animal coloring book | 271 | 129% | 51,138 | BEST: 20 chars -> fits a tag; animals listing doesn't use it |
+| pre k curriculum | <20 | <20% | 2,688 | dead |
+| toddler christmas | <20 | - | 227,335 | dead (long-tail "toddler christmas gift" 1,110 = physical gifts, wrong intent) |
+Audits (5/5): animals 4599346493 (4 views, attributes missing), dinosaurs 4599373502 (6, attr missing), vehicles 4599374544 (6, attr missing), preschool 4599368748 (5), kindergarten 4599372316 (4). All 0 sales.
+Audit numbers: preschool curriculum 1,283 (comp 15,459; already a preschool tag), kids handwriting 603, kids coloring book 719, kids coloring pages 494, ocean animals 23, farm animals 76.
+  Dead tags: animals: animal coloring, printable coloring, preschool coloring, coloring book pdf, easy coloring book (+easy coloring pages, toddler coloring);
+  dinosaurs: coloring book pdf, easy coloring pages (+dinosaur coloring, t rex coloring, dinosaur activity, easy coloring book); vehicles: coloring book pdf, easy coloring book, fire truck, train coloring (+others);
+  preschool: kindergarten prep, letter tracing; kindergarten: activity book kids, kindergarten skills, kindergarten prep.
+AI Listing Helper (1/1): dinosaurs. Titles empty. Useful: "coloring book" 11,433/mo (113% CTR, comp 262,126, 13 chars) - not a tag on any coloring listing yet. Rejected: dinosaur art 279 (wall-art intent).
+
+Proposals P1-P6 (sent 2026-11-10): PENDING
+P1 animals 4599346493
+  title "Kids Coloring Book Animals, Jumbo Animal Coloring Pages for Toddlers Ages 2-5, 60 Big Easy Farm Safari Ocean Forest Pets PDF"
+     -> "Animal Coloring Book for Kids, Jumbo Animal Coloring Pages for Toddlers Ages 2-5, 60 Big Easy Farm Safari Ocean Forest Pets PDF" (127)
+  tags: -animal coloring, -printable coloring, -preschool coloring, -coloring book pdf, -easy coloring book; +animal coloring book, +coloring book, +printable activities, +preschool activities, +preschool printable
+P2 dinosaurs 4599373502 (title unchanged)
+  tags: -coloring book pdf, -easy coloring pages; +coloring book, +preschool printable
+P3 vehicles 4599374544 (title unchanged)
+  tags: -coloring book pdf, -easy coloring book, -fire truck, -train coloring; +coloring book, +printable activities, +preschool activities, +preschool printable
+P4 preschool 4599368748 (title unchanged)
+  tags: -kindergarten prep, -letter tracing; +kids handwriting, +handwriting practice
+P5 kindergarten 4599372316 (title unchanged)
+  tags: -activity book kids, -kindergarten skills, -kindergarten prep; +kids handwriting, +preschool activities, +preschool printable
+P6 attributes: none offered that fit (animals/dinosaurs/vehicles = coloring books, no holiday/occasion) -> skip unless Etsy shows a relevant one.
+(Before applying: check each add isn't already a tag.)
+Status check:
+- Etsy 30d: 74 visits (0 visits Nov 6-10), 0 orders, $0. Search visibility page: "set up for success", no issues.
+- Etsy Ads 30d: 192 views, 2 clicks, $1.13 spend (unchanged since Nov 7; budget $2/day, -> $4 Nov 15 as scheduled), 0 orders. bundle_holiday 112 views/1 click, xmas_activity 19/1.
+- Amazon KDP: FIRST SALE - 1 paperback Christmas Countdown (US), est. royalty $3.15 (Nov 1-10).
+- Amazon Ads Nov 3-9: 18,969 impressions, 15 clicks (all Countdown, CPC $0.26), $3.94 spend, sales $9.99 (1). Other 4 campaigns still 0 clicks (bids raised Nov 7 - give them a week).
+- No ad changes proposed today.
