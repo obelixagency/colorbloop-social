@@ -675,3 +675,13 @@ Amazon Ads (Nov 3-9): 5 auto campaigns $3/day, all Delivering, none budget-cappe
 - Countdown search terms (11, 1 click each, $3.94): the sale came from product target "24 Trucks Till Christmas: An Advent Calendar Coloring Book for Kids" B0HNTNQVJ9 ($0.50 -> $9.99, ACOS 5%).
   Irrelevant (teens/adult): B0H9SXFBCX (teens soccer), B0HH3GQVWN (football), B0HNPRZ9DN (crochet), B0HQHQFHY1 (family escape room).
 - NOT DONE YET (Chrome on Mohamed's Mac disconnected mid-task): (1) negative-product-target those 4 ASINs in Countdown auto; (2) new manual SP campaign for Countdown, product targeting B0HNTNQVJ9 + kids advent books 3950637516, B0GJ9V42V9, 1441339493, bid ~$0.45, $2/day, end Dec 19. Do when Chrome is back.
+
+## 2026-11-10 ~19:00 UTC (Mohamed: "كمل و قولي كل حاجة بعد ما تخلص")
+Amazon Ads:
+- Countdown auto campaign: 4 negative product targets added ("4 of 4 targets added"): B0H9SXFBCX, B0HH3GQVWN, B0HNPRZ9DN, B0HQHQFHY1.
+- NEW campaign "CB Christmas Countdown B0HQ1HD3PZ - Manual ASIN" (A08579852C6OPMLWW4NUM): SP manual product targeting, exact ASINs:
+  B0HNTNQVJ9 (24 Trucks Till Christmas, the one that sold) $0.55; 3950637516, B0GJ9V42V9, 1441339493 $0.45. $2/day, Nov 10 - Dec 19, dynamic bids down only. Status Delivering, 4 targets, 1 product.
+Etsy new first photos (2000x2000 square, cover big; made from assets car_*_1 -> products/heroes/; old images kept behind):
+  countdown 4600569765, bingo 4600735910, xmasparty 4599374187, thanksgiving 4599340187, xmas_activity 4599336007, xmas_coloring 4599339201 ("successfully updated").
+  bundle_holiday NOT changed (square version had small books, no better).
+Pinterest: 5 pins published (see pinterest_log.md). Daily Pinterest scheduled task: creation was DENIED by permissions -> Mohamed must allow / create it.
