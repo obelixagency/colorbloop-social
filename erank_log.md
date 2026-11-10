@@ -652,3 +652,15 @@ Status check:
 - No ad changes proposed today.
 2026-11-10: APPLIED + verified (Publish changes -> "successfully updated" on each; re-opened editor: new Animals title (127), 13/13 tags exactly as proposed on animals, dinosaurs, vehicles, preschool, kindergarten).
   Prices/photos/files/AI disclosure untouched. Nothing PENDING. Thankful Turkey idea still unanswered (not built).
+
+## 2026-11-10 (later, Mohamed in chat: "يلا نفذها و نزلها و شغل اعلاناتها و ظبط الدنيا" re Thankful Turkey idea)
+NEW LISTING PUBLISHED: Thankful Turkey Craft 4613954258 ($1.99, 8-page PDF US Letter + A4, products/thankful_turkey).
+  title "Thankful Turkey Craft for Kids, Thanksgiving Crafts Printable, Cut and Paste Turkey Activity, Preschool Thanksgiving Activities PDF" (131)
+  tags: thanksgiving crafts, thankful turkey, turkey craft, thanksgiving craft, cut and paste, preschool activities, printable activities,
+        kids craft printable, thanksgiving kids, turkey feathers, classroom craft, kindergarten craft, preschool printable
+  (no new eRank lookups - today's 5 were used; based on thanksgiving crafts 273/mo, preschool activities 108, printable activities 130)
+  Category Worksheets, Holiday=Thanksgiving, section Seasonal & Holiday, AI disclosure "With an AI generator", Etsy Ads ON (shop budget unchanged $2/day -> $4 Nov 15).
+  Verified in editor after publish. Listing fee $0.20.
+  Social: links.json etsy.thankful_turkey + calendar etsy:thankful_turkey (story d0, reel d0, carousel d2, peek d5); sim_watchdog PASS.
+  Note: an accidental star click on Christmas Bingo was undone immediately (still not featured).
+  Audit rotation: add thankful_turkey once eRank syncs it.

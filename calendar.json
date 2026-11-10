@@ -4903,5 +4903,59 @@
   ],
   "caption": null,
   "requires_link": null
+ },
+ {
+  "id": "etsy_thankful_turkey_story",
+  "kind": "story",
+  "files": [
+   "story_etsy_thankful_turkey.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:thankful_turkey",
+  "day": 0,
+  "time": "18:00"
+ },
+ {
+  "id": "etsy_thankful_turkey_reel",
+  "kind": "reel",
+  "files": [
+   "reel_etsy_thankful_turkey.mp4"
+  ],
+  "caption": {
+   "text": "NEW: Thankful Turkey Craft 🦃🍁 Kids color the turkey, cut it out, and write (or draw) what they're thankful for on every feather. 8 printable pages, ages 3–7.\n\nA sweet Thanksgiving craft for the kids' table!\n\n{cta}\n\n#thanksgivingcrafts #turkeycraft #thankfulturkey #thanksgivingkids #preschoolcrafts #kidscrafts #printables #kidsactivities",
+   "link_key": "etsy:thankful_turkey"
+  },
+  "book": "etsy:thankful_turkey",
+  "day": 0,
+  "time": "19:30"
+ },
+ {
+  "id": "etsy_thankful_turkey_carousel",
+  "kind": "carousel",
+  "files": [
+   "car_etsy_thankful_turkey_1.jpg",
+   "car_etsy_thankful_turkey_2.jpg",
+   "car_etsy_thankful_turkey_3.jpg",
+   "car_etsy_thankful_turkey_4.jpg",
+   "car_etsy_thankful_turkey_5.jpg"
+  ],
+  "caption": {
+   "text": "What are your little ones thankful for? 🦃 Swipe for a peek: write it, trace it or draw it on the feathers, then glue them on!\n\nBlack & white to color or full color to just cut, plus a bonus coloring page.\n\n{cta}\n\n#thanksgivingcrafts #turkeycraft #thankfulturkey #thanksgivingkids #preschoolcrafts #kidscrafts #printables #kidsactivities",
+   "link_key": "etsy:thankful_turkey"
+  },
+  "book": "etsy:thankful_turkey",
+  "day": 2,
+  "time": "10:00"
+ },
+ {
+  "id": "etsy_thankful_turkey_peek",
+  "kind": "story",
+  "files": [
+   "story_etsy_thankful_turkey_peek.jpg"
+  ],
+  "caption": null,
+  "book": "etsy:thankful_turkey",
+  "day": 5,
+  "time": "18:00"
  }
 ]
