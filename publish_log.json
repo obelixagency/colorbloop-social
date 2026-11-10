@@ -459,8 +459,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T13:32:53.503408+00:00",
-   "throttled": 8
+   "last_attempt": "2026-11-10T15:02:00.306851+00:00",
+   "throttled": 9
   },
   "facebook_post": {
    "status": "ok",
@@ -1355,7 +1355,7 @@
   "_due": "2026-11-08T10:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 0,
+   "attempts": 1,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
@@ -1369,7 +1369,7 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T14:32:00.215486+00:00",
+   "last_attempt": "2026-11-10T15:02:00.306851+00:00",
    "throttled": 96
   },
   "facebook_carousel": {
@@ -1385,7 +1385,15 @@
   "_due": "2026-11-13T10:00:00-05:00"
  },
  "launch_abc_carousel": {
-  "_due": "2026-11-10T10:00:00-05:00"
+  "_due": "2026-11-10T10:00:00-05:00",
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122109347517521705"
+   },
+   "last_attempt": "2026-11-10T15:02:00.306851+00:00"
+  }
  },
  "etsy_countdown_carousel": {
   "_due": "2026-11-11T10:00:00-05:00"
