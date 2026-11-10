@@ -1368,8 +1368,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T00:02:00.234174+00:00",
-   "throttled": 67
+   "last_attempt": "2026-11-10T00:32:00.238911+00:00",
+   "throttled": 68
   },
   "facebook_carousel": {
    "status": "ok",
@@ -2163,7 +2163,26 @@
   }
  },
  "brand_beforeafter_reel": {
-  "_due": "2026-11-09T19:30:00-05:00"
+  "_due": "2026-11-09T19:30:00-05:00",
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122109172707521705"
+   },
+   "last_attempt": "2026-11-10T00:32:00.238911+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1823615728683220"
+    }
+   },
+   "last_attempt": "2026-11-10T00:32:00.238911+00:00"
+  }
  },
  "yt_015_kindergarten_color": {
   "_due": "2026-11-04T12:00:00-05:00",
