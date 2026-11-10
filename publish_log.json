@@ -459,8 +459,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T17:02:00.215175+00:00",
-   "throttled": 13
+   "last_attempt": "2026-11-10T17:32:00.182399+00:00",
+   "throttled": 14
   },
   "facebook_post": {
    "status": "ok",
@@ -1355,7 +1355,7 @@
   "_due": "2026-11-08T10:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 5,
+   "attempts": 6,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
@@ -1369,7 +1369,7 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T17:02:00.215175+00:00",
+   "last_attempt": "2026-11-10T17:32:00.182399+00:00",
    "throttled": 96
   },
   "facebook_carousel": {
