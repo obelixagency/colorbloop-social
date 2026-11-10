@@ -445,7 +445,7 @@
   "_due": "2026-11-08T13:00:00-05:00",
   "instagram_post": {
    "status": "failed",
-   "attempts": 1,
+   "attempts": 2,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
@@ -459,7 +459,7 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T18:02:00.205520+00:00",
+   "last_attempt": "2026-11-10T18:32:00.177189+00:00",
    "throttled": 14
   },
   "facebook_post": {
@@ -1028,8 +1028,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T18:02:00.205520+00:00",
-   "throttled": 1
+   "last_attempt": "2026-11-10T18:32:00.177189+00:00",
+   "throttled": 2
   },
   "facebook_carousel": {
    "status": "ok",
@@ -1152,22 +1152,20 @@
    "last_attempt": "2026-11-09T00:32:00.223514+00:00"
   },
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18126114623291738"
    },
-   "last_attempt": "2026-11-10T18:02:00.205520+00:00"
+   "last_attempt": "2026-11-10T18:32:00.177189+00:00"
   },
   "instagram_story": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "17924747529450606"
    },
-   "last_attempt": "2026-11-10T18:02:00.205520+00:00"
+   "last_attempt": "2026-11-10T18:32:00.177189+00:00"
   }
  },
  "abc_peek1": {
@@ -1316,22 +1314,12 @@
    "last_attempt": "2026-11-08T23:02:00.248422+00:00"
   },
   "instagram_story": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "API request failed",
-    "api_code": 24,
-    "http_status": 400,
-    "api_subcode": 2207006,
-    "usage": {
-     "business_call_count": 1,
-     "business_total_cputime": 1,
-     "business_total_time": 1,
-     "business_estimated_time_to_regain_access": 0
-    }
+    "platform_ref": "17868453873679585"
    },
-   "last_attempt": "2026-11-10T18:02:00.205520+00:00"
+   "last_attempt": "2026-11-10T18:32:00.177189+00:00"
   }
  },
  "etsy_routine_peek": {
@@ -1400,7 +1388,7 @@
   "_due": "2026-11-08T10:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 7,
+   "attempts": 8,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
@@ -1414,7 +1402,7 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T18:02:00.205520+00:00",
+   "last_attempt": "2026-11-10T18:32:00.177189+00:00",
    "throttled": 96
   },
   "facebook_carousel": {
