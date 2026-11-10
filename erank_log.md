@@ -629,7 +629,7 @@ Audit numbers: preschool curriculum 1,283 (comp 15,459; already a preschool tag)
   preschool: kindergarten prep, letter tracing; kindergarten: activity book kids, kindergarten skills, kindergarten prep.
 AI Listing Helper (1/1): dinosaurs. Titles empty. Useful: "coloring book" 11,433/mo (113% CTR, comp 262,126, 13 chars) - not a tag on any coloring listing yet. Rejected: dinosaur art 279 (wall-art intent).
 
-Proposals P1-P6 (sent 2026-11-10): PENDING
+Proposals P1-P6 (sent 2026-11-10): P1-P5 APPROVED+APPLIED 2026-11-10 (Mohamed: "موافق علي كل اقتراحات السيو")
 P1 animals 4599346493
   title "Kids Coloring Book Animals, Jumbo Animal Coloring Pages for Toddlers Ages 2-5, 60 Big Easy Farm Safari Ocean Forest Pets PDF"
      -> "Animal Coloring Book for Kids, Jumbo Animal Coloring Pages for Toddlers Ages 2-5, 60 Big Easy Farm Safari Ocean Forest Pets PDF" (127)
@@ -650,3 +650,5 @@ Status check:
 - Amazon KDP: FIRST SALE - 1 paperback Christmas Countdown (US), est. royalty $3.15 (Nov 1-10).
 - Amazon Ads Nov 3-9: 18,969 impressions, 15 clicks (all Countdown, CPC $0.26), $3.94 spend, sales $9.99 (1). Other 4 campaigns still 0 clicks (bids raised Nov 7 - give them a week).
 - No ad changes proposed today.
+2026-11-10: APPLIED + verified (Publish changes -> "successfully updated" on each; re-opened editor: new Animals title (127), 13/13 tags exactly as proposed on animals, dinosaurs, vehicles, preschool, kindergarten).
+  Prices/photos/files/AI disclosure untouched. Nothing PENDING. Thankful Turkey idea still unanswered (not built).
