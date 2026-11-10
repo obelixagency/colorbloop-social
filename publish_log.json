@@ -445,7 +445,7 @@
   "_due": "2026-11-08T13:00:00-05:00",
   "instagram_post": {
    "status": "failed",
-   "attempts": 5,
+   "attempts": 6,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
@@ -459,7 +459,7 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T20:02:00.341011+00:00",
+   "last_attempt": "2026-11-10T20:32:00.360664+00:00",
    "throttled": 14
   },
   "facebook_post": {
