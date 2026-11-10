@@ -664,3 +664,14 @@ NEW LISTING PUBLISHED: Thankful Turkey Craft 4613954258 ($1.99, 8-page PDF US Le
   Social: links.json etsy.thankful_turkey + calendar etsy:thankful_turkey (story d0, reel d0, carousel d2, peek d5); sim_watchdog PASS.
   Note: an accidental star click on Christmas Bingo was undone immediately (still not featured).
   Audit rotation: add thankful_turkey once eRank syncs it.
+
+## 2026-11-10 ~14:50 UTC (Mohamed: "نفذ اقتراحاتك كلها ... اتسي و امازون" + "ظبط الصور الاولي")
+Etsy Ads (30d: 193 views, 2 clicks, $1.13 spend, 0 orders; Etsy underspends the $2/day budget, "efficient spending"; more strategy options only at $25/day -> not worth it):
+- Turned ON ads: Winter Activity Book 4599375315, Thanksgiving Sampler 4600700353 (both "Advertising is now on"). Now 13 advertised incl. Thankful Turkey.
+- Budget unchanged $2/day; Nov 15 -> $4 task kept (harmless, Etsy only spends what it can place).
+- Scheduled task "Turn off Thanksgiving Etsy ads" moved Nov 23 -> Nov 27 10:00 UTC and now covers 3 listings (Thanksgiving coloring, Thankful Turkey, Thanksgiving sampler).
+Thumbnails: Thanksgiving coloring 4599340187 primary-photo thumbnail crop shifted left so the full cover title shows (published, "successfully updated"). Christmas Activity re-saved (crop already at the limit). Big Easy Xmas Coloring: crop already at the limit -> no change. Main images are 2700x2025 (4:3) so Etsy's square crop trims edges; a real fix = redesign heroes square-safe (not done).
+Amazon Ads (Nov 3-9): 5 auto campaigns $3/day, all Delivering, none budget-capped (Countdown spends ~$0.56/day).
+- Countdown search terms (11, 1 click each, $3.94): the sale came from product target "24 Trucks Till Christmas: An Advent Calendar Coloring Book for Kids" B0HNTNQVJ9 ($0.50 -> $9.99, ACOS 5%).
+  Irrelevant (teens/adult): B0H9SXFBCX (teens soccer), B0HH3GQVWN (football), B0HNPRZ9DN (crochet), B0HQHQFHY1 (family escape room).
+- NOT DONE YET (Chrome on Mohamed's Mac disconnected mid-task): (1) negative-product-target those 4 ASINs in Countdown auto; (2) new manual SP campaign for Countdown, product targeting B0HNTNQVJ9 + kids advent books 3950637516, B0GJ9V42V9, 1441339493, bid ~$0.45, $2/day, end Dec 19. Do when Chrome is back.
