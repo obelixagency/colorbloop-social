@@ -122,7 +122,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -459,8 +459,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T16:32:00.515999+00:00",
-   "throttled": 12
+   "last_attempt": "2026-11-10T17:02:00.215175+00:00",
+   "throttled": 13
   },
   "facebook_post": {
    "status": "ok",
@@ -1355,7 +1355,7 @@
   "_due": "2026-11-08T10:00:00-05:00",
   "instagram_carousel": {
    "status": "failed",
-   "attempts": 4,
+   "attempts": 5,
    "detail": {
     "error": "publish_failed",
     "message": "API request failed",
@@ -1369,7 +1369,7 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T16:32:00.515999+00:00",
+   "last_attempt": "2026-11-10T17:02:00.215175+00:00",
    "throttled": 96
   },
   "facebook_carousel": {
@@ -2260,7 +2260,15 @@
   }
  },
  "yt_021_brand_beforeafter": {
-  "_due": "2026-11-10T12:00:00-05:00"
+  "_due": "2026-11-10T12:00:00-05:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "9O3TrIryNEM"
+   },
+   "last_attempt": "2026-11-10T17:02:00.215175+00:00"
+  }
  },
  "yt_022_vehicles_color12": {
   "_due": "2026-11-11T12:00:00-05:00"
