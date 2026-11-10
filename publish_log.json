@@ -20,7 +20,8 @@
   "xmas_coloring",
   "thanksgiving",
   "etsy:xmas_nametracing",
-  "etsy:visual_schedule"
+  "etsy:visual_schedule",
+  "etsy:thankful_turkey"
  ],
  "_live_xmas_activity": "2026-10-20",
  "_live_etsy_xmasparty": "2026-10-20",
@@ -1368,8 +1369,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-10T11:02:00.656303+00:00",
-   "throttled": 89
+   "last_attempt": "2026-11-10T11:32:00.779860+00:00",
+   "throttled": 90
   },
   "facebook_carousel": {
    "status": "ok",
@@ -2660,5 +2661,6 @@
  },
  "xmas_coloring_color_reel": {
   "_due": "2026-11-21T19:30:00-05:00"
- }
+ },
+ "_live_etsy_thankful_turkey": "2026-11-10"
 }
