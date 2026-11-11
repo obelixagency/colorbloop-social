@@ -1381,13 +1381,12 @@
  "xmas_activity_flip_reel": {
   "_due": "2026-11-10T19:30:00-05:00",
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 3,
+   "status": "ok",
+   "attempts": 4,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18078803063563114"
    },
-   "last_attempt": "2026-11-11T01:32:00.306778+00:00"
+   "last_attempt": "2026-11-11T02:02:00.343724+00:00"
   },
   "facebook_reel": {
    "status": "ok",
@@ -1399,12 +1398,12 @@
   },
   "instagram_story": {
    "status": "failed",
-   "attempts": 3,
+   "attempts": 4,
    "detail": {
     "error": "publish_failed",
     "message": "Publishing request failed"
    },
-   "last_attempt": "2026-11-11T01:32:00.306778+00:00"
+   "last_attempt": "2026-11-11T02:02:00.343724+00:00"
   },
   "facebook_story": {
    "status": "ok",
