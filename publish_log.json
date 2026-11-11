@@ -1382,12 +1382,12 @@
   "_due": "2026-11-10T19:30:00-05:00",
   "instagram_reel": {
    "status": "failed",
-   "attempts": 1,
+   "attempts": 2,
    "detail": {
     "error": "publish_failed",
     "message": "Publishing request failed"
    },
-   "last_attempt": "2026-11-11T00:32:00.263855+00:00"
+   "last_attempt": "2026-11-11T01:02:00.348335+00:00"
   },
   "facebook_reel": {
    "status": "ok",
@@ -1399,12 +1399,12 @@
   },
   "instagram_story": {
    "status": "failed",
-   "attempts": 1,
+   "attempts": 2,
    "detail": {
     "error": "publish_failed",
     "message": "Publishing request failed"
    },
-   "last_attempt": "2026-11-11T00:32:00.263855+00:00"
+   "last_attempt": "2026-11-11T01:02:00.348335+00:00"
   },
   "facebook_story": {
    "status": "ok",
