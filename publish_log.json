@@ -1379,7 +1379,44 @@
   "_due": "2026-11-14T18:00:00-05:00"
  },
  "xmas_activity_flip_reel": {
-  "_due": "2026-11-10T19:30:00-05:00"
+  "_due": "2026-11-10T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-11-11T00:32:00.263855+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122109471081521705"
+   },
+   "last_attempt": "2026-11-11T00:32:00.263855+00:00"
+  },
+  "instagram_story": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-11-11T00:32:00.263855+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2020027366050435"
+    }
+   },
+   "last_attempt": "2026-11-11T00:32:00.263855+00:00"
+  }
  },
  "abc_flip_reel": {
   "_due": "2026-11-20T19:30:00-05:00"
