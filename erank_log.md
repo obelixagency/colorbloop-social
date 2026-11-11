@@ -686,3 +686,4 @@ Etsy new first photos (2000x2000 square, cover big; made from assets car_*_1 -> 
   bundle_holiday NOT changed (square version had small books, no better).
 Pinterest: 5 pins published (see pinterest_log.md). Daily Pinterest scheduled task: creation was DENIED by permissions -> Mohamed must allow / create it.
 2026-11-11 13:00 UTC: weekly Etsy Ads review 1 SKIPPED - Chrome extension not connected (0 browsers). Retry scheduled ~17:00 UTC.
+2026-11-11 17:04 UTC: retry also SKIPPED - Chrome still not connected. Next review Nov 18 13:00 UTC (budget raise to $4 scheduled Nov 15 also needs Chrome).
