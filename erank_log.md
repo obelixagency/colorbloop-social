@@ -687,3 +687,24 @@ Etsy new first photos (2000x2000 square, cover big; made from assets car_*_1 -> 
 Pinterest: 5 pins published (see pinterest_log.md). Daily Pinterest scheduled task: creation was DENIED by permissions -> Mohamed must allow / create it.
 2026-11-11 13:00 UTC: weekly Etsy Ads review 1 SKIPPED - Chrome extension not connected (0 browsers). Retry scheduled ~17:00 UTC.
 2026-11-11 17:04 UTC: retry also SKIPPED - Chrome still not connected. Next review Nov 18 13:00 UTC (budget raise to $4 scheduled Nov 15 also needs Chrome).
+
+## 2026-11-11 (scheduled run, ~18:05-18:25 UTC)
+Chrome connected briefly, then the extension DISCONNECTED mid-run (0 browsers after ~3 min wait).
+Keyword lookups: 0/5 used (Chrome dropped before Keyword Tool). AI Listing Helper: 0/1 (not reached).
+Audits (4/5, seasonal-first, out of the normal cycle-2 order): Oct-2026 data, eRank "Synced 20 days ago".
+- xmasparty 4599374187 (9 views, B, attr OK Holiday=Christmas, main-image alt text missing): strong tags christmas bingo 828 (comp 11,474), christmas games 2,308, scavenger hunt 885, would you rather 635, letter to santa 526. Weak/off-intent: family game night 213 (adult board-game intent).
+- winter 4599375315 (4 views, no grade, ATTRIBUTES MISSING): good = color by number 1,101, preschool worksheets 1,101, kids activity book 281. <20: winter activities, preschool winter, winter worksheets, snowman printable, toddler activities, winter coloring, cut and paste, snow day activity, winter activity book, snowman coloring (winter terms are pre-season in Oct -> keep the seasonal ones).
+- bundle_holiday 4599391756 (10 views, ATTRIBUTES MISSING): christmas bundle 338, christmas games 2,308, christmas bingo 828, stocking stuffer 5,770, christmas printable 659; dead: christmas worksheets <20.
+- xmas_nametracing 4609299081 (0 views in 8 days, A, Holiday=Christmas, main image "too small", no video): name tracing 204 (comp 3,742), letter to santa 526, christmas gift tags 1,713, tracing worksheets 128, handwriting practice 92.
+  Dead (<20): christmas worksheets, kids name tracing, christmas tracing, name writing, kindergarten prep. ("Noto" typo flag = emoji licence credit, ignore.)
+- thankful_turkey 4613954258: audit page did not finish loading before Chrome dropped (quota shown 4/5) -> first tomorrow.
+Proposals P1-P4 (sent 2026-11-11) - PENDING:
+P1 xmasparty 4599374187 (title unchanged): tags -family game night; +christmas gift tags (1,713; pack has gift tags)
+P2 winter 4599375315 (title unchanged): tags -toddler activities, -cut and paste, -snow day activity; +kids coloring pages (494; 14 coloring pages inside), +printable activities (130), +preschool activities (108)
+P3 bundle_holiday 4599391756 (title unchanged): tags -christmas worksheets; +letter to santa (526; included in party pack). Attribute Holiday=Christmas.
+P4 xmas_nametracing 4609299081 (title unchanged): tags -christmas worksheets, -kids name tracing, -christmas tracing, -name writing, -kindergarten prep;
+   +kids handwriting (603), +christmas activities (208), +printable activities (130), +preschool activities (108), +preschool printable
+(Before applying: check each add isn't already a tag.)
+Idea sent: $1.99 "Color Your Own Christmas Gift Tags" printable for kids (christmas gift tags 1,713/mo; tags already exist in party pack + name tracing -> cheap to build).
+Audit rotation (next up): thankful_turkey 4613954258, visual_schedule 4609322846, unicorns 4599351423, scissors 4599352519, mega bundle 4599370749; then busybook, routine, bundle_preschool/coloring/kinder.
+Keyword lookups to do next run: christmas party games, winter coloring pages, editable name tracing, thanksgiving activities for kids, christmas gift tags printable.
