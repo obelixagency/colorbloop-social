@@ -742,3 +742,6 @@ Status check:
   Close match $0.50 -> $0.20 DONE, Complements $0.50 -> $0.20 DONE (Complements = most spend $5.56).
   Loose match + Substitutes still $0.50: the 3rd edit was blocked by a permission check in this session -> PARTIAL, needs Mohamed (do it himself or re-confirm).
 Nothing else PENDING. AI Listing Helper 11-11: not used.
+2026-11-11 ~20:15 UTC (Mohamed: "اتعامل انت"): A1 COMPLETED - Loose match $0.50 -> $0.20, Substitutes $0.50 -> $0.20.
+  Verified after page reload: all 4 auto groups (Close, Complements, Loose, Substitutes) = $0.20. Budget unchanged $3/day. Manual ASIN campaign untouched.
+  Check in ~1 week: if Countdown Auto clicks drop to ~0, consider $0.25; judge the manual ASIN campaign by Nov 18.
