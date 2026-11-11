@@ -1397,13 +1397,12 @@
    "last_attempt": "2026-11-11T00:32:00.263855+00:00"
   },
   "instagram_story": {
-   "status": "failed",
-   "attempts": 4,
+   "status": "ok",
+   "attempts": 5,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18104393249637346"
    },
-   "last_attempt": "2026-11-11T02:02:00.343724+00:00"
+   "last_attempt": "2026-11-11T02:32:00.297484+00:00"
   },
   "facebook_story": {
    "status": "ok",
