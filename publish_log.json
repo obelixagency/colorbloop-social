@@ -1491,7 +1491,34 @@
   }
  },
  "etsy_countdown_carousel": {
-  "_due": "2026-11-11T10:00:00-05:00"
+  "_due": "2026-11-11T10:00:00-05:00",
+  "instagram_carousel": {
+   "status": "failed",
+   "attempts": 0,
+   "detail": {
+    "error": "publish_failed",
+    "message": "API request failed",
+    "api_code": 4,
+    "http_status": 403,
+    "api_subcode": 2207051,
+    "usage": {
+     "business_call_count": 1,
+     "business_total_cputime": 1,
+     "business_total_time": 1,
+     "business_estimated_time_to_regain_access": 0
+    }
+   },
+   "last_attempt": "2026-11-11T15:02:00.379193+00:00",
+   "throttled": 1
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122109655257521705"
+   },
+   "last_attempt": "2026-11-11T15:02:00.379193+00:00"
+  }
  },
  "push_sampler_carousel": {
   "_due": "2026-10-25T10:00:00-04:00",
