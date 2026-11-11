@@ -710,3 +710,28 @@ Audit rotation (next up): thankful_turkey 4613954258, visual_schedule 4609322846
 Keyword lookups to do next run: christmas party games, winter coloring pages, editable name tracing, thanksgiving activities for kids, christmas gift tags printable.
 2026-11-11 ~19:00 UTC: P1-P4 APPLIED (Publish changes -> "Your listing has been successfully updated" on each; tag list checked = 13/13 exactly as proposed before publish; bundle Holiday=Christmas set).
   (name tracing: 3 tags got garbled while typing fast -> removed and re-typed before publishing.) Prices/photos/files/AI disclosure untouched. Nothing PENDING.
+
+## 2026-11-11 ~19:00-19:40 UTC (Mohamed in chat: "عدل يلا المطلوب و ظبط الدنيا كلها اللي ناقصة و شوف اعلانات اتسي و امازون عملوا ايه")
+Audit 5/5: thankful_turkey 4613954258 (4 views in 2 days, A, Holiday=Thanksgiving, no video, main-image alt text missing):
+  good: thanksgiving crafts 273, thanksgiving craft 133, turkey craft 102, thankful turkey 98, printable activities 130, preschool activities 108, preschool printable 108.
+  dead (<20): cut and paste, kids craft printable, thanksgiving kids, turkey feathers, classroom craft, kindergarten craft.
+Keyword lookups (5/5, Etsy US, Oct-2026):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| thanksgiving activities | 198 | 99% | 27,608 | 23 chars -> title only (already in turkey title) |
+| fall crafts | 200 | 95% | 538,626 | ok tag for turkey |
+| kids crafts | 212 | 98% | 8,388,383 | ok tag for turkey (huge comp) |
+| gratitude activity | <20 | - | 5,556 | dead |
+| christmas party games | 624 | 100% | 99,885 | 21 chars -> title only; "christmas party games printable" trend 2,210; office/adult variants = wrong intent |
+AI Listing Helper: NOT used (Chrome disconnected again ~19:40).
+New proposals (PENDING):
+P5 thankful_turkey 4613954258 (title unchanged): tags -kids craft printable, -thanksgiving kids, -turkey feathers, -kindergarten craft; +kids crafts (212), +fall crafts (200), +thanksgiving art (218, 10-22 data), +handwriting practice (92; trace/write feathers)
+P6 xmasparty 4599374187 title "Christmas Games for Kids Printable, Christmas Bingo, Scavenger Hunt, Would You Rather, Classroom Holiday Party Games Pack PDF"
+   -> "Christmas Games for Kids Printable, Christmas Party Games, Christmas Bingo, Scavenger Hunt, Would You Rather, Classroom Holiday Party PDF" (137) - adds "christmas party games" 624/mo
+Status check:
+- Etsy 30d: 78 visits, 0 orders, $0 (Etsy Search 3 visits, direct/referral 28, social 7, other 25).
+- Etsy Ads 30d: 226 views, 2 clicks, $1.13 spend, 0 orders (no clicks since Nov 7). bundle_holiday 117 views/1 click, xmas_activity 31/1. Nothing to pause (no listing near 25 clicks).
+- Amazon KDP Nov: 1 order (Countdown paperback), est. royalty $3.15.
+- Amazon Ads Oct 12-Nov 10: $8.87 spend, 26 clicks (all Countdown Auto, CPC $0.34, CTR 0.08%), 1 sale $9.99, ROAS 1.13 -> losing vs $3.15 royalty.
+  Other 4 auto campaigns still 0 clicks (bids raised Nov 7, cost $0). Manual ASIN campaign (Nov 10) no data yet.
+  PENDING proposal A1: lower Countdown Auto default bid (~$0.34 -> ~$0.20) so the manual ASIN campaign (targets the ASIN that sold) carries Countdown.
