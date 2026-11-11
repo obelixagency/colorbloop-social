@@ -1367,7 +1367,26 @@
   }
  },
  "etsy_bundle_kinder_peek": {
-  "_due": "2026-11-11T18:00:00-05:00"
+  "_due": "2026-11-11T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18135469394490955"
+   },
+   "last_attempt": "2026-11-11T23:02:00.376264+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1143308285096327"
+    }
+   },
+   "last_attempt": "2026-11-11T23:02:00.376264+00:00"
+  }
  },
  "etsy_bundle_mega_peek": {
   "_due": "2026-11-12T18:00:00-05:00"
