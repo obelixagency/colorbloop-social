@@ -698,7 +698,7 @@ Audits (4/5, seasonal-first, out of the normal cycle-2 order): Oct-2026 data, eR
 - xmas_nametracing 4609299081 (0 views in 8 days, A, Holiday=Christmas, main image "too small", no video): name tracing 204 (comp 3,742), letter to santa 526, christmas gift tags 1,713, tracing worksheets 128, handwriting practice 92.
   Dead (<20): christmas worksheets, kids name tracing, christmas tracing, name writing, kindergarten prep. ("Noto" typo flag = emoji licence credit, ignore.)
 - thankful_turkey 4613954258: audit page did not finish loading before Chrome dropped (quota shown 4/5) -> first tomorrow.
-Proposals P1-P4 (sent 2026-11-11) - PENDING:
+Proposals P1-P4 (sent 2026-11-11): APPROVED+APPLIED 2026-11-11 (Mohamed: "عدل يلا المطلوب")
 P1 xmasparty 4599374187 (title unchanged): tags -family game night; +christmas gift tags (1,713; pack has gift tags)
 P2 winter 4599375315 (title unchanged): tags -toddler activities, -cut and paste, -snow day activity; +kids coloring pages (494; 14 coloring pages inside), +printable activities (130), +preschool activities (108)
 P3 bundle_holiday 4599391756 (title unchanged): tags -christmas worksheets; +letter to santa (526; included in party pack). Attribute Holiday=Christmas.
@@ -708,3 +708,5 @@ P4 xmas_nametracing 4609299081 (title unchanged): tags -christmas worksheets, -k
 Idea sent: $1.99 "Color Your Own Christmas Gift Tags" printable for kids (christmas gift tags 1,713/mo; tags already exist in party pack + name tracing -> cheap to build).
 Audit rotation (next up): thankful_turkey 4613954258, visual_schedule 4609322846, unicorns 4599351423, scissors 4599352519, mega bundle 4599370749; then busybook, routine, bundle_preschool/coloring/kinder.
 Keyword lookups to do next run: christmas party games, winter coloring pages, editable name tracing, thanksgiving activities for kids, christmas gift tags printable.
+2026-11-11 ~19:00 UTC: P1-P4 APPLIED (Publish changes -> "Your listing has been successfully updated" on each; tag list checked = 13/13 exactly as proposed before publish; bundle Holiday=Christmas set).
+  (name tracing: 3 tags got garbled while typing fast -> removed and re-typed before publishing.) Prices/photos/files/AI disclosure untouched. Nothing PENDING.
