@@ -122,7 +122,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -2474,7 +2474,15 @@
   }
  },
  "yt_023_thanksgiving_flip": {
-  "_due": "2026-11-12T12:00:00-05:00"
+  "_due": "2026-11-12T12:00:00-05:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "wPLebGhS-w4"
+   },
+   "last_attempt": "2026-11-12T17:02:00.274795+00:00"
+  }
  },
  "yt_024_preschool_flip": {
   "_due": "2026-11-13T12:00:00-05:00"
