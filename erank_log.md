@@ -745,3 +745,33 @@ Nothing else PENDING. AI Listing Helper 11-11: not used.
 2026-11-11 ~20:15 UTC (Mohamed: "اتعامل انت"): A1 COMPLETED - Loose match $0.50 -> $0.20, Substitutes $0.50 -> $0.20.
   Verified after page reload: all 4 auto groups (Close, Complements, Loose, Substitutes) = $0.20. Budget unchanged $3/day. Manual ASIN campaign untouched.
   Check in ~1 week: if Countdown Auto clicks drop to ~0, consider $0.25; judge the manual ASIN campaign by Nov 18.
+
+## 2026-11-12 (Mohamed in chat ~13:45 UTC: "مفتوح يلا اشتغل" = run today's review)
+Audits (5/5, Oct-2026 data, eRank synced 21 days ago):
+- visual_schedule 4609322846 (0 views in 9 days, A, attributes missing): alive = visual schedule 236 (comp 7,562), visual schedule kids 121, preschool printable 108.
+  Dead (<20): toddler schedule, daily routine chart, kids routine chart, routine cards, picture cards, first then board, morning routine, bedtime routine, toddler printable, homeschool printable.
+- unicorns 4599351423 (6 views, A, attr missing): kids coloring book 719, kids coloring pages 494, kids activity book 281, coloring sheets 222, printable activities 130, unicorn birthday 105.
+  Dead: unicorn coloring, unicorn printable, fairy coloring, rainbow coloring, coloring book pdf, easy coloring book.
+- scissors 4599352519 (5 views, A, Occasion=Back to school): preschool worksheets 1,101, kids worksheets 284, kids activity book 281, printable activities 130, toddler worksheets 107.
+  Dead: scissor skills, cutting practice, cut and paste, kindergarten prep, cutting worksheets (first 3 = exact product words, kept).
+- mega 4599370749 (10 views, B, attr missing): preschool curriculum 1,283, preschool worksheets 1,101, kids coloring book 719, kids coloring pages 494; dead: kindergarten prep.
+- busybook 4599376639 (6 views, A, attr missing): busy book 1,558 (comp 32,184), quiet book 1,333, toddler busy book 1,048, montessori toddler 308, busy binder 81.
+  Dead: learning binder, toddler activities, velcro activities, homeschool preschool.
+Keyword lookups (5/5):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| christmas busy book | <20 | - | 3,666 | dead (no Xmas busy book) |
+| montessori printable | 106 | 95% | 62,477 | 20 chars, busybook tag |
+| chore chart | 1,513 | 100% | 31,997 | BIG; "chore chart kids" trend 1,110, "kids chore chart" 160 -> new product idea |
+| unicorn coloring book | <20 | - | 4,313 | dead; "coloring book" trend 17,760 |
+| pre k worksheets | <20 | <20% | 8,279 | dead |
+AI Listing Helper (1/1): visual_schedule. Ideas rejected: printable cards 990 (comp 1.6M, greeting-card intent), kids daily schedule/picture schedule/schedule cards (<20). Nothing accurate + alive beyond visual schedule (already lead).
+Proposals (sent 2026-11-12) - PENDING:
+P1 visual_schedule 4609322846 (title unchanged): tags -toddler printable, -homeschool printable, -picture cards; +chore chart (1,513; category = Chore Chart Templates, routine boards), +preschool activities (108), +printable activities (130)
+P2 unicorns 4599351423 (title unchanged): tags -unicorn printable, -coloring book pdf, -easy coloring book; +coloring book (11,433), +preschool activities (108), +preschool printable (108)
+P3 scissors 4599352519 (title unchanged): tags -kindergarten prep; +kids crafts (212; book has easy crafts)
+P4 mega 4599370749 (title unchanged): tags -kindergarten prep; +kids handwriting (603; tracing + cursive books inside)
+P5 busybook 4599376639 (title unchanged): tags -learning binder, -toddler activities, -homeschool preschool; +montessori printable (106; title says Montessori), +preschool activities (108), +printable activities (130)
+(Before applying: check each add isn't already a tag.)
+Idea sent: $2.99 "Kids Chore Chart Printable" (chore chart 1,513/mo, comp 32k) - can reuse visual-schedule picture cards.
+Audit rotation (next up): routine 4599377969, bundle_preschool 4599363319, bundle_coloring 4599388238, bundle_kinder 4599389520, sightwords 4599377768.
