@@ -775,3 +775,6 @@ P5 busybook 4599376639 (title unchanged): tags -learning binder, -toddler activi
 (Before applying: check each add isn't already a tag.)
 Idea sent: $2.99 "Kids Chore Chart Printable" (chore chart 1,513/mo, comp 32k) - can reuse visual-schedule picture cards.
 Audit rotation (next up): routine 4599377969, bundle_preschool 4599363319, bundle_coloring 4599388238, bundle_kinder 4599389520, sightwords 4599377768.
+2026-11-12 ~14:15 UTC (Mohamed: "موافق علي الكل" = approves P1-P5): all APPROVED+APPLIED 2026-11-12.
+  P1 visual_schedule, P2 unicorns, P3 scissors, P4 mega, P5 busybook: tag list read back = 13/13 exactly as proposed before each "Publish changes"; each showed "Your listing has been successfully updated".
+  (busybook: 3 new tags got garbled while typing -> removed and re-typed one by one before publishing.) Titles/prices/photos/files/AI disclosure untouched. Nothing PENDING.
