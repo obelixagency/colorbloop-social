@@ -2266,7 +2266,42 @@
   }
  },
  "thanksgiving_flip_reel": {
-  "_due": "2026-11-11T19:30:00-05:00"
+  "_due": "2026-11-11T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18018684131751259"
+   },
+   "last_attempt": "2026-11-12T00:32:00.348585+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122109782955521705"
+   },
+   "last_attempt": "2026-11-12T00:32:00.348585+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18064783853570360"
+   },
+   "last_attempt": "2026-11-12T00:32:00.348585+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1596718292259052"
+    }
+   },
+   "last_attempt": "2026-11-12T00:32:00.348585+00:00"
+  }
  },
  "thanksgiving_color_reel": {
   "_due": "2026-11-14T19:30:00-05:00"
