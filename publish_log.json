@@ -1420,7 +1420,26 @@
   }
  },
  "abc_peek2": {
-  "_due": "2026-11-13T18:00:00-05:00"
+  "_due": "2026-11-13T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18201663160387032"
+   },
+   "last_attempt": "2026-11-13T23:02:00.182944+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "29348780401449002"
+    }
+   },
+   "last_attempt": "2026-11-13T23:02:00.182944+00:00"
+  }
  },
  "etsy_countdown_peek": {
   "_due": "2026-11-14T18:00:00-05:00"
