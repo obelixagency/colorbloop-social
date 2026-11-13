@@ -1467,7 +1467,42 @@
   "_due": "2026-11-20T19:30:00-05:00"
  },
  "xmas_activity_color_reel": {
-  "_due": "2026-11-12T19:30:00-05:00"
+  "_due": "2026-11-12T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17915487918548072"
+   },
+   "last_attempt": "2026-11-13T00:32:00.191119+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122110057005521705"
+   },
+   "last_attempt": "2026-11-13T00:32:00.191119+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18641588071032023"
+   },
+   "last_attempt": "2026-11-13T00:32:00.191119+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2835287953532537"
+    }
+   },
+   "last_attempt": "2026-11-13T00:32:00.191119+00:00"
+  }
  },
  "abc_color_reel": {
   "_due": "2026-11-13T19:30:00-05:00"
