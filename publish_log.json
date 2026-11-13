@@ -122,7 +122,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -2575,7 +2575,15 @@
   }
  },
  "yt_024_preschool_flip": {
-  "_due": "2026-11-13T12:00:00-05:00"
+  "_due": "2026-11-13T12:00:00-05:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "33rVPDUBuRM"
+   },
+   "last_attempt": "2026-11-13T17:02:00.369091+00:00"
+  }
  },
  "yt_025_xmas_activity_color": {
   "_due": "2026-11-14T12:00:00-05:00"
