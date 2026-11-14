@@ -1524,7 +1524,43 @@
   }
  },
  "abc_color_reel": {
-  "_due": "2026-11-13T19:30:00-05:00"
+  "_due": "2026-11-13T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-11-14T00:32:00.261660+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122110375605521705"
+   },
+   "last_attempt": "2026-11-14T00:32:00.261660+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17908607202671726"
+   },
+   "last_attempt": "2026-11-14T00:32:00.261660+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "928895943642826"
+    }
+   },
+   "last_attempt": "2026-11-14T00:32:00.261660+00:00"
+  }
  },
  "etsy_bundle_coloring_carousel": {
   "_due": "2026-11-13T13:00:00-05:00",
