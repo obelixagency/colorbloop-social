@@ -782,3 +782,4 @@ Audit rotation (next up): routine 4599377969, bundle_preschool 4599363319, bundl
   Ad stats seen (30d, Oct 16 - Nov 15): 279 views, 2 clicks, 0 orders, $1.13 spend. Top: holiday bundle 125 views/1 click ($0.94), xmas_activity 49/1, countdown 29, Thankful Turkey Craft 19, nametracing 14, winter 11, xmas_coloring 9, xmas_nametracing 8, thanksgiving 7, xmasparty 5, xmas sampler 2, bingo 1, thanksgiving sampler ...
   Note: spend is far below the $2/day cap (efficient spending) -> raising the cap may change little; Etsy decides spend. No listing near 25 clicks.
 2026-11-15 16:04 UTC: budget raise retry FAILED - Chrome not connected. Not rescheduled; Mohamed told how to do it himself. Budget still $2/day.
+2026-11-15 ~18:30 UTC (Mohamed: "اعمل التعديلات المطلوبة كلها في اتسي يلا"): Etsy Ads budget raised $2 -> $4/day, verified "Your advertising budget is USD 4 a day". Back to $2 scheduled Dec 15. No other Etsy edits pending in the log.
