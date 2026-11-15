@@ -820,3 +820,11 @@ P5 sightwords 4599377768 title -> "Sight Words Worksheets, Kindergarten Workshee
 (Before applying: check each add isn't already a tag; all tags <=20 chars.) Attributes missing on routine + 3 bundles -> check while editing (no Etsy attribute values guessed).
 Idea sent: $1.99 "Behavior Chart & Reward Chart Printable" from routine-pack pages (behavior chart 893/mo comp 15k, responsibility chart 393 comp 9.8k).
 Audit rotation (next up): bundle_holiday 4599391756, xmas_activity 4599336007, xmas_coloring 4599339201, countdown 4600569765, winter 4599375315.
+2026-11-15 ~20:00 UTC (Mohamed: "موافق على الكل و متعملش المنتج الجديد"): P1-P5 APPROVED+APPLIED 2026-11-15.
+  Each: title + 13 tags read back from the editor exactly as proposed before "Publish changes"; each showed "Your listing has been successfully updated".
+  (routine: 2 tags removed by mistake (potty chart, reward chart) due to shifting buttons + 2 garbled while typing -> re-added/re-typed; final 13 verified before publish.)
+  Attributes NOT filled (not part of the exact approved edits; no values guessed). Prices/photos/files/AI disclosure untouched. Nothing PENDING.
+  Idea "Behavior Chart & Reward Chart Printable" REJECTED by Mohamed for now (do not build).
+Etsy status check (Oct 17 - Nov 15): 80 visits (49 of them Oct 20-21 launch), 0 orders, $0 revenue, 0 favorites, 0 reviews, 84 listing views.
+  Sources: Etsy Search 3, Etsy app/pages 2, Etsy marketing & SEO 15, direct/referral 28, social 7 (FB 6, IG 1), other 25.
+  Etsy Ads 30d: 283 views, 2 clicks (0.7%), 0 orders, $1.13 spend. Budget cap $4/day (back to $2 on Dec 15) but Etsy only spent $1.13 in 30 days.
