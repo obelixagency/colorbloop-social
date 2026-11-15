@@ -836,3 +836,11 @@ Etsy status check (Oct 17 - Nov 15): 80 visits (49 of them Oct 20-21 launch), 0 
   - Group "Buy & Sell Homeschool Printables" (allhomeschoolprintables, 4.6K; K-12 only, no preschool/coloring, direct listing link + USD price): joined, seller answer submitted -> PENDING admin approval. Once approved: post sight words 4599377768 ($5.99) / cursive.
   - "The Homeschool Quest Free And Affordable Resources & Printables" (302K; self-promo OK under $40, price + link, English, 2 posts/day): joined, but participant questions ask kids' grades + an email -> NOT submitted; Mohamed must answer himself.
   - "Homeschool Marketplace" (94K): joined, but rules = shippable items only + no business posts -> no request submitted, do not post there.
+2026-11-15 ~21:00 UTC (Mohamed: "تابعهم انت ... وادخل جروبات تانية وانشر جواها") - FB as Colorbloop page:
+- Kids Printables (320395917611183, 1.3K, no rules): joined, posted preschool sampler 4600698287 -> LIVE.
+- Preschool Worksheets and Activities (353564299718449, 13.2K, no rules): joined, posted Thanksgiving/winter sampler 4600700353 -> PENDING admin approval.
+- Homeschool Printables and Activities (Homeschoolprintablesactivities, 4.9K, no rules): joined, posted Sight Words 4599377768 ($5.99, 25% off Nov 16-Dec 1) -> PENDING.
+- Printables and Activities for Kids (printablesandactivitiesforkids, 2.2K, no rules): joined, posted Christmas sampler 4600685185 -> PENDING.
+- Preschool Homeschooling (555084402068088, 20.9K): promo posts only Fri+Sat -> not joined yet; post Fri Nov 20.
+- Skipped: TeenyBeans "Preschool, Kindergarten Parents" (brand-owned group), "Free printables" groups (free-only intent), generic "promote your page" groups (sellers, not buyers).
+- Stopped at 4 group posts today to avoid Facebook spam limits. Follow-up check scheduled 2026-11-16 17:30 UTC in this session.
