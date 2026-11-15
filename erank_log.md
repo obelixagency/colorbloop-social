@@ -783,3 +783,9 @@ Audit rotation (next up): routine 4599377969, bundle_preschool 4599363319, bundl
   Note: spend is far below the $2/day cap (efficient spending) -> raising the cap may change little; Etsy decides spend. No listing near 25 clicks.
 2026-11-15 16:04 UTC: budget raise retry FAILED - Chrome not connected. Not rescheduled; Mohamed told how to do it himself. Budget still $2/day.
 2026-11-15 ~18:30 UTC (Mohamed: "اعمل التعديلات المطلوبة كلها في اتسي يلا"): Etsy Ads budget raised $2 -> $4/day, verified "Your advertising budget is USD 4 a day". Back to $2 scheduled Dec 15. No other Etsy edits pending in the log.
+
+## 2026-11-15 (scheduled run, ~18:50 UTC)
+STOPPED: eRank is logged out in Chrome (members.erank.com -> login page). No keyword lookups / audits / AI Helper used today; no proposals. Mohamed asked to log in to eRank.
+Still due next run: audits routine 4599377969, bundle_preschool 4599363319, bundle_coloring 4599388238, bundle_kinder 4599389520, sightwords 4599377768.
+Keyword lookups still to do: winter coloring pages, editable name tracing, christmas gift tags printable, thanksgiving activities for kids (Thanksgiving Nov 26 -> low priority after), christmas coloring pages.
+Nothing PENDING.
