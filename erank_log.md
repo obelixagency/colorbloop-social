@@ -844,3 +844,6 @@ Etsy status check (Oct 17 - Nov 15): 80 visits (49 of them Oct 20-21 launch), 0 
 - Preschool Homeschooling (555084402068088, 20.9K): promo posts only Fri+Sat -> not joined yet; post Fri Nov 20.
 - Skipped: TeenyBeans "Preschool, Kindergarten Parents" (brand-owned group), "Free printables" groups (free-only intent), generic "promote your page" groups (sellers, not buyers).
 - Stopped at 4 group posts today to avoid Facebook spam limits. Follow-up check scheduled 2026-11-16 17:30 UTC in this session.
+2026-11-15 ~21:15 UTC (Mohamed: "جاوب عالاسئلة بما يتناسب مع اللي بنبيعه"): The Homeschool Quest (homeschoolfreeandaffordable, 302K):
+  answered as seller: grades = Preschool-1st + 2nd-5th (our product range), "I provide printables, resources, books, or curriculum for homeschoolers"; email field left EMPTY (not shared without Mohamed's OK).
+  Posted Preschool Curriculum Bundle 4599363319 ($14.99, 25% off Nov 16-Dec 1, link, Colorbloop name) -> post + answers PENDING admin approval. Rules: max 2 posts/day, same post again only after 7 days.
