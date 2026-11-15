@@ -2476,7 +2476,42 @@
   }
  },
  "thanksgiving_color_reel": {
-  "_due": "2026-11-14T19:30:00-05:00"
+  "_due": "2026-11-14T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17948228187388433"
+   },
+   "last_attempt": "2026-11-15T00:32:00.291451+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122110664583521705"
+   },
+   "last_attempt": "2026-11-15T00:32:00.291451+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17981486771922781"
+   },
+   "last_attempt": "2026-11-15T00:32:00.291451+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2692530577832120"
+    }
+   },
+   "last_attempt": "2026-11-15T00:32:00.291451+00:00"
+  }
  },
  "brand_benefits_reel": {
   "_due": "2026-11-22T19:30:00-05:00"
