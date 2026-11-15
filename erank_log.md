@@ -789,3 +789,34 @@ STOPPED: eRank is logged out in Chrome (members.erank.com -> login page). No key
 Still due next run: audits routine 4599377969, bundle_preschool 4599363319, bundle_coloring 4599388238, bundle_kinder 4599389520, sightwords 4599377768.
 Keyword lookups still to do: winter coloring pages, editable name tracing, christmas gift tags printable, thanksgiving activities for kids (Thanksgiving Nov 26 -> low priority after), christmas coloring pages.
 Nothing PENDING.
+2026-11-15 ~19:30 UTC (Mohamed logged in eRank, "يلا اشتغل") - run done:
+Keyword lookups (5/5, Etsy US, Oct-2026):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| christmas worksheets | <20 | - | 9,977 | dead |
+| kindergarten worksheets | 123 | 83% | 41,640 | 23 chars -> title only; Google 33,100 |
+| winter activities | <20 | - | 30,647 | dead |
+| sight word games | <20 | - | 3,049 | dead; "printable games" trend 1,140 |
+| routine chart | 29 | 114% | 24,138 | weak |
+Audits (5/5): routine 4599377969 (8 views; attr missing), bundle_preschool 4599363319 (12, B), bundle_coloring 4599388238 (6, B; 11/13 tags dead), bundle_kinder 4599389520 (8; 11/13 dead), sightwords 4599377768 (8).
+  routine alive: chore chart kids 390, behavior chart 893, responsibility chart 393, visual schedule 236, reward chart 146; dead: bedtime routine, toddler chore chart, potty chart, sticker chart, screen time tokens, daily/kids routine chart.
+  bundle_preschool alive: preschool curriculum 1,283, preschool worksheets 1,101, kids handwriting 603, tracing worksheets 128, preschool printable/activities 108, toddler worksheets 107.
+  bundle_coloring alive: kids coloring book 719, kids coloring pages 494 only.
+  bundle_kinder alive: handwriting practice 92, sight words 41 only.
+  sightwords alive: kids handwriting 603, kids worksheets 284, kids activity book 281, printable activities 130, tracing worksheets 128, handwriting practice 92, sight words 41.
+AI Listing Helper (1/1): bundle_coloring -> titles "192-Page Kids Coloring Pages Bundle..." etc.; no data-backed new keywords; only used "192+" pages count (accurate).
+Proposals (sent 2026-11-15) - PENDING:
+P1 routine 4599377969 title "Visual Schedule for Kids, Daily Routine Chart, Chore Chart Kids, Behavior Chart, Responsibility Chart, Toddler Reward System Printable PDF"
+   -> "Chore Chart for Kids Printable, Behavior Chart, Responsibility Chart, Daily Routine Chart, Visual Schedule, Reward Chart, Toddler PDF" (133)
+   tags -bedtime routine, -toddler chore chart, -sticker chart, -daily routine chart, -kids routine chart; +chore chart (1,513), +kids chore chart (160), +visual schedule kids (121), +preschool printable (108), +printable activities (130)
+P2 bundle_preschool 4599363319 title: "Pre K Worksheets" -> "Preschool Worksheets" (1,101 vs <20) = "Preschool Curriculum Bundle Printable, Preschool Worksheets, ABC, Numbers, Shapes, Handwriting, Scissor Skills, Feelings Activity Books PDF" (139)
+   tags -pre k worksheets, -kindergarten prep, -busy book pages; +kids worksheets (284), +kids activity book (281), +printable activities (130)
+P3 bundle_coloring 4599388238 title -> "Kids Coloring Book Bundle, 192+ Kids Coloring Pages, Toddler Coloring Sheets, Animals, Dinosaurs, Trucks, Unicorns, Space Printable PDF" (135)
+   tags -toddler coloring, -printable coloring, -animal coloring, -easy coloring pages, -coloring book pdf, -coloring book bundle; +coloring book (11,433), +coloring sheets (222), +kids activity book (281), +printable activities (130), +preschool activities (108), +preschool printable (108)
+P4 bundle_kinder 4599389520 title -> "Kindergarten Worksheets Bundle Printable, Kindergarten Curriculum, Sight Words, Letter Tracing, Handwriting Practice, Scissor Skills PDF" (136; drops "5 Kindergarten Workbooks" and "Numbers 1-20" from title, numbers stay in description)
+   tags -kindergarten prep, -pre k worksheets, -kindergarten skills, -kinder curriculum, -kindergarten pdf, -handwriting workbook; +preschool worksheets (1,101), +kids handwriting (603), +kids worksheets (284), +kids activity book (281), +printable activities (130), +tracing worksheets (128)
+P5 sightwords 4599377768 title -> "Sight Words Worksheets, Kindergarten Worksheets, 100 Sight Words Workbook Ages 4-6, Trace Write Find Word Search, Reading Practice PDF" (134)
+   tags -phonics printable (not phonics), -homeschool reading, -kindergarten reading; +preschool worksheets (1,101), +preschool printable (108), +preschool activities (108)
+(Before applying: check each add isn't already a tag; all tags <=20 chars.) Attributes missing on routine + 3 bundles -> check while editing (no Etsy attribute values guessed).
+Idea sent: $1.99 "Behavior Chart & Reward Chart Printable" from routine-pack pages (behavior chart 893/mo comp 15k, responsibility chart 393 comp 9.8k).
+Audit rotation (next up): bundle_holiday 4599391756, xmas_activity 4599336007, xmas_coloring 4599339201, countdown 4600569765, winter 4599375315.
