@@ -778,3 +778,6 @@ Audit rotation (next up): routine 4599377969, bundle_preschool 4599363319, bundl
 2026-11-12 ~14:15 UTC (Mohamed: "موافق علي الكل" = approves P1-P5): all APPROVED+APPLIED 2026-11-12.
   P1 visual_schedule, P2 unicorns, P3 scissors, P4 mega, P5 busybook: tag list read back = 13/13 exactly as proposed before each "Publish changes"; each showed "Your listing has been successfully updated".
   (busybook: 3 new tags got garbled while typing -> removed and re-typed one by one before publishing.) Titles/prices/photos/files/AI disclosure untouched. Nothing PENDING.
+2026-11-15 13:00 UTC: Etsy Ads budget raise ($2 -> $4) NOT done - Chrome extension disconnected mid-task (before budget editor). Retry ~16:00 UTC.
+  Ad stats seen (30d, Oct 16 - Nov 15): 279 views, 2 clicks, 0 orders, $1.13 spend. Top: holiday bundle 125 views/1 click ($0.94), xmas_activity 49/1, countdown 29, Thankful Turkey Craft 19, nametracing 14, winter 11, xmas_coloring 9, xmas_nametracing 8, thanksgiving 7, xmasparty 5, xmas sampler 2, bingo 1, thanksgiving sampler ...
+  Note: spend is far below the $2/day cap (efficient spending) -> raising the cap may change little; Etsy decides spend. No listing near 25 clicks.
