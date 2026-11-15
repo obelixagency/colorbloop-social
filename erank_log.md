@@ -828,3 +828,11 @@ Audit rotation (next up): bundle_holiday 4599391756, xmas_activity 4599336007, x
 Etsy status check (Oct 17 - Nov 15): 80 visits (49 of them Oct 20-21 launch), 0 orders, $0 revenue, 0 favorites, 0 reviews, 84 listing views.
   Sources: Etsy Search 3, Etsy app/pages 2, Etsy marketing & SEO 15, direct/referral 28, social 7 (FB 6, IG 1), other 25.
   Etsy Ads 30d: 283 views, 2 clicks (0.7%), 0 orders, $1.13 spend. Budget cap $4/day (back to $2 on Dec 15) but Etsy only spent $1.13 in 30 days.
+2026-11-15 ~20:30 UTC (Mohamed: "اعمل ٢ و ٣ ... و ٣ اعملها من صفحة البراند علي الفيس نفسها"):
+- (2) Etsy sale BLACKFRIDAY25 created: 25% off whole shop, Nov 16 00:00 - Nov 23 00:00 (status Scheduled). 30% Nov 16-Dec 1 was rejected by Etsy as overlapping
+  the already-scheduled CYBER26 (25%, Nov 23 07:00 - Dec 2 07:00) -> result = 25% off continuously Nov 16 - Dec 1.
+- (3) Facebook (acting as the Colorbloop page; browser left switched into the page):
+  - Page post published: Black Friday 25% off through Dec 1 + preschool sampler 4600698287 + Thanksgiving/winter sampler 4600700353 + shop link.
+  - Group "Buy & Sell Homeschool Printables" (allhomeschoolprintables, 4.6K; K-12 only, no preschool/coloring, direct listing link + USD price): joined, seller answer submitted -> PENDING admin approval. Once approved: post sight words 4599377768 ($5.99) / cursive.
+  - "The Homeschool Quest Free And Affordable Resources & Printables" (302K; self-promo OK under $40, price + link, English, 2 posts/day): joined, but participant questions ask kids' grades + an email -> NOT submitted; Mohamed must answer himself.
+  - "Homeschool Marketplace" (94K): joined, but rules = shippable items only + no business posts -> no request submitted, do not post there.
