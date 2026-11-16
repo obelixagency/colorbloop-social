@@ -3088,7 +3088,26 @@
   }
  },
  "launch_thanksgiving_story": {
-  "_due": "2026-11-16T18:00:00-05:00"
+  "_due": "2026-11-16T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18139928803727321"
+   },
+   "last_attempt": "2026-11-16T23:02:00.251515+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "2385681512168606"
+    }
+   },
+   "last_attempt": "2026-11-16T23:02:00.251515+00:00"
+  }
  },
  "launch_xmas_coloring_reel": {
   "_due": "2026-11-15T19:30:00-05:00",
