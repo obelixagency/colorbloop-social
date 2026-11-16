@@ -871,3 +871,5 @@ Keyword lookups (5/5 used, Etsy US):
 | winter worksheets | <20 | - | 4,182 | dead |
 Audits / AI Helper / FB groups / Etsy+Amazon ads check NOT done: Chrome extension disconnected (Mac offline/asleep) right after keyword lookups; retried ~3 min, still no browser.
 Meta Ads MCP: no Colorbloop ad account found (no Meta ads running for Colorbloop).
+2026-11-16 ~09:10 UTC (Mohamed gave email for Homeschool Quest): re-answered participation fully (grades PreK-1st + 2nd-5th, email given by Mohamed, "I provide printables...", checked "I agree to the group rules" - this box was likely missed on Nov 15).
+  Posted Kindergarten Ready Bundle 4599389520 ($14.99) -> DECLINED again within seconds (looks automatic). Stopped posting there to avoid a ban; likely auto-filter on Pages / new sellers / Etsy links. Option: Mohamed posts from his personal profile, or apply for "HQ Verified" (smll.ink/hqv).
