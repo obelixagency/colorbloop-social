@@ -917,3 +917,4 @@ Audit rotation (next up): xmasparty 4599374187, bingo 4600735910, xmas_nametraci
   (xmas_activity: a ref-based click removed "christmas printable" by mistake -> re-added; final 13 verified before publish. Switched to aria-label deletes after that.)
   Prices/photos/files/AI disclosure/attributes untouched. Nothing PENDING.
   NEW PRODUCTS: Mohamed says NO new products until existing ones sell (Letter to Santa idea rejected). Do not propose new products for now.
+2026-11-16 17:30 UTC scheduled FB-groups follow-up: NOT done - Chrome extension disconnected (retried after 1 min). One retry scheduled at ~20:35 UTC.
