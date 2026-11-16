@@ -854,3 +854,9 @@ Etsy status check (Oct 17 - Nov 15): 80 visits (49 of them Oct 20-21 launch), 0 
 - The Homeschool Quest: post DECLINED by admins (no reason shown; participation answers had no email). Member status OK. Don't repost same text before Nov 22.
 - Buy & Sell Homeschool Printables: earlier answers hadn't registered; re-answered (seller text + "I'm a printables creator" + agreed to rules) and posted Sight Words 4599377768 ($5.99 USD, 25% off to Dec 1) -> PENDING.
 - Etsy last 7 days: 7 visits (all "Etsy marketing and SEO"), 0 orders. Sale BLACKFRIDAY25 live from Nov 16.
+
+## 2026-11-16 (scheduled eRank run, ~08:55 UTC)
+STOPPED: eRank logged out again in Chrome (members.erank.com -> login page). No keyword lookups / audits / AI Helper used; no proposals. Mohamed asked to log in (tip: tick "remember me"/stay signed in).
+Still due: audits bundle_holiday 4599391756, xmas_activity 4599336007, xmas_coloring 4599339201, countdown 4600569765, winter 4599375315.
+Keyword ideas still to look up: christmas coloring pages, christmas gift tags printable, editable name tracing, winter coloring pages, advent calendar kids.
+Nothing PENDING.
