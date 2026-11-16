@@ -873,3 +873,13 @@ Audits / AI Helper / FB groups / Etsy+Amazon ads check NOT done: Chrome extensio
 Meta Ads MCP: no Colorbloop ad account found (no Meta ads running for Colorbloop).
 2026-11-16 ~09:10 UTC (Mohamed gave email for Homeschool Quest): re-answered participation fully (grades PreK-1st + 2nd-5th, email given by Mohamed, "I provide printables...", checked "I agree to the group rules" - this box was likely missed on Nov 15).
   Posted Kindergarten Ready Bundle 4599389520 ($14.99) -> DECLINED again within seconds (looks automatic). Stopped posting there to avoid a ban; likely auto-filter on Pages / new sellers / Etsy links. Option: Mohamed posts from his personal profile, or apply for "HQ Verified" (smll.ink/hqv).
+2026-11-16 ~11:55 UTC (Mohamed: "يلا اشتغل" / "انطلق في كل حاجة" + Amazon intl ads question):
+- eRank logged out AGAIN before audits (Google "Sign in as Mohamed" one-tap shown; not used without OK). Audits/AI Helper still due: bundle_holiday, xmas_activity, xmas_coloring, countdown, winter. Keywords done earlier today.
+- Etsy Ads 30d (Oct 17-Nov 16): 310 views, 2 clicks, 0 orders, $1.13 spend; $4/day cap. Top: holiday bundle 125 views/1 click, xmas_activity 49/1, thankful turkey 41, countdown 29.
+- AMAZON ADS: ALL 6 US campaigns status "Payment failure" - alert "Your credit card couldn't be charged ... don't have enough credit". Ads NOT running. 30d: $12.04 cost, $19.98 sales (2), ROAS 1.66; Nov 9-15: 27,378 impr, 22 clicks, $9.99 sales.
+  Other alerts: "Set up billing to advertise in India"; "couldn't verify tax number (Mexico)". Account = global "Colorbloop, multiple countries" (AU, CA, FR, DE, IN, IT, JP, MX, NL, ES, UK, US).
+  Mohamed APPROVED UK/CA/AU campaigns (Countdown + Christmas Activity auto, $1.5/day each, end Dec 20) - NOT created yet: (1) payment failure must be fixed by Mohamed, (2) Chrome extension blocks advertising.amazon.co.uk (permission denied) -> Mohamed must allow amazon.co.uk/.ca/.com.au ads domains. No Thanksgiving abroad (US-only holiday).
+- FB groups: still PENDING: Preschool Worksheets and Activities, Homeschool Printables and Activities, Printables and Activities for Kids, Buy & Sell Homeschool Printables.
+  NEW: Preschool Activities, Books & Printables for Kids (571581392128086, 70K): joined, Countdown 4600569765 post -> LIVE.
+  NEW: Educational and fun Printables for kids (909954233888471, 23.8K; rules: posts need images, answer "printables"): joined + answered, Thankful Turkey 4613954258 post with image -> PENDING admin approval.
+  2 group posts today (spam limit). Homeschool Quest repost not before Nov 22.
