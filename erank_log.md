@@ -860,3 +860,14 @@ STOPPED: eRank logged out again in Chrome (members.erank.com -> login page). No 
 Still due: audits bundle_holiday 4599391756, xmas_activity 4599336007, xmas_coloring 4599339201, countdown 4600569765, winter 4599375315.
 Keyword ideas still to look up: christmas coloring pages, christmas gift tags printable, editable name tracing, winter coloring pages, advent calendar kids.
 Nothing PENDING.
+2026-11-16 ~09:20 UTC (Mohamed: "جرب تاني و شوف موضوع النشر في الجروبات تاني و كمله و شوف الاعلانات"): eRank was logged in on retry.
+Keyword lookups (5/5 used, Etsy US):
+| keyword | searches | CTR | competition | note |
+|---|---|---|---|---|
+| christmas activity book | 128 | 147% | 16,817 | good, low comp; "christmas activity book for kids" 10 |
+| christmas printables | 624 | 123% | 701,379 | big but very crowded; Dec peak 3,720 |
+| christmas activities | 208 | 99% | 94,489 | ok |
+| advent calendar kids | 210 | 125% | 12,989 | BEST: low comp, Oct 1,320 -> countdown listing |
+| winter worksheets | <20 | - | 4,182 | dead |
+Audits / AI Helper / FB groups / Etsy+Amazon ads check NOT done: Chrome extension disconnected (Mac offline/asleep) right after keyword lookups; retried ~3 min, still no browser.
+Meta Ads MCP: no Colorbloop ad account found (no Meta ads running for Colorbloop).
