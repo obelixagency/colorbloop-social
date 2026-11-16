@@ -883,3 +883,11 @@ Meta Ads MCP: no Colorbloop ad account found (no Meta ads running for Colorbloop
   NEW: Preschool Activities, Books & Printables for Kids (571581392128086, 70K): joined, Countdown 4600569765 post -> LIVE.
   NEW: Educational and fun Printables for kids (909954233888471, 23.8K; rules: posts need images, answer "printables"): joined + answered, Thankful Turkey 4613954258 post with image -> PENDING admin approval.
   2 group posts today (spam limit). Homeschool Quest repost not before Nov 22.
+2026-11-16 ~12:10 UTC (Mohamed: "كمل امازون افتح اللي انت عايزه" + "ادخل بجوجل"):
+- US: still 6x "Payment failure" (card not charged). Not fixed yet.
+- UK: 2 DRAFT campaigns saved (not launched - UK needs a payment method, "Add a payment method to launch"):
+  "CB UK Christmas Countdown B0HQ1HD3PZ - Auto" (draft A01164002F59H7KIYZXW3) and "CB UK Christmas Activity Book B0HNLYHYLJ - Auto" (draft A10228423M1ADLV8VV6LV):
+  SP auto, default bid GBP 0.20, Dynamic bids - down only, GBP 1.15/day (~$1.45), Nov 16 - Dec 20, verified after reload.
+- Canada: "Provide a billing address to launch" + product list doesn't load -> nothing created. Australia: advertising.amazon.com.au redirected back to the CA builder -> nothing created.
+- eRank Google sign-in (approved by Mohamed): clicking "Sign in as Mohamed" did nothing visible (popup likely outside the automation tab) -> still logged out; audits not done.
+- A Canada campaign-builder tab is left open (blocks closing with "Leave site?"); nothing saved there.
