@@ -891,3 +891,10 @@ Meta Ads MCP: no Colorbloop ad account found (no Meta ads running for Colorbloop
 - Canada: "Provide a billing address to launch" + product list doesn't load -> nothing created. Australia: advertising.amazon.com.au redirected back to the CA builder -> nothing created.
 - eRank Google sign-in (approved by Mohamed): clicking "Sign in as Mohamed" did nothing visible (popup likely outside the automation tab) -> still logged out; audits not done.
 - A Canada campaign-builder tab is left open (blocks closing with "Leave site?"); nothing saved there.
+2026-11-16 ~12:45 UTC (Mohamed: "الكارت تمام كمل الحملات كلها يلا"): Amazon Ads ALL 12 campaigns "Delivering" (verified in campaign list).
+- US 6 campaigns: payment fixed by Mohamed -> Delivering again.
+- NEW (approved by Mohamed earlier today), all SP auto, Dynamic bids - down only, auto "increase bids for high-traffic days" rule UNCHECKED, no extra countries, start Nov 16:
+  UK: CB UK Christmas Countdown B0HQ1HD3PZ - Auto (GBP 1.15/day, bid 0.20) ; CB UK Christmas Activity Book B0HNLYHYLJ - Auto (GBP 1.15, 0.20) - end Dec 20
+  CA: CB CA Christmas Countdown B0HQ1HD3PZ - Auto (CAD 2.00, 0.35) ; CB CA Christmas Activity Book B0HNLYHYLJ - Auto (CAD 2.00, 0.35) - set Dec 20, summary shows Dec 21 (timezone)
+  AU: CB AU Christmas Countdown B0HQ1HD3PZ - Auto (AUD 2.20, 0.35) ; CB AU Christmas Activity Book B0HNLYHYLJ - Auto (AUD 2.20, 0.35) - end Dec 20
+  New intl max ~= $8.6/day total if fully spent. Review intl clicks ~Nov 23.
