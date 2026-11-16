@@ -847,3 +847,10 @@ Etsy status check (Oct 17 - Nov 15): 80 visits (49 of them Oct 20-21 launch), 0 
 2026-11-15 ~21:15 UTC (Mohamed: "جاوب عالاسئلة بما يتناسب مع اللي بنبيعه"): The Homeschool Quest (homeschoolfreeandaffordable, 302K):
   answered as seller: grades = Preschool-1st + 2nd-5th (our product range), "I provide printables, resources, books, or curriculum for homeschoolers"; email field left EMPTY (not shared without Mohamed's OK).
   Posted Preschool Curriculum Bundle 4599363319 ($14.99, 25% off Nov 16-Dec 1, link, Colorbloop name) -> post + answers PENDING admin approval. Rules: max 2 posts/day, same post again only after 7 days.
+
+## 2026-11-16 ~08:50 UTC (Mohamed: "اشتغل الماك معاك و شوف موضوع الجروبات")
+- Kids Printables: post LIVE (published).
+- Preschool Worksheets and Activities / Homeschool Printables and Activities / Printables and Activities for Kids: posts still PENDING admin approval (HPA: participant review also pending).
+- The Homeschool Quest: post DECLINED by admins (no reason shown; participation answers had no email). Member status OK. Don't repost same text before Nov 22.
+- Buy & Sell Homeschool Printables: earlier answers hadn't registered; re-answered (seller text + "I'm a printables creator" + agreed to rules) and posted Sight Words 4599377768 ($5.99 USD, 25% off to Dec 1) -> PENDING.
+- Etsy last 7 days: 7 visits (all "Etsy marketing and SEO"), 0 orders. Sale BLACKFRIDAY25 live from Nov 16.
