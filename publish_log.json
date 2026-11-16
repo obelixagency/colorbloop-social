@@ -3279,8 +3279,8 @@
      "business_estimated_time_to_regain_access": 0
     }
    },
-   "last_attempt": "2026-11-16T15:02:00.193352+00:00",
-   "throttled": 1
+   "last_attempt": "2026-11-16T15:32:00.223044+00:00",
+   "throttled": 2
   },
   "facebook_carousel": {
    "status": "ok",
