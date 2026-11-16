@@ -912,3 +912,8 @@ P4 winter 4599375315 title "...Color by Number, Preschool Winter Worksheets PDF"
    +winter printable (99), +winter craft ideas (93), +coloring book (11,433), +kids coloring book (719), +kids worksheets (284), +coloring sheets (222), +preschool printable (108). Attributes missing -> check while editing (no guessed values).
 bundle_holiday: no change. Idea sent: $1.99 "Letter to Santa printable" (526 searches, comp 32k) from pages already in xmas_nametracing.
 Audit rotation (next up): xmasparty 4599374187, bingo 4600735910, xmas_nametracing 4609299081, thanksgiving 4599340187, thankful_turkey 4613954258.
+2026-11-16 ~13:30 UTC (Mohamed: "موافق على الكل بس متعملش منتجات جديدة لما نبيع القديم الاول"): P1-P4 APPROVED+APPLIED 2026-11-16.
+  Each: 13 tags (and winter title) read back from the editor exactly as proposed before "Publish changes"; each showed "Your listing has been successfully updated".
+  (xmas_activity: a ref-based click removed "christmas printable" by mistake -> re-added; final 13 verified before publish. Switched to aria-label deletes after that.)
+  Prices/photos/files/AI disclosure/attributes untouched. Nothing PENDING.
+  NEW PRODUCTS: Mohamed says NO new products until existing ones sell (Letter to Santa idea rejected). Do not propose new products for now.
