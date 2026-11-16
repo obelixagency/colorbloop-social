@@ -898,3 +898,17 @@ Meta Ads MCP: no Colorbloop ad account found (no Meta ads running for Colorbloop
   CA: CB CA Christmas Countdown B0HQ1HD3PZ - Auto (CAD 2.00, 0.35) ; CB CA Christmas Activity Book B0HNLYHYLJ - Auto (CAD 2.00, 0.35) - set Dec 20, summary shows Dec 21 (timezone)
   AU: CB AU Christmas Countdown B0HQ1HD3PZ - Auto (AUD 2.20, 0.35) ; CB AU Christmas Activity Book B0HNLYHYLJ - Auto (AUD 2.20, 0.35) - end Dec 20
   New intl max ~= $8.6/day total if fully spent. Review intl clicks ~Nov 23.
+2026-11-16 ~13:10 UTC (Mohamed: "كمل"): eRank login via Google ("Sign in as Mohamed", approved by Mohamed) worked.
+Audits (5/5): bundle_holiday 4599391756 (B, 10 views; tags OK -> no change), xmas_activity 4599336007 (9 views), xmas_coloring 4599339201 (7), countdown 4600569765 (4), winter 4599375315 (4; 7 dead tags, attributes missing).
+  Audit numbers seen: christmas bingo 828 (comp 11,474!), letter to santa 526 (32k), stocking stuffer 5,770 (536k), christmas countdown 323, advent calendar kids 210, christmas coloring 230, kids coloring book 719, kids coloring pages 494, coloring sheets 222, color by number 1,101, preschool worksheets 1,101.
+  Dead: classroom christmas, christmas worksheets, holiday worksheets 28, holiday coloring 27, kids advent activity 35, winter activities/worksheets/coloring/activity book, preschool winter, snowman printable/coloring.
+AI Listing Helper (1/1): winter -> only data-backed new: winter printable 99, winter craft ideas 93 (cut-and-paste crafts are in the book).
+Proposals (sent 2026-11-16) - PENDING:
+P1 xmas_activity 4599336007 tags -classroom christmas, -christmas worksheets, -holiday worksheets; +preschool worksheets (1,101), +kids worksheets (284), +printable activities (130). Title unchanged.
+P2 xmas_coloring 4599339201 tags -holiday coloring (27); +coloring book (11,433). Title unchanged.
+P3 countdown 4600569765 tags -christmas worksheets, -kids advent activity (35); +preschool worksheets (1,101), +kids worksheets (284). Title unchanged.
+P4 winter 4599375315 title "...Color by Number, Preschool Winter Worksheets PDF" -> "Winter Activity Book for Kids Ages 3-6, Snowman Coloring Pages, Mazes, Counting, Color by Number, Preschool Worksheets PDF" (122)
+   tags -winter activities, -preschool winter, -winter worksheets, -snowman printable, -winter coloring, -winter activity book, -snowman coloring;
+   +winter printable (99), +winter craft ideas (93), +coloring book (11,433), +kids coloring book (719), +kids worksheets (284), +coloring sheets (222), +preschool printable (108). Attributes missing -> check while editing (no guessed values).
+bundle_holiday: no change. Idea sent: $1.99 "Letter to Santa printable" (526 searches, comp 32k) from pages already in xmas_nametracing.
+Audit rotation (next up): xmasparty 4599374187, bingo 4600735910, xmas_nametracing 4609299081, thanksgiving 4599340187, thankful_turkey 4613954258.
