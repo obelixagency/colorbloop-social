@@ -952,3 +952,8 @@ P4 bingo 4600735910 tags -bingo game cards (41); +holiday party games (299). Tit
 P5 thanksgiving 4599340187 tags -toddler coloring (<20), -holiday coloring (27); +coloring book, +fall printable (51). Title unchanged.
 Audit rotation next: sampler 4600685185, sampler_preschool, sampler_coloring, sampler_kinder, sampler_fall.
 2026-11-17 ~12:45 UTC (Mohamed: "موافق على الكل"): P1-P5 APPROVED+APPLIED 2026-11-17. Each: title + 13 tags read back from the editor before "Publish changes"; each returned to Listings with "successfully updated". Prices/photos/files/AI disclosure untouched. Nothing PENDING.
+2026-11-17 ~13:00 UTC (Mohamed: "اتعامل لو في بوستات علي الجروبات ... اشتغل علي الباندلز") - FB as Colorbloop page, 2 group posts today:
+- Preschool Activities, Books & Printables for Kids (571581392128086, 70.5K, no rules, ~150 posts/day, top content = reels + worksheet previews): Holiday & Winter Bundle 4599391756 ($17.99, 25% off to Dec 1) posted WITH reel video (reel_etsy_bundle_holiday.mp4) -> "Processing video", publishes automatically.
+- Kids Printables (320395917611183): Christmas Party Games 4599374187 ($5.99) with image car_etsy_xmasparty_1.jpg (scavenger hunt / bingo angle) -> LIVE.
+- Educational and fun Printables (909954233888471): membership approved + "An admin approved your photo" (Thankful Turkey post) -> LIVE. No 2nd post there today.
+- Group feeds: competitors post bundles with "What's included" lists, reels, free PDF samples. Next: Amazon paperback (Countdown B0HQ1HD3PZ) post, Mega/Preschool bundles; Preschool Homeschooling (555084402068088) promo only Fri+Sat -> Fri Nov 20. Homeschool Quest not before Nov 22.
