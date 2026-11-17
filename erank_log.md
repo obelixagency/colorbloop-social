@@ -932,3 +932,22 @@ Amazon Ads (Oct 18-Nov 16): $12.24 spend, 33 clicks (CTR 0.08%, CPC $0.37), 2 pu
 STOPPED: eRank logged out in Chrome (members.erank.com -> login page). 0/5 keyword lookups, 0/5 audits, 0/1 AI Helper used; no proposals. Mohamed asked to log in again. Nothing PENDING.
 Audit rotation still next: xmasparty 4599374187, bingo 4600735910, xmas_nametracing 4609299081, thanksgiving 4599340187, thankful_turkey 4613954258.
 Keywords to look up next run: christmas games for kids, christmas name tracing, thanksgiving placemat, christmas party games for kids, thankful tree.
+2026-11-17 ~12:20 UTC (Mohamed live: "يلا اشتغل و شوف الدنيا..."; approved Google sign-in for eRank in this chat -> worked after his click on the popup).
+Keyword lookups (5/5, Etsy US):
+| keyword | searches | CTR | competition | note |
+| christmas games for kids | 318 | 101% | 125,246 | 24 chars -> title only (already in xmasparty title) |
+| christmas name tracing | unknown(<20) | - | 174 | no volume; "name tracing" 204 is the real term |
+| christmas scavenger hunt | 246 | 104% | 4,211 | BEST: low comp; 24 chars -> title only; xmasparty title has "Scavenger Hunt" |
+| christmas party games for kids | 207 | 99% | 63,502 | title only |
+| thanksgiving crafts for kids | 229 | 149% | 165,221 | -> thankful_turkey title lead |
+Audits (5/5): xmasparty 4599374187 (9 views), bingo 4600735910 (1), xmas_nametracing 4609299081 (0), thankful_turkey 4613954258 (11), thanksgiving 4599340187 (6).
+  Numbers: christmas bingo 828 (11,474), holiday party games 299, christmas party game 203, bingo game cards 41, bingo cards for kids 39, christmas activity 115 (95k), kids handwriting 603, name tracing 204, preschool printable 108 (189k), thankful turkey 98, turkey craft 102, cut and paste <20, classroom craft <20, toddler coloring <20, holiday coloring 27, fall coloring sheet 44.
+AI Listing Helper (1/1): xmas_nametracing -> nothing usable (name tracing board 873 = physical wooden boards, not our product; rest <20).
+Ads: Amazon 14 campaigns Delivering, no payment failure (alerts left: India billing, Mexico tax no.). Data same as morning (lags 1 day). Etsy Ads/Stats unchanged since morning.
+Proposals (sent 2026-11-17) - PENDING:
+P1 thankful_turkey 4613954258 title -> "Thanksgiving Crafts for Kids, Thankful Turkey Craft Printable, Cut and Paste Turkey Activity, Preschool Thanksgiving Activities PDF" (131); tags -cut and paste, -classroom craft; +thanksgiving print (103), +thanksgiving fun (96)
+P2 xmas_nametracing 4609299081 tags -christmas activity (115), -preschool printable (108); +kids worksheets (284), +preschool worksheets (1,101). Title unchanged.
+P3 xmasparty 4599374187 tags -christmas activity (115); +christmas party game (203). Title unchanged.
+P4 bingo 4600735910 tags -bingo game cards (41); +holiday party games (299). Title unchanged.
+P5 thanksgiving 4599340187 tags -toddler coloring (<20), -holiday coloring (27); +coloring book, +fall printable (51). Title unchanged.
+Audit rotation next: sampler 4600685185, sampler_preschool, sampler_coloring, sampler_kinder, sampler_fall.
