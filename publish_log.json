@@ -3207,7 +3207,26 @@
   }
  },
  "etsy_xmas_nametracing_story": {
-  "_due": "2026-11-17T18:00:00-05:00"
+  "_due": "2026-11-17T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18121619450088869"
+   },
+   "last_attempt": "2026-11-17T23:02:00.176023+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1130795256201199"
+    }
+   },
+   "last_attempt": "2026-11-17T23:02:00.176023+00:00"
+  }
  },
  "etsy_visual_schedule_story": {
   "_due": "2026-11-18T18:00:00-05:00"
