@@ -951,3 +951,4 @@ P3 xmasparty 4599374187 tags -christmas activity (115); +christmas party game (2
 P4 bingo 4600735910 tags -bingo game cards (41); +holiday party games (299). Title unchanged.
 P5 thanksgiving 4599340187 tags -toddler coloring (<20), -holiday coloring (27); +coloring book, +fall printable (51). Title unchanged.
 Audit rotation next: sampler 4600685185, sampler_preschool, sampler_coloring, sampler_kinder, sampler_fall.
+2026-11-17 ~12:45 UTC (Mohamed: "موافق على الكل"): P1-P5 APPROVED+APPLIED 2026-11-17. Each: title + 13 tags read back from the editor before "Publish changes"; each returned to Listings with "successfully updated". Prices/photos/files/AI disclosure untouched. Nothing PENDING.
