@@ -957,3 +957,8 @@ Audit rotation next: sampler 4600685185, sampler_preschool, sampler_coloring, sa
 - Kids Printables (320395917611183): Christmas Party Games 4599374187 ($5.99) with image car_etsy_xmasparty_1.jpg (scavenger hunt / bingo angle) -> LIVE.
 - Educational and fun Printables (909954233888471): membership approved + "An admin approved your photo" (Thankful Turkey post) -> LIVE. No 2nd post there today.
 - Group feeds: competitors post bundles with "What's included" lists, reels, free PDF samples. Next: Amazon paperback (Countdown B0HQ1HD3PZ) post, Mega/Preschool bundles; Preschool Homeschooling (555084402068088) promo only Fri+Sat -> Fri Nov 20. Homeschool Quest not before Nov 22.
+2026-11-17 ~13:35 UTC (Mohamed: "شوف البوستات علي الجروبات بيبعتوا الناس علي امازون و لا اتسي و اشتغل علي الوينجين"):
+- Holiday Bundle reel post in Preschool Activities (70.5K) is LIVE (seen in feed).
+- Link research, group search in Preschool Activities 571581392128086: "amazon" -> 11 Amazon links, 0 Etsy; "etsy" -> 6 Etsy links. Feed is mostly creator reels + Amazon kids books (paperbacks); printables-only groups (Educational and fun Printables) = Etsy/digital bundles with "What's included" lists.
+- Plan: parent/preschool groups -> Amazon paperbacks (Countdown B0HQ1HD3PZ = our only seller: 2 sales); printables groups -> Etsy bundles. Winners to push: Amazon Countdown book, Etsy Holiday Bundle (most ad views), Christmas Activity Book (best Etsy ad CTR 3.9%), Thankful Turkey (most views, Thanksgiving Nov 26).
+- Scheduled in this session: 2026-11-17 22:00 UTC check posts/comments (no new posts); 2026-11-18 14:00 UTC 2 group posts (Amazon Countdown + an Etsy bundle).
