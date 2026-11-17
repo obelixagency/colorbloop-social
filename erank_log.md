@@ -919,3 +919,11 @@ Audit rotation (next up): xmasparty 4599374187, bingo 4600735910, xmas_nametraci
   NEW PRODUCTS: Mohamed says NO new products until existing ones sell (Letter to Santa idea rejected). Do not propose new products for now.
 2026-11-16 17:30 UTC scheduled FB-groups follow-up: NOT done - Chrome extension disconnected (retried after 1 min). One retry scheduled at ~20:35 UTC.
 2026-11-16 20:33 UTC FB-groups follow-up retry: NOT done - Chrome not responding (2 tries). No more retries; Mohamed told.
+
+## 2026-11-17 (Mohamed: "يلا اشتغل" + "شوف الاعلانات وصلت لايه و البوستات في الجروبات")
+FB groups (as Colorbloop page): Kids Printables post LIVE (no comments seen). Still PENDING admin approval: Buy & Sell (participant review too), Preschool Worksheets and Activities, Homeschool Printables and Activities (participant review too), Printables and Activities for Kids. Homeschool Quest: declined x2 (stopped).
+Etsy last 7 days: 7 visits (Etsy marketing/SEO 6, Etsy Ads 1), 0 orders, $0. BLACKFRIDAY25 live.
+Etsy Ads 30d (Oct 18-Nov 17): 366 views, 3 clicks, 0 orders, $1.17 spend (holiday bundle 133 views/1 click $0.94; Thankful Turkey 77 views/0).
+Amazon Ads (Oct 18-Nov 16): $12.24 spend, 33 clicks (CTR 0.08%, CPC $0.37), 2 purchases, $19.98 sales, ROAS 1.63. Nov 10-16: 23,420 impressions, 21 clicks, 1 sale $9.99.
+  By campaign: Countdown Auto 27 clicks $9.62; Countdown Manual ASIN 4 clicks $1.75; Thanksgiving Auto 2 clicks $0.87 (ends Nov 23); Activity Book / Party Games / Xmas Coloring autos 0 clicks; UK/CA/AU (started Nov 16) no data yet.
+  2 paperback sales ~ $6.30 royalty (est. $3.15 each) vs $12.24 spend -> still losing ~$6/30d.
