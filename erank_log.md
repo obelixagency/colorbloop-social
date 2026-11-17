@@ -927,3 +927,8 @@ Etsy Ads 30d (Oct 18-Nov 17): 366 views, 3 clicks, 0 orders, $1.17 spend (holida
 Amazon Ads (Oct 18-Nov 16): $12.24 spend, 33 clicks (CTR 0.08%, CPC $0.37), 2 purchases, $19.98 sales, ROAS 1.63. Nov 10-16: 23,420 impressions, 21 clicks, 1 sale $9.99.
   By campaign: Countdown Auto 27 clicks $9.62; Countdown Manual ASIN 4 clicks $1.75; Thanksgiving Auto 2 clicks $0.87 (ends Nov 23); Activity Book / Party Games / Xmas Coloring autos 0 clicks; UK/CA/AU (started Nov 16) no data yet.
   2 paperback sales ~ $6.30 royalty (est. $3.15 each) vs $12.24 spend -> still losing ~$6/30d.
+
+## 2026-11-17 11:50 UTC scheduled eRank run
+STOPPED: eRank logged out in Chrome (members.erank.com -> login page). 0/5 keyword lookups, 0/5 audits, 0/1 AI Helper used; no proposals. Mohamed asked to log in again. Nothing PENDING.
+Audit rotation still next: xmasparty 4599374187, bingo 4600735910, xmas_nametracing 4609299081, thanksgiving 4599340187, thankful_turkey 4613954258.
+Keywords to look up next run: christmas games for kids, christmas name tracing, thanksgiving placemat, christmas party games for kids, thankful tree.
