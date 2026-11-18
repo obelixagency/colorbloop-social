@@ -3453,5 +3453,23 @@
    "last_attempt": "2026-11-16T15:02:00.193352+00:00"
   }
  },
- "_ig_feed_blocked_until": "2026-11-21T14:00:00+00:00"
+ "_ig_feed_blocked_until": "2026-11-21T14:00:00+00:00",
+ "push_gp_thanksgiving": {
+  "_due": "2026-11-18T14:00:00-05:00",
+  "instagram_post": {
+   "status": "skipped",
+   "attempts": 0,
+   "detail": {
+    "error": "ig_feed_blocked"
+   }
+  },
+  "facebook_post": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122111760837521705"
+   },
+   "last_attempt": "2026-11-18T19:02:00.200106+00:00"
+  }
+ }
 }
