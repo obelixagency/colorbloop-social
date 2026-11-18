@@ -1722,6 +1722,13 @@
     "platform_ref": "1418685554653190_122109347517521705"
    },
    "last_attempt": "2026-11-10T15:02:00.306851+00:00"
+  },
+  "instagram_carousel": {
+   "status": "skipped",
+   "attempts": 0,
+   "detail": {
+    "error": "ig_feed_blocked"
+   }
   }
  },
  "etsy_countdown_carousel": {
