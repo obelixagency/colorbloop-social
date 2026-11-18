@@ -154,6 +154,21 @@ def caption_for(entry, links, platform):
     return _cap_hashtags(text, n) if (n and text) else text
 
 
+def _plain_caption(text):
+    """Caption without hashtags or URLs (Instagram-feed fallback when the spam filter blocks a post)."""
+    import re
+    keep = [l for l in (text or "").split("\n") if not l.strip().startswith("#")]
+    out = re.sub(r"https?://\S+", "", "\n".join(keep))
+    out = re.sub(r"(?<!\w)#\w+", "", out)
+    return re.sub(r"\n{3,}", "\n\n", out).strip()
+
+
+def _ig_feed_caption(entry, links, platform, log):
+    """Once a plain caption has been shown to get through, keep using plain captions on the Instagram feed."""
+    cap = caption_for(entry, links, platform)
+    return _plain_caption(cap) if (log.get("_ig_plain_probe") or {}).get("ok") else cap
+
+
 def _at(date, hhmm):
     h, m = map(int, hhmm.split(":"))
     return dt.datetime(date.year, date.month, date.day, h, m, tzinfo=ET)
@@ -306,6 +321,7 @@ def run(now=None):
                     print(f'{e["id"]} {platform}: waiting (YouTube daily cap {YT_DAILY_MAX} reached)'); continue
             target = files if platform.endswith("carousel") else files[0]
             if platform.endswith("story") and e["kind"] == "story": cap = ""
+            elif platform in IG_FEED: cap = _ig_feed_caption(e, links, platform, log)
             else: cap = caption_for(e, links, platform)
             ok, detail = PUB.publish(platform, target, cap)
             if platform == "youtube_short" and detail.get("error") != "not_connected":
@@ -314,6 +330,14 @@ def run(now=None):
                 meta_auth_bad = True   # token problem, not a post problem: keep the attempt count, retry once the token is fixed
                 st.update(status="failed", detail=detail, last_attempt=now.isoformat()); row[platform] = st
                 print(f'{e["id"]} {platform}: META TOKEN INVALID, skipping Meta this run'); continue
+            if not ok and platform in IG_FEED and (detail or {}).get("api_subcode") == IG_BLOCK_SUBCODE and cap:
+                # diagnosis: is it the caption (hashtags / links) Instagram's spam filter dislikes? retry once, plain
+                ok2, detail2 = PUB.publish(platform, target, _plain_caption(cap))
+                log["_ig_plain_probe"] = {"at": now.isoformat(), "ok": ok2}
+                if ok2:
+                    st.update(status="ok", detail={**detail2, "note": "plain_caption"}, attempts=st["attempts"] + 1,
+                              last_attempt=now.isoformat()); row[platform] = st
+                    print(f'{e["id"]} {platform}: ok with a plain caption (no hashtags / links)'); continue
             if not ok and platform in IG_FEED and (detail or {}).get("api_subcode") == IG_BLOCK_SUBCODE:
                 ig_block_until = now + dt.timedelta(hours=IG_BLOCK_HOURS)
                 log["_ig_feed_blocked_until"] = ig_block_until.isoformat()
