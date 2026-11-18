@@ -1033,3 +1033,13 @@ SKIPPED: Christmas Gifts & Deals 75.9K (no promotions); Best Books for Kids 12.7
 - Thankful Turkey share in Kid's Worksheets & Activities: APPROVED by admin (notification).
 - Format that works: "📖 Paperback on Amazon: <link>" + "🖨️ Printable PDF on Etsy: <link>"; if preview is text-only use "Change Preview" -> pick the one with image.
 - Tonight total group posts (Nov 18 UTC): 5 (Countdown PA pending, Mega LIVE, Thankful Turkey approved, Countdown XmasGifts&Decor LIVE, Xmas Activity BooksForChildren LIVE). Tomorrow back to ~2-3/day, rotate products, never same link twice in a group within 7 days.
+2026-11-18 ~23:40 UTC (Mohamed: "مش دلوقتي المفروض وقت بيع ال thanksgiving ... بتاعة امريكا بس") - THANKSGIVING PUSH (US groups only), Thanksgiving = Thu Nov 26:
+Products: Etsy Thanksgiving Coloring Book 4599340187 (24 pictures; Etsy Ad ON until Nov 23) | Etsy Thankful Turkey 4613954258 (8 pages, ages 3-7) | Etsy Fall/Thanksgiving sampler 4600700353 | Etsy Holiday & Winter Bundle 4599391756 (7 books incl. Thanksgiving coloring, "Thanksgiving to New Year") | Amazon Thanksgiving Coloring Book paperback B0HP7LKC7J (Amazon Ad ends Nov 23).
+- POSTED now: Homeschool Resources (funhomeschool, US): Thanksgiving Coloring Book (Etsy 4599340187 first "print tonight", + Amazon B0HP7LKC7J) -> LIVE with cover.
+- Already in groups: Thankful Turkey (Educational and fun Nov 17, Kid's Worksheets Nov 18 approved); sampler_fall (Preschool Worksheets & Activities, pending since Nov 15); Holiday Bundle reel (Preschool Activities 571581392128086, Nov 17).
+PLAN Nov 19-25 (2-3 posts/day, US groups only, never same link in same group within 7 days; Etsy PDF first = instant download):
+- Nov 19: Thanksgiving Coloring Book -> Kids Printables 320395917611183; Holiday Bundle -> Christmas Gifts & Decorations for Sale (1/day rule) or Homeschooling Tips & Ideas.
+- Nov 20: Thankful Turkey -> Homeschooling Tips & Ideas / Homeschool Resources(no: TG book there Nov 18) -> use Preschool Homeschooling 555084402068088 (Fri promo day) for Thankful Turkey.
+- Nov 21: Thanksgiving book -> Preschool Activities 571581392128086 + Kid's Worksheets & Activities.
+- Nov 22-25: "last minute - instant download, print tonight" angle, Etsy only (Amazon paperback likely won't arrive by Nov 26 after ~Nov 22).
+- Amazon paperback Thanksgiving link only until ~Nov 21 (shipping time).
