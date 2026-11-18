@@ -1015,3 +1015,12 @@ Audit rotation next: abc 4599362140, numbers 4599341653, shapes 4599342777, pres
 - Still to search on FB directly: "homeschool UK", "preschool teachers Australia/Canada", "early years resources UK", "kindergarten teachers USA" (Fb search beats web for active size/posts-per-day).
 - Caution: many buy/sell groups = used physical curriculum only (like Homeschool Marketplace) -> skip those.
 - Amazon angle: Canada/Australia/UK parent groups -> paperbacks have CA/AU/UK ads running (Countdown + Christmas Activity Book) -> post amazon.ca / amazon.com.au / amazon.co.uk links there, not .com.
+2026-11-18 ~23:10 UTC (Mohamed: "يلا كروم معاك كمل") - group search US/CA/AU/UK, vetted rules on FB (as Colorbloop page):
+JOINED:
+- Homeschool Resources (funhomeschool, 15.0K, 47 posts/day, +504/week): "share resources"; sellers post printables + Etsy (e.g. Thanksgiving workbook 25% off) -> joined (instant). Post here: Thankful Turkey / Christmas Activity.
+- Homeschooling Tips & Ideas (1081196873348537, 113.4K, 149 posts/day, tagged Texas/Australia/California/Canada, no rules) -> joined (instant). Community/discussion-heavy -> helpful posts > hard sells.
+- Budget-Friendly Homeschool Free Inexpensive Curriculum Resources Printables (affordablehomeschool, 34K private, +409/week, Pages allowed) -> request PENDING.
+- Home Education CLUBS, SERVICES & RESOURCES, UK (808699901292056, 7.5K private, 32 posts/day; rule: self-promo of resources for UK home ed allowed, no spam) -> answered "I offer resources", "Will try to get on board" (HomeEdClub.com listing - optional, not done), agreed rules -> PENDING. UK posts -> amazon.co.uk links / Etsy.
+SKIPPED (rules): Homeschool Canada Free Market (must live in Canada); Canadian Parents/Teachers/Tutors Network (promo needs Canadian teacher verification); Homeschooling Australia 58K (business ads only in weekly "Business Wednesday" thread and Australian businesses only - overseas not allowed); Australian Homeschool Resource Finder (no self-promo); Homeschool Buy Sell Swap AU (Pages can't join, physical only, promo only in 'Promote' post); In My Homeschool Era 331K (PAID promotions only - lettersfrommissjade.com/paid-promotions...; Etsy/Amazon links via admin affiliate); UK Home Educators and Resources (only education services).
+- Australia: big AU homeschool groups block overseas business promo -> rely on Amazon AU ads + general kids-printables groups instead.
+- Option for Mohamed: paid promo in In My Homeschool Era (331K US homeschool moms) - price unknown, not contacted.
