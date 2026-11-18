@@ -1043,3 +1043,4 @@ PLAN Nov 19-25 (2-3 posts/day, US groups only, never same link in same group wit
 - Nov 21: Thanksgiving book -> Preschool Activities 571581392128086 + Kid's Worksheets & Activities.
 - Nov 22-25: "last minute - instant download, print tonight" angle, Etsy only (Amazon paperback likely won't arrive by Nov 26 after ~Nov 22).
 - Amazon paperback Thanksgiving link only until ~Nov 21 (shipping time).
+2026-11-18 ~23:45 UTC (Mohamed: "خليهم اتسي اكتر عشان امازون هياخد وقت فالطباعة و التوصيل"): DECISION - Thanksgiving group posts = ETSY ONLY from now (PDF instant download, "print tonight" angle). No Amazon Thanksgiving link in new group posts (replaces the "Amazon until ~Nov 21" line above). Christmas posts keep both Amazon paperback + Etsy PDF (enough time to ship before Dec 25; switch Christmas to Etsy-only from ~Dec 15).
