@@ -969,3 +969,7 @@ Audit rotation next: sampler 4600685185, sampler_preschool, sampler_coloring, sa
 2026-11-18 13:00 UTC: weekly Etsy Ads review 2 SKIPPED - Chrome not connected. No changes. Next review Nov 25.
 2026-11-18 13:49 UTC daily FB-groups run: NOT done - Claude in Chrome not available in this run (no browser tools / Mac not connected). 0 posts, 0 replies, 0 groups joined. Posts from Nov 17 (Holiday Bundle reel in Preschool Activities, Christmas Party Games in Kids Printables, Thankful Turkey in Educational and fun Printables) still unchecked. Planned for next run: Amazon Countdown B0HQ1HD3PZ in a parent/preschool group + an Etsy bundle (Mega 4599370749 or Preschool Curriculum 4599363319) in a printables group; Preschool Homeschooling 555084402068088 Fri Nov 20.
 2026-11-18 14:01 UTC reminder 'Tomorrow's FB group posts': daily run hadn't posted -> tried, but Chrome extension NOT connected. 0 posts. Mohamed notified (3rd Chrome-offline skip today: ads review, daily FB run, this).
+
+## 2026-11-18 14:34 UTC scheduled eRank run
+STOPPED: Chrome extension connected briefly (opened members.erank.com/keyword-tool) then stopped responding -> "Selected Chrome extension disconnected" after retry. 0/5 keyword lookups, 0/5 audits, 0/1 AI Helper; no proposals. Nothing PENDING. Mohamed notified.
+Audit rotation still next: sampler 4600685185, sampler_preschool 4600698287, sampler_coloring 4600699035, sampler_kinder 4600699669, sampler_fall 4600700353.
