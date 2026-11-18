@@ -974,3 +974,23 @@ Audit rotation next: sampler 4600685185, sampler_preschool, sampler_coloring, sa
 STOPPED: Chrome extension connected briefly (opened members.erank.com/keyword-tool) then stopped responding -> "Selected Chrome extension disconnected" after retry. 0/5 keyword lookups, 0/5 audits, 0/1 AI Helper; no proposals. Nothing PENDING. Mohamed notified.
 Audit rotation still next: sampler 4600685185, sampler_preschool 4600698287, sampler_coloring 4600699035, sampler_kinder 4600699669, sampler_fall 4600700353.
 2026-11-18 ~14:10 UTC (Mohamed live: "اعمل مهمة جروبات النهاردة يلا ضروري"): still no Chrome tools in this cloud session -> prepared 2 ready-to-paste posts for Mohamed (NOT posted by Claude): Countdown B0HQ1HD3PZ + car_etsy_countdown_1.jpg -> Preschool Activities 571581392128086; Mega Bundle 4599370749 + car_etsy_bundle_mega_1.jpg (no price) -> Educational and fun Printables 909954233888471. If he posts them, log as posted Nov 18.
+2026-11-18 ~14:50 UTC (Mohamed live: "اشتغل يلا") - Chrome back, eRank logged in.
+Keyword lookups (5/5, Etsy US):
+| keyword | searches | CTR | competition | note |
+| preschool activities | 108 | 89% | 144,367 | already a tag on several listings |
+| toddler activities | <20 | - | 95,202 | dead |
+| christmas coloring pages | 304 | 99% | 38,828 | BEST: peaks Nov-Dec; 24 chars -> title only |
+| printable worksheets | <20 | - | 150,927 | dead |
+| christmas worksheets for kids | unknown | - | 5,062 | dead |
+Audits (5/5): sampler 4600685185 (3 views), sampler_preschool 4600698287 (1), sampler_coloring 4600699035 (0; 9 dead tags), sampler_kinder 4600699669 (0), sampler_fall 4600700353 (2).
+  Numbers: christmas coloring 230, christmas printable 659, preschool christmas 190, christmas activities 208, kids coloring pages 494, toddler worksheets 107, tracing worksheets 128, kids activity book 281, handwriting practice 92, kids handwriting 603, sight words 41, routine chart 29, fall coloring pages 104, thanksgiving art 121, thankful jar 23.
+  Dead (<20): christmas sampler, toddler coloring, christmas i spy, dot to dot, classroom christmas, christmas worksheets, pre k worksheets, abc tracing, number tracing, scissor skills, letter tracing, coloring sampler, easy coloring pages, dinosaur/unicorn/animal/preschool/printable/bold coloring, kindergarten prep/ready, learn to read, winter coloring, preschool fall.
+AI Listing Helper (1/1): sampler_coloring -> nothing usable (kids crafts 212 = wrong product; rest <20).
+Proposals (sent 2026-11-18) - PENDING:
+P1 sampler 4600685185 tags -christmas sampler, -toddler coloring, -classroom christmas, -christmas worksheets; +coloring book (11,433), +kids coloring book (719), +coloring sheets (222), +preschool worksheets (1,101). Title unchanged.
+P2 sampler_preschool 4600698287 tags -pre k worksheets, -scissor skills; +kids handwriting (603), +handwriting practice (92). Title unchanged. Attributes missing.
+P3 sampler_coloring 4600699035 tags -coloring sampler, -bold coloring pages; +coloring book (11,433), +coloring sheets (222). Title unchanged. Attributes missing.
+P4 sampler_kinder 4600699669 tags -pre k worksheets, -kindergarten ready, -dot to dot; +tracing worksheets (128), +preschool printable (108), +preschool activities (108). Title unchanged. Attributes missing.
+P5 sampler_fall 4600700353 tags -winter coloring, -preschool fall; +coloring book (11,433), +kids coloring book (719). Title unchanged.
+P6 xmas_coloring 4599339201 title "Big Easy Christmas Coloring Book for Toddlers Ages 2-5 (PDF Download)" -> "Christmas Coloring Pages for Toddlers, Big Easy Christmas Coloring Book Ages 2-5, Printable Kids Coloring Sheets PDF" (116). Tags unchanged.
+Audit rotation next: abc 4599362140, numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493.
