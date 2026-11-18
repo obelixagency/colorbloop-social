@@ -123,7 +123,7 @@
  },
  "_yt_quota": {
   "date": "2026-11-17",
-  "n": 1
+  "n": 2
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -3232,7 +3232,50 @@
   "_due": "2026-11-18T18:00:00-05:00"
  },
  "etsy_xmas_nametracing_reel": {
-  "_due": "2026-11-17T19:30:00-05:00"
+  "_due": "2026-11-17T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18109669109254406"
+   },
+   "last_attempt": "2026-11-18T00:32:00.190114+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122111537937521705"
+   },
+   "last_attempt": "2026-11-18T00:32:00.190114+00:00"
+  },
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "CPhBP6LVEKQ"
+   },
+   "last_attempt": "2026-11-18T00:32:00.190114+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18134953576862886"
+   },
+   "last_attempt": "2026-11-18T00:32:00.190114+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1816177809609358"
+    }
+   },
+   "last_attempt": "2026-11-18T00:32:00.190114+00:00"
+  }
  },
  "etsy_visual_schedule_reel": {
   "_due": "2026-11-18T19:30:00-05:00"
