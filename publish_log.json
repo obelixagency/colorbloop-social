@@ -21,7 +21,10 @@
   "thanksgiving",
   "etsy:xmas_nametracing",
   "etsy:visual_schedule",
-  "etsy:thankful_turkey"
+  "etsy:thankful_turkey",
+  "animals",
+  "dinosaurs",
+  "unicorns"
  ],
  "_live_xmas_activity": "2026-10-20",
  "_live_etsy_xmasparty": "2026-10-20",
@@ -3471,5 +3474,8 @@
    },
    "last_attempt": "2026-11-18T19:02:00.200106+00:00"
   }
- }
+ },
+ "_live_animals": "2026-11-18",
+ "_live_dinosaurs": "2026-11-18",
+ "_live_unicorns": "2026-11-18"
 }
