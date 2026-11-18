@@ -8,11 +8,11 @@
     "numbers": "",
     "shapes": "",
     "preschool": "",
-    "animals": "",
+    "animals": "https://www.amazon.com/dp/B0HQXB8Y74",
     "kindergarten": "",
-    "dinosaurs": "",
+    "dinosaurs": "https://www.amazon.com/dp/B0HRVG82YK",
     "vehicles": "",
-    "unicorns": "",
+    "unicorns": "https://www.amazon.com/dp/B0HRZ5PTH2",
     "scissors": "",
     "sightwords": "",
     "handwriting": "",
@@ -22,7 +22,8 @@
     "valentines": "",
     "easter": "",
     "countdown": "https://www.amazon.com/dp/B0HQ1HD3PZ",
-    "xmasparty": "https://www.amazon.com/dp/B0HQ1J6L5G"
+    "xmasparty": "https://www.amazon.com/dp/B0HQ1J6L5G",
+    "winter": "https://www.amazon.com/dp/B0HQZ12RP9"
   },
   "etsy": {
     "xmas_activity": "https://www.etsy.com/listing/4599336007",
