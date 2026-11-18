@@ -4957,5 +4957,25 @@
   "book": "etsy:thankful_turkey",
   "day": 5,
   "time": "18:00"
+ },
+ {
+  "id": "extra_tg_last1",
+  "when_et": "2026-11-23 21:00",
+  "kind": "story",
+  "files": [
+   "push_tg_last1.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:thankful_turkey"
+ },
+ {
+  "id": "extra_tg_last2",
+  "when_et": "2026-11-24 21:00",
+  "kind": "story",
+  "files": [
+   "push_tg_last2.jpg"
+  ],
+  "caption": null,
+  "requires_link": "etsy:thanksgiving"
  }
 ]
