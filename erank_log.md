@@ -966,3 +966,4 @@ Audit rotation next: sampler 4600685185, sampler_preschool, sampler_coloring, sa
 - NEW daily scheduled task "Colorbloop FB groups daily" (15:47 Cairo / 13:47 UTC): check posts+comments, pending groups, max 2 new group posts/day (winners: Amazon Countdown B0HQ1HD3PZ in parent groups, Etsy bundles in printables groups), join up to 2 new active groups/day, push only when notable.
 - NOTE for the one-off reminder "Tomorrow's FB group posts" (Nov 18 14:00 UTC, couldn't be removed): the daily task runs 13 min earlier -> if its posts are already logged for Nov 18, do NOT post again; only verify.
 2026-11-17 22:01 UTC follow-up check: NOT done - Chrome extension not connected (Mac likely asleep). No retry; tomorrow's daily FB-groups task (13:47 UTC) covers checking these posts.
+2026-11-18 13:00 UTC: weekly Etsy Ads review 2 SKIPPED - Chrome not connected. No changes. Next review Nov 25.
