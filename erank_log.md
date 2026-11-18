@@ -994,3 +994,6 @@ P4 sampler_kinder 4600699669 tags -pre k worksheets, -kindergarten ready, -dot t
 P5 sampler_fall 4600700353 tags -winter coloring, -preschool fall; +coloring book (11,433), +kids coloring book (719). Title unchanged.
 P6 xmas_coloring 4599339201 title "Big Easy Christmas Coloring Book for Toddlers Ages 2-5 (PDF Download)" -> "Christmas Coloring Pages for Toddlers, Big Easy Christmas Coloring Book Ages 2-5, Printable Kids Coloring Sheets PDF" (116). Tags unchanged.
 Audit rotation next: abc 4599362140, numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493.
+2026-11-18 ~15:20 UTC (Mohamed: "موافق علي الكل اشتغل يلا"): P1-P5 APPROVED+APPLIED 2026-11-18. Each: 13 tags read back from the editor exactly as proposed before "Publish changes"; "successfully updated" seen (P4/P5 re-checked in editor after save). Prices/photos/files/AI disclosure/attributes untouched.
+  P6 NOT applied (approved, but unnecessary): live xmas_coloring title is already "Christmas Coloring Pages for Kids and Toddlers, Big Easy Christmas Coloring Book Ages 2-5, Santa Snowman Reindeer, Preschool Printable PDF" (eRank showed a stale title, synced 27 days ago). Left as is. Nothing PENDING.
+  NOTE: eRank audit titles can be stale -> always check the live Etsy title before proposing a title change.
