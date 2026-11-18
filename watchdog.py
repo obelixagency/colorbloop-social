@@ -242,6 +242,9 @@ def _auth_dead(detail):
     return "OAuthException" in m and ("'code': 190" in m or '"code": 190' in m)
 
 
+IG_FEED = ("instagram_post", "instagram_carousel")
+IG_BLOCK_SUBCODE = 2207051   # "action blocked / restricted activity" on the Instagram account (not a rate limit)
+IG_BLOCK_HOURS = 72          # probe again after this long; reels and stories keep posting meanwhile
 THROTTLE_CODES = {4, 17, 32, 613, 80001, 80002}   # Meta app / user / page / business-use-case rate limits
 
 
@@ -266,6 +269,7 @@ def run(now=None):
     escalate, capped = [], set()
     meta_auth_bad = False  # Meta token invalid (OAuth code 190): stop trying Meta this run, don't burn attempts
     throttled = set()      # platforms (instagram / facebook) that hit a Meta rate limit this run
+    ig_block_until = dt.datetime.fromisoformat(log["_ig_feed_blocked_until"]) if log.get("_ig_feed_blocked_until") else None
     caught_up = set()      # at most one LATE entry per kind per run, so a backlog trickles out instead of flooding
     for e in sorted((e for e in cal if e["id"] in due_at), key=lambda e: due_at[e["id"]]):
         due = due_at[e["id"]].astimezone(dt.timezone.utc)
@@ -277,7 +281,7 @@ def run(now=None):
         row.setdefault("_due", due_at[e["id"]].isoformat())   # pin: this entry's slot never moves again
         late_h = (now - due).total_seconds() / 3600
         plats = platforms_for(e, yt_twins)
-        done = all((row.get(p) or {}).get("status") == "ok" for p in plats if p.split("_")[0] in ENABLED)
+        done = all((row.get(p) or {}).get("status") in ("ok", "skipped") for p in plats if p.split("_")[0] in ENABLED)
         if not done and late_h > 2:
             if e["kind"] in caught_up: continue
             caught_up.add(e["kind"])
@@ -287,7 +291,11 @@ def run(now=None):
             if meta_auth_bad and platform.split("_")[0] in ("instagram", "facebook"): continue
             if platform.split("_")[0] in throttled: continue
             st = row.get(platform, {"status": "pending", "attempts": 0})
-            if st["status"] == "ok": continue
+            if st["status"] in ("ok", "skipped"): continue
+            if platform in IG_FEED and ig_block_until and now < ig_block_until:
+                # Instagram has restricted feed publishing on the account: don't hammer it (that prolongs the block);
+                # this post stays on Facebook and is skipped on the Instagram feed.
+                st.update(status="skipped", detail={"error": "ig_feed_blocked"}); row[platform] = st; continue
             if st.get("attempts", 0) >= MAX_ATTEMPTS: continue
             last = st.get("last_attempt")
             if last and (now - dt.datetime.fromisoformat(last)).total_seconds() < RETRY_COOLDOWN_MIN * 60: continue
@@ -306,6 +314,12 @@ def run(now=None):
                 meta_auth_bad = True   # token problem, not a post problem: keep the attempt count, retry once the token is fixed
                 st.update(status="failed", detail=detail, last_attempt=now.isoformat()); row[platform] = st
                 print(f'{e["id"]} {platform}: META TOKEN INVALID, skipping Meta this run'); continue
+            if not ok and platform in IG_FEED and (detail or {}).get("api_subcode") == IG_BLOCK_SUBCODE:
+                ig_block_until = now + dt.timedelta(hours=IG_BLOCK_HOURS)
+                log["_ig_feed_blocked_until"] = ig_block_until.isoformat()
+                st.update(status="skipped", detail=detail, last_attempt=now.isoformat()); row[platform] = st
+                print(f'{e["id"]} {platform}: Instagram restricted feed posting -> pausing IG feed until {ig_block_until:%Y-%m-%d %H:%M} UTC')
+                continue
             if not ok and _throttled(detail) and late_h < 48:
                 throttled.add(platform.split("_")[0])   # rate limited: keep the attempt count, try again next pass
                 st.update(status="failed", detail=detail, last_attempt=now.isoformat(), throttled=st.get("throttled", 0) + 1)
@@ -314,7 +328,7 @@ def run(now=None):
             st.update(status="ok" if ok else "failed", detail=detail, attempts=st["attempts"] + 1, last_attempt=now.isoformat())
             row[platform] = st
             print(f'{e["id"]} {platform}: {st["status"]}' + ("" if ok else f' ({detail.get("message", "")[:120]})'))
-        bad = [p for p, s in row.items() if p != "_due" and s["status"] != "ok" and s.get("detail", {}).get("error") != "not_connected"
+        bad = [p for p, s in row.items() if p != "_due" and s["status"] not in ("ok", "skipped") and s.get("detail", {}).get("error") != "not_connected"
                and (e["id"], p) not in capped
                and (3 if p == "youtube_short" else 2) <= s.get("attempts", 0) < MAX_ATTEMPTS]   # YT often waits hours for quota first      # one failure right after an outage isn't an alarm; a failed retry is
         if late_h >= STALE_HOURS and bad and not e.get("requires_link"):

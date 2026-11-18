@@ -444,7 +444,7 @@
  "2026-10-23_1000_post": {
   "_due": "2026-11-08T13:00:00-05:00",
   "instagram_post": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 8,
    "detail": {
     "error": "publish_failed",
@@ -1013,7 +1013,7 @@
  "etsy_bundle_preschool_carousel": {
   "_due": "2026-11-10T13:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -1043,7 +1043,7 @@
  "etsy_routine_carousel": {
   "_due": "2026-11-12T13:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -1626,7 +1626,7 @@
  "etsy_bundle_coloring_carousel": {
   "_due": "2026-11-13T13:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -1656,7 +1656,7 @@
  "etsy_bundle_kinder_carousel": {
   "_due": "2026-11-08T10:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 8,
    "detail": {
     "error": "publish_failed",
@@ -1686,7 +1686,7 @@
  "etsy_bundle_mega_carousel": {
   "_due": "2026-11-13T10:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -1727,7 +1727,7 @@
  "etsy_countdown_carousel": {
   "_due": "2026-11-11T10:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -3089,7 +3089,7 @@
  "launch_xmas_coloring_carousel": {
   "_due": "2026-11-12T10:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -3283,7 +3283,7 @@
  "etsy_xmas_nametracing_carousel": {
   "_due": "2026-11-14T10:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -3313,7 +3313,7 @@
  "etsy_visual_schedule_carousel": {
   "_due": "2026-11-15T10:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -3404,7 +3404,7 @@
  "etsy_thankful_turkey_carousel": {
   "_due": "2026-11-16T10:00:00-05:00",
   "instagram_carousel": {
-   "status": "failed",
+   "status": "skipped",
    "attempts": 0,
    "detail": {
     "error": "publish_failed",
@@ -3430,5 +3430,6 @@
    },
    "last_attempt": "2026-11-16T15:02:00.193352+00:00"
   }
- }
+ },
+ "_ig_feed_blocked_until": "2026-11-21T14:00:00+00:00"
 }
