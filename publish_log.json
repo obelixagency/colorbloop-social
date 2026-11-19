@@ -126,7 +126,7 @@
  },
  "_yt_quota": {
   "date": "2026-11-18",
-  "n": 1
+  "n": 2
  },
  "2026-10-20_1000_post": {
   "_due": "2026-10-21T10:00:00-04:00",
@@ -3322,7 +3322,51 @@
   }
  },
  "etsy_visual_schedule_reel": {
-  "_due": "2026-11-18T19:30:00-05:00"
+  "_due": "2026-11-18T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18136781080703260"
+   },
+   "last_attempt": "2026-11-19T00:32:00.248204+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122111823069521705"
+   },
+   "last_attempt": "2026-11-19T00:32:00.248204+00:00"
+  },
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "_b1Wx4_LZGk"
+   },
+   "last_attempt": "2026-11-19T00:32:00.248204+00:00"
+  },
+  "instagram_story": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-11-19T00:32:00.248204+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1124721910196112"
+    }
+   },
+   "last_attempt": "2026-11-19T00:32:00.248204+00:00"
+  }
  },
  "etsy_xmas_nametracing_carousel": {
   "_due": "2026-11-14T10:00:00-05:00",
