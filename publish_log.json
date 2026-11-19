@@ -3348,13 +3348,12 @@
    "last_attempt": "2026-11-19T00:32:00.248204+00:00"
   },
   "instagram_story": {
-   "status": "failed",
-   "attempts": 4,
+   "status": "ok",
+   "attempts": 5,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18036578411672747"
    },
-   "last_attempt": "2026-11-19T02:02:00.314690+00:00"
+   "last_attempt": "2026-11-19T02:32:00.261123+00:00"
   },
   "facebook_story": {
    "status": "ok",
