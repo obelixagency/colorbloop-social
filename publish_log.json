@@ -3349,12 +3349,12 @@
   },
   "instagram_story": {
    "status": "failed",
-   "attempts": 2,
+   "attempts": 3,
    "detail": {
     "error": "publish_failed",
     "message": "Publishing request failed"
    },
-   "last_attempt": "2026-11-19T01:02:00.226915+00:00"
+   "last_attempt": "2026-11-19T01:32:00.294099+00:00"
   },
   "facebook_story": {
    "status": "ok",
