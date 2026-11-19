@@ -1053,3 +1053,21 @@ ETSY ADS (checked, nothing changed yet): budget $4/day but Etsy spent only $1.53
 - REVERT on 2026-11-27: budget back to $4/day + those 4 back to Efficient spending (one-off reminder scheduled in this chat for Nov 27 10:07 Cairo). NOTE: earlier plan said budget goes back to $2 on Dec 15 - keep that too.
 - Watch daily spend: if spend jumps with 0 orders by Nov 22, tell Mohamed (consider lowering).
 2026-11-19 (scheduled run) BLOCKED: 2 Chrome browsers connected (Browser 1 / Browser 2, both macOS) and none selected for this session -> Claude in Chrome tools refuse to run without Mohamed choosing; built-in browser is logged out of eRank. No lookups/audits used today. Nothing PENDING. Rotation still next: abc 4599362140, numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493.
+2026-11-19 (Mohamed: "استخدم بروفايل mohamedomando38@gmail.com") -> selected Chrome "Browser 1" (verified Google account mohamedomando38@gmail.com), eRank logged in.
+Keyword lookups (5/5, Etsy US):
+| keyword | searches | CTR | competition | note |
+| busy book | 1,558 | 107% | 32,184 | Oct trend 1,210; long-tails: busy book printable (Oct ~1,110), toddler busy book 1,048 (comp 17.5k), quiet book 1,333; only 16% US |
+| homeschool printables | <20 | - | 182,117 | dead (mostly CA/AU) |
+| cutting practice | <20 | - | 2,585 | dead (89% Mexico) |
+| unicorn gifts for girls | <20 | - | 31,302 | dead |
+| christmas break activities | <20 | - | 1,986 | dead (100% US but tiny) |
+Audits (5/5; picked stalest instead of logged rotation): bundle_mega 4599370749 (never audited; 10 views, 0 sales, attr missing), busybook 4599376639 (last Oct 27; 6 views), unicorns 4599351423 (Nov 4; 6 views), scissors 4599352519 (Nov 4; 5 views), abc 4599362140 (6 views; tags fine, no change). visual_schedule 4609322846 not in eRank yet (sync 28 days old).
+AI Listing Helper (1/1): unicorns -> only data-backed new: coloring book pages 97 (96% CTR); rest <20 (dragon/fairy/castle coloring book).
+Proposals (sent 2026-11-19) - PENDING:
+P1 bundle_mega 4599370749 tags -printable activities (comp 441,276) +coloring book (11,433; bundle has 5 coloring books). Title unchanged.
+P2 busybook 4599376639 tags -velcro activities (no data) +busy book printable (Oct ~1,110). Title unchanged.
+P3 unicorns 4599351423 tags -rainbow coloring (<20) +coloring book pages (97, 96% CTR). Title unchanged.
+P4 scissors 4599352519 tags -kids crafts (comp 8.4M) +montessori printable (106). Title unchanged.
+abc: no change.
+Idea (no new product, per Nov rule): push Busy Book in FB groups as holiday road-trip / Christmas quiet-time activity (busy book+quiet book ~2,900 searches/mo).
+Audit rotation next: myyear 4600570711, valentines 4599383654 (Jan), easter 4599384698, handwriting 4599378794, cursive 4599356115, space 4599381050, feelings 4599358725.
