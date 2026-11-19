@@ -1071,3 +1071,4 @@ P4 scissors 4599352519 tags -kids crafts (comp 8.4M) +montessori printable (106)
 abc: no change.
 Idea (no new product, per Nov rule): push Busy Book in FB groups as holiday road-trip / Christmas quiet-time activity (busy book+quiet book ~2,900 searches/mo).
 Audit rotation next: myyear 4600570711, valentines 4599383654 (Jan), easter 4599384698, handwriting 4599378794, cursive 4599356115, space 4599381050, feelings 4599358725.
+2026-11-19 (Mohamed: "انطلق" in reply to the approval request -> all 4 approved): P1-P4 APPROVED+APPLIED 2026-11-19 in Etsy Shop Manager (Browser 1). Each: 13 tags read back from the editor before "Publish changes", "successfully updated" seen. Only tags changed; titles/prices/photos/files/AI disclosure/attributes untouched. Nothing PENDING.
