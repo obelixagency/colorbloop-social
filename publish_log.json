@@ -3463,7 +3463,26 @@
   "_due": "2027-01-20T10:00:00-05:00"
  },
  "xmas_coloring_peek1": {
-  "_due": "2026-11-19T18:00:00-05:00"
+  "_due": "2026-11-19T18:00:00-05:00",
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18115100816227878"
+   },
+   "last_attempt": "2026-11-19T23:02:00.358660+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1176894891349123"
+    }
+   },
+   "last_attempt": "2026-11-19T23:02:00.358660+00:00"
+  }
  },
  "thanksgiving_peek1": {
   "_due": "2026-11-20T18:00:00-05:00"
