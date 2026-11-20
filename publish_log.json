@@ -3509,7 +3509,43 @@
   "_due": "2027-01-23T18:00:00-05:00"
  },
  "xmas_coloring_flip_reel": {
-  "_due": "2026-11-19T19:30:00-05:00"
+  "_due": "2026-11-19T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-11-20T00:32:00.291066+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122112111717521705"
+   },
+   "last_attempt": "2026-11-20T00:32:00.291066+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17989683027120487"
+   },
+   "last_attempt": "2026-11-20T00:32:00.291066+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1796359658259460"
+    }
+   },
+   "last_attempt": "2026-11-20T00:32:00.291066+00:00"
+  }
  },
  "xmas_coloring_color_reel": {
   "_due": "2026-11-21T19:30:00-05:00"
