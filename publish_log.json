@@ -125,7 +125,7 @@
   }
  },
  "_yt_quota": {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "n": 1
  },
  "2026-10-20_1000_post": {
@@ -2829,7 +2829,15 @@
   }
  },
  "yt_031_xmas_coloring_flip": {
-  "_due": "2026-11-20T12:00:00-05:00"
+  "_due": "2026-11-20T12:00:00-05:00",
+  "youtube_short": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "jvPh6_B_YOc"
+   },
+   "last_attempt": "2026-11-20T17:02:00.299512+00:00"
+  }
  },
  "yt_032_thanksgiving_color6": {
   "_due": "2026-11-21T12:00:00-05:00"
