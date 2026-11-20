@@ -3601,5 +3601,23 @@
  },
  "_live_animals": "2026-11-18",
  "_live_dinosaurs": "2026-11-18",
- "_live_unicorns": "2026-11-18"
+ "_live_unicorns": "2026-11-18",
+ "launch_animals_carousel": {
+  "_due": "2026-11-20T10:00:00-05:00",
+  "instagram_carousel": {
+   "status": "skipped",
+   "attempts": 0,
+   "detail": {
+    "error": "ig_feed_blocked"
+   }
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122112288003521705"
+   },
+   "last_attempt": "2026-11-20T15:02:00.361306+00:00"
+  }
+ }
 }
