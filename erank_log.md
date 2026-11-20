@@ -1080,3 +1080,21 @@ Audit rotation next: myyear 4600570711, valentines 4599383654 (Jan), easter 4599
 - Next: Fri Nov 20 Thankful Turkey -> Preschool Homeschooling 555084402068088; Holiday Bundle -> Christmas Gifts & Decorations only after Countdown is approved.
 - Fix for daily task: scheduled cloud runs have no Chrome -> Mohamed to turn on "Require this computer" on the task in the Claude desktop app.
 2026-11-20 13:49 UTC daily FB-groups run (scheduled, cloud): NOT done again - no Claude in Chrome tools in this cloud run (task still not set to "Require this computer"). 0 posts, 0 replies, 0 groups joined, nothing checked. Sent Mohamed a ready-to-paste Fri post: Thankful Turkey Craft 4613954258 (Etsy only, 8-page PDF US Letter + A4, no price/sale claim) -> Preschool Homeschooling 555084402068088 (Fri/Sat promo days). If he posts it, log as posted Nov 20. Still to verify next run: Kids Printables (Thanksgiving Coloring + Party Games pending), Homeschooling Tips & Ideas (Holiday Bundle pending), Christmas Gifts & Decorations (Countdown pending), Preschool Activities 571581392128086 (Countdown pending), Budget-Friendly Homeschool request.
+2026-11-20 ~21:30 UTC (scheduled run, Chrome Browser 1, eRank logged in):
+Keyword lookups (5/5, Etsy US):
+| new years activities | <20 | - | 3,281 | dead (Canada 29%, US 12%) |
+| solar system printable | 33 | 136% | 4,368 | 22 chars -> too long for a tag; "solar system" = 990 (102%) |
+| social emotional learning | <20 | - | 6,092 | dead |
+| calm down corner | 101 | 92% | 6,240 | low comp; long-tails: calm down corner printable(s)/poster/kindergarten; mostly CA/IN/AU |
+| stocking stuffers for kids | 203 | 99% | 70,295 | 96% US; "stocking stuffer" fits a tag (16) |
+Audits (5/5): myyear 4600570711 (0 views ever, B; 7/13 tags <20 or no data), handwriting 4599378794 (8 views, A), cursive 4599356115 (8), space 4599381050 (7, A; 6 dead tags, attributes missing), feelings 4599358725 (10, B; attributes missing).
+AI Listing Helper (1/1): myyear -> all suggested keywords <20/unknown (kids memory book, my year in review, time capsule pdf...) -> nothing data-backed to add.
+Proposals (sent 2026-11-20) - PENDING:
+P1 myyear 4600570711 title -> "New Years Eve Kids Activity, All About Me Book for Kids, All About My Year 2026 Memory Book, 2027 Goals Printable, Year in Review PDF" (133; leads with new years eve kids 98/98% CTR, seasonal Dec). Tags unchanged.
+P2 handwriting 4599378794 title -> "Kids Handwriting Practice Worksheets, Letter Tracing Workbook Ages 3-5, Preschool Worksheets, Uppercase Lowercase A-Z Alphabet PDF" (130; kids handwriting 603, preschool worksheets 1,101). Tags -abc tracing (<20), -handwriting workbook (<20); +preschool printable (108), +toddler worksheets (107).
+P3 cursive 4599356115 tags -writing workbook (<20) +tracing worksheets (128, 143% CTR). Title unchanged.
+P4 space 4599381050 tags -astronaut coloring (no data), -space printable (no data), -easy coloring book (<20); +coloring book pages (97, 96%), +preschool printable (108), +toddler worksheets (107). Title unchanged.
+P5 feelings 4599358725 title -> "Calm Down Corner Printables, Feelings Worksheets for Kids, Emotions Activity Book Ages 3-6, Feelings Cards, Kindness, School Counselor PDF" (138; calm down corner 101, comp 6,240). Tags -social emotional (<20), -mindfulness kids (<20); +preschool printable (108), +toddler worksheets (107).
+Attributes missing on space + feelings (fill in Etsy editor if options fit, e.g. subject/theme) - included in P4/P5 only if Mohamed approves.
+Idea: cheap $1.99-2.99 "Calm Down Corner Printable" set (feelings chart + breathing cards + calm-down poster) made from existing feelings book pages (calm down corner 101 + feelings chart 102 searches, comp ~6k each).
+Audit rotation next: numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493, kindergarten 4599372316 (then dinosaurs, vehicles, easter, nametracing, visual_schedule).
