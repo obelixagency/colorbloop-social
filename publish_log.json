@@ -3511,13 +3511,12 @@
  "xmas_coloring_flip_reel": {
   "_due": "2026-11-19T19:30:00-05:00",
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 2,
+   "status": "ok",
+   "attempts": 3,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18205490602383371"
    },
-   "last_attempt": "2026-11-20T01:02:00.302273+00:00"
+   "last_attempt": "2026-11-20T01:32:00.279973+00:00"
   },
   "facebook_reel": {
    "status": "ok",
