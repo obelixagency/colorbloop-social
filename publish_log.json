@@ -1550,13 +1550,12 @@
  "abc_flip_reel": {
   "_due": "2026-11-20T19:30:00-05:00",
   "instagram_reel": {
-   "status": "failed",
-   "attempts": 1,
+   "status": "ok",
+   "attempts": 2,
    "detail": {
-    "error": "publish_failed",
-    "message": "Publishing request failed"
+    "platform_ref": "18096431102682483"
    },
-   "last_attempt": "2026-11-21T00:32:00.331019+00:00"
+   "last_attempt": "2026-11-21T01:02:00.250918+00:00"
   },
   "facebook_reel": {
    "status": "ok",
