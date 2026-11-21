@@ -3697,5 +3697,24 @@
    },
    "last_attempt": "2026-11-21T15:02:00.279640+00:00"
   }
+ },
+ "launch_unicorns_carousel": {
+  "_due": "2026-11-20T10:00:00-05:00",
+  "instagram_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18120587975602042"
+   },
+   "last_attempt": "2026-11-21T16:02:00.331884+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122112563499521705"
+   },
+   "last_attempt": "2026-11-21T16:02:00.331884+00:00"
+  }
  }
 }
