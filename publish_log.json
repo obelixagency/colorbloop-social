@@ -3681,5 +3681,24 @@
    },
    "last_attempt": "2026-11-20T15:02:00.361306+00:00"
   }
+ },
+ "launch_dinosaurs_carousel": {
+  "_due": "2026-11-21T10:00:00-05:00",
+  "instagram_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "18355451596266817"
+   },
+   "last_attempt": "2026-11-21T15:02:00.279640+00:00"
+  },
+  "facebook_carousel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "1418685554653190_122112539721521705"
+   },
+   "last_attempt": "2026-11-21T15:02:00.279640+00:00"
+  }
  }
 }
