@@ -1118,3 +1118,20 @@ LIVE groups list: Educational and fun Printables 909954233888471.
 - Tomorrow (Sat Nov 21, up to 4): Educational and fun Printables -> Christmas Activity Book (Amazon B0HNLYHYLJ + Etsy 4599336007) (not posted there in 7 days); re-check pending (Kids Printables, Homeschooling Tips & Ideas, Xmas Gifts & Decor, Preschool Activities x2, Books For Children, Homeschool Resources, KindergartenActivities, Kid's Worksheets) and move any approved group to LIVE; search + join up to 2 new groups where seller posts appear live; retry Christmas Gifts and Ideas composer.
 2026-11-21 (scheduled run) BLOCKED: 2 Chrome browsers connected (Browser 1 / Browser 2) and none selected for this session; the Chrome tool requires Mohamed to pick one live -> no lookups/audits used today. Nothing PENDING. Rotation still next: numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493, kindergarten 4599372316.
 2026-11-21 (Mohamed picked "Browser 1" -> selected): eRank is LOGGED OUT in Browser 1 (login page) -> stopped, asked Mohamed to log in. 0 lookups/audits used.
+2026-11-21 (Mohamed: "browser 2" -> selected Chrome Browser 2; eRank logged in there as Colorbloop; ran eRank "Sync Listings" (was 30 days old)):
+Keyword lookups (5/5, Etsy US):
+| number tracing | <20 | <20% | 7,088 | dead (Google 2,900) |
+| toddler coloring book | <20 | - | 19,473 | dead |
+| math worksheets | 417 | 102% | 24,523 | 21% US; peaks May; good tag (15 chars) |
+| coloring pages | 6,353 | 112% | 382,616 | "trending in search", huge comp; tag 14 chars |
+| christmas math | unknown | - | 10,643 | no data |
+Audits (5/5, all grade A, 4-5 total views, 0 sales): numbers 4599341653, shapes 4599342777, preschool 4599368748, animals 4599346493 (attributes missing), kindergarten 4599372316.
+AI Listing Helper (1/1): animals -> nothing better than current (animal coloring book 271, kids coloring book 719 already used); rest <20/unknown.
+Proposals (sent 2026-11-21) - PENDING:
+P1 numbers 4599341653 tags -preschool math (<20) +math worksheets (417). Title unchanged.
+P2 shapes 4599342777 tags -preschool shapes (<20) +coloring pages (6,353). Title unchanged.
+P3 preschool 4599368748 tags -number tracing (<20) +math worksheets (417). Title unchanged.
+P4 animals 4599346493 tags -easy coloring pages (<20) +coloring pages (6,353); -toddler coloring (<20) +coloring book pages (97). Fill attributes only if an accurate option exists. Title unchanged.
+P5 kindergarten 4599372316 tags -mazes for kids (<20) +math worksheets (417). Title unchanged.
+Idea: cheap $2.99 "Kindergarten Math Worksheets" pack (counting, patterns, numbers) from existing pages - math worksheets 417/mo, comp 24.5k.
+Audit rotation next: dinosaurs 4599373502, vehicles 4599374544, easter 4599384698, nametracing 4603338038, visual_schedule 4609322846.
