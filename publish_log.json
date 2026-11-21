@@ -1548,7 +1548,43 @@
   }
  },
  "abc_flip_reel": {
-  "_due": "2026-11-20T19:30:00-05:00"
+  "_due": "2026-11-20T19:30:00-05:00",
+  "instagram_reel": {
+   "status": "failed",
+   "attempts": 1,
+   "detail": {
+    "error": "publish_failed",
+    "message": "Publishing request failed"
+   },
+   "last_attempt": "2026-11-21T00:32:00.331019+00:00"
+  },
+  "facebook_reel": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "122112388923521705"
+   },
+   "last_attempt": "2026-11-21T00:32:00.331019+00:00"
+  },
+  "instagram_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": "17982719949131242"
+   },
+   "last_attempt": "2026-11-21T00:32:00.331019+00:00"
+  },
+  "facebook_story": {
+   "status": "ok",
+   "attempts": 1,
+   "detail": {
+    "platform_ref": {
+     "success": true,
+     "post_id": "1882031399477582"
+    }
+   },
+   "last_attempt": "2026-11-21T00:32:00.331019+00:00"
+  }
  },
  "xmas_activity_color_reel": {
   "_due": "2026-11-12T19:30:00-05:00",
